@@ -1,0 +1,176 @@
+#Kadamba Dynasty
+345.1.1={
+	liege="e_madhyadesa"
+}
+345.1.1={
+	holder=1000203453 #Mayuravarman
+}
+370.1.1={
+	holder=1000203454 #Kangavarman
+}
+395.1.1={
+	holder=1000203455 #Bhagiratha
+}
+420.1.1={
+	holder=1000203456 #Raghu
+}
+430.1.1={
+	holder=1000203457 #Kakusthavarman
+}
+450.1.1={
+	holder=1000203458 #Santivarman
+}
+475.1.1={
+	holder=1000203459 #Mrigesavarman
+}
+490.1.1={
+	holder=1000203461 #Mandhatrivarman
+}
+497.1.1={
+	holder=1000203462 #Ravivarman
+}
+537.1.1={
+	holder=1000203463 #Harivarman
+}
+547.1.1={
+	holder=1000203467 #Krishnavarman
+}
+565.1.1={
+	holder=1000203468 #Ajavarman
+}
+606.1.1={
+	holder=1000203469 #Bhogivarman
+}
+
+#Chalukya Dynasty
+640.1.1={
+	holder=1000202782 #Pulakesi II
+}
+
+#Pallava Dynasty
+642.1.1={
+	holder=1000203009 #Narasimhavarman
+}
+
+#Chalukya Dynasty (restored)
+655.1.1={
+	holder=1000202783 #Vikramaditya I
+}
+681.1.1={
+	holder=1000203111 #Vinayaditya
+}
+696.1.1={
+	holder=1000202784 #Vijayaditya
+}
+733.1.1={
+	holder=1000202785 #Vikramaditya II
+}
+744.1.1={
+	holder=1000202786 #Kirtivarman II
+}
+
+#Rashtrakuta Dynasty
+755.1.1={
+	holder=1000202799 #Dantidurga
+}
+756.1.1={
+	holder=1000202800 #Krishna I
+}
+775.1.1={
+	holder=1000202801 #Govinda I [II]
+}
+780.1.1={
+	holder=1000202802 #Dhruva
+}
+793.1.1={
+	holder=1000202803 #Govinda II [III]
+}
+814.1.1={
+	holder=1000202804 #Amoghavarsha I
+}
+880.1.1={
+	holder=1000202805 #Krishna II
+}
+915.1.1={
+	holder=1000202807 #Indra [III]
+}
+927.1.1={
+	holder=1000202808 #Amoghavarsha II
+}
+930.1.1={
+	holder=1000202809 #Govinda III [IV]
+}
+934.1.1={
+	holder=1000202810 #Amoghavarsha III
+}
+939.1.1={
+	holder=1000202811 #Krishna III
+}
+
+#Gove Kadamba Dynasty
+950.1.1={
+	liege="d_konkana"
+}
+950.1.1={
+	holder=1000203142 #Kantakacharya
+}
+960.1.1={
+	holder=1000203143 #Nagavarman
+}
+970.1.1={
+	holder=1000203144 #Guhaladeva I
+}
+975.1.1={
+	holder=1000203145 #Sasthadeva I
+}
+979.1.1={
+	holder=1000203146 #Chaturbhuja
+}
+980.1.1={
+	holder=1000203147 #Guhaladeva II
+}
+1005.1.1={
+	holder=1000203148 #Sasthadeva II
+}
+1050.1.1={
+	holder=1000203149 #Jayakeshi I
+}
+1080.1.1={
+	holder=1000203150 #Guhaladeva III
+}
+
+#Bandhavapura Kadamba Dynasty
+1100.1.1={
+	holder=1000203235 #Bammarasa
+}
+1112.1.1={
+	holder=1000203236 #Boppadeva
+}
+1138.1.1={
+	holder=1000203237 #Somadeva
+}
+1160.1.1={
+	holder=1000203238 #Boppa
+}
+1190.1.1={
+	holder=1000203239 #Brahmabhupala
+}
+1207.1.1={
+	holder=1000203240 #Kadambaraya
+}
+
+#Gove Kadamba Dynasty
+1240.1.1={
+	holder=1000203158 #Sasthadeva III
+}
+
+#Kamadeva Dynasty
+1257.1.1={
+	holder=1000203159 #Kamadeva I
+}
+1310.1.1={
+	holder=1000203160 #Kamadeva II
+}
+1328.1.1={
+	holder=1000203161 #Kamadeva III
+}

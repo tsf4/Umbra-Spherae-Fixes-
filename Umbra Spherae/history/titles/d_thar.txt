@@ -1,0 +1,106 @@
+#Bhatti Dynasty
+530.1.1={
+	holder=1000083844 #Jaisimha
+}
+550.1.1={
+	holder=1000083846 #Bahubal
+}
+570.1.1={
+	holder=1000083848 #Subahu
+}
+590.1.1={
+	holder=1000083850 #Rajh
+}
+610.1.1={
+	holder=1000083852 #Gaj
+}
+630.1.1={
+	holder=1000083854 #Salivahan I
+}
+650.1.1={
+	holder=1000083856 #Baland
+}
+670.1.1={
+	holder=1000083858 #Bhati
+}
+690.1.1={
+	holder=1000083860 #Mangal-Rao
+}
+710.1.1={
+	holder=1000083862 #Majam-Rao
+}
+731.1.1={
+	holder=1000083864 #Kehar I
+}
+750.1.1={
+	liege="e_uttarapatha"
+}
+806.1.1={
+	holder=1000083866 #Tano
+}
+821.1.1={
+	holder=1000083868 #Bijairai I
+}
+853.1.1={
+	holder=1000083870 #Deoraj
+}
+908.1.1={
+	holder=1000083872 #Mund
+}
+913.1.1={
+	liege="k_rajputana"
+}
+979.1.1={
+	holder=1000083874 #Bijairai II
+}
+1044.1.1={
+	holder=1000083876 #Dusaj
+}
+1123.1.1={
+	holder=1000083878 #Lanja
+}
+1133.1.1={
+	holder=1000083880 #Bhojdev
+}
+1143.1.1={
+	holder=1000083882 #Rawal-Jaisal
+}
+1170.1.1={
+	holder=1000083884 #Salivahan II
+}
+1192.1.1={
+	liege="k_afghans"
+}
+1200.1.1={
+	holder=1000083886 #Bijal
+}
+1206.1.1={
+	liege="e_uttarapatha"
+}
+1230.1.1={
+	holder=1000083888 #Chachack-Deo
+}
+1260.1.1={
+	holder=1000083890 #Tej-Rao
+}
+1294.1.1={
+	holder=1000083892 #Rawal-Jhetsi
+}
+1310.1.1={
+	holder=1000083894 #Karan-Singh
+}
+1320.1.1={
+	holder=1000083896 #Mulraja
+}
+1326.1.1={
+	liege="k_rajputana"
+}
+1330.1.1={
+	holder=1000083898 #Ratan
+}
+1340.1.1={
+	holder=1000083900 #Lakhan-Sen
+}
+1350.1.1={
+	holder=1000083902 #Dudar
+}

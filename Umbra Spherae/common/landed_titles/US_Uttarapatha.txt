@@ -1,0 +1,1430 @@
+e_uttarapatha = {
+
+    	color= { 157 200 42 }
+    	color2= { 161 126 128 }
+
+	capital = 1018 # Dhillika
+
+	k_delhi = {
+
+    		color= { 102 130 28 }
+    		color2= { 161 126 128 }
+
+		capital = 1018 # Dhillika
+
+		d_kuru = {
+
+    			color= { 164 192 50 }
+    			color2= { 161 126 128 }
+
+			capital = 1018 # Dhillika
+
+			c_dhillika = {
+
+    				color= { 174 192 50 }
+    				color2= { 161 126 128 }
+
+				b_dhillika = {
+				}
+				b_varana = {
+				}
+				b_noida = {
+				}
+				b_ghaziabad = {
+				}
+				b_dadri = {
+				}
+				b_rohini = {
+				}
+				b_dwarka = {
+				}
+				b_gurgaon = {
+				}
+			}
+			c_vodamayuta = {
+
+    				color= { 164 192 60 }
+    				color2= { 161 126 128 }
+
+				b_vodamayuta = {
+				}
+				b_harduaganj = {
+				}
+				b_pairai = {
+				}
+				b_gonda = {
+				}
+				b_iglas = {
+				}
+				b_sasni = {
+				}
+				b_sathiya = {
+				}
+				b_hasayan = {
+				}
+			}
+			c_narayanapura = {
+
+    				color= { 164 192 70 }
+    				color2= { 161 126 128 }
+
+				b_narayanapura = {
+				}
+				b_toleda = {
+				}
+				b_raybka = {
+				}
+				b_bagar_meo = {
+				}
+				b_bahadurgarh = {
+				}
+				b_chikani = {
+				}
+				b_burja = {
+				}
+				b_jindoli = {
+				}
+			}
+			c_ahicchatra = {
+
+    				color= { 154 192 60 }
+    				color2= { 161 126 128 }
+
+				b_ahicchatra = {
+				}
+				b_ramnagar = {
+				}
+				b_amdanda_khatta = {
+				}
+				b_ringora = {
+				}
+				b_teda = {
+				}
+				b_garjiya = {
+				}
+				b_nandpur = {
+				}
+				b_belparao = {
+				}
+			}
+			c_hastinapura = {
+
+    				color= { 164 182 60 }
+    				color2= { 161 126 128 }
+
+				b_hastinapura = {
+				}
+				b_indrasthana = {
+				}
+				b_ganeshpur = {
+				}
+				b_rehman_pur = {
+				}
+				b_bahsuma = {
+				}
+				b_mawana = {
+				}
+				b_ramraj = {
+				}
+				b_miranpur = {
+				}
+			}
+		}
+		d_haritanaka = {
+
+    			color= { 83 190 52 }
+    			color2= { 161 126 128 }
+
+			capital = 1057 # Asika
+
+			c_asika = {
+
+    				color= { 93 190 52 }
+    				color2= { 161 126 128 }
+
+				b_asika = {
+				}
+				b_milkpur = {
+				}
+				b_barsi = {
+				}
+				b_mehanda = {
+				}
+				b_kumbha = {
+				}
+				b_sisai = {
+				}
+				b_bhatla = {
+				}
+				b_umra = {
+				}
+			}
+			c_tribhandapura = {
+
+    				color= { 83 200 52 }
+    				color2= { 161 126 128 }
+
+				b_tribhandapura = {
+				}
+				b_sarasvati = {
+				}
+				b_tarain = {
+				}
+				b_padla = {
+				}
+				b_kultaran = {
+				}
+				b_siwan = {
+				}
+				b_keorak = {
+				}
+				b_prempura = {
+				}
+			}
+			c_sirindha = {
+
+    				color= { 83 190 62 }
+    				color2= { 161 126 128 }
+
+				b_sirindha = {
+				}
+				b_sthanvisvara = {
+				}
+				b_jalandhara = {
+				}
+				b_sarva = {
+				}
+				b_kalka = {
+				}
+				b_kharar = {
+				}
+				b_ambala = {
+				}
+				b_mohri = {
+				}
+			}
+		}
+		d_nishada = {
+
+    			color= { 155 191 115 }
+    			color2= { 195 149 155 }
+
+			capital = 1005 # Mathura
+
+			c_mathura = {
+
+    				color= { 165 191 115 }
+    				color2= { 195 149 155 }
+
+				b_mathura = {
+					holy_site = hindu
+					holy_site = jain
+				}
+				b_mahavana = {
+				}
+				b_candavar = {
+				}
+				b_mahaban = {
+				}
+				b_chhatikara = {
+				}
+				b_vrindavan = {
+				}
+				b_bandi = {
+				}
+				b_rampur_mathura = {
+				}
+			}
+			c_bayana = {
+
+    				color= { 155 201 115 }
+    				color2= { 195 149 155 }
+
+				b_bayana = {
+				}
+				b_tahanagadha = {
+				}
+				b_mandawar = {
+				}
+				b_parala = {
+				}
+				b_mahwa = {
+				}
+				b_haria = {
+				}
+				b_bachhren = {
+				}
+				b_bhusawar = {
+				}
+			}
+			c_gopadri = {
+
+    				color= { 155 191 125 }
+    				color2= { 195 149 155 }
+
+				b_gopadri = {
+				}
+				b_asni_gopadri = {
+				}
+				b_akbarpur = {
+				}
+				b_kishanbagh = {
+				}
+				b_madhao_ganj = {
+				}
+				b_morar = {
+				}
+				b_kedarpur = {
+				}
+				b_baraua = {
+				}
+			}
+			c_nalapura = {
+
+    				color= { 145 191 115 }
+    				color2= { 195 149 155 }
+
+				b_nalapura = {
+				}
+				b_candobha = {
+				}
+				b_shivpuri = {
+				}
+				b_murheri = {
+				}
+				b_sirsod = {
+				}
+				b_jhiri = {
+				}
+				b_rajgarh = {
+				}
+				b_bhatnawar = {
+				}
+			}
+		}
+	}
+	k_punjab = {
+
+    		color= { 201 151 124 }
+    		color2= { 255 255 255 }
+
+		capital = 1017 # Lahur
+
+		d_lahur = {
+
+    			color= { 202 75 57 }
+    			color2= { 255 255 255 }
+
+			capital = 1017 # Lahur
+
+			c_lahur = {
+
+    				color= { 212 75 57 }
+    				color2= { 255 255 255 }
+
+				b_lahur = {
+				}
+				b_shahdara = {
+				}
+				b_sharaqpur = {
+				}
+				b_chung = {
+				}
+				b_sabzazar = {
+				}
+				b_khanuwal = {
+				}
+				b_ferozewala = {
+				}
+				b_raiwind = {
+				}
+			}
+			c_purusapura = {
+
+    				color= { 202 85 57 }
+    				color2= { 255 255 255 }
+
+				b_purusapura = {
+				}
+				b_udabhanda = {
+				}
+				b_taksasila = {
+				}
+				b_hayatabad = {
+				}
+				b_wadpagga = {
+				}
+				b_jhagra = {
+				}
+				b_mian_gujjar = {
+				}
+				b_pabbi = {
+				}
+			}
+			c_sakala = {
+
+    				color= { 202 75 67 }
+    				color2= { 255 255 255 }
+
+				b_sakala = {
+				}
+				b_kalra_kalan = {
+				}
+				b_sheikh_pur = {
+				}
+				b_sook_kalan = {
+				}
+				b_daudpur = {
+				}
+				b_ranewal_syedan = {
+				}
+				b_jalalpur_jattan = {
+				}
+				b_lakhanwal_khas = {
+				}
+			}
+			c_nandana = {
+
+    				color= { 192 75 67 }
+    				color2= { 255 255 255 }
+
+				b_nandana = {
+				}
+				b_khachar_pur = {
+				}
+				b_mitha_lak = {
+				}
+				b_dhrema = {
+				}
+				b_sakesar = {
+				}
+				b_bhalwal = {
+				}
+				b_lilliani = {
+				}
+				b_mateela = {
+				}
+			}
+		}
+		d_multan = {
+
+    			color= { 192 91 86 }
+    			color2= { 255 255 255 }
+
+			capital = 1016 # Multan
+
+			c_multan = {
+
+    				color= { 202 91 86 }
+    				color2= { 255 255 255 }
+
+				b_multan = {
+				}
+				b_khanewal = {
+				}
+				b_chak_mahni = {
+				}
+				b_kot_rab_nawaz = {
+				}
+				b_moza_nigana_durana = {
+				}
+				b_qadirpur_ran = {
+				}
+				b_moza_lothar = {
+				}
+				b_kotla_maharan = {
+				}
+			}
+			c_karur = {
+
+    				color= { 192 101 86 }
+    				color2= { 255 255 255 }
+
+				b_karur = {
+				}
+				b_wahindwali = {
+				}
+				b_goth_ghanni = {
+				}
+				b_basti_sahan = {
+				}
+				b_basti_miani = {
+				}
+				b_goth_lashkar = {
+				}
+				b_jhangi_wala = {
+				}
+				b_basti_jand = {
+				}
+			}
+			c_pancapura = {
+
+    				color= { 192 91 96 }
+    				color2= { 255 255 255 }
+
+				b_pancapura = {
+				}
+				b_manawala = {
+				}
+				b_makkuana = {
+				}
+				b_dasuha = {
+				}
+				b_sidhar = {
+				}
+				b_nanakpur = {
+				}
+				b_chak_bahga = {
+				}
+				b_khurianwala = {
+				}
+			}
+		}
+		d_sindh = {
+
+    			color= { 203 119 56 }
+    			color2= { 255 255 255 }
+
+			capital = 995 # Mansura
+
+			c_mansura = {
+
+    				color= { 213 119 56 }
+    				color2= { 255 255 255 }
+
+				b_mansura = {
+				}
+				b_mirpur_khas = {
+				}
+				b_mirwah_gorchani = {
+				}
+				b_tando_allahyar = {
+				}
+				b_tando_adam = {
+				}
+				b_hala = {
+				}
+				b_sabu_rahu = {
+				}
+				b_sanghar = {
+				}
+			}
+			c_alor = {
+
+    				color= { 203 129 56 }
+    				color2= { 255 255 255 }
+
+				b_alor = {
+				}
+				b_khairpur = {
+				}
+				b_shikarpur = {
+				}
+				b_jacobabad = {
+				}
+				b_sukkur = {
+				}
+				b_baiji_purani = {
+				}
+				b_ghotki = {
+				}
+				b_khandh_kot = {
+				}
+			}
+			c_kolachi = {
+
+    				color= { 203 119 66 }
+    				color2= { 255 255 255 }
+
+				b_kolachi = {
+				}
+				b_winder = {
+				}
+				b_bapro_jakhro = {
+				}
+				b_landhi = {
+				}
+				b_gadap = {
+				}
+				b_liari = {
+				}
+				b_uthal = {
+				}
+				b_thano_bula_khan = {
+				}
+			}
+			c_thatta = {
+
+    				color= { 193 119 56 }
+    				color2= { 255 255 255 }
+
+				b_thatta = {
+				}
+				b_makli = {
+				}
+				b_ghumullah = {
+				}
+				b_vur = {
+				}
+				b_badin = {
+				}
+				b_jati = {
+				}
+				b_keti_bandar = {
+				}
+				b_mirpur_sakro = {
+				}
+			}
+		}
+	}
+	k_uttarakhand = {
+
+    		color= { 252 97 182 }
+    		color2= { 161 126 128 }
+
+		capital = 1905 # Kartikkeyapura
+
+		d_kumaon = {
+
+    			color= { 250 78 82 }
+    			color2= { 161 126 128 }
+
+			capital = 1905 # Kartikkeyapura
+
+			c_kartikkeyapura = {
+
+    				color= { 260 78 82 }
+    				color2= { 161 126 128 }
+
+				b_kartikkeyapura = {
+				}
+				b_almora = {
+				}
+				b_ranikhet = {
+				}
+				b_mirai_malli = {
+				}
+				b_bhimtal = {
+				}
+				b_nainital = {
+				}
+				b_danya = {
+				}
+				b_rungri = {
+				}
+			}
+			c_champawat = {
+
+    				color= { 250 88 82 }
+    				color2= { 161 126 128 }
+
+				b_champawat = {
+				}
+				b_lohaghat = {
+				}
+				b_pulhindola = {
+				}
+				b_gurna = {
+				}
+				b_pithoragarh = {
+				}
+				b_askote = {
+				}
+				b_jauljibi = {
+				}
+				b_mirthi = {
+				}
+			}
+		}
+		d_garhwal = {
+
+    			color= { 186 113 253 }
+    			color2= { 161 126 128 }
+
+			capital = 1902 # Devalgarh
+
+			c_devalgarh = {
+
+    				color= { 196 113 253 }
+    				color2= { 161 126 128 }
+
+				b_devalgarh = {
+				}
+				b_srinagar_devalgarh = {
+				}
+				b_pauri = {
+				}
+				b_maletha = {
+				}
+				b_ghurdauri = {
+				}
+				b_parsundakhal = {
+				}
+				b_bachedikhal = {
+				}
+				b_hindolakhal = {
+				}
+			}
+			c_badrinath = {
+
+    				color= { 186 123 253 }
+    				color2= { 161 126 128 }
+
+				b_badrinath = {
+				}
+				b_mana = {
+				}
+				b_ghangaria = {
+				}
+				b_hanuman_chatti = {
+				}
+				b_lambagad = {
+				}
+				b_pandukeshwar = {
+				}
+				b_govind_ghat = {
+				}
+				b_vishnuprayag = {
+				}
+			}
+		}
+	}
+	k_malwa = {
+
+    		color= { 168 174 133 }
+    		color2= { 195 149 155 }
+	
+		capital = 969 # Dhara
+
+		d_avanti = {
+
+    			color= { 185 172 121 }
+    			color2= { 195 149 155 }
+
+			capital = 969 # Dhara
+
+			c_dhara = {
+
+    				color= { 195 172 121 }
+    				color2= { 195 149 155 }
+
+				b_dhara = {
+				}
+				b_dadhipadra = {
+				}
+				b_tirla = {
+				}
+				b_deendayalpuram = {
+				}
+				b_banderi = {
+				}
+				b_amjhera = {
+				}
+				b_bagri = {
+				}
+				b_digthan = {
+				}
+			}
+			c_ujjayini = {
+
+    				color= { 185 182 121 }
+    				color2= { 195 149 155 }
+
+				b_ujjayini = {
+				}
+				b_sethi_nagar = {
+				}
+				b_tajpur = {
+				}
+				b_jamal_pura = {
+				}
+				b_magariya = {
+				}
+				b_kalyanpura = {
+				}
+				b_sanwer = {
+				}
+				b_panbihar = {
+				}
+			}
+			c_mandapika = {
+
+    				color= { 185 172 131 }
+    				color2= { 195 149 155 }
+
+				b_mandapika = {
+				}
+				b_savalde = {
+				}
+				b_fagne = {
+				}
+				b_nagaon = {
+				}
+				b_kapadane = {
+				}
+				b_dongargoan = {
+				}
+				b_songir = {
+				}
+				b_war = {
+				}
+			}
+			c_asirgarh = {
+
+    				color= { 175 172 121 }
+    				color2= { 195 149 155 }
+
+				b_asirgarh = {
+				}
+				b_sai_nagar = {
+				}
+				b_badnera = {
+				}
+				b_adgaon = {
+				}
+				b_jalu = {
+				}
+				b_angangaon_bari = {
+				}
+				b_udkhed = {
+				}
+				b_malkhed = {
+				}
+			}
+		}
+		d_tripuri = {
+
+    			color= { 205 203 101 }
+    			color2= { 195 149 155 }
+			
+			capital = 1030 # Tripuri
+
+			c_tripuri = {
+
+    				color= { 215 203 101 }
+    				color2= { 195 149 155 }
+
+				b_tripuri = {
+				}
+				b_adhartal = {
+				}
+				b_sobhapur = {
+				}
+				b_suhagi = {
+				}
+				b_vijay_nagar = {
+				}
+				b_sanjeevani_nagar = {
+				}
+				b_shaktinagar = {
+				}
+				b_sagra = {
+				}
+			}
+			c_udayapura = {
+
+    				color= { 205 213 101 }
+    				color2= { 195 149 155 }
+
+				b_udayapura = {
+				}
+				b_bhaillasvamin = {
+				}
+				b_rajasayana = {
+				}
+				b_udaigiri = {
+				}
+				b_gulgaon = {
+				}
+				b_salamatpur = {
+				}
+				b_gulabhganj = {
+				}
+				b_raisen = {
+				}
+			}
+			c_kiranapura = {
+
+    				color= { 205 203 111 }
+    				color2= { 195 149 155 }
+
+				b_kiranapura = {
+				}
+				b_lanjika = {
+				}
+				b_tanda = {
+				}
+				b_goregaon = {
+				}
+				b_javari = {
+				}
+				b_amgaon = {
+				}
+				b_jamkhari = {
+				}
+				b_tigaon = {
+				}
+			}
+			c_acalapura = {
+
+    				color= { 195 203 101 }
+    				color2= { 195 149 155 }
+
+				b_acalapura = {
+				}
+				b_dattawadi = {
+				}
+				b_beltarodi = {
+				}
+				b_kamthi = {
+				}
+				b_kanhan = {
+				}
+				b_chandkapur = {
+				}
+				b_patansaongi = {
+				}
+				b_kalameshwar = {
+				}
+			}
+		}
+		d_khajuraho = {
+
+    			color= { 209 153 97 }
+    			color2= { 195 149 155 }
+			
+			capital = 1052 # Khajuravahaka
+
+			c_khajuravahaka = {
+
+    				color= { 219 153 97  }
+    				color2= { 195 149 155 }
+
+				b_khajuravahaka = {
+				}
+				b_candravati_khajuravahaka = {
+				}
+				b_rajnagar = {
+				}
+				b_bamitha = {
+				}
+				b_basari = {
+				}
+				b_para = {
+				}
+				b_atrar = {
+				}
+				b_budaur = {
+				}
+			}
+			c_mahotsavanagara = {
+
+    				color= { 209 163 97  }
+    				color2= { 195 149 155 }
+
+				b_mahotsavanagara = {
+				}
+				b_charkhari = {
+				}
+				b_kul_pahar = {
+				}
+				b_srinagar = {
+				}
+				b_laundi = {
+				}
+				b_kakun = {
+				}
+				b_rewai = {
+				}
+				b_belatal = {
+				}
+			}
+			c_kalanjara = {
+
+    				color= { 209 153 107  }
+    				color2= { 195 149 155 }
+
+				b_kalanjara = {
+				}
+				b_karwi = {
+				}
+				b_mau = {
+				}
+				b_chitrakoot = {
+				}
+				b_pahari = {
+				}
+				b_oran_kalanjara = {
+				}
+				b_atarra = {
+				}
+				b_bharat_kup = {
+				}
+			}
+			c_jayapura = {
+
+    				color= { 199 153 97  }
+    				color2= { 195 149 155 }
+
+				b_jayapura = {
+				}
+				b_kripalpur = {
+				}
+				b_bhatanwara = {
+				}
+				b_sohawal = {
+				}
+				b_bhumkahar = {
+				}
+				b_sajjanpur = {
+				}
+				b_unchehara = {
+				}
+				b_maihar = {
+				}
+			}
+		}
+	}
+	k_rajputana = {
+
+    		color= { 251 227 60 }
+    		color2= { 0 0 0 }
+
+		capital = 1013 # Ajayameru
+
+		d_ajayameru = {
+
+    			color= { 247 199 100 }
+    			color2= { 0 0 0 }
+
+			capital = 1013 # Ajayameru
+
+			c_ajayameru = {
+
+    				color= { 255 199 100 }
+    				color2= { 0 0 0 }
+
+				b_ajayameru = {
+				}
+				b_mandavyapura = {
+				}
+				b_pushkar = {
+				}
+				b_kanas = {
+				}
+				b_tabiji = {
+				}
+				b_saredhana = {
+				}
+				b_makadwali = {
+				}
+				b_makreda = {
+				}
+			}
+			c_ranastambhapura = {
+
+    				color= { 247 209 100 }
+    				color2= { 0 0 0 }
+
+				b_ranastambhapura = {
+				}
+				b_sherpur = {
+				}
+				b_behraonda = {
+				}
+				b_kushtala = {
+				}
+				b_bodal = {
+				}
+				b_khandhar = {
+				}
+				b_anantpura = {
+				}
+				b_bhagwatgarh = {
+				}
+			}
+			c_sakambhari = {
+
+    				color= { 247 199 110 }
+    				color2= { 0 0 0 }
+
+				b_sakambhari = {
+				}
+				b_kanauta = {
+				}
+				b_amber = {
+				}
+				b_chittora = {
+				}
+				b_chomu = {
+				}
+				b_govindgarh = {
+				}
+				b_lowan = {
+				}
+				b_dausa = {
+				}
+			}
+		}
+		d_citrakuta = {
+
+    			color= { 244 208 168 }
+    			color2= { 0 0 0 }
+
+			capital = 1748 # Nagahrada
+
+			c_nagahrada = {
+
+    				color= { 254 208 168 }
+    				color2= { 0 0 0 }
+
+				b_nagahrada = {
+				}
+				b_citrakuta = {
+				}
+				b_naddula = {
+				}
+				b_desuri = {
+				}
+				b_ghanerao = {
+				}
+				b_neepal = {
+				}
+				b_nadol = {
+				}
+				b_dadai = {
+				}
+			}
+			c_aghata = {
+
+
+    				color= { 244 218 168 }
+    				color2= { 0 0 0 }
+
+				b_aghata = {
+				}
+				b_kanpur = {
+				}
+				b_kotra_aghata = {
+				}
+				b_bisadi = {
+				}
+				b_gudli = {
+				}
+				b_jhamar_kotra = {
+				}
+				b_jagat = {
+				}
+				b_zawar = {
+				}
+			}
+		}
+		d_kotah = {
+
+    			color= { 241 138 111 }
+    			color2= { 0 0 0 }
+
+			capital = 1029 # Kotah
+
+			c_kotah = {
+
+    				color= { 251 138 111 }
+    				color2= { 0 0 0 }
+
+				b_kotah = {
+				}
+				b_nayapura = {
+				}
+				b_rangbari = {
+				}
+				b_gurla = {
+				}
+				b_dadwara = {
+				}
+				b_bargaon = {
+				}
+				b_jagpura = {
+				}
+				b_kaithoon = {
+				}
+			}
+			c_kirttigiri = {
+
+    				color= { 241 148 111 }
+    				color2= { 0 0 0 }
+
+				b_kirttigiri = {
+				}
+				b_dudahi = {
+				}
+				b_bilonia = {
+				}
+				b_bajranggarh = {
+				}
+				b_rasulpura = {
+				}
+				b_bhadaura = {
+				}
+				b_umri = {
+				}
+				b_gara = {
+				}
+			}
+			c_dasapura = {
+
+    				color= { 241 138 121 }
+    				color2= { 0 0 0 }
+
+				b_dasapura = {
+				}
+				b_multanpura = {
+				}
+				b_digau = {
+				}
+				b_guradia_deda = {
+				}
+				b_botalganj = {
+				}
+				b_takrawad = {
+				}
+				b_dalauda = {
+				}
+				b_nadeota = {
+				}
+			}
+		}
+		d_thar = {
+
+    			color= { 183 164 28 }
+    			color2= { 161 126 128 }
+
+			capital = 1000 # Ludrava
+
+			c_ludrava = {
+
+    				color= { 193 164 28 }
+	    			color2= { 161 126 128 }
+
+				b_ludrava = {
+				}
+				b_phalodi = {
+				}
+				b_chandan = {
+				}
+				b_khavolai = {
+				}
+				b_pokaran = {
+				}
+				b_rasoolpur = {
+				}
+				b_barmer = {
+				}
+				b_balotra = {
+				}
+			}
+			c_nagauda = {
+
+    				color= { 183 174 28 }
+    				color2= { 161 126 128 }
+
+				b_nagauda = {
+				}
+				b_bikaner = {
+				}
+				b_nagaur = {
+				}
+				b_sardarshahar = {
+				}
+				b_bahawalpur = {
+				}
+				b_hanumangarh = {
+				}
+				b_sri_ganganagar = {
+				}
+				b_gusaisar = {
+				}
+			}
+		}
+	}
+	k_kashmir = {
+
+    		color= { 63 150 30  }
+    		color2= { 101 102 163  }
+
+		capital = 971 # Srinagara
+
+		d_srinagara = {
+
+    			color= { 73 157 23  }
+    			color2= { 101 102 163  }
+
+			capital = 971 # Srinagara
+
+			c_srinagara = {
+
+    				color= { 83 157 23  }
+    				color2= { 101 102 163  }
+
+				b_srinagara = {
+				}
+				b_baramulla = { #temple
+				}
+				b_kupwara = {
+				}
+				b_bandipore = {
+				}
+				b_anantnag = {
+				}
+				b_pahalgam = {
+				}
+				b_banihal = {
+				}
+				b_ganderbal = {
+				}
+			}
+			c_jambupura = {
+
+    				color= { 73 167 23  }
+    				color2= { 101 102 163  }
+
+				b_jambupura = {
+				}
+				b_udhampur = {
+				}
+				b_vijay_pur = {
+				}
+				b_bani = {
+				}
+				b_kathua = {
+				}
+				b_pathankot = {
+				}
+				b_dalhousie = {
+				}
+				b_dharamsala = {
+				}
+			}
+			c_skardu = {
+
+    				color= { 73 157 33  }
+    				color2= { 101 102 163  }
+
+				b_skardu = {
+				}
+				b_huldi = {
+				}
+				b_madhupur = {
+				}
+				b_kharkoo = {
+				}
+				b_khaplu = {
+				}
+				b_hilmat = {
+				}
+				b_janwai = {
+				}
+				b_kel = {
+				}
+			}
+		}
+		d_pamir = {
+
+    			color= { 11 170 90  }
+    			color2= { 101 102 163  }
+
+			capital = 991 # Gilgit
+
+			c_gilgit = {
+
+    				color= { 21 170 90  }
+    				color2= { 101 102 163  }
+
+				b_gilgit = {
+				}
+				b_danyor = {
+				}
+				b_chilmish_das = {
+				}
+				b_minawar = {
+				}
+				b_pahot = {
+				}
+				b_chatorkhand = {
+				}
+				b_barjangle = {
+				}
+				b_munjawa = {
+				}
+			}
+			c_tashkurgan = {
+
+    				color= { 11 180 90  }
+    				color2= { 101 102 163  }
+
+				b_tashkurgan = {
+				}
+				b_jianggala = {
+				}
+				b_hangdi = {
+				}
+				b_kaladong = {
+				}
+				b_zankan = {
+				}
+				b_qiate = {
+				}
+				b_seri_ketashi_pasture = {
+				}
+				b_bulongke = {
+				}
+			}
+			c_chitral = {
+
+    				color= { 11 170 100  }
+    				color2= { 101 102 163  }
+
+				b_chitral = {
+				}
+				b_tar = {
+				}
+				b_drosh = {
+				}
+				b_sheringal = {
+				}
+				b_ayun = {
+				}
+				b_brumboret = {
+				}
+				b_nekratok = {
+				}
+				b_mogh = {
+				}
+			}
+		}
+	}
+}
+
+k_khajuraho = {
+
+    	color= { 107 111 122  }
+    	color2= { 197 92 106  }
+
+	capital = 1052 # Khajuravahaka
+
+}
+
+k_tripuri = {
+
+    	color= { 215 203 101 }
+    	color2= { 195 149 155 }
+
+	capital = 1030 # Tripuri
+
+}
+
+d_sarayu = {
+
+    	color= { 97 111 132  }
+    	color2= { 197 92 106  }
+
+}

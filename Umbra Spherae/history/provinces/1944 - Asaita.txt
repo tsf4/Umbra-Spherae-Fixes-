@@ -1,0 +1,16 @@
+# 1944 - Asaita
+
+# County Title
+title = c_asaita
+
+# Settlements
+max_settlements = 1
+b_asaita = castle
+
+# Misc
+culture = afar
+religion = sunni
+
+# History
+
+

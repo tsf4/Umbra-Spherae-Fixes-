@@ -1,0 +1,489 @@
+#Male Dynasty (placeholders)
+
+1000203275 = {
+	name="Dharmasoka"
+	dynasty=1000078032 #Male
+	religion="buddhism"
+	culture="dhivehi"
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000203276 = {
+	name="Tribhuvanapala"
+	dynasty=1000078032 #Male
+	religion="buddhism"
+	culture="dhivehi"
+	father=1000203275
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000203277 = {
+	name="Mahideva"
+	dynasty=1000078032 #Male
+	religion="buddhism"
+	culture="dhivehi"
+	father=1000203276
+	867.1.1={
+		birth="867.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000203278 = {
+	name="Vijaya"
+	dynasty=1000078032 #Male
+	religion="buddhism"
+	culture="dhivehi"
+	father=1000203277
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000203279 = {
+	name="Indraditya"
+	dynasty=1000078032 #Male
+	religion="buddhism"
+	culture="dhivehi"
+	father=1000203278
+	930.1.1={
+		birth="930.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+#Adeetta Vansa Dynasty
+
+1000203280 = {
+	name="Soorudasaruna-Adeettiya"
+	dynasty=1000078033 #Adeetta Vansa
+	religion="buddhism"
+	culture="dhivehi"
+	930.1.1={
+		birth="930.1.1"
+	}
+	980.1.1={
+		death="980.1.1"
+	}
+}
+
+1000203281 = {
+	name="Damahaar"
+	female=yes
+	dynasty=1000078033 #Adeetta Vansa
+	religion="buddhism"
+	culture="dhivehi"
+	father=1000203280
+	950.1.1={
+		birth="950.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+#Soma Vansa Dynasty
+
+1000203282 = {
+	name="Balaadeettiya"
+	dynasty=1000028294 #Soma Vansa
+	religion="buddhism"
+	culture="dhivehi"
+	950.1.1={
+		birth="950.1.1"
+	}
+	970.1.1={
+		add_spouse=1000203281
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000203283 = {
+	name="Loakaabarana"
+	dynasty=1000028294 #Soma Vansa
+	religion="buddhism"
+	culture="dhivehi"
+	father=1000203282
+	980.1.1={
+		birth="980.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000076180 = {
+	name="Maha-Sandura"
+	dynasty=1000028294 #Soma Vansa
+	religion="buddhism"
+	culture="dhivehi"
+	father=1000203283
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1090.1.1={
+		death="1090.1.1"
+	}
+}
+
+1000203284 = {
+	name="Bovana-Aananda"
+	dynasty=1000028294 #Soma Vansa
+	religion="buddhism"
+	culture="dhivehi"
+	father=1000203283
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1117.1.1={
+		death="1117.1.1"
+	}
+}
+
+#Theemuge Dynasty
+
+1000203307 = {
+	name="Balaadeettiya"
+	dynasty=1000078034 #Theemuge
+	religion="buddhism"
+	culture="dhivehi"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000203285 = {
+	name="Koimala"
+	dynasty=1000078034 #Theemuge
+	religion="buddhism"
+	culture="dhivehi"
+	father=1000203307
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1141.1.1={
+		death="1141.1.1"
+	}
+}
+
+1000203286 = {
+	name="Henevi-Maava-Kilege"
+	female=yes
+	dynasty=1000078034 #Theemuge
+	religion="buddhism"
+	culture="dhivehi"
+	father=1000203307
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1141.1.1={
+		death="1141.1.1"
+	}
+}
+
+1000203288 = {
+	name="Henevi-Maava-Kilege"
+	female=yes
+	dynasty=1000078034 #Theemuge
+	religion="buddhism"
+	culture="dhivehi"
+	father=1000203307
+	1090.1.1={
+		birth="1090.1.1"
+	}
+	1141.1.1={
+		death="1141.1.1"
+	}
+}
+
+1000203287 = {
+	name="Dhovemi"
+	dynasty=1000078034 #Theemuge
+	religion="buddhism"
+	culture="dhivehi"
+	mother=1000203286
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1153.1.1={
+		religion="sunni"
+	}
+	1166.1.1={
+		death="1166.1.1"
+	}
+}
+
+1000203289 = {
+	name="Muthey"
+	dynasty=1000078034 #Theemuge
+	religion="sunni"
+	culture="dhivehi"
+	mother=1000203288
+	1130.1.1={
+		birth="1130.1.1"
+	}
+	1185.1.1={
+		death="1185.1.1"
+	}
+}
+
+1000203290 = {
+	name="Ali"
+	dynasty=1000078034 #Theemuge
+	religion="sunni"
+	culture="dhivehi"
+	father=1000203289
+	1130.1.1={
+		birth="1130.1.1"
+	}
+	1193.1.1={
+		death="1193.1.1"
+	}
+}
+
+1000203291 = {
+	name="Dhinei"
+	dynasty=1000078034 #Theemuge
+	religion="sunni"
+	culture="dhivehi"
+	father=1000203290
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1199.1.1={
+		death="1199.1.1"
+	}
+}
+
+1000203292 = {
+	name="Dhihei"
+	dynasty=1000078034 #Theemuge
+	religion="sunni"
+	culture="dhivehi"
+	father=1000203290
+	1160.1.1={
+		birth="1160.1.1"
+	}
+	1214.1.1={
+		death="1214.1.1"
+	}
+}
+
+1000203293 = {
+	name="Wadi"
+	dynasty=1000078034 #Theemuge
+	religion="sunni"
+	culture="dhivehi"
+	father=1000203290
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1233.1.1={
+		death="1233.1.1"
+	}
+}
+
+1000203294 = {
+	name="Valla-Dio"
+	dynasty=1000078034 #Theemuge
+	religion="sunni"
+	culture="dhivehi"
+	father=1000203290
+	1180.1.1={
+		birth="1180.1.1"
+	}
+	1258.1.1={
+		death="1258.1.1"
+	}
+}
+
+1000203295 = {
+	name="Hudhei"
+	dynasty=1000078034 #Theemuge
+	religion="sunni"
+	culture="dhivehi"
+	father=1000203294
+	1206.1.1={
+		birth="1206.1.1"
+	}
+	1264.1.1={
+		death="1264.1.1"
+	}
+}
+
+1000203296 = {
+	name="Aima"
+	dynasty=1000078034 #Theemuge
+	religion="sunni"
+	culture="dhivehi"
+	father=1000203295
+	1222.1.1={
+		birth="1222.1.1"
+	}
+	1266.1.1={
+		death="1266.1.1"
+	}
+}
+
+1000203297 = {
+	name="Hali"
+	dynasty=1000078034 #Theemuge
+	religion="sunni"
+	culture="dhivehi"
+	father=1000203296
+	1238.1.1={
+		birth="1238.1.1"
+	}
+	1268.1.1={
+		death="1268.1.1"
+	}
+}
+
+1000203298 = {
+	name="Keimi"
+	dynasty=1000078034 #Theemuge
+	religion="sunni"
+	culture="dhivehi"
+	father=1000203297
+	1254.1.1={
+		birth="1254.1.1"
+	}
+	1269.1.1={
+		death="1269.1.1"
+	}
+}
+
+1000203299 = {
+	name="Audha"
+	dynasty=1000078034 #Theemuge
+	religion="sunni"
+	culture="dhivehi"
+	father=1000203293
+	1210.1.1={
+		birth="1210.1.1"
+	}
+	1278.1.1={
+		death="1278.1.1"
+	}
+}
+
+1000203300 = {
+	name="Hali"
+	dynasty=1000078034 #Theemuge
+	religion="sunni"
+	culture="dhivehi"
+	father=1000203299
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1288.1.1={
+		death="1288.1.1"
+	}
+}
+
+1000203301 = {
+	name="Yoosuf"
+	dynasty=1000078034 #Theemuge
+	religion="sunni"
+	culture="dhivehi"
+	father=1000203299
+	1240.1.1={
+		birth="1240.1.1"
+	}
+	1294.1.1={
+		death="1294.1.1"
+	}
+}
+
+1000203302 = {
+	name="Salis"
+	dynasty=1000078034 #Theemuge
+	religion="sunni"
+	culture="dhivehi"
+	father=1000203301
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1302.1.1={
+		death="1302.1.1"
+	}
+}
+
+1000203303 = {
+	name="Davud"
+	dynasty=1000078034 #Theemuge
+	religion="sunni"
+	culture="dhivehi"
+	father=1000203301
+	1270.1.1={
+		birth="1270.1.1"
+	}
+	1307.1.1={
+		death="1307.1.1"
+	}
+}
+
+1000203304 = {
+	name="Omar"
+	dynasty=1000078034 #Theemuge
+	religion="sunni"
+	culture="dhivehi"
+	father=1000203302
+	1280.1.1={
+		birth="1280.1.1"
+	}
+	1341.1.1={
+		death="1341.1.1"
+	}
+}
+
+1000203305 = {
+	name="Ahmed-Shihabuddine"
+	dynasty=1000078034 #Theemuge
+	religion="sunni"
+	culture="dhivehi"
+	father=1000203304
+	1310.1.1={
+		birth="1310.1.1"
+	}
+	1347.1.1={
+		death="1347.1.1"
+	}
+}
+
+1000203306 = {
+	name="Khadijah"
+	female=yes
+	dynasty=1000078034 #Theemuge
+	religion="sunni"
+	culture="dhivehi"
+	father=1000203304
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1374.1.1={
+		death="1374.1.1"
+	}
+}

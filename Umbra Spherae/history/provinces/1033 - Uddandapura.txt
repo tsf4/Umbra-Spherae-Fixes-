@@ -1,0 +1,21 @@
+# 1033 - Uddandapura
+
+# County Title
+title = c_uddandapura
+
+# Settlements
+max_settlements = 6
+b_gaya = castle
+b_uddandapura = city
+b_maghra = temple
+b_ramchandrapur = temple
+#b_bari_pahari =
+#b_bihar_sharif =
+#b_naseerpur =
+#b_sakunat_kala =
+
+# Misc
+culture = magahi
+religion = mahayana
+
+# History

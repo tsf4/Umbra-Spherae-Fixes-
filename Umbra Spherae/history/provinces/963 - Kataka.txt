@@ -1,0 +1,21 @@
+# 963 - Kataka
+
+# County Title
+title = c_kataka
+
+# Settlements
+max_settlements = 7
+b_bhuvanesvara = castle
+b_kataka = city
+b_barang = temple
+b_sankataras = city
+b_uttara = castle
+#b_niali =
+#b_pipili =
+#b_gop =
+
+# Misc
+culture = oriya
+religion = hindu
+
+# History

@@ -1,0 +1,439 @@
+#Vasabha Dynasty
+66.1.1={
+	holder=1000203377 #Vasabha
+}
+110.1.1={
+	holder=1000203378 #Vankanasika-Tissa
+}
+113.1.1={
+	holder=1000203379 #Gajabahu I
+}
+
+#Mahallaka Naga Dynasty
+135.1.1={
+	holder=1000203380 #Mahallaka-Naga
+}
+141.1.1={
+	holder=1000203381 #Bhatika-Tissa
+}
+165.1.1={
+	holder=1000203382 #Kanittha-Tissa
+}
+193.1.1={
+	holder=1000203383 #Cula-Naga
+}
+195.1.1={
+	holder=1000203384 #Kuda-Naga
+}
+
+#Siri Naga Dynasty
+196.1.1={
+	holder=1000203385 #Siri-Naga I
+}
+215.1.1={
+	holder=1000203386 #Voharika-Tissa
+}
+237.1.1={
+	holder=1000203387 #Abhaya-Naga
+}
+245.1.1={
+	holder=1000203388 #Siri-Naga II
+}
+247.1.1={
+	holder=1000203389 #Vijaya-Kumara
+}
+
+#Sangha Tissa Dynasty
+248.1.1={
+	holder=1000203390 #Sangha-Tissa I
+}
+252.1.1={
+	holder=1000203391 #Siri-Sangha-Bodhi I
+}
+
+#Gothabhaya Dynasty
+254.1.1={
+	holder=1000203392 #Gothabhaya
+}
+267.1.1={
+	holder=1000203393 #Jettha-Tissa I
+}
+277.1.1={
+	holder=1000203394 #Mahasena
+}
+304.1.1={
+	holder=1000203395 #Sirimeghavanna
+}
+332.1.1={
+	holder=1000203396 #Jettha-Tissa II
+}
+341.1.1={
+	holder=1000203397 #Buddhadasa
+}
+370.1.1={
+	holder=1000203398 #Upatissa I
+}
+412.1.1={
+	holder=1000203399 #Mahanama
+}
+434.1.1={
+	holder=1000203400 #Soththisena
+}
+434.6.1={
+	holder=1000203401 #Chattagahaka-Jantu
+}
+
+#Mittasena Dynasty
+435.1.1={
+	holder=1000203402 #Mittasena
+}
+
+#Pandu Dynasty
+436.1.1={
+	holder=1000203435 #Pandu
+}
+441.1.1={
+	holder=1000203436 #Parindu
+}
+441.6.1={
+	holder=1000203437 #Khudda-Parinda
+}
+
+#Tiritara Dynasty
+447.1.1={
+	holder=1000203438 #Tiritara
+}
+
+#Dathiya Dynasty
+447.6.1={
+	holder=1000203439 #Dathiya
+}
+
+#Pithiya Dynasty
+450.1.1={
+	holder=1000203440 #Pithiya
+}
+
+#Moriya Dynasty
+463.1.1={
+	holder=1000203403 #Dhatusena
+}
+479.1.1={
+	holder=1000203404 #Kassapa I
+}
+497.1.1={
+	holder=1000203405 #Moggallana I
+}
+515.1.1={
+	holder=1000203406 #Kumara-Dhatusena
+}
+524.1.1={
+	holder=1000203407 #Kirti-Sena
+}
+524.6.1={
+	holder=1000203408 #Siva [II]
+}
+
+#Upatissa Dynasty
+525.1.1={
+	holder=1000203409 #Upatissa II
+}
+
+#Silakala Dynasty
+526.1.1={
+	holder=1000203410 #Silakala-Ambosamanera
+}
+539.1.1={
+	holder=1000203411 #Dathappabhuti
+}
+540.1.1={
+	holder=1000203412 #Moggallana II
+}
+560.1.1={
+	holder=1000203413 #Kittisiri-Meghavanna
+}
+
+#Maha Naga Dynasty
+561.1.1={
+	holder=1000203415 #Maha-Naga
+}
+564.1.1={
+	holder=1000203416 #Aggabhodi I
+}
+598.1.1={
+	holder=1000203418 #Aggabhodi II
+}
+608.1.1={
+	holder=1000203419 #Sangha-Tissa II
+}
+
+#Moggallana Dynasty
+608.6.1={
+	holder=1000203420 #Moggallana III
+}
+
+#Silameghavanna Dynasty
+614.1.1={
+	holder=1000203421 #Silameghavanna
+}
+623.1.1={
+	holder=1000203422 #Aggabodhi III
+}
+
+#Maha Naga Dynasty (restored)
+623.6.1={
+	holder=1000203423 #Jettha-Tissa III
+}
+
+#Silameghavanna Dynasty (restored)
+624.1.1={
+	holder=1000203422 #Aggabodhi III (again)
+}
+
+#Dathopa Tissa Dynasty
+640.1.1={
+	holder=1000203424 #Dathopa-Tissa I
+}
+
+#Maha Naga Dynasty (restored again)
+652.1.1={
+	holder=1000203425 #Kassapa II
+}
+
+#Dappula Dynasty
+661.1.1={
+	holder=1000203426 #Dappula I
+}
+
+#Dathopa Tissa Dynasty (restored)
+664.1.1={
+	holder=1000203429 #Dathopa-Tissa II
+}
+673.1.1={
+	holder=1000203430 #Aggabhodi IV
+}
+
+#Unhanagara Dynasty
+689.1.1={
+	holder=1000203431 #Unhanagara-Hatthadatha
+}
+
+#Lambakanna Dynasty
+691.1.1={
+	holder=1000203308 #Manavanna
+}
+726.1.1={
+	holder=1000203309 #Aggabodhi V
+}
+732.1.1={
+	holder=1000203310 #Kassapa III
+}
+738.1.1={
+	holder=1000203311 #Mahinda I
+}
+741.1.1={
+	holder=1000203312 #Aggabodhi VI
+}
+781.1.1={
+	holder=1000203313 #Aggabodhi VII
+}
+787.1.1={
+	holder=1000203314 #Mahinda II
+}
+807.1.1={
+	holder=1000203315 #Dappula II
+}
+812.1.1={
+	holder=1000203316 #Mahinda III
+}
+816.1.1={
+	holder=1000203317 #Aggabodhi VIII
+}
+827.1.1={
+	holder=1000203318 #Dappula III
+}
+843.1.1={
+	holder=1000203319 #Aggabodhi IX
+}
+846.1.1={
+	holder=1000203320 #Sena I
+}
+866.1.1={
+	holder=1000203322 #Sena II
+}
+
+#Udaya Dynasty
+901.1.1={
+	holder=1000203323 #Udaya I
+}
+
+#Lambakanna Dynasty (restored)
+912.1.1={
+	holder=1000203324 #Kassapa IV
+}
+929.1.1={
+	holder=1000203325 #Kassapa V
+}
+939.1.1={
+	holder=1000203326 #Dappula IV
+}
+940.1.1={
+	holder=1000203327 #Dappula V
+}
+952.1.1={
+	holder=1000203329 #Udaya II
+}
+955.1.1={
+	holder=1000203330 #Sena III
+}
+
+#Udaya Dynasty
+964.1.1={
+	holder=1000203331 #Udaya III
+}
+
+#Lambakanna Dynasty (restored again)
+972.1.1={
+	holder=1000203332 #Sena IV
+}
+975.1.1={
+	holder=1000203333 #Mahinda IV
+}
+991.1.1={
+	holder=1000203334 #Sena V
+}
+1001.1.1={
+	holder=1000203335 #Mahinda V
+}
+1017.1.1={
+	holder=0
+}
+
+#Vijayabahu Dynasty
+1056.1.1={
+	holder=1000076177 #Vijayabahu I
+}
+1110.1.1={
+	holder=1000203337 #Jayabahu I
+}
+1111.1.1={
+	holder=1000203338 #Vikramabahu I
+}
+1132.1.1={
+	holder=1000203339 #Gajabahu II
+}
+1153.1.1={
+	holder=1000203341 #Parakramabahu I
+}
+1186.1.1={
+	holder=1000203343 #Vijayabahu II
+}
+
+#Mahinda Dynasty
+1187.1.1={
+	holder=1000203344 #Mahinda VI
+}
+
+#Nissanka Malla Dynasty
+1187.6.1={
+	holder=1000203345 #Nissanka-Malla
+}
+1196.1.1={
+	holder=1000203346 #Virabahu I
+}
+1196.4.1={
+	holder=1000203376 #Vikramabahu II
+}
+1196.9.1={
+	holder=1000203347 #Chodaganga
+}
+
+#Lilavati Dynasty
+1197.1.1={
+	holder=1000203352 #Lilavati
+}
+
+#Nissanka Malla Dynasty (restored)
+1200.1.1={
+	holder=1000203348 #Sahassa-Malla
+}
+
+#Kalyanavati Dynasty
+1202.1.1={
+	holder=1000203349 #Kalyanavati
+}
+
+#Anikanga Dynasty
+1208.1.1={
+	holder=1000203350 #Dharmasoka
+}
+1209.1.1={
+	holder=1000203351 #Anikanga
+}
+
+#Lilavati Dynasty (restored)
+1209.6.1={
+	holder=1000203352 #Lilavati
+}
+
+#Lokissara Dynasty
+1210.1.1={
+	holder=1000203353 #Lokissara
+}
+
+#Lilavati Dynasty (restored again)
+1211.1.1={
+	holder=1000203352 #Lilavati
+}
+
+#Pandya Dynasty
+1212.1.1={
+	holder=1000203354 #Parakrama [Pandyan II]
+}
+
+#Kalinga Magha Dynasty
+1215.1.1={
+	holder=1000203367 #Kalinga-Magha
+}
+
+#Siri Sanga Bo Dynasty
+1220.1.1={
+	holder=1000203355 #Vijayabahu III
+}
+1234.1.1={
+	holder=1000203356 #Parakramabahu II
+}
+1269.1.1={
+	holder=1000203357 #Vijayabahu IV
+}
+1270.10.1={
+	holder=1000203358 #Bhuvanaikabahu I
+}
+1302.1.1={
+	holder=1000203359 #Parakramabahu III
+}
+1310.1.1={
+	holder=1000203360 #Bhuvanaikabahu II
+}
+1325.1.1={
+	holder=1000203361 #Parakramabahu IV
+}
+
+#Bhuvanaikabahu Dynasty
+1326.1.1={
+	holder=1000203362 #Bhuvanaikabahu III
+}
+
+#Tambralinga Dynasty
+1326.6.1={
+	holder=1000203363 #Vijayabahu V
+}
+1344.1.1={
+	holder=1000203364 #Bhuvanakaibahu IV
+}
+1354.1.1={
+	holder=1000203365 #Parakramabahu V
+}
+1359.1.1={
+	holder=1000203366 #Vikramabahu III
+}

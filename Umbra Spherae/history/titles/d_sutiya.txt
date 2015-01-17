@@ -1,0 +1,28 @@
+#Sutiya Dynasty
+1180.1.1 = {
+	liege="k_kamarupa"
+}
+1180.1.1 = {
+	holder=1000083605 #Birpal
+}
+1187.1.1 = {
+	liege=0
+}
+1210.1.1 = {
+	holder=1000083607 #Gaurinarayan
+}
+1230.1.1 = {
+	holder=1000083609 #Birpal II (placeholder)
+}
+1260.1.1 = {
+	holder=1000083611 #Gaurinarayan II (placeholder)
+}
+1290.1.1 = {
+	holder=1000083613 #Birpal III (placeholder)
+}
+1320.1.1 = {
+	holder=1000083615 #Gaurinarayan III (placeholder)
+}
+1350.1.1 = {
+	holder=1000083617 #Birpal IV (placeholder)
+}

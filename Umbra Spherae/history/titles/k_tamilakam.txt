@@ -1,0 +1,187 @@
+#Pallava Dynasty
+320.1.1={
+	liege="e_dakshinapatha"
+}
+320.1.1={
+	holder=1000202995 #Simhavarman I
+}
+335.1.1={
+	holder=1000202996 #Skandavarman I
+}
+355.1.1={
+	holder=1000202997 #Vishnugopa
+}
+355.6.1={
+	holder=1000202998 #Kumaravishnu I
+}
+370.1.1={
+	holder=1000202999 #Buddhavarman
+}
+390.1.1={
+	holder=1000203000 #Kumaravishnu II
+}
+415.1.1={
+	holder=1000203001 #Skandavarman II
+}
+436.1.1={
+	holder=1000203002 #Simhavarman II
+}
+458.1.1={
+	holder=1000203003 #Skandavarman III
+}
+490.1.1={
+	holder=1000203004 #Nandivarman I
+}
+520.1.1={
+	holder=1000203005 #Santivarman
+}
+550.1.1={
+	holder=1000203006 #Simhavarman III
+}
+575.1.1={
+	holder=1000203007 #Simhavishnu
+}
+600.1.1={
+	holder=1000203008 #Mahendravarman I
+}
+630.1.1={
+	holder=1000203009 #Narasimhavarman I
+}
+668.1.1={
+	holder=1000203010 #Mahendravarman II
+}
+670.1.1={
+	holder=1000203011 #Paramesvaravarman I
+}
+700.1.1={
+	holder=1000203012 #Narasimhavarman II
+}
+728.1.1={
+	holder=1000203013 #Paramesvaravarman II
+}
+731.1.1={
+	holder=1000203019 #Nandivarman II
+}
+796.1.1={
+	holder=1000203020 #Dantivarman
+}
+845.1.1={
+	holder=1000203021 #Nandivarman III
+}
+866.1.1={
+	holder=1000203022 #Nripatungavarman
+}
+896.1.1={
+	holder=1000203023 #Aparajita
+}
+897.1.1={
+	holder=1000203024 #Kampavarman
+}
+
+#Chola Dynasty
+912.1.1={
+	holder=1000202974 #Parantaka I
+}
+954.1.1={
+	holder=1000202975 #Gandaraditya
+}
+956.1.1={
+	holder=1000202976 #Arinjaya
+}
+957.1.1={
+	holder=1000202977 #Parantaka II
+}
+973.1.1={
+	holder=1000202978 #Uttamachola
+}
+985.1.1={
+	holder=1000202979 #Rajaraja I
+}
+1014.1.1={
+	holder=1000202980 #Rajendra I
+}
+1044.1.1={
+	holder=1000202981 #Rajadhiraja I
+}
+1052.1.1={
+	holder=1000202982 #Rajendra II
+}
+1064.1.1={
+	holder=1000202983 #Rajamahendra
+}
+1064.6.1={
+	holder=1000076176 #Virarajendra I
+}
+1070.1.1={
+	holder=1000202984 #Adhirajendra
+}
+1070.6.1={
+	holder=1000202986 #Kulottunga I
+}
+1127.1.1={
+	holder=1000202987 #Vikramachola
+}
+1135.1.1={
+	holder=1000202988 #Kulottunga II
+}
+1150.1.1={
+	holder=1000202989 #Rajaraja II
+}
+1173.1.1={
+	holder=1000202991 #Rajadhiraja II
+}
+1178.1.1={
+	holder=1000202992 #Kulottunga III
+}
+
+#Pandya Dynasty
+1216.1.1={
+	holder=1000203050 #Maravarman-Sundara I
+}
+1238.1.1={
+	holder=1000203051 #Jatavarman-Kulasekhara II
+}
+1238.6.1={
+	holder=1000203052 #Maravarman-Sundara II
+}
+1251.1.1={
+	holder=1000203053 #Jatavarman-Sundara I [II]
+}
+1253.1.1={
+	holder=1000203054 #Jatavarman-Vira I
+}
+1268.1.1={
+	holder=1000203056 #Maravarman-Kulasekhara I
+}
+1275.1.1={
+	holder=1000203055 #Jatavarman-Vikrama
+}
+1276.1.1={
+	holder=1000203057 #Jatavarman-Sundara III [II]
+}
+1283.1.1={
+	holder=1000203058 #Maravarman-Vikrama II
+}
+1296.1.1={
+	holder=1000203059 #Jatavarman-Vira II
+}
+1303.1.1={
+	holder=1000203060 #Jatavarman-Sundara IV [III]
+}
+1314.1.1={
+	holder=1000203061 #Maravarman-Kulasekhara II
+}
+1315.1.1={
+	holder=1000203062 #Jatavarman-Parakrama I
+}
+
+#Ahsanid Dynasty
+1323.1.1={
+	liege="e_uttarapatha"
+}
+1323.1.1={
+	holder=1000203478 #Ahsan-Khan
+}
+1335.1.1={
+	liege=0
+}

@@ -1,0 +1,122 @@
+#Varman Dynasty
+350.1.1={
+	liege="k_kamarupa"
+}
+350.1.1={
+	holder=1000083637 #Pusyavarman
+}
+374.1.1={
+	holder=1000083639 #Samudravarman
+}
+398.1.1={
+	holder=1000083641 #Balavarman I
+}
+422.1.1={
+	holder=1000083643 #Kalyanavarman
+}
+446.1.1={
+	holder=1000083645 #Ganapativarman
+}
+470.1.1={
+	holder=1000083647 #Mahendravarman
+}
+494.1.1={
+	holder=1000083649 #Narayanavarman
+}
+518.1.1={
+	holder=1000083651 #Bhutivarman
+}
+542.1.1={
+	holder=1000083653 #Candramukhavarman
+}
+566.1.1={
+	holder=1000083655 #Sthitavarman
+}
+590.1.1={
+	holder=1000083657 #Susthitavarman
+}
+595.1.1={
+	holder=1000083659 #Supratisthitavarman
+}
+600.1.1={
+	holder=1000083661 #Bhaskaravarman
+}
+
+#Mleccha Dynasty
+650.1.1={
+	holder=1000083496 #Salastambha
+}
+670.1.1={
+	holder=1000083498 #Vijayastambha
+}
+680.1.1={
+	holder=1000083500 #Palakastambha
+}
+690.1.1={
+	holder=1000083502 #Kumarastambha
+}
+700.1.1={
+	holder=1000083504 #Vajradeva
+}
+710.1.1={
+	holder=1000083506 #Harsavarman
+}
+750.1.1={
+	holder=1000083508 #Balavarman II
+}
+770.1.1={
+	holder=1000083510 #Salambha
+}
+790.1.1={
+	holder=1000083512 #Arathi
+}
+820.1.1={
+	holder=1000083514 #Harjaravarman
+}
+
+#Kachari Dynasty
+835.1.1 = {
+	liege="d_kachari"
+}
+835.1.1 = {
+	holder=1000083577 #Virochana
+}
+885.1.1 = {
+	holder=1000083579 #Vorahi
+}
+925.1.1 = {
+	holder=1000083581 #Prasanto
+}
+1010.1.1 = {
+	holder=1000083583 #Uditya
+}
+1040.1.1 = {
+	holder=1000083585 #Prabakhar
+}
+1070.1.1 = {
+	holder=1000083587 #Korpoordhwaj
+}
+1100.1.1 = {
+	holder=1000083589 #Giridhar
+}
+1125.1.1 = {
+	holder=1000083591 #Beeradhwaj
+}
+1155.1.1 = {
+	holder=1000083593 #Surajit
+}
+1180.1.1 = {
+	holder=1000083595 #Ohak
+}
+1210.1.1 = {
+	holder=1000083597 #Makardhwaj
+}
+1286.1.1 = {
+	holder=1000083599 #Bhopal
+}
+1316.1.1 = {
+	holder=1000083601 #Purandar
+}
+1336.1.1 = {
+	holder=1000083603 #Bicharpatiha
+}

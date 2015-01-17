@@ -1,0 +1,527 @@
+#Turki Sahi Dynasty
+
+1000083733 = {
+	name="Lagaturman"
+	dynasty=1000028380 #Turki Sahi
+	religion="buddhism"
+	culture="punjabi"
+	820.1.1={
+		birth="820.1.1"
+	}
+	840.1.1={
+		add_spouse=1000083734
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000083734 = {
+	name="Amro"
+	female=yes
+	religion="buddhism"
+	culture="punjabi"
+	820.1.1={
+		birth="820.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000083735 = {
+	name="Samantadeva"
+	dynasty=1000028380 #Turki Sahi
+	religion="buddhism"
+	culture="punjabi"
+	father=1000083733
+	mother=1000083734
+	840.1.1={
+		birth="840.1.1"
+	}
+	860.1.1={
+		add_spouse=1000083736
+	}
+	903.1.1={
+		death="903.1.1"
+	}
+}
+
+1000083736 = {
+	name="Anokhi"
+	female=yes
+	religion="buddhism"
+	culture="punjabi"
+	840.1.1={
+		birth="840.1.1"
+	}
+	903.1.1={
+		death="903.1.1"
+	}
+}
+
+#Hindu Sahi Dynasty
+
+1000083737 = {
+	name="Lalliya"
+	dynasty=1000028381 #Hindu Sahi
+	religion="hindu"
+	culture="punjabi"
+	840.1.1={
+		birth="840.1.1"
+	}
+	860.1.1={
+		add_spouse=1000083738
+	}
+	895.1.1={
+		death="895.1.1"
+	}
+}
+
+1000083738 = {
+	name="Anup"
+	female=yes
+	religion="hindu"
+	culture="punjabi"
+	840.1.1={
+		birth="840.1.1"
+	}
+	895.1.1={
+		death="895.1.1"
+	}
+}
+
+1000083739 = {
+	name="Kamaluka"
+	dynasty=1000028381 #Hindu Sahi
+	religion="hindu"
+	culture="punjabi"
+	father=1000083737
+	mother=1000083738
+	860.1.1={
+		birth="860.1.1"
+	}
+	880.1.1={
+		add_spouse=1000083740
+	}
+	921.1.1={
+		death="921.1.1"
+	}
+}
+
+1000083740 = {
+	name="Begum"
+	female=yes
+	religion="hindu"
+	culture="punjabi"
+	860.1.1={
+		birth="860.1.1"
+	}
+	921.1.1={
+		death="921.1.1"
+	}
+}
+
+1000083741 = {
+	name="Bhima"
+	dynasty=1000028381 #Hindu Sahi
+	religion="hindu"
+	culture="punjabi"
+	father=1000083739
+	mother=1000083740
+	890.1.1={
+		birth="890.1.1"
+	}
+	910.1.1={
+		add_spouse=1000083742
+	}
+	965.1.1={
+		death="965.1.1"
+	}
+}
+
+1000083742 = {
+	name="Bhani"
+	female=yes
+	religion="hindu"
+	culture="punjabi"
+	890.1.1={
+		birth="890.1.1"
+	}
+	965.1.1={
+		death="965.1.1"
+	}
+}
+
+1000083743 = {
+	name="Istapala"
+	dynasty=1000028381 #Hindu Sahi
+	religion="hindu"
+	culture="punjabi"
+	father=1000083741
+	mother=1000083742
+	910.1.1={
+		birth="910.1.1"
+	}
+	930.1.1={
+		add_spouse=1000083744
+	}
+	950.1.1={
+		death="950.1.1"
+	}
+}
+
+1000083744 = {
+	name="Dani"
+	female=yes
+	religion="hindu"
+	culture="punjabi"
+	910.1.1={
+		birth="910.1.1"
+	}
+	950.1.1={
+		death="950.1.1"
+	}
+}
+
+1000083745 = {
+	name="Jayapala"
+	dynasty=1000028381 #Hindu Sahi
+	religion="hindu"
+	culture="punjabi"
+	father=1000083743
+	mother=1000083744
+	930.1.1={
+		birth="930.1.1"
+	}
+	950.1.1={
+		add_spouse=1000083746
+	}
+	1002.1.1={
+		death="1002.1.1"
+	}
+}
+
+1000083746 = {
+	name="Gujri"
+	female=yes
+	religion="hindu"
+	culture="punjabi"
+	930.1.1={
+		birth="930.1.1"
+	}
+	1002.1.1={
+		death="1002.1.1"
+	}
+}
+
+1000083747 = {
+	name="Anandapala"
+	dynasty=1000028381 #Hindu Sahi
+	religion="hindu"
+	culture="punjabi"
+	father=1000083745
+	mother=1000083746
+	950.1.1={
+		birth="950.1.1"
+	}
+	970.1.1={
+		add_spouse=1000083748
+	}
+	1012.1.1={
+		death="1012.1.1"
+	}
+}
+
+1000083748 = {
+	name="Jodhabai"
+	female=yes
+	religion="hindu"
+	culture="punjabi"
+	950.1.1={
+		birth="950.1.1"
+	}
+	1012.1.1={
+		death="1012.1.1"
+	}
+}
+
+1000083749 = {
+	name="Trilocanapala"
+	dynasty=1000028381 #Hindu Sahi
+	religion="hindu"
+	culture="punjabi"
+	father=1000083747
+	mother=1000083748
+	970.1.1={
+		birth="970.1.1"
+	}
+	990.1.1={
+		add_spouse=1000083750
+	}
+	1021.1.1={
+		death="1021.1.1"
+	}
+}
+
+1000083750 = {
+	name="Khivi"
+	female=yes
+	religion="hindu"
+	culture="punjabi"
+	970.1.1={
+		birth="970.1.1"
+	}
+	1021.1.1={
+		death="1021.1.1"
+	}
+}
+
+1000083751 = {
+	name="Bhimapala"
+	dynasty=1000028381 #Hindu Sahi
+	religion="hindu"
+	culture="punjabi"
+	father=1000083749
+	mother=1000083750
+	990.1.1={
+		birth="990.1.1"
+	}
+	1010.1.1={
+		add_spouse=1000083752
+	}
+	1026.1.1={
+		death="1026.1.1"
+	}
+}
+
+1000083752 = {
+	name="Kishan"
+	female=yes
+	religion="hindu"
+	culture="punjabi"
+	990.1.1={
+		birth="990.1.1"
+	}
+	1026.1.1={
+		death="1026.1.1"
+	}
+}
+
+#banu Munabbih Dynasty
+
+1000083753 = {
+	name="Muhammad"
+	dynasty=1000028382 #banu Munabbih
+	religion="sunni"
+	culture="punjabi"
+	840.1.1={
+		birth="840.1.1"
+	}
+	860.1.1={
+		add_spouse=1000083754
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000083754 = {
+	name="Lachmi"
+	female=yes
+	religion="sunni"
+	culture="punjabi"
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000083755 = {
+	name="Ahmed"
+	dynasty=1000028382 #banu Munabbih
+	religion="sunni"
+	culture="punjabi"
+	father=1000083753
+	mother=1000083754
+	880.1.1={
+		birth="880.1.1"
+	}
+	900.1.1={
+		add_spouse=1000083756
+	}
+	940.1.1={
+		death="940.1.1"
+	}
+}
+
+1000083756 = {
+	name="Nanaki"
+	female=yes
+	religion="sunni"
+	culture="punjabi"
+	880.1.1={
+		birth="880.1.1"
+	}
+	940.1.1={
+		death="940.1.1"
+	}
+}
+
+1000083757 = {
+	name="Ali"
+	dynasty=1000028382 #banu Munabbih
+	religion="sunni"
+	culture="punjabi"
+	father=1000083755
+	mother=1000083756
+	915.1.1={
+		birth="915.1.1"
+	}
+	940.1.1={
+		add_spouse=1000083758
+	}
+	985.1.1={
+		death="985.1.1"
+	}
+}
+
+1000083758 = {
+	name="Nihal"
+	female=yes
+	religion="sunni"
+	culture="punjabi"
+	925.1.1={
+		birth="925.1.1"
+	}
+	985.1.1={
+		death="985.1.1"
+	}
+}
+
+#Shaibanid Dynasty
+
+1000083759 = {
+	name="Jalam"
+	dynasty=1000028383 #Shaibanid
+	religion="shiite"
+	culture="punjabi"
+	955.1.1={
+		birth="955.1.1"
+	}
+	975.1.1={
+		add_spouse=1000083760
+	}
+	992.1.1={
+		death="992.1.1"
+	}
+}
+
+1000083760 = {
+	name="Ramo"
+	female=yes
+	religion="shiite"
+	culture="punjabi"
+	955.1.1={
+		birth="955.1.1"
+	}
+	992.1.1={
+		death="992.1.1"
+	}
+}
+
+1000083761 = {
+	name="Hamid"
+	dynasty=1000028383 #Shaibanid
+	religion="shiite"
+	culture="punjabi"
+	father=1000083759
+	mother=1000083760
+	975.1.1={
+		birth="975.1.1"
+	}
+	995.1.1={
+		add_spouse=1000083762
+	}
+	997.1.1={
+		death="997.1.1"
+	}
+}
+
+1000083762 = {
+	name="Sabhirai"
+	female=yes
+	religion="shiite"
+	culture="punjabi"
+	975.1.1={
+		birth="975.1.1"
+	}
+	997.1.1={
+		death="997.1.1"
+	}
+}
+
+1000083763 = {
+	name="Nasr"
+	dynasty=1000028383 #Shaibanid
+	religion="shiite"
+	culture="punjabi"
+	father=1000083759
+	mother=1000083760
+	976.1.1={
+		birth="976.1.1"
+	}
+	996.1.1={
+		add_spouse=1000083764
+	}
+	1002.1.1={
+		death="1002.1.1"
+	}
+}
+
+1000083764 = {
+	name="Sahib"
+	female=yes
+	religion="shiite"
+	culture="punjabi"
+	976.1.1={
+		birth="976.1.1"
+	}
+	1002.1.1={
+		death="1002.1.1"
+	}
+}
+
+1000083765 = {
+	name="Abul-Fath-Daud"
+	dynasty=1000028383 #Shaibanid
+	religion="shiite"
+	culture="punjabi"
+	father=1000083759
+	mother=1000083760
+	977.1.1={
+		birth="977.1.1"
+	}
+	997.1.1={
+		add_spouse=1000083766
+	}
+	1008.1.1={
+		death="1008.1.1"
+	}
+}
+
+1000083766 = {
+	name="Sulakhni"
+	female=yes
+	religion="shiite"
+	culture="punjabi"
+	977.1.1={
+		birth="977.1.1"
+	}
+	1008.1.1={
+		death="1008.1.1"
+	}
+}
+

@@ -1,0 +1,21 @@
+# 968 - Laksmanavati
+
+# County Title
+title = c_laksmanavati
+
+# Settlements
+max_settlements = 7
+b_dhulian = castle
+b_laksmanavati = city
+b_suti = temple
+b_uttar_laxmipur = temple
+b_rahanpur = castle
+b_nawabganj = city
+#b_tanore =
+#b_ramakantapur =
+
+# Misc
+culture = bengali
+religion = mahayana
+
+# History

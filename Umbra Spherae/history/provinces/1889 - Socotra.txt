@@ -1,0 +1,24 @@
+# 1889 - Socotra
+
+# County Title
+title = c_suqutra
+
+# Settlements
+max_settlements = 4
+b_qualnsiyah = castle
+b_tamrida = city
+b_qadub = temple
+#b_steroh = castle
+#b_asma = castle
+#b_siqirah = castle
+#b_qashiu = castle
+
+# Misc
+culture = bedouin_arabic
+religion = nestorian
+
+# History
+
+867.1.1 = {
+	b_qualnsiyah = ca_indian_ocean_port
+}

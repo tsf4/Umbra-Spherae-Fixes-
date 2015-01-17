@@ -1,0 +1,98 @@
+#Harikela Dynasty
+867.1.1 = {
+	liege="d_vanga"
+}
+867.1.1 = {
+	holder=1000083575 #Kantideva
+}
+
+#Chandra Dynasty
+900.1.1 = {
+	holder=1000083475 #Trailokyachandra
+}
+930.1.1 = {
+	holder=1000083477 #Srichandra
+}
+975.1.1 = {
+	holder=1000083479 #Kalyanachandra
+}
+1000.1.1 = {
+	holder=1000083481 #Ladahachandra
+}
+1020.1.1 = {
+	holder=1000083483 #Govindachandra
+}
+
+#Varman Dynasty
+1040.1.1 = {
+	holder=1000083487 #Vajravarman
+}
+1080.1.1 = {
+	holder=1000076168 #Jatavarman
+}
+1100.1.1 = {
+	holder=1000083490 #Harivarman
+}
+1120.1.1 = {
+	holder=1000083492 #Samalavarman
+}
+1130.1.1 = {
+	holder=1000083494 #Bhojavarman
+}
+
+#Deva Dynasty
+1150.1.1 = {
+	holder=1000083473 #Purushottamanadeva
+}
+1180.1.1 = {
+	holder=1000083465 #Madhusudana
+}
+1200.1.1 = {
+	holder=1000083467 #Vasudeva
+}
+1220.1.1 = {
+	holder=1000083469 #Damodara
+}
+1234.1.1={
+	liege="k_bengal"
+}
+1243.1.1={
+	holder=1000083471 #Dasaratha
+}
+
+#Balbanid Dynasty
+1283.1.1={
+	holder=1000083688 #Bugra I
+}
+1291.1.1={
+	holder=1000083690 #Kay-Kawus
+}
+1302.1.1={
+	holder=1000083692 #Firuz I
+}
+1322.1.1={
+	holder=1000083694 #Mahmud I
+}
+1322.5.1={
+	holder=1000083696 #Bugra II
+}
+1322.10.1={
+	holder=1000083698 #Bahadur
+}
+1324.1.1={
+	holder=1000083700 #Ibrahim
+}
+
+#Tughlaq Dynasty
+1326.1.1={
+	liege="e_uttarapatha"
+}
+1326.1.1={
+	holder=1000083725 #Muhammad-Shah II
+}
+1351.5.1={
+	holder=1000083727 #Mahmud-Shah III
+}
+1351.10.1={
+	holder=1000083731 #Firuz-Shah III
+}

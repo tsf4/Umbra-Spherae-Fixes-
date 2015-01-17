@@ -1,0 +1,29 @@
+# 326 - Cagliari
+
+# County Title
+title = c_cagliari
+
+# Settlements
+max_settlements = 4
+b_santaigia = castle
+b_cagliari = city
+b_ogliastra = city
+b_assemini = temple
+#b_carbonia = castle
+#b_muravera = castle
+#b_dolianova = castle
+#b_capoterra = castle
+
+# Misc
+culture = italian
+religion = catholic
+terrain = hills
+
+# History
+1015.1.1 = { trade_post = b_caetani }
+1258.1.1 = {
+		remove_settlement = b_santaigia
+		b_cagliari = castle
+		capital = b_cagliari
+           } # Santa Igia destroyed by Pisane troops
+1285.1.1 = { trade_post = b_grimaldi }

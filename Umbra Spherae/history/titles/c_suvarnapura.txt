@@ -1,0 +1,130 @@
+#Bhaumakara Dynasty
+726.1.1={
+	liege="d_tamralipti"
+}
+726.1.1={
+	holder=1000203248 #Lakshmikaradeva
+}
+736.1.1={
+	holder=1000203249 #Ksemankaradeva
+}
+756.1.1={
+	holder=1000203250 #Sivakaradeva I
+}
+786.1.1={
+	holder=1000203251 #Subhakaradeva I
+}
+790.1.1={
+	holder=1000203252 #Sivakaradeva II
+}
+815.1.1={
+	holder=1000203253 #Santikaradeva I
+}
+830.1.1={
+	holder=1000203254 #Subhakaradeva II
+}
+837.1.1={
+	holder=1000203255 #Subhakaradeva III
+}
+
+#Khinjali Dynasty
+842.1.1={
+	holder=1000203256 #Tribhuvana-Mahadevi I
+}
+
+#Bhaumakara Dynasty
+850.1.1={
+	holder=1000203257 #Santikaradeva II
+}
+875.1.1={
+	holder=1000203258 #Subhakaradeva IV
+}
+885.1.1={
+	holder=1000203259 #Sivakaradeva III
+}
+
+#Khijjinga Dynasty
+894.1.1={
+	holder=1000203260 #Tribhuvana-Mahadevi II
+}
+
+#Kodalaka Dynasty
+896.1.1={
+	holder=1000203261 #Tribhuvana-Mahadevi III
+}
+
+#Somavamsa Dynasty
+900.1.1={
+	liege="d_suvarnapura"
+}
+900.1.1={
+	holder=1000202938 #Sivagupta
+}
+930.1.1={
+	holder=1000202939 #Mahabhavagupta I
+}
+965.1.1={
+	holder=1000202940 #Mahasivagupta I
+}
+1000.1.1={
+	holder=1000202941 #Mahabhavagupta II
+}
+1015.1.1={
+	holder=1000202942 #Mahasivagupta II
+}
+1020.1.1={
+	holder=1000202943 #Mahabhavagupta III
+}
+1025.1.1={
+	holder=1000202946 #Mahasivagupta III
+}
+1055.1.1={
+	holder=1000202947 #Mahabhavagupta IV
+}
+1080.1.1={
+	holder=1000202948 #Mahasivagupta IV
+}
+
+#East Ganga Dynasty
+1118.1.1={
+	liege="k_orissa"
+}
+1118.1.1={
+	holder=1000202959 #Codaganga
+}
+1150.1.1={
+	holder=1000202960 #Kamarnava III
+}
+1157.1.1={
+	holder=1000202961 #Raghava
+}
+1171.1.1={
+	holder=1000202962 #Rajaraja II
+}
+1192.1.1={
+	holder=1000202963 #Anangabhima I
+}
+1195.1.1={
+	holder=1000202964 #Rajaraja III
+}
+1216.1.1={
+	holder=1000202965 #Anangabhima II
+}
+1238.1.1={
+	holder=1000202966 #Narasimha I
+}
+1264.1.1={
+	holder=1000202967 #Bhanudeva I
+}
+1279.1.1={
+	holder=1000202968 #Narasimha II
+}
+1306.1.1={
+	holder=1000202969 #Bhanudeva II
+}
+1328.1.1={
+	holder=1000202970 #Narasimha III
+}
+1352.1.1={
+	holder=1000202971 #Bhanudeva III
+}

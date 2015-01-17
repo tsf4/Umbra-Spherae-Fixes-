@@ -1,0 +1,17 @@
+# 1860 - Hyargas
+
+# County Title
+title = c_hyargas
+
+# Settlements
+max_settlements = 4
+b_khyargas = castle
+b_malchin_hyargas = castle
+#b_zuungovi =
+#b_gederegiin_ortoo =
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

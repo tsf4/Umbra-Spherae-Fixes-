@@ -1,0 +1,104 @@
+#Vallipattana Shilahara Dynasty
+765.1.1={
+	liege="e_madhyadesa"
+}
+765.1.1={
+	holder=1000203162 #Sanafulla
+}
+795.1.1={
+	holder=1000203163 #Dhammayira
+}
+820.1.1={
+	holder=1000203164 #Aiyaparaja
+}
+845.1.1={
+	holder=1000203165 #Avasara I
+}
+870.1.1={
+	holder=1000203166 #Adityavarman
+}
+895.1.1={
+	holder=1000203167 #Avasara II
+}
+920.1.1={
+	holder=1000203168 #Indraraja
+}
+945.1.1={
+	holder=1000203169 #Bhima
+}
+970.1.1={
+	holder=1000203170 #Avasara III
+}
+995.1.1={
+	holder=1000203171 #Rattaraja
+}
+
+#West Chalukya Dynasty
+1020.1.1={
+	holder=1000202820 #Jayasimha
+}
+1042.1.1={
+	holder=1000076160 #Somesvara I
+}
+1068.1.1={
+	holder=1000202821 #Somesvara II
+}
+1076.1.1={
+	holder=1000202822 #Vikramaditya IV [II]
+}
+1126.1.1={
+	holder=1000202823 #Somesvara III
+}
+1138.1.1={
+	holder=1000202824 #Perman
+}
+1151.1.1={
+	holder=1000202825 #Tailapa II [III]
+}
+
+#South Kalachuri Dynasty
+1156.1.1={
+	holder=1000202828 #Bijjala
+}
+1168.1.1={
+	holder=1000202829 #Somesvara IV
+}
+1177.1.1={
+	holder=1000202830 #Sankama
+}
+1180.1.1={
+	holder=1000202831 #Ahavamalla
+}
+
+#West Chalukya Dynasty (restored)
+1181.1.1={
+	holder=1000202826 #Somesvara V [IV]
+}
+
+#Gove Kadamba Dynasty
+1189.1.1={
+	liege="d_konkana"
+}
+1189.1.1={
+	holder=1000203155 #Jayakeshi III
+}
+1216.1.1={
+	holder=1000203156 #Sivachitta-Vira-Varjadeva
+}
+1220.1.1={
+	holder=1000203157 #Tribhuvanamalla
+}
+1237.1.1={
+	holder=1000203158 #Sasthadeva III
+}
+
+#Kamadeva Dynasty
+1257.1.1={
+	holder=1000203159 #Kamadeva I
+}
+1310.1.1={
+	holder=1000203160 #Kamadeva II
+}
+1328.1.1={
+	holder=1000203161 #Kamadeva III
+}

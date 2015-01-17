@@ -1,0 +1,21 @@
+# 1038 - Srihatta
+
+# County Title
+title = c_srihatta
+
+# Settlements
+max_settlements = 4
+b_atghor = castle
+b_srihatta = city
+b_sreemangal = temple
+#b_habiganj =
+#b_kumarghat =
+#b_panisagar =
+#b_karimganj =
+#b_jagannathpur =
+
+# Misc
+culture = kamarupi
+religion = hindu
+
+# History

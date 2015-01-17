@@ -1,0 +1,23 @@
+#Rashtrakuta Dynasty (branch of Lata)
+807.1.1={
+	liege="e_madhyadesa"
+}
+807.1.1={
+	holder=1000203270 #Indra
+}
+818.1.1={
+	holder=1000203271 #Karka
+}
+826.1.1={
+	holder=1000203272 #Dhruva
+}
+845.1.1={
+	holder=1000203273 #Akalavarsha
+}
+868.1.1={
+	holder=1000203274 #Dhruva
+}
+871.1.1={
+	liege=0
+	holder=0
+}

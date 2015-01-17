@@ -1,0 +1,70 @@
+#Pala Dynasty
+750.1.1={
+	liege="e_purvadesa"
+}
+750.1.1={
+	holder=1000083411 #Gopala I
+}
+770.1.1={
+	holder=1000083413 #Dharmapala
+}
+810.1.1={
+	holder=1000083415 #Devapala
+}
+850.1.1={
+	holder=1000083417 #Surapala I
+}
+858.1.1={
+	holder=1000083421 #Vigrahapala I
+}
+860.1.1={
+	holder=1000083423 #Narayanapala
+}
+917.1.1={
+	holder=1000083425 #Rajyapala
+}
+952.1.1={
+	holder=1000083427 #Gopala II
+}
+972.1.1={
+	holder=1000083429 #Vigrahapala II
+}
+977.1.1={
+	holder=1000083431 #Mahipala I
+}
+1027.1.1={
+	holder=1000083433 #Nayapala
+}
+1043.1.1={
+	holder=1000076153 #Vigrahapala III
+}
+1070.1.1={
+	holder=1000083436 #Mahipala II
+}
+1071.1.1={
+	holder=1000083438 #Surapala II
+}
+1072.1.1={
+	holder=1000083440 #Ramapala
+}
+1080.1.1={
+	liege=0
+}
+1126.1.1={
+	holder=1000083442 #Kumarapala
+}
+1128.1.1={
+	holder=1000083444 #Gopala III
+}
+1143.1.1={
+	holder=1000083446 #Madanapala
+}
+1161.1.1={
+	holder=1000083448 #Govindapala
+}
+1165.1.1={
+	holder=1000083450 #Palapala
+}
+1199.1.1={
+	holder=0
+}

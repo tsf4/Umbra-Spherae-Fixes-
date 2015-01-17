@@ -1,0 +1,79 @@
+#Thana Shilahara Dynasty
+800.1.1={
+	liege="e_madhyadesa"
+}
+800.1.1={
+	holder=1000203187 #Kapardi I
+}
+825.1.1={
+	holder=1000203188 #Pulashakti
+}
+850.1.1={
+	holder=1000203189 #Kapardi II
+}
+880.1.1={
+	holder=1000203190 #Vappuvanna
+}
+910.1.1={
+	holder=1000203191 #Jhanjha
+}
+930.1.1={
+	holder=1000203192 #Goggiraja
+}
+945.1.1={
+	holder=1000203193 #Vajjada I
+}
+965.1.1={
+	holder=1000203194 #Chhadvaideva
+}
+975.1.1={
+	holder=1000203195 #Aparijata
+}
+1010.1.1={
+	holder=1000203196 #Vajjada II
+}
+1015.1.1={
+	holder=1000203197 #Arikesari
+}
+1022.1.1={
+	holder=1000203198 #Chittaraja
+}
+1035.1.1={
+	holder=1000203199 #Nagarjuna
+}
+1045.1.1={
+	holder=1000076158 #Mummuniraja
+}
+1070.1.1={
+	holder=1000203200 #Anantadeva I
+}
+1127.1.1={
+	holder=1000203201 #Aparaditya I
+}
+1148.1.1={
+	holder=1000203202 #Haripaldeva
+}
+1155.1.1={
+	holder=1000203203 #Mallikarjuna
+}
+1170.1.1={
+	holder=1000203204 #Aparaditya II
+}
+1189.1.1={
+	liege=0
+}
+1197.1.1={
+	holder=1000203205 #Anantadeva II
+}
+1200.1.1={
+	holder=1000203206 #Keshideva
+}
+1245.1.1={
+	holder=1000203207 #Anantadeva III
+}
+1255.1.1={
+	holder=1000203208 #Someshwara
+}
+1265.1.1={
+	holder=0
+}

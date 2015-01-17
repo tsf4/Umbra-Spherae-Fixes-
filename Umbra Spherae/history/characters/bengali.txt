@@ -1,0 +1,1952 @@
+#Pala Dynasty
+
+1000083411 = {
+	name="Gopala"
+	dynasty=1000028267 #Pala
+	religion="mahayana"
+	culture="bengali"
+	720.1.1={
+		birth="720.1.1"
+	}
+	740.1.1={
+		add_spouse=1000083412
+	}
+	770.1.1={
+		death="770.1.1"
+	}
+}
+
+1000083412 = {
+	name="Amritakala"
+	female=yes
+	religion="mahayana"
+	culture="bengali"
+	720.1.1={
+		birth="720.1.1"
+	}
+	770.1.1={
+		death="770.1.1"
+	}
+}
+
+1000083413 = {
+	name="Dharmapala"
+	dynasty=1000028267 #Pala
+	religion="mahayana"
+	culture="bengali"
+	father=1000083411
+	mother=1000083412
+	740.1.1={
+		birth="740.1.1"
+	}
+	760.1.1={
+		add_spouse=1000083414
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000083414 = {
+	name="Asima"
+	female=yes
+	religion="mahayana"
+	culture="bengali"
+	740.1.1={
+		birth="740.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000083415 = {
+	name="Devapala"
+	dynasty=1000028267 #Pala
+	religion="mahayana"
+	culture="bengali"
+	father=1000083413
+	mother=1000083414
+	790.1.1={
+		birth="790.1.1"
+	}
+	810.1.1={
+		add_spouse=1000083416
+	}
+	850.1.1={
+		death="850.1.1"
+	}
+}
+
+1000083416 = {
+	name="Bhavashankari"
+	female=yes
+	religion="mahayana"
+	culture="bengali"
+	790.1.1={
+		birth="790.1.1"
+	}
+	850.1.1={
+		death="850.1.1"
+	}
+}
+
+1000083417 = {
+	name="Surapala"
+	dynasty=1000028267 #Pala
+	religion="mahayana"
+	culture="bengali"
+	father=1000083415
+	mother=1000083416
+	810.1.1={
+		birth="810.1.1"
+	}
+	830.1.1={
+		add_spouse=1000083418
+	}
+	858.1.1={
+		death="858.1.1"
+	}
+}
+
+1000083418 = {
+	name="Bibibai"
+	female=yes
+	religion="mahayana"
+	culture="bengali"
+	810.1.1={
+		birth="810.1.1"
+	}
+	858.1.1={
+		death="858.1.1"
+	}
+}
+
+1000083419 = {
+	name="Vakpala"
+	dynasty=1000028267 #Pala
+	religion="mahayana"
+	culture="bengali"
+	father=1000083411
+	mother=1000083412
+	741.1.1={
+		birth="741.1.1"
+	}
+	761.1.1={
+		add_spouse=1000083420
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000083420 = {
+	name="Gayatri"
+	female=yes
+	religion="mahayana"
+	culture="bengali"
+	741.1.1={
+		birth="741.1.1"
+	}
+	810.1.1={
+		death="810.1.1"
+	}
+}
+
+1000083421 = {
+	name="Vigrahapala"
+	dynasty=1000028267 #Pala
+	religion="mahayana"
+	culture="bengali"
+	father=1000083419
+	mother=1000083420
+	790.1.1={
+		birth="790.1.1"
+	}
+	810.1.1={
+		add_spouse=1000083422
+	}
+	860.1.1={
+		death="860.1.1"
+	}
+}
+
+1000083422 = {
+	name="Himadrija"
+	female=yes
+	religion="mahayana"
+	culture="bengali"
+	790.1.1={
+		birth="790.1.1"
+	}
+	860.1.1={
+		death="860.1.1"
+	}
+}
+
+1000083423 = {
+	name="Narayanapala"
+	dynasty=1000028267 #Pala
+	religion="mahayana"
+	culture="bengali"
+	father=1000083421
+	mother=1000083422
+	840.1.1={
+		birth="840.1.1"
+	}
+	860.1.1={
+		add_spouse=1000083424
+	}
+	917.1.1={
+		death="917.1.1"
+	}
+}
+
+1000083424 = {
+	name="Hira"
+	female=yes
+	religion="mahayana"
+	culture="bengali"
+	840.1.1={
+		birth="840.1.1"
+	}
+	917.1.1={
+		death="917.1.1"
+	}
+}
+
+1000083425 = {
+	name="Rajyapala"
+	dynasty=1000028267 #Pala
+	religion="mahayana"
+	culture="bengali"
+	father=1000083423
+	mother=1000083424
+	890.1.1={
+		birth="890.1.1"
+	}
+	910.1.1={
+		add_spouse=1000083426
+	}
+	952.1.1={
+		death="952.1.1"
+	}
+}
+
+1000083426 = {
+	name="Jira"
+	female=yes
+	religion="mahayana"
+	culture="bengali"
+	890.1.1={
+		birth="890.1.1"
+	}
+	952.1.1={
+		death="952.1.1"
+	}
+}
+
+1000083427 = {
+	name="Gopala"
+	dynasty=1000028267 #Pala
+	religion="mahayana"
+	culture="bengali"
+	father=1000083425
+	mother=1000083426
+	920.1.1={
+		birth="920.1.1"
+	}
+	940.1.1={
+		add_spouse=1000083428
+	}
+	972.1.1={
+		death="972.1.1"
+	}
+}
+
+1000083428 = {
+	name="Kanchani"
+	female=yes
+	religion="mahayana"
+	culture="bengali"
+	920.1.1={
+		birth="920.1.1"
+	}
+	972.1.1={
+		death="972.1.1"
+	}
+}
+
+1000083429 = {
+	name="Vigrahapala"
+	dynasty=1000028267 #Pala
+	religion="mahayana"
+	culture="bengali"
+	father=1000083427
+	mother=1000083428
+	940.1.1={
+		birth="940.1.1"
+	}
+	960.1.1={
+		add_spouse=1000083430
+	}
+	977.1.1={
+		death="977.1.1"
+	}
+}
+
+1000083430 = {
+	name="Mahendrani"
+	female=yes
+	religion="mahayana"
+	culture="bengali"
+	940.1.1={
+		birth="940.1.1"
+	}
+	977.1.1={
+		death="977.1.1"
+	}
+}
+
+1000083431 = {
+	name="Mahipala"
+	dynasty=1000028267 #Pala
+	religion="mahayana"
+	culture="bengali"
+	father=1000083429
+	mother=1000083430
+	960.1.1={
+		birth="960.1.1"
+	}
+	980.1.1={
+		add_spouse=1000083432
+	}
+	1027.1.1={
+		death="1027.1.1"
+	}
+}
+
+1000083432 = {
+	name="Rani"
+	female=yes
+	religion="mahayana"
+	culture="bengali"
+	960.1.1={
+		birth="960.1.1"
+	}
+	1027.1.1={
+		death="1027.1.1"
+	}
+}
+
+1000083433 = {
+	name="Nayapala"
+	dynasty=1000028267 #Pala
+	religion="mahayana"
+	culture="bengali"
+	father=1000083431
+	mother=1000083432
+	980.1.1={
+		birth="980.1.1"
+	}
+	1000.1.1={
+		add_spouse=1000083434
+	}
+	1043.1.1={
+		death="1043.1.1"
+	}
+}
+
+1000083434 = {
+	name="Vina"
+	female=yes
+	religion="mahayana"
+	culture="bengali"
+	980.1.1={
+		birth="980.1.1"
+	}
+	1043.1.1={
+		death="1043.1.1"
+	}
+}
+
+1000076153 = {
+	name="Vigrahapala"
+	dynasty=1000028267 #Pala
+	religion="mahayana"
+	culture="bengali"
+	father=1000083433
+	mother=1000083434
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1020.1.1={
+		add_spouse=1000083435
+	}
+	1070.1.1={
+		death="1070.1.1"
+	}
+}
+
+1000083435 = {
+	name="Amritakala"
+	female=yes
+	religion="mahayana"
+	culture="bengali"
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1070.1.1={
+		death="1070.1.1"
+	}
+}
+
+1000083436 = {
+	name="Mahipala"
+	dynasty=1000028267 #Pala
+	religion="mahayana"
+	culture="bengali"
+	father=1000076153
+	mother=1000083435
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1040.1.1={
+		add_spouse=1000083437
+	}
+	1071.1.1={
+		death="1071.1.1"
+	}
+}
+
+1000083437 = {
+	name="Asima"
+	female=yes
+	religion="mahayana"
+	culture="bengali"
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1071.1.1={
+		death="1071.1.1"
+	}
+}
+
+1000083438 = {
+	name="Surapala"
+	dynasty=1000028267 #Pala
+	religion="mahayana"
+	culture="bengali"
+	father=1000076153
+	mother=1000083435
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1060.1.1={
+		add_spouse=1000083439
+	}
+	1072.1.1={
+		death="1072.1.1"
+	}
+}
+
+1000083439 = {
+	name="Bhavashankari"
+	female=yes
+	religion="mahayana"
+	culture="bengali"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1072.1.1={
+		death="1072.1.1"
+	}
+}
+
+1000083440 = {
+	name="Ramapala"
+	dynasty=1000028267 #Pala
+	religion="mahayana"
+	culture="bengali"
+	father=1000076153
+	mother=1000083435
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1070.1.1={
+		add_spouse=1000083441
+	}
+	1126.1.1={
+		death="1126.1.1"
+	}
+}
+
+1000083441 = {
+	name="Bibibai"
+	female=yes
+	religion="mahayana"
+	culture="bengali"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1126.1.1={
+		death="1126.1.1"
+	}
+}
+
+1000083442 = {
+	name="Kumarapala"
+	dynasty=1000028267 #Pala
+	religion="mahayana"
+	culture="bengali"
+	father=1000083440
+	mother=1000083441
+	1070.1.1={
+		birth="1070.1.1"
+	}
+	1090.1.1={
+		add_spouse=1000083443
+	}
+	1128.1.1={
+		death="1128.1.1"
+	}
+}
+
+1000083443 = {
+	name="Gayatri"
+	female=yes
+	religion="mahayana"
+	culture="bengali"
+	1070.1.1={
+		birth="1070.1.1"
+	}
+	1128.1.1={
+		death="1128.1.1"
+	}
+}
+
+1000083444 = {
+	name="Gopala"
+	dynasty=1000028267 #Pala
+	religion="mahayana"
+	culture="bengali"
+	father=1000083442
+	mother=1000083443
+	1090.1.1={
+		birth="1090.1.1"
+	}
+	1110.1.1={
+		add_spouse=1000083445
+	}
+	1143.1.1={
+		death="1143.1.1"
+	}
+}
+
+1000083445 = {
+	name="Himadrija"
+	female=yes
+	religion="mahayana"
+	culture="bengali"
+	1090.1.1={
+		birth="1090.1.1"
+	}
+	1143.1.1={
+		death="1143.1.1"
+	}
+}
+
+1000083446 = {
+	name="Madanapala"
+	dynasty=1000028267 #Pala
+	religion="mahayana"
+	culture="bengali"
+	father=1000083440
+	mother=1000083441
+	1090.1.1={
+		birth="1090.1.1"
+	}
+	1110.1.1={
+		add_spouse=1000083443
+	}
+	1161.1.1={
+		death="1161.1.1"
+	}
+}
+
+1000083447 = {
+	name="Hira"
+	female=yes
+	religion="mahayana"
+	culture="bengali"
+	1090.1.1={
+		birth="1090.1.1"
+	}
+	1161.1.1={
+		death="1161.1.1"
+	}
+}
+
+1000083448 = {
+	name="Govindapala"
+	dynasty=1000028267 #Pala
+	religion="mahayana"
+	culture="bengali"
+	father=1000083446
+	mother=1000083447
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1130.1.1={
+		add_spouse=1000083449
+	}
+	1165.1.1={
+		death="1165.1.1"
+	}
+}
+
+1000083449 = {
+	name="Jira"
+	female=yes
+	religion="mahayana"
+	culture="bengali"
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1165.1.1={
+		death="1165.1.1"
+	}
+}
+
+1000083450 = {
+	name="Palapala"
+	dynasty=1000028267 #Pala
+	religion="mahayana"
+	culture="bengali"
+	father=1000083448
+	mother=1000083449
+	1130.1.1={
+		birth="1130.1.1"
+	}
+	1150.1.1={
+		add_spouse=1000083451
+	}
+	1199.1.1={
+		death="1199.1.1"
+	}
+}
+
+1000083451 = {
+	name="Kanchani"
+	female=yes
+	religion="mahayana"
+	culture="bengali"
+	1130.1.1={
+		birth="1130.1.1"
+	}
+	1199.1.1={
+		death="1199.1.1"
+	}
+}
+
+#Varman Dynasty
+
+1000083487 = {
+	name="Vajravarman"
+	dynasty=1000028282 #Varman
+	religion="hindu"
+	culture="bengali"
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1040.1.1={
+		add_spouse=1000083488
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000083488 = {
+	name="Suvrata"
+	female=yes
+	religion="hindu"
+	culture="bengali"
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000076168 = {
+	name="Jatavarman"
+	dynasty=1000028282 #Varman
+	religion="hindu"
+	culture="bengali"
+	father=1000083487
+	mother=1000083488
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1060.1.1={
+		add_spouse=1000083489
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+1000083489 = {
+	name="Syamadevi"
+	female=yes
+	religion="hindu"
+	culture="bengali"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+1000083490 = {
+	name="Harivarman"
+	dynasty=1000028282 #Varman
+	religion="hindu"
+	culture="bengali"
+	father=1000076168
+	mother=1000083489
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1080.1.1={
+		add_spouse=1000083491
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+1000083491 = {
+	name="Vijnayavati"
+	female=yes
+	religion="hindu"
+	culture="bengali"
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1120.1.1={
+		death="1120.1.1"
+	}
+}
+
+1000083492 = {
+	name="Samalavarman"
+	dynasty=1000028282 #Varman
+	religion="hindu"
+	culture="bengali"
+	father=1000076168
+	mother=1000083489
+	1070.1.1={
+		birth="1070.1.1"
+	}
+	1090.1.1={
+		add_spouse=1000083493
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+1000083493 = {
+	name="Malavyadevi"
+	female=yes
+	religion="hindu"
+	culture="bengali"
+	1070.1.1={
+		birth="1070.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+1000083494 = {
+	name="Bhojavarman"
+	dynasty=1000028282 #Varman
+	religion="hindu"
+	culture="bengali"
+	father=1000083492
+	mother=1000083493
+	1090.1.1={
+		birth="1090.1.1"
+	}
+	1110.1.1={
+		add_spouse=1000083495
+	}
+	1150.1.1={
+		death="1150.1.1"
+	}
+}
+
+1000083495 = {
+	name="Vina"
+	female=yes
+	religion="hindu"
+	culture="bengali"
+	1090.1.1={
+		birth="1090.1.1"
+	}
+	1150.1.1={
+		death="1150.1.1"
+	}
+}
+
+#Twipra Dynasty
+
+1000083268 = {
+	name="Muchung-Fa"
+	dynasty=1000028295 #Twipra
+	religion="hindu"
+	culture="bengali"
+	810.1.1={
+		birth="810.1.1"
+	}
+	830.1.1={
+		add_spouse=1000083285
+	}
+	860.1.1={
+		death="860.1.1"
+	}
+}
+
+1000083285 = {
+	name="Amritakala"
+	female=yes
+	religion="hindu"
+	culture="bengali"
+	810.1.1={
+		birth="810.1.1"
+	}
+	860.1.1={
+		death="860.1.1"
+	}
+}
+
+1000083269 = {
+	name="Sadhu-Rai"
+	dynasty=1000028295 #Twipra
+	religion="hindu"
+	culture="bengali"
+	father=1000083268
+	mother=1000083285
+	840.1.1={
+		birth="840.1.1"
+	}
+	860.1.1={
+		add_spouse=1000083286
+	}
+	890.1.1={
+		death="890.1.1"
+	}
+}
+
+1000083286 = {
+	name="Asima"
+	female=yes
+	religion="hindu"
+	culture="bengali"
+	840.1.1={
+		birth="810.1.1"
+	}
+	890.1.1={
+		death="890.1.1"
+	}
+}
+
+1000083270 = {
+	name="Pratap-Rai"
+	dynasty=1000028295 #Twipra
+	religion="hindu"
+	culture="bengali"
+	father=1000083269
+	mother=1000083286
+	870.1.1={
+		birth="870.1.1"
+	}
+	890.1.1={
+		add_spouse=1000083287
+	}
+	920.1.1={
+		death="920.1.1"
+	}
+}
+
+1000083287 = {
+	name="Bhavashankari"
+	female=yes
+	religion="hindu"
+	culture="bengali"
+	870.1.1={
+		birth="870.1.1"
+	}
+	920.1.1={
+		death="920.1.1"
+	}
+}
+
+1000083271 = {
+	name="Vishnuprasad"
+	dynasty=1000028295 #Twipra
+	religion="hindu"
+	culture="bengali"
+	father=1000083270
+	mother=1000083287
+	900.1.1={
+		birth="900.1.1"
+	}
+	920.1.1={
+		add_spouse=1000083288
+	}
+	950.1.1={
+		death="950.1.1"
+	}
+}
+
+1000083288 = {
+	name="Bibibai"
+	female=yes
+	religion="hindu"
+	culture="bengali"
+	900.1.1={
+		birth="900.1.1"
+	}
+	950.1.1={
+		death="950.1.1"
+	}
+}
+
+1000083272 = {
+	name="Baneshwar"
+	dynasty=1000028295 #Twipra
+	religion="hindu"
+	culture="bengali"
+	father=1000083271
+	mother=1000083288
+	930.1.1={
+		birth="930.1.1"
+	}
+	950.1.1={
+		add_spouse=1000083289
+	}
+	980.1.1={
+		death="980.1.1"
+	}
+}
+
+1000083289 = {
+	name="Gayatri"
+	female=yes
+	religion="hindu"
+	culture="bengali"
+	930.1.1={
+		birth="930.1.1"
+	}
+	980.1.1={
+		death="980.1.1"
+	}
+}
+
+1000083273 = {
+	name="Beerbahu"
+	dynasty=1000028295 #Twipra
+	religion="hindu"
+	culture="bengali"
+	father=1000083272
+	mother=1000083289
+	960.1.1={
+		birth="960.1.1"
+	}
+	980.1.1={
+		add_spouse=1000083290
+	}
+	1010.1.1={
+		death="1010.1.1"
+	}
+}
+
+1000083290 = {
+	name="Himadrija"
+	female=yes
+	religion="hindu"
+	culture="bengali"
+	960.1.1={
+		birth="960.1.1"
+	}
+	1010.1.1={
+		death="1010.1.1"
+	}
+}
+
+1000083274 = {
+	name="Samrat"
+	dynasty=1000028295 #Twipra
+	religion="hindu"
+	culture="bengali"
+	father=1000083273
+	mother=1000083290
+	990.1.1={
+		birth="990.1.1"
+	}
+	1010.1.1={
+		add_spouse=1000083291
+	}
+	1040.1.1={
+		death="1040.1.1"
+	}
+}
+
+1000083291 = {
+	name="Hira"
+	female=yes
+	religion="hindu"
+	culture="bengali"
+	990.1.1={
+		birth="990.1.1"
+	}
+	1040.1.1={
+		death="1040.1.1"
+	}
+}
+
+1000076181 = {
+	name="Champakeshwar"
+	dynasty=1000028295 #Twipra
+	religion="hindu"
+	culture="bengali"
+	father=1000083274
+	mother=1000083291
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1040.1.1={
+		add_spouse=1000083292
+	}
+	1070.1.1={
+		death="1070.1.1"
+	}
+}
+
+1000083292 = {
+	name="Jira"
+	female=yes
+	religion="hindu"
+	culture="bengali"
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1070.1.1={
+		death="1070.1.1"
+	}
+}
+
+1000083275 = {
+	name="Meghraj"
+	dynasty=1000028295 #Twipra
+	religion="hindu"
+	culture="bengali"
+	father=1000076181
+	mother=1000083292
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1070.1.1={
+		add_spouse=1000083293
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+1000083293 = {
+	name="Kanchani"
+	female=yes
+	religion="hindu"
+	culture="bengali"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+1000083276 = {
+	name="Sengkwchag"
+	dynasty=1000028295 #Twipra
+	religion="hindu"
+	culture="bengali"
+	father=1000083275
+	mother=1000083293
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1100.1.1={
+		add_spouse=1000083294
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+1000083294 = {
+	name="Mahendrani"
+	female=yes
+	religion="hindu"
+	culture="bengali"
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+1000083277 = {
+	name="Sengthum-Fa"
+	dynasty=1000028295 #Twipra
+	religion="hindu"
+	culture="bengali"
+	father=1000083276
+	mother=1000083294
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1130.1.1={
+		add_spouse=1000083295
+	}
+	1160.1.1={
+		death="1160.1.1"
+	}
+}
+
+1000083295 = {
+	name="Rani"
+	female=yes
+	religion="hindu"
+	culture="bengali"
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1160.1.1={
+		death="1160.1.1"
+	}
+}
+
+1000083278 = {
+	name="Achong-Fa"
+	dynasty=1000028295 #Twipra
+	religion="hindu"
+	culture="bengali"
+	father=1000083277
+	mother=1000083295
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1160.1.1={
+		add_spouse=1000083296
+	}
+	1190.1.1={
+		death="1190.1.1"
+	}
+}
+
+1000083296 = {
+	name="Vina"
+	female=yes
+	religion="hindu"
+	culture="bengali"
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1190.1.1={
+		death="1190.1.1"
+	}
+}
+
+1000083279 = {
+	name="Khichung-Fa"
+	dynasty=1000028295 #Twipra
+	religion="hindu"
+	culture="bengali"
+	father=1000083278
+	mother=1000083296
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1190.1.1={
+		add_spouse=1000083297
+	}
+	1220.1.1={
+		death="1220.1.1"
+	}
+}
+
+1000083297 = {
+	name="Amritakala"
+	female=yes
+	religion="hindu"
+	culture="bengali"
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1220.1.1={
+		death="1220.1.1"
+	}
+}
+
+1000083280 = {
+	name="Dangar-Fa"
+	dynasty=1000028295 #Twipra
+	religion="hindu"
+	culture="bengali"
+	father=1000083279
+	mother=1000083297
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1220.1.1={
+		add_spouse=1000083298
+	}
+	1250.1.1={
+		death="1250.1.1"
+	}
+}
+
+1000083298 = {
+	name="Asima"
+	female=yes
+	religion="hindu"
+	culture="bengali"
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1250.1.1={
+		death="1250.1.1"
+	}
+}
+
+1000083281 = {
+	name="Raja-Fa"
+	dynasty=1000028295 #Twipra
+	religion="hindu"
+	culture="bengali"
+	father=1000083280
+	mother=1000083298
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1250.1.1={
+		add_spouse=1000083299
+	}
+	1280.1.1={
+		death="1280.1.1"
+	}
+}
+
+1000083299 = {
+	name="Bhavashankari"
+	female=yes
+	religion="hindu"
+	culture="bengali"
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1280.1.1={
+		death="1280.1.1"
+	}
+}
+
+#Manikya Dynasty
+
+1000083282 = {
+	name="Ratna-Fa"
+	dynasty=1000028349 #Manikya
+	religion="hindu"
+	culture="bengali"
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1280.1.1={
+		add_spouse=1000083300
+	}
+	1310.1.1={
+		death="1310.1.1"
+	}
+}
+
+1000083300 = {
+	name="Bibibai"
+	female=yes
+	religion="hindu"
+	culture="bengali"
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1310.1.1={
+		death="1310.1.1"
+	}
+}
+
+1000083283 = {
+	name="Pratap"
+	dynasty=1000028349 #Manikya
+	religion="hindu"
+	culture="bengali"
+	father=1000083282
+	mother=1000083300
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1310.1.1={
+		add_spouse=1000083301
+	}
+	1340.1.1={
+		death="1340.1.1"
+	}
+}
+
+1000083301 = {
+	name="Gayatri"
+	female=yes
+	religion="hindu"
+	culture="bengali"
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1340.1.1={
+		death="1340.1.1"
+	}
+}
+
+1000083284 = {
+	name="Mukut"
+	dynasty=1000028349 #Manikya
+	religion="hindu"
+	culture="bengali"
+	father=1000083283
+	mother=1000083301
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1340.1.1={
+		add_spouse=1000083302
+	}
+	1370.1.1={
+		death="1370.1.1"
+	}
+}
+
+1000083302 = {
+	name="Himadrija"
+	female=yes
+	religion="hindu"
+	culture="bengali"
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1370.1.1={
+		death="1370.1.1"
+	}
+}
+
+#Sena Dynasty
+
+1000083452 = {
+	name="Samantasena"
+	dynasty=1000028297 #Sena
+	religion="hindu"
+	culture="bengali"
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1040.1.1={
+		add_spouse=1000083453
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000083453 = {
+	name="Amritakala"
+	female=yes
+	religion="hindu"
+	culture="bengali"
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000076183 = {
+	name="Hemantasena"
+	dynasty=1000028297 #Sena
+	religion="hindu"
+	culture="bengali"
+	father=1000083452
+	mother=1000083453
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1060.1.1={
+		add_spouse=1000083454
+	}
+	1095.1.1={
+		death="1095.1.1"
+	}
+}
+
+1000083454 = {
+	name="Asima"
+	female=yes
+	religion="hindu"
+	culture="bengali"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1095.1.1={
+		death="1095.1.1"
+	}
+}
+
+1000083455 = {
+	name="Vijayasena"
+	dynasty=1000028297 #Sena
+	religion="hindu"
+	culture="bengali"
+	father=1000076183
+	mother=1000083454
+	1090.1.1={
+		birth="1090.1.1"
+	}
+	1110.1.1={
+		add_spouse=1000083456
+	}
+	1158.1.1={
+		death="1158.1.1"
+	}
+}
+
+1000083456 = {
+	name="Bhavashankari"
+	female=yes
+	religion="hindu"
+	culture="bengali"
+	1090.1.1={
+		birth="1090.1.1"
+	}
+	1158.1.1={
+		death="1158.1.1"
+	}
+}
+
+1000083457 = {
+	name="Vallasena"
+	dynasty=1000028297 #Sena
+	religion="hindu"
+	culture="bengali"
+	father=1000083455
+	mother=1000083456
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1130.1.1={
+		add_spouse=1000083458
+	}
+	1179.1.1={
+		death="1179.1.1"
+	}
+}
+
+1000083458 = {
+	name="Bhogavati"
+	female=yes
+	religion="hindu"
+	culture="bengali"
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1179.1.1={
+		death="1179.1.1"
+	}
+}
+
+1000083459 = {
+	name="Laksmanasena"
+	dynasty=1000028297 #Sena
+	religion="hindu"
+	culture="bengali"
+	father=1000083457
+	mother=1000083458
+	1130.1.1={
+		birth="1130.1.1"
+	}
+	1150.1.1={
+		add_spouse=1000083460
+	}
+	1206.1.1={
+		death="1206.1.1"
+	}
+}
+
+1000083460 = {
+	name="Bibibai"
+	female=yes
+	religion="hindu"
+	culture="bengali"
+	1130.1.1={
+		birth="1130.1.1"
+	}
+	1206.1.1={
+		death="1206.1.1"
+	}
+}
+
+1000083461 = {
+	name="Visvarupasena"
+	dynasty=1000028297 #Sena
+	religion="hindu"
+	culture="bengali"
+	father=1000083459
+	mother=1000083460
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1170.1.1={
+		add_spouse=1000083462
+	}
+	1220.1.1={
+		death="1220.1.1"
+	}
+}
+
+1000083462 = {
+	name="Dattadevi"
+	female=yes
+	religion="hindu"
+	culture="bengali"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1220.1.1={
+		death="1220.1.1"
+	}
+}
+
+1000083463 = {
+	name="Kesavasena"
+	dynasty=1000028297 #Sena
+	religion="hindu"
+	culture="bengali"
+	father=1000083459
+	mother=1000083460
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1190.1.1={
+		add_spouse=1000083464
+	}
+	1245.1.1={
+		death="1245.1.1"
+	}
+}
+
+1000083464 = {
+	name="Devavati"
+	female=yes
+	religion="hindu"
+	culture="bengali"
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1245.1.1={
+		death="1245.1.1"
+	}
+}
+
+#Deva Dynasty
+
+1000083473 = {
+	name="Purushottamanadeva"
+	dynasty=1000028362 #Deva
+	religion="hindu"
+	culture="bengali"
+	1130.1.1={
+		birth="1130.1.1"
+	}
+	1150.1.1={
+		add_spouse=1000083474
+	}
+	1180.1.1={
+		death="1180.1.1"
+	}
+}
+
+1000083474 = {
+	name="Jira"
+	female=yes
+	religion="hindu"
+	culture="bengali"
+	1130.1.1={
+		birth="1130.1.1"
+	}
+	1180.1.1={
+		death="1180.1.1"
+	}
+}
+
+1000083465 = {
+	name="Madhusudana"
+	dynasty=1000028362 #Deva
+	religion="hindu"
+	culture="bengali"
+	father=1000083473
+	mother=1000083474
+	1160.1.1={
+		birth="1160.1.1"
+	}
+	1180.1.1={
+		add_spouse=1000083466
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000083466 = {
+	name="Gandharavati"
+	female=yes
+	religion="hindu"
+	culture="bengali"
+	1160.1.1={
+		birth="1160.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000083467 = {
+	name="Vasudeva"
+	dynasty=1000028362 #Deva
+	religion="hindu"
+	culture="bengali"
+	father=1000083465
+	mother=1000083466
+	1180.1.1={
+		birth="1180.1.1"
+	}
+	1200.1.1={
+		add_spouse=1000083468
+	}
+	1220.1.1={
+		death="1220.1.1"
+	}
+}
+
+1000083468 = {
+	name="Gayatri"
+	female=yes
+	religion="hindu"
+	culture="bengali"
+	1180.1.1={
+		birth="1180.1.1"
+	}
+	1220.1.1={
+		death="1220.1.1"
+	}
+}
+
+1000083469 = {
+	name="Damodara"
+	dynasty=1000028362 #Deva
+	religion="hindu"
+	culture="bengali"
+	father=1000083467
+	mother=1000083468
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1220.1.1={
+		add_spouse=1000083470
+	}
+	1243.1.1={
+		death="1243.1.1"
+	}
+}
+
+1000083470 = {
+	name="Himadrija"
+	female=yes
+	religion="hindu"
+	culture="bengali"
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1243.1.1={
+		death="1243.1.1"
+	}
+}
+
+1000083471 = {
+	name="Dasaratha"
+	dynasty=1000028362 #Deva
+	religion="hindu"
+	culture="bengali"
+	father=1000083469
+	mother=1000083470
+	1220.1.1={
+		birth="1220.1.1"
+	}
+	1240.1.1={
+		add_spouse=1000083472
+	}
+	1283.1.1={
+		death="1283.1.1"
+	}
+}
+
+1000083472 = {
+	name="Hira"
+	female=yes
+	religion="hindu"
+	culture="bengali"
+	1220.1.1={
+		birth="1220.1.1"
+	}
+	1283.1.1={
+		death="1283.1.1"
+	}
+}
+
+#Chandra Dynasty
+
+1000083485 = {
+	name="Subarnachandra"
+	dynasty=1000028363 #Chandra
+	religion="buddhism"
+	culture="bengali"
+	840.1.1={
+		birth="840.1.1"
+	}
+	860.1.1={
+		add_spouse=1000083486
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000083486 = {
+	name="Ratnadevi"
+	female=yes
+	religion="buddhism"
+	culture="bengali"
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000083475 = {
+	name="Trailokyachandra"
+	dynasty=1000028363 #Chandra
+	religion="buddhism"
+	culture="bengali"
+	father=1000083485
+	mother=1000083486
+	867.1.1={
+		birth="867.1.1"
+	}
+	890.1.1={
+		add_spouse=1000083476
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000083476 = {
+	name="Kanchani"
+	female=yes
+	religion="buddhism"
+	culture="bengali"
+	867.1.1={
+		birth="867.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000083477 = {
+	name="Srichandra"
+	dynasty=1000028363 #Chandra
+	religion="buddhism"
+	culture="bengali"
+	father=1000083475
+	mother=1000083476
+	910.1.1={
+		birth="910.1.1"
+	}
+	930.1.1={
+		add_spouse=1000083478
+	}
+	975.1.1={
+		death="975.1.1"
+	}
+}
+
+1000083478 = {
+	name="Mahendrani"
+	female=yes
+	religion="buddhism"
+	culture="bengali"
+	910.1.1={
+		birth="910.1.1"
+	}
+	975.1.1={
+		death="975.1.1"
+	}
+}
+
+1000083479 = {
+	name="Kalyanachandra"
+	dynasty=1000028363 #Chandra
+	religion="buddhism"
+	culture="bengali"
+	father=1000083477
+	mother=1000083478
+	930.1.1={
+		birth="930.1.1"
+	}
+	950.1.1={
+		add_spouse=1000083480
+	}
+	1000.1.1={
+		death="1000.1.1"
+	}
+}
+
+1000083480 = {
+	name="Nayanadevi"
+	female=yes
+	religion="buddhism"
+	culture="bengali"
+	930.1.1={
+		birth="930.1.1"
+	}
+	1000.1.1={
+		death="1000.1.1"
+	}
+}
+
+1000083481 = {
+	name="Ladahachandra"
+	dynasty=1000028363 #Chandra
+	religion="buddhism"
+	culture="bengali"
+	father=1000083479
+	mother=1000083480
+	950.1.1={
+		birth="950.1.1"
+	}
+	970.1.1={
+		add_spouse=1000083482
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000083482 = {
+	name="Saubhagyadevi"
+	female=yes
+	religion="buddhism"
+	culture="bengali"
+	950.1.1={
+		birth="950.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000083483 = {
+	name="Govindachandra"
+	dynasty=1000028363 #Chandra
+	religion="buddhism"
+	culture="bengali"
+	father=1000083481
+	mother=1000083482
+	980.1.1={
+		birth="980.1.1"
+	}
+	1000.1.1={
+		add_spouse=1000083484
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000083484 = {
+	name="Rani"
+	female=yes
+	religion="buddhism"
+	culture="bengali"
+	980.1.1={
+		birth="980.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+#Harikela Dynasty
+
+1000083575 = {
+	name="Kantideva"
+	dynasty=1000028369 #Harikela
+	religion="hindu"
+	culture="bengali"
+	850.1.1={
+		birth="850.1.1"
+	}
+	870.1.1={
+		add_spouse=1000083576
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000083576 = {
+	name="Vasumati"
+	female=yes
+	religion="hindu"
+	culture="bengali"
+	850.1.1={
+		birth="850.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}

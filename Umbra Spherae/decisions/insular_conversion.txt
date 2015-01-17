@@ -1,0 +1,59 @@
+decisions = {
+
+	# Celts can convert to the Insular rite, or if their wife or a concubine is a believer
+	convert_to_insular = {
+		potential = {
+			is_playable = yes
+			controls_religion = no
+			NOT = { trait = zealous religion = celide }
+			OR = {
+				culture_group = celtic
+				any_spouse = {
+					religion = celide
+					hidden_tooltip = {
+						is_alive = yes
+					}
+				}
+				any_consort = {
+					religion = celide
+					hidden_tooltip = {
+						is_alive = yes
+					}
+				}
+			}
+		}
+		
+		effect = {
+			prestige = -500
+			religion_authority = {
+				modifier = ruler_converted_from
+			}
+			
+			religion = celide
+		
+			any_realm_character = {
+				religion = celide
+			}
+			any_realm_province = {
+				religion = celide
+			}
+			
+			hidden_tooltip = {
+				religion_authority = {
+					modifier = ruler_converted_to
+				}
+			}
+			piety = 200
+		}
+		
+		revoke_allowed = {
+			always = no
+		}
+		
+		ai_will_do = {
+			factor = 0
+		}
+	}
+
+
+}

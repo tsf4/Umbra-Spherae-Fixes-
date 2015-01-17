@@ -1,0 +1,16 @@
+# 1805 - Ghuad-neng
+
+# County Title
+title = c_ghuadneng
+
+# Settlements
+max_settlements = 3
+b_ghuadneng = castle
+b_jurchenkhyukkrung = castle
+b_jurchenngiechjyn = castle
+
+# Misc
+culture = jurchen
+religion = jurchen_pagan
+
+# History

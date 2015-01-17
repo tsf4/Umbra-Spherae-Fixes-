@@ -1,0 +1,139 @@
+#Pandya Dynasty
+620.1.1={
+	liege="e_dakshinapatha"
+}
+620.1.1={
+	holder=1000203026 #Maravarman-Avanisulamani
+}
+645.1.1={
+	holder=1000203027 #Sendan
+}
+670.1.1={
+	holder=1000203028 #Arikesari-Maravarman
+}
+700.1.1={
+	holder=1000203029 #Koccadaiya-Ranadhira
+}
+730.1.1={
+	holder=1000203030 #Maravarman-Rajasimha I
+}
+765.1.1={
+	holder=1000203031 #Varagunavarman I
+}
+815.1.1={
+	holder=1000203032 #Srimara-Srivallabha
+}
+862.1.1={
+	holder=1000203033 #Varagunavarman II
+}
+880.1.1={
+	holder=1000203034 #Parantaka-Viranarayana
+}
+900.1.1={
+	holder=1000203035 #Maravarman-Rajasimha II
+}
+912.1.1={
+	liege=0
+}
+920.1.1={
+	holder=1000203036 #Sundara
+}
+930.1.1={
+	holder=1000203037 #Vira I
+}
+950.1.1={
+	holder=1000203038 #Vira II
+}
+970.1.1={
+	liege="e_dakshinapatha"
+}
+970.1.1={
+	holder=1000203039 #Amarabhujanga-Tivrakopa
+}
+990.1.1={
+	holder=1000203040 #Jatavarman-Sundara I
+}
+1020.1.1={
+	holder=1000076175 #Maravarman-Vikrama I
+}
+1040.1.1={
+	holder=1000203041 #Maravarman-Parakrama I
+}
+1070.1.1={
+	holder=1000203042 #Jatavarman
+}
+1101.1.1={
+	holder=1000203043 #Srivallabha-Manukulachala
+}
+1132.1.1={
+	holder=1000203044 #Maravarman-Srivallabha
+}
+1161.1.1={
+	holder=1000203045 #Parakrama
+}
+1162.1.1={
+	holder=1000203046 #Kulasekhara
+}
+1170.1.1={
+	holder=1000203047 #Vira III
+}
+1175.1.1={
+	holder=1000203048 #Jatavarman-Srivallabha
+}
+1190.1.1={
+	holder=1000203049 #Jatavarman-Kulasekhara I
+}
+1216.1.1={
+	holder=1000203050 #Maravarman-Sundara I
+}
+1238.1.1={
+	holder=1000203051 #Jatavarman-Kulasekhara II
+}
+1238.6.1={
+	holder=1000203052 #Maravarman-Sundara II
+}
+1251.1.1={
+	holder=1000203053 #Jatavarman-Sundara I [II]
+}
+1253.1.1={
+	holder=1000203054 #Jatavarman-Vira I
+}
+1268.1.1={
+	holder=1000203056 #Maravarman-Kulasekhara I
+}
+1275.1.1={
+	holder=1000203055 #Jatavarman-Vikrama
+}
+1276.1.1={
+	holder=1000203057 #Jatavarman-Sundara III [II]
+}
+1283.1.1={
+	holder=1000203058 #Maravarman-Vikrama II
+}
+1296.1.1={
+	holder=1000203059 #Jatavarman-Vira II
+}
+1303.1.1={
+	holder=1000203060 #Jatavarman-Sundara IV [III]
+}
+1314.1.1={
+	holder=1000203061 #Maravarman-Kulasekhara II
+}
+1315.1.1={
+	holder=1000203062 #Jatavarman-Parakrama I
+}
+1323.1.1={
+	liege=0
+}
+1334.1.1={
+	holder=1000203063 #Maravarman-Vira
+}
+1335.1.1={
+	holder=1000203064 #Maravarman-Parakrama II
+}
+1352.1.1={
+	holder=1000203063 #Maravarman-Vira (again)
+}
+1357.1.1={
+	holder=1000203065 #Jatavarman-Parakrama II
+}

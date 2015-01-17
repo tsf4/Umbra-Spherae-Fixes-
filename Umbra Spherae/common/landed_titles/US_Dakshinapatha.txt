@@ -1,0 +1,897 @@
+e_dakshinapatha = {
+
+    	color= { 155 23 14 }
+    	color2= { 161 126 128 }
+
+	capital = 983 # Gangaikonda Cholapuram
+
+	k_tamilakam = {
+
+    		color= { 190 180 93  }
+    		color2= { 124 140 162  }
+
+		capital = 983 # Gangaikonda Cholapuram
+
+		d_chola_nadu = {
+
+    			color= { 191 132 91  }
+    			color2= { 124 140 162  }
+
+			capital = 983 # Gangaikonda Cholapuram
+
+			c_gangaikonda_cholapuram = {
+
+    				color= { 201 132 91  }
+    				color2= { 124 140 162  }
+
+				b_gangaikonda_cholapuram = {
+				}
+				b_brihadeeswarar = { #temple
+				}
+				b_neyveli = {
+				}
+				b_uthangal = {
+				}
+				b_vadalur = {
+				}
+				b_kurinjippadi = {
+				}
+				b_periyapattu = {
+				}
+				b_parangipettai = {
+				}
+			}
+			c_nagapattinam = {
+
+    				color= { 191 142 91  }
+    				color2= { 124 140 162  }
+
+				b_nagapattinam = {
+				}
+				b_kadambanoor = {
+				}
+				b_sikkai = {
+				}
+				b_pappakoil = {
+				}
+				b_boothangudi = {
+				}
+				b_nagore = {
+				}
+				b_karuvelankadai = {
+				}
+				b_kurichi = {
+				}
+			}
+			c_thanjavur = {
+
+    				color= { 191 132 101  }
+    				color2= { 124 140 162  }
+
+				b_thanjavur = {
+				}
+				b_vallam = {
+				}
+				b_budalur = {
+				}
+				b_kandamangalam = {
+				}
+				b_thiruppoonthuruth = {
+				}
+				b_mathur = {
+				}
+				b_punavasal = {
+				}
+				b_saliamangalam = {
+				}
+			}
+			c_uttaramerur = {
+
+    				color= { 181 132 91  }
+    				color2= { 124 140 162  }
+
+				b_uttaramerur = {
+				}
+				b_vengikkal = {
+				}
+				b_adayur = {
+				}
+				b_sananandal = {
+				}
+				b_vallivagai = {
+				}
+				b_somasapadi = {
+				}
+				b_konalur = {
+				}
+				b_kattumalaiyanur = {
+				}
+			}
+			c_tagadur = {
+
+    				color= { 191 122 91  }
+    				color2= { 124 140 162  }
+
+				b_tagadur = {
+				}
+				b_ammapet = {
+				}
+				b_seelanaickenpatti = {
+				}
+				b_kannankurichi = {
+				}
+				b_ayodhiyapatinam = {
+				}
+				b_ramalingapuram = {
+				}
+				b_karipatti = {
+				}
+				b_karuppur = {
+				}
+			}
+		}
+		d_pandya_nadu = {
+
+    			color= { 150 183 100  }
+    			color2= { 124 140 162  }
+
+			capital = 960 # Madurai
+
+			c_madurai = {
+
+    				color= { 160 183 100  }
+    				color2= { 124 140 162  }
+
+				b_madurai = {
+				}
+				b_vandiyur = {
+				}
+				b_samayanallur = {
+				}
+				b_thiruparankundram = {
+				}
+				b_sakkimangalam = {
+				}
+				b_pottapalayam = {
+				}
+				b_virathanoor = {
+				}
+				b_kusavakundu = {
+				}
+			}
+			c_tiruneveli = {
+
+    				color= { 150 193 100  }
+    				color2= { 124 140 162  }
+
+				b_tiruneveli = {
+				}
+				b_palayapettai = {
+				}
+				b_senthimangalam = {
+				}
+				b_palayamkottai = {
+				}
+				b_santhi_nagar = {
+				}
+				b_naranammalpuram = {
+				}
+				b_kurichikulam = {
+				}
+				b_thalaiyuthu = {
+				}
+			}
+			c_karavur = {
+
+    				color= { 150 183 110  }
+    				color2= { 124 140 162  }
+
+				b_karavur = {
+				}
+				b_thudiyalur = {
+				}
+				b_chinnavedampatti = {
+				}
+				b_narasimhanaickenpalayam = {
+				}
+				b_malumichampatty = {
+				}
+				b_mayileripalayam = {
+				}
+				b_chettikkapalayam = {
+				}
+				b_kannampalayam = {
+				}
+			}
+			c_ramesvaram = {
+
+    				color= { 140 183 100  }
+    				color2= { 124 140 162  }
+
+				b_ramesvaram = {
+					holy_site = hindu
+					holy_site = jain
+				}
+				b_pamban = {
+				}
+				b_mukundarayar_chathiram = {
+				}
+				b_mandapam = {
+				}
+				b_pudumadam = {
+				}
+				b_uchipuli = {
+				}
+				b_perungulam = {
+				}
+				b_panaikulam = {
+				}
+			}
+			c_kandalur = {
+
+    				color= { 150 173 100  }
+    				color2= { 124 140 162  }
+
+				b_kandalur = {
+				}
+				b_vilinam = {
+				}
+				b_kottar = {
+				}
+				b_papanamcode = {
+				}
+				b_puliyarakonam = {
+				}
+				b_vilappilsala = {
+				}
+				b_pachalloor = {
+				}
+				b_neyyattinkara = {
+				}
+			}
+		}
+		d_chera_nadu = {
+
+    			color= { 207 204 75  }
+    			color2= { 124 140 162  }
+
+			capital = 1055 # Mahodayapuram
+
+			c_mahodayapuram = {
+
+    				color= { 217 204 75  }
+	    			color2= { 124 140 162  }
+
+				b_mahodayapuram = {
+				}
+				b_shoranur = {
+				}
+				b_palakkad = {
+				}
+				b_thrissur = {
+				}
+				b_kombodinjamakkal = {
+				}
+				b_mannalamkunnu = {
+				}
+				b_kunnamkulam = {
+				}
+				b_kanjikode = {
+				}
+			}
+			c_calicut = {
+
+    				color= { 207 214 75  }
+    				color2= { 124 140 162  }
+
+				b_calicut = {
+				}
+				b_ponnani = {
+				}
+				b_balusseri = {
+				}
+				b_thiruvambadi = {
+				}
+				b_tirurangadi = {
+				}
+				b_beypore = {
+				}
+				b_vazhayur = {
+				}
+				b_peruvallur = {
+				}
+			}
+			c_kannur = {
+
+    				color= { 207 204 85  }
+    				color2= { 124 140 162  }
+
+				b_kannur = {
+				}
+				b_azhikode = {
+				}
+				b_varam = {
+				}
+				b_chelora = {
+				}
+				b_thottada = {
+				}
+				b_kadachira = {
+				}
+				b_edakkad = {
+				}
+				b_palayad = {
+				}
+			}
+			c_kollam = {
+
+    				color= { 197 204 75  }
+    				color2= { 124 140 162  }
+
+				b_kollam = {
+				}
+				b_mangad = {
+				}
+				b_adichanallur = {
+				}
+				b_chirakkara = {
+				}
+				b_nedungolam = {
+				}
+				b_kalluvathukkai = {
+				}
+				b_parippally = {
+				}
+				b_paravur = {
+				}
+			}
+			c_kochi = {
+
+    				color= { 207 194 75  }
+    				color2= { 124 140 162  }
+
+				b_kochi = {
+				}
+				b_cherthala = {
+				}
+				b_alappuzha = {
+				}
+				b_kottayam = {
+				}
+				b_thodupuzha = {
+				}
+				b_vypin = {
+				}
+				b_kakkanadu = {
+				}
+				b_kadayirippu = {
+				}
+			}
+		}
+		d_dhivehi = {
+
+    			color= { 168 157 115  }
+    			color2= { 124 140 162  }
+
+			capital = 1353 # Male
+
+			c_male = {
+
+    				color= { 178 157 115  }
+    				color2= { 124 140 162  }
+
+				b_male_maldives = {
+				}
+				b_hulhumale = {
+				}
+				b_himmafushi = {
+				}
+				b_huraa = {
+				}
+				b_thulusdhoo = {
+				}
+				b_dhiffushi = {
+				}
+				b_dharavandhoo = {
+				}
+				b_eydhafushi = {
+				}
+			}
+			c_kavaratti = {
+
+    				color= { 168 167 115  }
+	    			color2= { 124 140 162  }
+
+				b_kavaratti = {
+				}
+				b_andrott = {
+				}
+				b_amini = {
+				}
+				b_minicoy = {
+				}
+			}
+		}
+	}
+	k_andhra = {
+
+    		color= { 132 70 102 }
+    		color2= { 89 140 176 }
+
+		capital = 981 # Vengipura
+
+		d_vengi = {
+
+    			color= { 137 65 124 }
+	    		color2= { 89 140 176 }
+
+			capital = 981 # Vengipura
+
+			c_vengipura = {
+
+    				color= { 147 65 124 }
+    				color2= { 89 140 176 }
+
+				b_vengipura = {
+				}
+				b_vijayavada = {
+				}
+				b_kondapalli = {
+				}
+				b_dhanyakataka = {
+				}
+				b_eluru = {
+				}
+				b_masulipatam = {
+				}
+				b_ramachandra_puram = {
+				}
+				b_bhimavaram = {
+				}
+			}
+			c_rajamahendri = {
+	
+    				color= { 137 75 124 }
+    				color2= { 89 140 176 }
+
+				b_rajamahendri = {
+				}
+				b_anaparthy = {
+				}
+				b_korukonda = {
+				}
+				b_pamarru = {
+				}
+				b_bikkavolu = {
+				}
+				b_divancheru = {
+				}
+				b_kesavaram = {
+				}
+				b_vemagiri = {
+				}
+			}
+			c_sriparvata = {
+
+    				color= { 137 65 134 }
+    				color2= { 89 140 176 }
+
+				b_sriparvata = {
+				}
+				b_alampura = {
+				}
+				b_thimmapuram = {
+				}
+				b_velamuripadu_palle = {
+				}
+				b_singarakonda_palem = {
+				}
+				b_chakrayapalem = {
+				}
+				b_khambampadu = {
+				}
+				b_parvathipuram = {
+				}
+			}
+		}
+		d_orugallu = {
+
+    			color= { 192 97 133 }
+    			color2= { 89 140 176 }
+
+			capital = 1011 # Orugallu
+
+			c_orugallu = {
+
+    				color= { 192 107 133 }
+    				color2= { 89 140 176 }
+
+				b_orugallu = {
+				}
+				b_siva_nagar = {
+				}
+				b_hanamkonda = {
+				}
+				b_gopalapuram = {
+				}
+				b_pegadapally = {
+				}
+				b_biranpalli = {
+				}
+				b_damera = {
+				}
+				b_mogilicherla = {
+				}
+			}
+			c_anumakonda = {
+
+    				color= { 202 97 133 }
+    				color2= { 89 140 176 }
+
+				b_anumakonda = {
+				}
+				b_mangapet = {
+				}
+				b_ramannagudem = {
+				}
+				b_vajedu = {
+				}
+				b_peruru = {
+				}
+				b_medaram = {
+				}
+				b_nariapur = {
+				}
+				b_yellandu = {
+				}
+			}
+			c_kollipake = {
+
+    				color= { 192 97 143 }
+    				color2= { 89 140 176 }
+
+				b_kollipake = {
+				}
+				b_secunderabad = {
+				}
+				b_pirzadi_guda = {
+				}
+				b_jeedimetla = {
+				}
+				b_annaram = {
+				}
+				b_kukatpally = {
+				}
+				b_gachibowli = {
+				}
+				b_shamshabad = {
+				}
+			}
+			c_udayagiri = {
+
+    				color= { 182 97 133 }
+    				color2= { 89 140 176 }
+
+				b_udayagiri = {
+				}
+				b_chabolu = {
+				}
+				b_ayyalur = {
+				}
+				b_pedda_kottala = {
+				}
+				b_sugali_mitta = {
+				}
+				b_tammadapalle = {
+				}
+				b_nandipalle = {
+				}
+				b_seetharama_puram = {
+				}
+			}
+		}
+		d_tondaimandalam = {
+
+    			color= { 141 61 63 }
+    			color2= { 89 140 176 }
+
+			capital = 978 # Kanchipuram
+
+			c_kanchipuram = {
+
+    				color= { 151 61 63 }
+    				color2= { 89 140 176 }
+
+				b_kanchipuram = {
+				}
+				b_chengalpattu = {
+				}
+				b_vaiyavoor = {
+				}
+				b_kuruvimalai = {
+				}
+				b_vippedu = {
+				}
+				b_alavandharmedu = {
+				}
+				b_dusi = {
+				}
+				b_pallavaram = {
+				}
+			}
+			c_vallurapura = {
+
+    				color= { 141 71 63 }
+    				color2= { 89 140 176 }
+
+				b_vallurapura = {
+				}
+				b_chennur = {
+				}
+				b_khajipeta = {
+				}
+				b_khajipeta = {
+				}
+				b_mydukur = {
+				}
+				b_kotta_eturu = {
+				}
+				b_paidikalva = {
+				}
+				b_guvvalacheruvu = {
+				}
+			}
+			c_nellur = {
+
+    				color= { 141 61 73 }
+    				color2= { 89 140 176 }
+
+				b_nellur = {
+				}
+				b_kalahasti = {
+				}
+				b_pottapi = {
+				}
+				b_gangavaram = {
+				}
+				b_kalepadu = {
+				}
+				b_buranpur = {
+				}
+				b_kallurupalli = {
+				}
+				b_allipuram = {
+				}
+			}
+			c_kuvalala = {
+
+    				color= { 131 61 63 }
+    				color2= { 89 140 176 }
+
+				b_kuvalala = {
+				}
+				b_nangali = {
+				}
+				b_kumbalgodu = {
+				}
+				b_dommasandra = {
+				}
+				b_hosur = {
+				}
+				b_dod_ballapur = {
+				}
+				b_dasarahalli = {
+				}
+				b_shravanur = {
+				}
+			}
+		}
+	}
+	k_ceylon = {
+
+    		color= { 99 180 105  }
+    		color2= { 219 124 139  }
+
+		capital = 980 # Pulatthinagara
+
+		d_kotthasara = {
+
+    			color= { 46 137 50  }
+    			color2= { 219 124 139  }
+
+			capital = 980 # Pulatthinagara
+
+			c_pulatthinagara = {
+
+    				color= { 56 137 50  }
+    				color2= { 219 124 139  }
+
+				b_pulatthinagara = {
+				}
+				b_dighavapi = {
+				}
+				b_chagama = {
+				}
+				b_batticaloa = {
+				}
+				b_kalmunai = {
+				}
+				b_megaswewa = {
+				}
+				b_kantalai = {
+				}
+				b_ampara = {
+				}
+			}
+			c_anuradhapura = {
+
+    				color= { 46 147 50  }
+    				color2= { 219 124 139  }
+
+				b_anuradhapura = {
+				}
+				b_yapahuwa = {
+				}
+				b_ambanpola = {
+				}
+				b_chilaw = {
+				}
+				b_puttalam = {
+				}
+				b_kalpitiya = {
+				}
+				b_galgamuwa = {
+				}
+				b_miyallawa = {
+				}
+			}
+		}
+		d_ruhuna = {
+
+    			color= { 113 107 70  }
+    			color2= { 219 124 139  }
+
+			capital = 1737 # Mahanagakula
+
+			c_mahanagakula = {
+
+    				color= { 123 107 70  }
+    				color2= { 219 124 139  }
+
+				b_mahanagakula = {
+				}
+				b_mahagama = {
+				}
+				b_devanagara = {
+				}
+				b_kajaragama = {
+				}
+				b_tissamaharama = {
+				}
+				b_kataragama = {
+				}
+				b_galkaduwa = {
+				}
+				b_situipawwa = {
+				}
+			}
+			c_tambagama = {
+
+    				color= { 113 117 70  }
+    				color2= { 219 124 139  }
+
+				b_tambagama = {
+				}
+				b_vatagiri = {
+				}
+				b_gampola = {
+				}
+				b_kandy = {
+				}
+				b_nuwara_eliya = {
+				}
+				b_ratnapura_tambagama = {
+				}
+				b_ginigathena = {
+				}
+				b_matara_tambagama = {
+				}
+			}
+			c_vapinagara = {
+
+    				color= { 113 107 80  }
+    				color2= { 219 124 139  }
+
+				b_vapinagara = {
+				}
+				b_mahiyangana = {
+				}
+				b_kalyani = {
+				}
+				b_dambadeniya = {
+				}
+				b_kotte = {
+				}
+				b_galle = {
+				}
+				b_kalutara = {
+				}
+				b_negombo = {
+				}
+			}
+		}
+		d_nagadipa = {
+
+    			color= { 122 133 50  }
+	    		color2= { 219 124 139  }
+
+			capital = 985 # Yapapatuna
+
+			c_yapapatuna = {
+
+    				color= { 132 133 50  }
+    				color2= { 219 124 139  }
+
+				b_yapapatuna = {
+				}
+				b_mahatittha = {
+				}
+				b_chavakachcheri = {
+				}
+				b_kilinochchi = {
+				}
+				b_sinna_pandivirichchan = {
+				}
+				b_kayts = {
+				}
+				b_moolai = {
+				}
+				b_kankesanturai = {
+				}
+			}
+			c_gokanna = {
+
+    				color= { 122 143 50  }
+    				color2= { 219 124 139  }
+
+				b_gokanna = {
+				}
+				b_trincomalee = {
+				}
+				b_kumulamamanai = {
+				}
+				b_vavuniya = {
+				}
+				b_hamillewa = {
+				}
+				b_kumpurupiddi = {
+				}
+				b_kuchchaveli = {
+				}
+				b_kambakkoddai = {
+				}
+			}
+		}
+	}
+}
+
+k_jaffna = {
+    	color= { 150 133 50  }
+    	color2= { 219 124 139  }
+
+	capital = 985 # Yapapatuna
+}
+
+d_calicut = {
+    	color= { 207 214 75  }
+    	color2= { 124 140 162  }
+
+	capital = 957 # Calicut
+}
+
+k_orugallu = {
+    	color= { 192 97 133 }
+    	color2= { 89 140 176 }
+
+	capital = 1011 # Orugallu
+}

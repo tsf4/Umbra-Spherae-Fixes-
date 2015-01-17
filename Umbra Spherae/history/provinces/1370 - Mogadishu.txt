@@ -1,0 +1,21 @@
+# 1370 - Mogadishu
+
+# County Title
+title = c_mogadishu
+
+# Settlements
+max_settlements = 5
+b_xamar = castle
+b_mogadishu = city
+b_afgooye = temple
+
+#b_mareeg = castle
+#b_adale = city
+#b_balad_mogadishu = castle
+#b_sabun = temple
+
+
+# Misc
+culture = somali
+religion = sunni
+

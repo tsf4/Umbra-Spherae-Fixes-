@@ -1,0 +1,619 @@
+1000028293 = {
+	name="Sumra"
+	culture = sindhi
+}
+1000028350 = {
+	name="Habbari"
+	culture = sindhi
+}
+
+1000028380 = {
+	name="Turki Sahi"
+	culture = punjabi
+}
+1000028381 = {
+	name="Hindu Sahi"
+	culture = punjabi
+}
+1000028382 = {
+	name="banu Munabbih"
+	culture = punjabi
+}
+1000028383 = {
+	name="Shaibanid"
+	culture = punjabi
+}
+
+1000028294 = {
+	name="Soma Vansa"
+	culture = dhivehi
+}
+1000078032 = {
+	name="Male"
+	culture = dhivehi
+}
+1000078033 = {
+	name="Adeetta Vansa"
+	culture = dhivehi
+}
+1000078034 = {
+	name="Theemuge"
+	culture = dhivehi
+}
+
+1000028291 = {
+	name="Lambakanna"
+	culture = sinhala
+}
+1000078035 = {
+	name="Udaya"
+	culture = sinhala
+}
+1000078036 = {
+	name="Vijayabahu"
+	culture = sinhala
+}
+1000078037 = {
+	name="Mahinda"
+	culture = sinhala
+}
+1000078038 = {
+	name="Nissanka Malla"
+	culture = sinhala
+}
+1000078039 = {
+	name="Lilavati"
+	culture = sinhala
+}
+1000078040 = {
+	name="Kalyanavati"
+	culture = sinhala
+}
+1000078041 = {
+	name="Anikanga"
+	culture = sinhala
+}
+1000078045 = {
+	name="Siri Sanga Bo"
+	culture = sinhala
+}
+1000078046 = {
+	name="Bhuvanaikabahu"
+	culture = sinhala
+}
+1000078047 = {
+	name="Vasabha"
+	culture = sinhala
+}
+1000078048 = {
+	name="Mahallaka Naga"
+	culture = sinhala
+}
+1000078049 = {
+	name="Siri Naga"
+	culture = sinhala
+}
+1000078050 = {
+	name="Sangha Tissa"
+	culture = sinhala
+}
+1000078051 = {
+	name="Gothabhaya"
+	culture = sinhala
+}
+1000078052 = {
+	name="Mittasena"
+	culture = sinhala
+}
+1000078053 = {
+	name="Moriya"
+	culture = sinhala
+}
+1000078054 = {
+	name="Upatissa"
+	culture = sinhala
+}
+1000078055 = {
+	name="Silakala"
+	culture = sinhala
+}
+1000078056 = {
+	name="Maha Naga"
+	culture = sinhala
+}
+1000078057 = {
+	name="Moggallana"
+	culture = sinhala
+}
+1000078058 = {
+	name="Silameghavanna"
+	culture = sinhala
+}
+1000078059 = {
+	name="Dathopa Tissa"
+	culture = sinhala
+}
+1000078060 = {
+	name="Unhanagara"
+	culture = sinhala
+}
+1000078067 = {
+	name="Dappula"
+	culture = sinhala
+}
+
+1000028292 = {
+	name="Ladakh"
+	culture = bodpa
+}
+
+1000028266 = {
+	name="Lohara"
+	culture = kashmiri
+}
+1000028351 = {
+	name="Utpala"
+	culture = kashmiri
+}
+1000028352 = {
+	name="Meruvardhana"
+	culture = kashmiri
+}
+1000028353 = {
+	name="Kutumbi"
+	culture = kashmiri
+}
+1000028354 = {
+	name="Divira"
+	culture = kashmiri
+}
+1000028355 = {
+	name="Vuppadeva"
+	culture = kashmiri
+}
+1000028356 = {
+	name="Laksmadeva"
+	culture = kashmiri
+}
+1000028357 = {
+	name="Dakhinpara"
+	culture = kashmiri
+}
+1000028358 = {
+	name="Ramacandra"
+	culture = kashmiri
+}
+1000028359 = {
+	name="Rincana"
+	culture = kashmiri
+}
+1000028360 = {
+	name="Udayanadeva"
+	culture = kashmiri
+}
+1000028361 = {
+	name="Sugandha"
+	culture = kashmiri
+}
+
+1000028271 = {
+	name="Yadava"
+	culture = marathi
+}
+1000028272 = {
+	name="Thana Shilahara"
+	culture = marathi
+}
+1000028273 = {
+	name="Kollapura Shilahara"
+	culture = marathi
+}
+1000078009 = {
+	name="Harapaladeva"
+	culture = marathi
+}
+
+1000027638 = {
+	name="Katyuri-Basantadeva"
+	culture = khaskura
+}
+1000027639 = {
+	name="Katyuri-Nimbar"
+	culture = khaskura
+}
+1000027640 = {
+	name="Katyuri-Salonaditya"
+	culture = khaskura
+}
+1000028277 = {
+	name="Chand"
+	culture = khaskura
+}
+1000027641 = {
+	name="Khasiya"
+	culture = khaskura
+}
+1000028278 = {
+	name="Parmar"
+	culture = garhwali
+}
+
+1000028389 = {
+	name="Licchavi"
+	culture = maithili
+}
+1000028279 = {
+	name="Thakuri"
+	culture = maithili
+}
+1000028390 = {
+	name="Nuwakot Thakuri"
+	culture = maithili
+}
+1000028391 = {
+	name="Suryavamsa"
+	culture = maithili
+}
+1000028392 = {
+	name="Malla"
+	culture = maithili
+}
+
+1000028268 = {
+	name="Tomara"
+	culture = hindavi
+}
+1000028280 = {
+	name="Candella"
+	culture = hindavi
+}
+1000028298 = {
+	name="Gahadvala"
+	culture = hindavi
+}
+1000028329 = {
+	name="Pathania"
+	culture = hindavi
+}
+1000028283 = {
+	name="North Kalachuri"
+	culture = hindavi
+}
+1000078024 = {
+	name="Sarayupara Kalachuri"
+	culture = hindavi
+}
+1000078031 = {
+	name="Kanyakubja Rashtrakuta"
+	culture = hindavi
+}
+
+1000028364 = {
+	name="Mleccha"
+	culture = kamarupi
+}
+1000028281 = {
+	name="Bhauma"
+	culture = kamarupi
+}
+1000028365 = {
+	name="Timgyadeva"
+	culture = kamarupi
+}
+1000028366 = {
+	name="Vaidyadeva"
+	culture = kamarupi
+}
+1000028368 = {
+	name="Ahom"
+	culture = kamarupi
+}
+1000028370 = {
+	name="Kachari"
+	culture = kamarupi
+}
+1000028371 = {
+	name="Sutiya"
+	culture = kamarupi
+}
+1000028372 = {
+	name="Khen"
+	culture = kamarupi
+}
+1000028373 = {
+	name="Varman"
+	culture = kamarupi
+}
+
+1000028284 = {
+	name="East Ganga"
+	culture = oriya
+}
+1000078012 = {
+	name="Somavamsa"
+	culture = oriya
+}
+1000078013 = {
+	name="Bhaumakara"
+	culture = oriya
+}
+1000078014 = {
+	name="Khinjali"
+	culture = oriya
+}
+1000078015 = {
+	name="Khijjinga"
+	culture = oriya
+}
+1000078016 = {
+	name="Kodalaka"
+	culture = oriya
+}
+1000078017 = {
+	name="Yamagartta"
+	culture = oriya
+}
+1000078018 = {
+	name="Auravatta"
+	culture = oriya
+}
+1000078019 = {
+	name="Banei"
+	culture = oriya
+}
+1000078027 = {
+	name="Khedi"
+	culture = oriya
+}
+
+1000028285 = {
+	name="East Chalukya"
+	culture = telugu
+}
+1000028286 = {
+	name="Kakatiya"
+	culture = telugu
+}
+1000078005 = {
+	name="Reddy"
+	culture = telugu
+}
+1000078068 = {
+	name="Velanati Chola"
+	culture = telugu
+}
+
+1000028274 = {
+	name="West Chalukya"
+	culture = kannada
+}
+1000028287 = {
+	name="Hoysala"
+	culture = kannada
+}
+1000027642 = {
+	name="Rashtrakuta"
+	culture = kannada
+}
+1000078006 = {
+	name="Chalukya"
+	culture = kannada
+}
+1000078007 = {
+	name="West Ganga"
+	culture = kannada
+}
+1000078008 = {
+	name="Sangama"
+	culture = kannada
+}
+1000078010 = {
+	name="South Kalachuri"
+	culture = kannada
+}
+1000078020 = {
+	name="Hangal Kadamba"
+	culture = kannada
+}
+1000078025 = {
+	name="Ucchangidurga Kadamba"
+	culture = kannada
+}
+1000078026 = {
+	name="Belur Kadamba"
+	culture = kannada
+}
+1000078028 = {
+	name="Bandhavapura Kadamba"
+	culture = kannada
+}
+1000078029 = {
+	name="Bayalnad Kadamba"
+	culture = kannada
+}
+1000078066 = {
+	name="Kadamba"
+	culture = kannada
+}
+
+1000078021 = {
+	name="Gove Kadamba"
+	culture = konkani
+}
+1000078022 = {
+	name="Kamadeva"
+	culture = konkani
+}
+1000078023 = {
+	name="Vallipattana Shilahara"
+	culture = konkani
+}
+
+1000028288 = {
+	name="Kulasekhara"
+	culture = malayalam
+}
+1000078065 = {
+	name="Calicut"
+	culture = malayalam
+}
+
+1000028289 = {
+	name="Pandya"
+	culture = tamil
+}
+1000028290 = {
+	name="Chola"
+	culture = tamil
+}
+1000078011 = {
+	name="Pallava"
+	culture = tamil
+}
+1000078030 = {
+	name="Kadava"
+	culture = tamil
+}
+1000078042 = {
+	name="Lokissara"
+	culture = tamil
+}
+1000078043 = {
+	name="Kalinga Magha"
+	culture = tamil
+}
+1000078044 = {
+	name="Aryacakravarti"
+	culture = tamil
+}
+1000078061 = {
+	name="Pandu"
+	culture = tamil
+}
+1000078062 = {
+	name="Tiritara"
+	culture = tamil
+}
+1000078063 = {
+	name="Dathiya"
+	culture = tamil
+}
+1000078064 = {
+	name="Pithiya"
+	culture = tamil
+}
+
+1000028269 = {
+	name="Solanki"
+	culture = gujarati
+}
+1000028270 = {
+	name="Paramara"
+	culture = gujarati
+}
+1000028275 = {
+	name="Chahamana"
+	culture = gujarati
+}
+1000028276 = {
+	name="Guhilot"
+	culture = gujarati
+}
+1000028344 = {
+	name="Sisodia"
+	culture = gujarati
+}
+1000028296 = {
+	name="Abhira"
+	culture = gujarati
+}
+1000028324 = {
+	name="Ballala"
+	culture = gujarati
+}
+1000028385 = {
+	name="Capa"
+	culture = gujarati
+}
+1000028386 = {
+	name="Vaghela"
+	culture = gujarati
+}
+1000028387 = {
+	name="Gurjara-Pratihara"
+	culture = gujarati
+}
+1000028388 = {
+	name="Bhatti"
+	culture = gujarati
+}
+
+1000028267 = {
+	name="Pala"
+	culture = bengali
+}
+1000028282 = {
+	name="Varman"
+	culture = bengali
+}
+1000028295 = {
+	name="Twipra"
+	culture = bengali
+}
+1000028349 = {
+	name="Manikya"
+	culture = bengali
+}
+1000028297 = {
+	name="Sena"
+	culture = bengali
+}
+1000028362 = {
+	name="Deva"
+	culture = bengali
+}
+1000028363 = {
+	name="Chandra"
+	culture = bengali
+}
+1000028367 = {
+	name="Candravamsa"
+	culture = bengali
+}
+1000028369 = {
+	name="Harikela"
+	culture = bengali
+}
+
+1000028374 = {
+	name="Ghulam"
+	culture = turkish
+}
+1000028375 = {
+	name="Ilam-Hanid"
+	culture = turkish
+}
+1000028376 = {
+	name="Balbanid"
+	culture = turkish
+}
+1000028377 = {
+	name="Khilji"
+	culture = turkish
+}
+1000028378 = {
+	name="Hasanid"
+	culture = turkish
+}
+1000028379 = {
+	name="Tughlaq"
+	culture = turkish
+}
+1000028384 = {
+	name="Qabachid"
+	culture = turkish
+}
+1000078069 = {
+	name="Ahsanid"
+	culture = turkish
+}

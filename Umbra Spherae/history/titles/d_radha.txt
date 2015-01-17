@@ -1,0 +1,31 @@
+#Sena Dynasty
+1040.1.1={
+	liege="k_bengal"
+}
+1040.1.1={
+	holder=1000083452 #Samantasena
+}
+1080.1.1={
+	holder=1000076183 #Hemantasena
+}
+1095.1.1={
+	holder=1000083455 #Vijayasena
+}
+1158.1.1={
+	holder=1000083457 #Vallasena
+}
+1179.1.1={
+	holder=1000083459 #Laksmanasena
+}
+1206.1.1={
+	holder=1000083461 #Visvarupasena
+}
+1220.1.1={
+	holder=1000083463 #Kesavasena
+}
+1234.1.1={
+	liege=0
+}
+1245.1.1={
+	holder=0
+}

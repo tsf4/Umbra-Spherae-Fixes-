@@ -1,0 +1,56 @@
+max_provinces = 2271
+definitions = "definition.csv"
+provinces = "provinces.bmp"
+positions = "positions.txt"
+terrain = "terrain.bmp"
+rivers = "rivers.bmp"
+terrain_definition = "terrain.txt"
+heightmap = "topology.bmp"
+tree_definition = "trees.bmp"
+continent = "continent.txt"
+adjacencies = "adjacencies.csv"
+climate = "climate.txt"
+region = "region.txt"
+static = "static.txt"
+seasons = "seasons.txt"
+
+#Europe
+sea_zones = { 1957 2062 }
+
+#Asia
+sea_zones = { 2063 2189 }
+
+ocean_region = {	# Europe
+	sea_zones = { 1 }
+}
+ocean_region = {	# Asia
+	sea_zones = { 2 }
+}
+
+# Define which indices in trees.bmp palette which should count as trees for automatic terrain assignment
+tree = { 3 4 7 10 }
+
+major_rivers = 
+{ 
+	2169 2170 2171 #Rhine
+	2172 2173 2174 2175 2176 #Elbe
+	2233 2234 #Garonne
+	2165 2166 #Loire
+	2167 2168 #Seine
+	2177 2178 2179 2180 2181 #Vistula
+	2206 2207 2208 #Dwina
+	2209 #Neva
+	2210 #Svir
+	2211 2212 2213 #Volkhov/Lake Ilmen/Lovat
+	2218 2219 2220 2221 2222 2223 2224 2225 2226 2227 2231 2232 #Volga
+	2228 2229 2230 #Oka
+	2214 2215 2216 2217 #Don
+	2196 2197 2198 2202 2203 2204 #Dnieper
+	2205 #Pripyat
+	2199 2200 2201 #Desna
+	2182 2183 #Dniester
+	2184 2185 2186 2187 2189 2191 2192 2193 2194 2195 #Danube
+	2188 1954 2190 #Caspian Sea
+	1960 #Ladoga
+	1999 #Onega
+}

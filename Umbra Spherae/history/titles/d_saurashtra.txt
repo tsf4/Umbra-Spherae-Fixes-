@@ -1,0 +1,15 @@
+#Abhira placeholders
+1060.1.1={
+	holder=1000076182 #Ishwarsena I
+}
+1080.1.1={
+	holder=1000083158 #Ishwarsena II
+}
+1106.1.1={
+	holder=1000083160 #Ishwarsena III
+}
+
+#to Solankis
+1126.1.1={
+	holder=0
+}

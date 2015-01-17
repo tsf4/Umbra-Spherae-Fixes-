@@ -1,0 +1,11 @@
+#Vassal of Ghurids
+1192.1.1={
+	liege="k_afghans"
+}
+1192.1.1={
+	holder=1000076733 #Hariraja Chahamana
+}
+1194.1.1={
+	holder=0
+	liege=0
+}

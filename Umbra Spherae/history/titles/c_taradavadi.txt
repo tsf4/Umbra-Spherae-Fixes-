@@ -1,0 +1,237 @@
+#Kadamba Dynasty
+345.1.1={
+	liege="e_madhyadesa"
+}
+345.1.1={
+	holder=1000203453 #Mayuravarman
+}
+370.1.1={
+	holder=1000203454 #Kangavarman
+}
+395.1.1={
+	holder=1000203455 #Bhagiratha
+}
+420.1.1={
+	holder=1000203456 #Raghu
+}
+430.1.1={
+	holder=1000203457 #Kakusthavarman
+}
+450.1.1={
+	holder=1000203458 #Santivarman
+}
+475.1.1={
+	holder=1000203459 #Mrigesavarman
+}
+490.1.1={
+	holder=1000203461 #Mandhatrivarman
+}
+497.1.1={
+	holder=1000203462 #Ravivarman
+}
+537.1.1={
+	holder=1000203463 #Harivarman
+}
+547.1.1={
+	holder=1000203467 #Krishnavarman
+}
+565.1.1={
+	holder=1000203468 #Ajavarman
+}
+606.1.1={
+	holder=1000203469 #Bhogivarman
+}
+
+#Chalukya Dynasty
+640.1.1={
+	holder=1000202782 #Pulakesi II
+}
+
+#Pallava Dynasty
+642.1.1={
+	holder=1000203009 #Narasimhavarman
+}
+
+#Chalukya Dynasty (restored)
+655.1.1={
+	holder=1000202783 #Vikramaditya I
+}
+681.1.1={
+	holder=1000203111 #Vinayaditya
+}
+696.1.1={
+	holder=1000202784 #Vijayaditya
+}
+733.1.1={
+	holder=1000202785 #Vikramaditya II
+}
+744.1.1={
+	holder=1000202786 #Kirtivarman II
+}
+
+#Rashtrakuta Dynasty
+755.1.1={
+	holder=1000202799 #Dantidurga
+}
+756.1.1={
+	holder=1000202800 #Krishna I
+}
+775.1.1={
+	holder=1000202801 #Govinda I [II]
+}
+780.1.1={
+	holder=1000202802 #Dhruva
+}
+793.1.1={
+	holder=1000202803 #Govinda II [III]
+}
+814.1.1={
+	holder=1000202804 #Amoghavarsha I
+}
+880.1.1={
+	holder=1000202805 #Krishna II
+}
+915.1.1={
+	holder=1000202807 #Indra [III]
+}
+927.1.1={
+	holder=1000202808 #Amoghavarsha II
+}
+930.1.1={
+	holder=1000202809 #Govinda III [IV]
+}
+934.1.1={
+	holder=1000202810 #Amoghavarsha III
+}
+939.1.1={
+	holder=1000202811 #Krishna III
+}
+966.1.1={
+	holder=1000202812 #Khottiga
+}
+972.1.1={
+	holder=1000202814 #Karkka [II]
+}
+
+#West Chalukya Dynasty
+973.1.1={
+	holder=1000202815 #Tailapa I [II]
+}
+997.1.1={
+	holder=1000202816 #Satyasraya
+}
+1008.1.1={
+	holder=1000202818 #Vikramaditya III [I]
+}
+1014.1.1={
+	holder=1000202819 #Ayyana
+}
+1015.1.1={
+	holder=1000202820 #Jayasimha
+}
+1042.1.1={
+	holder=1000076160 #Somesvara I
+}
+1068.1.1={
+	holder=1000202821 #Somesvara II
+}
+1076.1.1={
+	holder=1000202822 #Vikramaditya IV [II]
+}
+1126.1.1={
+	holder=1000202823 #Somesvara III
+}
+1138.1.1={
+	holder=1000202824 #Perman
+}
+1151.1.1={
+	holder=1000202825 #Tailapa II [III]
+}
+
+#South Kalachuri Dynasty
+1156.1.1={
+	holder=1000202828 #Bijjala
+}
+1168.1.1={
+	holder=1000202829 #Somesvara IV
+}
+1177.1.1={
+	holder=1000202830 #Sankama
+}
+1180.1.1={
+	holder=1000202831 #Ahavamalla
+}
+
+#West Chalukya Dynasty (restored)
+1181.1.1={
+	holder=1000202826 #Somesvara V [IV]
+}
+
+#Yadava Dynasty
+1189.1.1={
+	liege="k_devagiri"
+}
+1189.1.1={
+	holder=1000202890 #Bhillama V
+}
+1191.1.1={
+	holder=1000202891 #Jaiturgi I
+}
+1210.1.1={
+	holder=1000202892 #Singhana II
+}
+1247.1.1={
+	holder=1000202894 #Kannara
+}
+1260.1.1={
+	holder=1000202895 #Mahadeva
+}
+1271.1.1={
+	holder=1000202896 #Amana
+}
+1271.6.1={
+	holder=1000202897 #Ramacandra
+}
+1311.1.1={
+	holder=1000202898 #Singhana III
+}
+
+#Harapaladeva Dynasty
+1313.1.1={
+	holder=1000202899 #Harapaladeva
+}
+
+#Khilji Dynasty
+1317.1.1={
+	liege="e_uttarapatha"
+}
+1317.1.1={
+	holder=1000083714 #Mubarak-Shah I
+}
+1318.9.1={
+	holder=1000083716 #Mahmud-Shah II
+}
+1318.12.1={
+	holder=1000083714 #Mubarak-Shah I (second time)
+}
+
+#Hasanid Dynasty
+1320.6.1={
+	holder=1000083719 #Husraw-Shah
+}
+
+#Tughlaq Dynasty
+1320.10.1={
+	holder=1000083723 #Tughlaq-Shah I
+}
+1325.1.1={
+	holder=1000083725 #Muhammad-Shah II
+}
+
+#Sangama Dynasty
+1336.1.1={
+	liege="e_madhyadesa"
+}
+1336.1.1={
+	holder=1000202870 #Harihara I
+}

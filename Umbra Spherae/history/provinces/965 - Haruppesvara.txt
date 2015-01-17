@@ -1,0 +1,21 @@
+# 965 - Haruppesvara
+
+# County Title
+title = c_haruppesvara
+
+# Settlements
+max_settlements = 4
+b_mahabhairab = castle
+b_haruppesvara = city
+b_bhairabpad = temple
+#b_batamari =
+#b_dolabari =
+#b_beseria =
+#b_rangapara =
+#b_napaam =
+
+# Misc
+culture = kamarupi
+religion = hindu
+
+# History

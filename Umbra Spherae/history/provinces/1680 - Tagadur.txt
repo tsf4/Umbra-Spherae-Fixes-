@@ -1,0 +1,21 @@
+# 1680 - Tagadur
+
+# County Title
+title = c_tagadur
+
+# Settlements
+max_settlements = 5
+b_ammapet = castle
+b_tagadur = city
+b_seelanaickenpatti = temple
+#b_kannankurichi =
+#b_ayodhiyapatinam =
+#b_ramalingapuram =
+#b_karipatti =
+#b_karuppur =
+
+# Misc
+culture = tamil
+religion = hindu
+
+# History

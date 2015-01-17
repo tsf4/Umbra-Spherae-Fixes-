@@ -1,0 +1,62 @@
+###################################
+#
+# Mongol Horde Events
+#
+# Id 60000 - 61000 is reserved
+#
+###################################
+
+# Rumors of a Steppe Menace
+narrative_event = {
+	id = 60000
+	title = "EVTNAME60000"
+	desc = "EVTDESC60000"
+	major = yes
+	
+	picture = "GFX_evt_mongols"
+	border = "GFX_event_narrative_frame_war"
+	
+	only_playable = yes
+	
+	trigger = {
+		#year = 1215
+		has_landed_title = k_mongolia
+		is_ruler = yes
+		independent = yes
+		war = no
+		#prisioner = no
+		any_demesne_title = {
+			is_occupied = no
+		}
+		OR = {
+			culture = mongol
+			culture = jurchen
+			culture = khitan
+			culture = xianbei
+		}
+		NOT = { has_global_flag = mongol_horde_rumors }
+		NOT = { has_global_flag = il_khanate_arrival }
+		NOT = { has_global_flag = golden_horde_arrival }
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	option = {
+		name = "EVTOPTA60000"
+		if = {
+			limit = {
+				has_landed_title = k_mongolia
+			}
+			set_global_flag = mongol_horde_rumors
+			#activate_title = { title = e_il-khanate status = yes }
+			#activate_title = { title = e_golden_horde status = yes }
+		}
+		e_mongol_empire = {
+			grant_title = ROOT
+			copy_title_laws = k_mongolia
+			copy_title_history = k_mongolia
+		}
+	}
+}

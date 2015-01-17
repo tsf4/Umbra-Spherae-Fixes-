@@ -1,0 +1,14 @@
+# 1951 - Bale
+
+# County Title
+title = c_bale
+
+# Settlements
+max_settlements = 1
+b_bale = castle
+
+# Misc
+culture = oromo
+religion = sunni
+
+# History

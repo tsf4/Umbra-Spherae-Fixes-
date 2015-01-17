@@ -1,0 +1,571 @@
+##New Cultures
+
+##Indo-Aryan
+
+indo_aryan_group = {
+	graphical_culture = indiangfx
+
+	hindavi = {
+		graphical_culture = indiangfx
+		second_graphical_culture = muslimgfx
+		
+		color = { 0.9 0.7 0.2 }
+
+		male_names = {
+			Achalraj_Achalraja Achalraja_Achalraja Adhandev Adityadeva Ajmal Alsi Amir Anangpal_Anangpala Anangpala_Anangpala Anupapala_Anupapala Anuppal_Anupapala "Apara Gangeya" Arjunpal_Arjunpala Arjunpala_Arjunpala Arjunavarman 
+			Bacchdev Bachraj Baghpal_Baghpala Baghpala_Baghpala Bahadur-Singh Beejpal_Beejpala Beejpala_Beejpala Bhaadar Bhilpala Bhoj_Bhoja Bhoja_Bhoja Bhojavarman_Bhoja Bhopal Bhumpal_Bhumpala Bhumpala_Bhumpala Birpal_Birpala Birpala_Birpala Bisaldeva Brahmadeva Brahmapala Brahmdevpal 
+			Chand Devapala Devavarman Dhanga_Dhanga Dhangadeva_Dhanga Dharmapala Dhaulshaya Dilipapala_Dilipapala Dilippal_Dilipapala Doth Draupad_Draupada Draupada_Draupada Dugarendra 
+			Gambhir Ganapatideva Gandadeva Gangeya Ghatamdeva Gopal_Gopala Gopala_Gopala Govindachandra Govindapala Govindaraja_Govindaraja Govindraj_Govindaraja
+			Hamir Hammiravarman Harpal Harsa_Harsa Harshapala_Harsa Hirapal_Hirapala Hirapala_Hirapala Indrapal_Indrapala Indrapala_Indrapala Ishtpala 
+			Jaganpal_Jaganpala Jaganpala_Jaganpala Jagatpal_Jagatpala Jagatpala_Jagatpala Jagdev_Jagdeva Jagdeva_Jagdeva Jaidas Jaipal Jaitugideva Jasapala_Jasapala Jaspal_Jasapala Jatanpal_Jatanpala Jatanpala_Jatanpala Jayapala Jayasakti Jayasimha Jayavarman Jhetpal_Jhetpala Jhetpala_Jhetpala Junpala 
+			Kailaspal_Kailaspala Kailaspala_Kailaspala Kalkurna Kalyanachandra Kakhopal_Kakhopala Kakhopala_Kakhopala Kamal Kanhad Kanvarpal_Kanvarpala Kanvarpala_Kanvarpala Karnpal Keeratdeva 
+			Khadag Khetrapal_Khetrapala Khetrapala_Khetrapala Kiratpal_Kiratpala Kiratpala_Kiratpala Krishnray Krsnapa Kumarapala Kunwar_Kunwar Kunwarpal_Kunwar Ladahachandra Lakshmandeva Lokpala 
+			Madanapala Madanavarman Maharana Mahendrapal_Mahendrapala Mahendrapala_Mahendrapala Mahipal_Mahipala Mahipala_Mahipala Mahipata Mahlakadeva Mandandeva Mangaldeva Margdeva Mihira 
+			Nagapala Nagdeo Nannuka Naravarman Narayanapala Narpal Nayapala Nihaal Nihalray Paramardideva Pavak Peepalraj Popatraj Pritampal_Pritampala Pritampala_Pritampala Prithipala Prithvi_Prithvi Prithvipal_Prithvi Prithviraj_Prithviraja Prithviraja_Prithviraja Prithvivarman
+			Rahila Rajapala Rajyapala Ramabhadra Ramachandra Rampal_Rampala Rampala_Rampala Rana Rangraj_Rangraja Rangraja_Rangraja Ratnapala Rijhpala Roshandeva 
+			Salivaahan Sallaksanavarman Saugandeva Shurapala Sisupal_Sisupala Sisupala_Sisupala Sohanpal Somasi Someshvara Sonpal_Sonpala Sonpala_Sonpala Srichandra Subhatavarman Sukhinpal_Sukhinpala Sukhinpala_Sukhinpala Sulakshanpal Sultanpal_Sultanpala Sultanpala_Sultanpala Surajpal_Surajpala Surajpala_Surajpala
+			Traillokyachandra Tejapala_Tejpal Tejpal_Tejpal Tolpal Trailokyavarman Trilochanpala Udayaditya Udaysangh Uddharandeva 
+			Vachhal Vakpati Vapyata Varshapala_Varshapala Varshpal_Varshapala Vasudev Vidurathpal_Vidurathpala Vidurathpala_Vidurathpala Vidyadhara Vigrahapala Vigraharaja Vihangpal Vijayapala Vijayasakti
+			Vinayakapala Vindhyavarman Viramdeva Viravarman Virsinghadeva Yasovarman
+		}
+		female_names = {
+			Akal Anantadevi Damayanti Dattadevi Dehanagadevi Dhruvadevi Dhruvasvamini Hemavati 
+			Kakanvati Kalayandevi Kanchuka Kanwar Karmavati Kumaradevi Lakshman Maharani Mahidevi Nattadevi
+			Prabhavati Prabhavatigupta Prasadhanadevi Puppadevi Rajamati Sanyukta Shrimitradevi 
+		}
+
+		dynasty_title_names = yes
+		modifier = default_culture_modifier
+	}
+	punjabi = {
+		graphical_culture = indiangfx
+		second_graphical_culture = muslimgfx
+		
+		color = { 0.9 0.6 0.2 }
+
+		male_names = {
+			Ajit Amar "Amar Dasi" Amir Angad Arjun Atar Basawa Bhagwant Bhaimani Budh Chand Charat 
+			Damodar Dasu Datu Dayaram Didar Farid Fateh Gobind Gurdita 
+			Hargobind Hari "Har Krishan" "Har Rai" "Jai Ram" Jetha Jujhar 
+			Kalyan Kapur Kehar Kharak Khushal Lahna Lakhmichand Laxman 
+			Mahadev Mohan Mohri Nanak Narayan Nodha Partap Pheru Prithichand Prithvi "Ram Rai" Ranjit Ranjor 
+			Sahdev Shamsher Sher Srichand "Tegh Bahadur" "Tej Bhan" Thakur Zorawar
+		}
+		female_names = {
+			Amro Anokhi Anup Begum Bhani Dani Gujri Jodhabai Khivi Kishan 
+			Lachmi Nanaki Nihal Ramo Sabhirai Sahib Sulakhni Sundari Tripta 
+		}
+
+		dynasty_title_names = yes
+		modifier = default_culture_modifier
+	}
+	gujarati = {
+		graphical_culture = indiangfx
+		second_graphical_culture = muslimgfx
+		
+		color = { 0.9 0.5 0.2 }
+
+		male_names = {
+			Abhayapala Acharya Ahila Ajairaja_Jayaraja Ajayapala Ajay-Singh Alhana Allat Amarangeya Ambra-Prasad Amritapala Anahilla Ari-Singh Arjunavarman Arnoraja Asaraja Asvapala Balaprasada Baliraja Bhatarka Bhert-Patt Bhima_Bhima Bhimadeva_Bhima Bhim-Singh Bhuvan-Singh Bhoja Bhoo-Chand Chachiga Chamundaraja Chandanaraja Chandraraja Chaud-Singh Dadda Dambarisimha Deopali-Deo Devapala Dharapatta Dharasena Dharmapala Dhruvasena Dinakarn Dronasinha 
+			Dungar-Singh Durlabharaja Gajasimha Gopala Gopendraka_Gopendraraja Gopendraraja_Gopendraraja Govinda_Govindaraja Govindapala_Govindaraja Govindaraja_Govindaraja Guhasena Guvaka_Govindaraja Hammira Hammir-Singh Hanspal Hariraja Harischandra Hemachandra Jagadeva Jaitrasimha_Jaitrasimha Jaitra-Singh_Jaitrasimha Jaitugideva Jasapala Jaskarn Jayapala Jayaraja_Jayaraja Jayasimha_Jayasimha Jay-Singh_Jayasimha Jay-Singh-Deo Jayat-Singh_Jayasimha Jayavarman Jayshikari Jendraraja Jojalla
+			Kalbhoj Kanhadadeva Karandeva_Karnadeva Karan-Singh Karnadeva_Karnadeva Katudeva Katukaraja Keerti-Verma_Kirtivarman Kelhana Kharagraha Khuman Kirtipala Kirtivarman_Kirtivarman Kumarapala Kshemraja_Xemraja Kshem-Singh Kshetra-Singh Kumar-Singh Lakhanapala Lakhshaman-Singh Lakshmana_Lakshmanadeva Lakshmanadeva_Lakshmanadeva Lakshmivarman Lavanyakarna Lunavarman Luntiga
+			Madanapala Mahap Mahayak Mahendra_Mahendrapala Mahendrapala_Mahendra Mahipala Mahlakadeva Maladeva Manavasimha Mathan-Singh Mattat Mihira Mulraja Nagabhata Nagarjuna Nagraja Naradeva Narapati Naravarman_Naravarman Naravarmandeva_Naravarman Narayanapala Nar-Verma_Naravarman Narwahan Nayapala Padam-Singh Prahladana Pratapa Prithvipal_Prithviraja Prithivipala_Prithviraja Prithviraja_Prithviraja Purnpala Rahap Rajapala Rajyapala Ramabhadra Ramapala Ratan-Singh Ratnapala Rayapala Rudrapala
+			Sahajapala Sahanapala Samanta_Samanta Samant-Singh_Samanta Samantasimha_Samanta Samarasimha_Samarasimha Samar-Singh_Samarasimha Shakti-Kumar Shaliwahan Shuchi-Verma Shurapala Siladitya Sindhuraja Singhraja Sinha Sinhad-Deo Siyaka Sohiya Someshwara Subhatavarman Suratrana Tejasimha_Tejasimha Tej-Singh_Tejasimha Trailokyavarman Tribhuvanapala Trilochanpala Udayaditya Udayasimha Udayavarman Upendra Vagbhata Vahadiasimha Vairisimha_Vairisimha Vairsingh_Vairisimha Vajradeva Vakapati_Vakpati Vakpati_Vakpati Vakpatiraja_Vakpati Valhana_Valhanadeva Valhanadeva_Valhanadeva Vallabharaja
+			Vanraja Vapyata Vasudeva Vatsaraja Vigrahapala Vigraharaja_Vigraharaja Vigrharaja_Vigraharaja Vijada-Dasasyandana Vijai-Singh Vikramaditya Vinaykpala Vindhyavarman Virama Viradeva Viranarayana Virsinh-Deo Viryarama Xemraja_Xemraja Yasovarman Yograj
+		}
+		female_names = {
+			Annaladevi Bauladevi Bhuyikadevi Candrabhattarikadevi Chachinidevi Dehanagadevi Delhanadevi Desaladevi Hariyadevi Laxmidevi Madhavi Mahalakshmi Mahidevi Manaladevi Mayanalladevi Namalladevi Padmaladevi Padmini Prasadhanadevi Pratha Rasaladevi Rudaladevi Rudrani Rupadevi Samyukta Sidhawa Somalladevi Suhava Sundaridevi Tihunaka Udayamati
+		}
+
+		dynasty_title_names = yes
+		modifier = default_culture_modifier
+	}
+	sindhi = {	#includes hindko for ease
+		graphical_culture = indiangfx
+		second_graphical_culture = muslimgfx
+		
+		color = { 0.9 0.7 0.3 }
+
+		male_names = {
+			Abdullah Abdurrashid Abdurrahman Alauddin "Ali Sher" Amar Arnel Asamuddin Aziz 
+			Banhbina Bhungar "Bhungar Rao" Chanesar Doda "Dadu Phattu" "Dalu Rai" "Deva Rai" 
+			"Fateh Khan" Feruzuddin Genhra Hafif_Khafif Hamir Ismail Junah Kahah Karan Khafif_Khafif Khaira Khinrah 
+			Mahmud Mubarak Muhammad Muhammed-Tur Munzir Nangar Nizamuddin Pahtu Punhun Raidhan 
+			Sabar Salahuddin Sanghar Sanjar Shahabuddin Sikandar Sumrah Syed Tai Tamachi Taghlak Umar Unar
+		}
+		female_names = {
+			Bhagi Hamide Himu Sad Tari "Zainab Tari"
+		}
+
+		dynasty_title_names = yes
+		modifier = default_culture_modifier
+	}
+	urdu = {	#like english culture but with hindavi/chagatai
+		graphical_culture = indiangfx
+		second_graphical_culture = muslimgfx
+		
+		color = { 0.9 0.65 0.35 }
+
+		male_names = {
+			Abbas "Abul Hasan" "Abdul Gaffar" "Abdur Rahmaan" "Abdur'Razaq" Adil Alam Alauddin Ali Ainuddin Aminuddin 
+			Bahar Bahauddin Bahadhur Bahlul Barbak Bayazid Burhanuddin Burqa Chingi Daud Farid Fath Firuz Ghiyasuddin 
+			Habibullah Hafiz Hamid Hamza Hansu Hashimpir Ibrahim Isa Islam Ismail Ja'afar Jalal Jalaluddin Janaid 
+			Kalapahar Karim Khizr Ludi Luftullah Ma'abari Makki Mallu Masum 
+			"Mian Hassan" Mirza Mobarak Muhammad Munim Muntajibuddin Mustafa Muzaffar 
+			Nasiruddin Nasrullah Nayimuddin Nizam Qasim Qazi Qutbuddin Qutlu Rumi 
+			Sadeq Saifuddin Shahbaz Shahrullah Shahzada Shamsuddin Sher Sibghatullah Sikandar Sulaiman 
+			Ta'azim Taj Tarsun Yusuf Ziauddin
+		}
+		female_names = {
+			"Bibi Ambha" "Bibi Bai" Hamide Nemzade
+		}
+
+		dynasty_title_names = yes
+		modifier = default_culture_modifier
+	}
+
+	# Descendants of Magadhi Prakrit
+	bengali = {	
+		graphical_culture = indiangfx
+		second_graphical_culture = muslimgfx
+		
+		color = { 0.2 0.5 0.3 }
+
+		male_names = {
+			Amritnarayan Balabhata Balinarayan Ballalsen Basudevnayaran 
+			Bhagadatta Bhairabendranarayan Bhatta Bhavashankari Bhimsingha Birnayaran 
+			Chandrasen Chandranarayan Chaturanan Chilarai 
+			Danujmadhava Dasharathadeva Devakhadga Devapala Devendranarayan 
+			Dhairjendranayaran Dharendranarayan Dharmapala Dhirsingha 
+			Gajnarayan Gopala Govindachandra Govindapala 
+			Hajo Harendranarayan Haridevnarayan Hariyamandal Hemantasen Indranarayan 
+			Jadu Jagaddipendranarayan Jatakhadga Jayanarayan Jayapala Jitendranarayan 
+			Kalyanachandra Kamalnarayan Keshabsen Khadgodyama Krishanmishra Krishnaroy 
+			Kumarapala Kumudnarayan Ladahachandra Lakshmansen Lakshmichandra Lakshminarayan Lomapada 
+			Madanapala Mahendrapala Mahendrasingha Mahindranarayan Mahipala Manava Mukundanarayan 
+			Naranarayan Narasingha Narayanapala Narendranarayan Nayapala Nripendranarayan 
+			Parikshitnayaran Prananarayan Prannath Pratapnarayan Pratapnarayanroy Pushkaranadhipa 
+			Raghudev Rajabhata Rajadinaj Rajaganesha Rajendranarayan Rajrajendranarayan Rajyapala 
+			Ramapala Ramnath Ranasura Ranjitsingha Roopnarayan Rudranarayan 
+			Samudrasen Shanibhangar Shashanka Shivanarayan Shivendranarayan Shukladhwaj Shurapala 
+			Srichandra Srimanta Subarnachandra Sukhdev Suryanarayan Traillokyachandra 
+			Udirnakhadga Uditanarayan Upendranayaran Vakapala Vapyata Vigrahapala 
+			Vijaynarayan Vijaysen Vijaysingha Virajdendranarayan Vishwarupsen Vishwasingha
+		}
+		female_names = {
+			Amritakala Asima Bhavashankari Bhogavati Bibibai Dattadevi Devavati Gandharavati
+			Gayatri Himadrija Hira Jira Kanchani Mahendrani Malavyadevi Nayanadevi Rani Ratnadevi Suvrata
+			Syamadevi Vijnayavati Vina Yajnavati
+		}
+
+		dynasty_title_names = yes
+		modifier = default_culture_modifier
+	}
+	oriya = {	
+		graphical_culture = indiangfx
+		second_graphical_culture = muslimgfx
+		
+		color = { 0.2 0.6 0.3 }
+
+		male_names = {
+			Anangabhima Anantavarman Arthapatiraja Balabhadra Barjena Bhanu Bhavadattavarman Bhramarbara Bhupendravarman 
+			Damodara Danai Devendravarman Dibyasingha Gangadhara Gopinatha Gunamaharnava Gundama 
+			Hamvira Harekrushna Hastivarman Hemantavarman Indravarman Jahangir Kakharua Kalua Kamarnava Kapilendra 
+			Madhukamarnava Matradhyarya Mukunda Nandavarman Narasimha 
+			Padmanava Prataparudra Prithvidena Prithvibhanja Purushottama Rajabhanja Ramachandra Ranabhanja 
+			Samantavarman Satrubhanja Satyavarman Silabhanja Skandavarman Sobhanaraja Tustikara 
+			Vajrahasta Vaaraharaja Vinayaditya Vrishadhvaja 
+		}
+		female_names = {
+			Akshayadevi Anangadevi Dandi Hira Kalyana Mohini Prithvi Rajkumari Rajasundari Rajya 
+			Sitadevi Tribhuvana Trikalinga Vakula Vasata Vijaya Vinaya 
+		}
+
+		dynasty_title_names = yes
+		modifier = default_culture_modifier
+	}
+	maithili = {	
+		graphical_culture = indiangfx
+		second_graphical_culture = muslimgfx
+		
+		color = { 0.2 0.8 0.35 }
+
+		male_names = {
+			"Bhairav Singh" "Bhavesh Thakur" "Bhogishwar Thakur" "Dev Singh" "Dhir Singh" Dhireshwar 
+			"Ganeshwar Singh" "Gang Dev" Harasimhadeva "Hari Singh" "Hari Singh Dev" "Hemant Sen" 
+			"Kameshwar Thakur" "Kirti Singh" Jyotirishwar "Laxman Sen" "Laxminath Singh Dev" Madanpal 
+			"Nanya Dev" "Nar Singh" "Narsingh Dev" "Padma Singh" "Rambhadra Singh Dev" Rameshwar 
+			"Samant Sen" "Shakrasingh Dev" "Shiv Singh"  "Vallal Sen" "Vijay Sen" 
+		}
+		female_names = {
+			"Bishwas Devi"
+		}
+
+		dynasty_title_names = yes
+		modifier = default_culture_modifier
+	}
+	bhojpuri = {	
+		graphical_culture = indiangfx
+		second_graphical_culture = muslimgfx
+		
+		color = { 0.2 0.65 0.4 }
+
+		male_names = {
+			Agnimitra Andhraka Ayus Bhagabhadra Bhikhari Bhumimitra Devabhuti Ghosha Gopal Govindapal 
+			Khsetravridha Maharshi Mahendra Maurayadhwaj Narayana Pulindaka Pusyamitra 
+			Sahtiya Susarman Vajramitra Vasudeva Vasujyeshtha Vasumitra 
+		}
+		female_names = {
+			Amrapali "Devi Ahiylya"
+		}
+
+		dynasty_title_names = yes
+		modifier = default_culture_modifier
+	}
+	magahi = {	
+		graphical_culture = indiangfx
+		second_graphical_culture = muslimgfx
+		
+		color = { 0.2 0.7 0.3 }
+
+		male_names = { #Bhojpuri
+			Agnimitra Andhraka Ayus Bhagabhadra Bhikhari Bhumimitra Devabhuti Ghosha Gopal Govindapal 
+			Khsetravridha Maharshi Mahendra Maurayadhwaj Narayana Pulindaka Pusyamitra 
+			Sahtiya Susarman Vajramitra Vasudeva Vasujyeshtha Vasumitra 
+		}
+		female_names = {
+			Amrapali "Devi Ahiylya"
+		}
+
+		dynasty_title_names = yes
+		modifier = default_culture_modifier
+	}
+	kamarupi = {	##Old Assamese and North Bengal
+		graphical_culture = indiangfx
+		second_graphical_culture = muslimgfx
+		
+		color = { 0.2 0.4 0.3 }
+
+		male_names = {
+			Balavarman Bhaskarvarman Bhattamahabahu Bhutivarman Birapala Brahmapala Chandramukhavarman 
+			Dharmapala Ganapativarman Gopala Harjjaravarman Harshadeva Harshapala Harshavarman 
+			Indrapala Jayamala Jayapala Kalyanavarman Kumarapala Mahendravarman Narayanavarman 
+			Pralambha Purandelapala Pushyavarman Ratnadhwajpala Ratnapala 
+			Salasthamba Samudravarman Sthitavarman Supratisthitavarman Susthitavarman 
+			Timgyadeva Tyagasimha Ummoka Vanamalavarmadeva Vigrahastambha Vijaya Virabahu
+		}
+		female_names = {
+			Ahiavadevi Bhogavati Dattadevi Devavati Durlabha Gandharavati Kuladevi Nayanadevi
+			Ratnavati Suvrata Syamadevi Vasumati Vijnanavati Vijnayavati Yajiyavati Yajnavati
+		}
+
+		dynasty_title_names = yes
+		modifier = default_culture_modifier
+	}
+
+
+
+	marathi = {
+		graphical_culture = indiangfx
+		second_graphical_culture = muslimgfx
+		
+		color = { 0.6 0.4 0.7 }
+
+		male_names = {
+			Abaji Amutrao Bahadur Bahiroji Balaji Bajirao Chimnaji Dattaji Daulatrao Dhanaji Dhondu 
+			Ekoji Fatehsinh Gopalrao Hambirao Harirao Jayajirao Jayappa Janakappa Jivajirao 
+			Khanderao Krishnarao Madhavrao Mahadji Malerao Malharrao Mankoji Martandrao 
+			Moropant Murarirao Nanasaheb Narayanrao Pandurangrao Pratapsinh 
+			Raghunathrao Rajaram Ramaswami Ramchandrapant Ramshastri Ranojirao 
+			Sadashivrao Sambhaji Sayajirao Serfoji Shahuji Shivaji Shivajirao 
+			Tryambakrao Tukkoji Tukojirao Tulojirao Venkatrao Vishwanathpant Yashwantrao
+		}
+		female_names = {
+			Ahilyabai Ambikabai Anandibai Anubai Bhiubai Deepabai Durgabai Gangabai Gunvantibai 
+			Jankibai Jijibai Kamlabai Kashibai Laxmibai Mahadik Mastani Putalabai 
+			Rajasbai Rajkunvarbai Ramabai Ranubai Saibai Sagunabai Sakavaarbai Sayeebai Soyarabai Sujanbai Tarabai Yesubai
+		}
+
+		dynasty_title_names = yes
+		modifier = default_culture_modifier
+	}
+	konkani = {
+		graphical_culture = indiangfx
+		second_graphical_culture = muslimgfx
+		
+		color = { 0.6 0.45 0.85 }
+
+		male_names = {
+			Adityavarman Aiyaparaja "Ananta Deva" Aparaditya Aparajita Arikesarin Arthapathi Avasara 
+			Bhavadatta Bhima Bhoja Bijjala Chandra Chandraditya Chhadvaideva Chhittaraja 
+			Daharasena Dhammayira Gandaraditya Goggiraja Gonka Guhala Guhalladeva Haripaladeva 
+			Indradatta Indraraja Jatiga Jayakeshi Jhanjha Kamadeva Kapardin Keshideva Kirtiraja 
+			Mallikarjuna Marsimha Mummuniraja Nagarjuna Nagavarma Naivarman Pullashakti Rattaraja 
+			Sanaphulla Shashthadeva Shivachitta Skandavarman Soddhala Someshvara Sovideva Suketuvarman 
+			Taila Tejahkantha Vappuvanna Vijayaditya Viravarmadeva Vishnuchitta Vyaghrasena 
+		}
+		female_names = {
+			Anjanibai Anuradha Durga Kamadevi Kamaladevi Kesarbai Kishori Kundaladevi Lasthiyavva Laxmibai 
+			Maya Mogubai Radhabai Radhika Shevanti Shudhamati Sovidevi Sudha Sumati Sunita 
+		}
+
+		dynasty_title_names = yes
+		modifier = default_culture_modifier
+	}
+
+
+
+	sinhala = {
+		graphical_culture = indiangfx
+		second_graphical_culture = muslimgfx
+		
+		color = { 0.5 0.3 0.6 }
+
+		male_names = {
+			Aghabodhi Anikanga Ayasmantha Bhuvanaikabahu Chodaganga 
+			Dappula "Dhagatha Abarana" "Dhagatha Suvara" Dharmasoka Dhammarunaja 
+			Fathahiriya Fenadhaittha Gajabahu Jayabahu Jayagopa Jayamahalena 
+			Kalaminjja Kassapa Kitti Kittisirimegha Koimala Lokissara 
+			Mahinda Manabharana Manavanna Moggallana Nissanka Parakramabahu Radhasuvara Rekehiriya 
+			Sahassa Sena Sirivallabha Thiribuvana Udaya Vallabha Vengeheli Vijayabahu Vikramabahu "Virabahu" Volumidi
+		}
+		female_names = {
+			Bhaddavati Henevimava Hirirashu Kalyanamahadevi Kalyanavati Kusmasanadevi Lilavati Lokhita 
+			Mitta Mulaimava Pabhavati Parvati Ranmenikya Ratnavati 
+			Samadevi Samudradevi Subadradevi Sugala Sundaradevi Sunethramahadevi Suriyadevi Swarnamanikya Ulakudayadevi
+		}
+
+		dynasty_title_names = yes
+		modifier = default_culture_modifier
+	}
+	dhivehi = {
+		graphical_culture = indiangfx
+		second_graphical_culture = muslimgfx
+		
+		color = { 0.7 0.3 0.5 }
+
+		male_names = {
+			Aghabodhi Anikanga Ayasmantha Bhuvanaikabahu Chodaganga 
+			Dappula "Dhagatha Abarana" "Dhagatha Suvara" Dharmasoka Dhammarunaja 
+			Fathahiriya Fenadhaittha Gajabahu Jayabahu Jayagopa Jayamahalena 
+			Kalaminjja Kassapa Kitti Kittisirimegha Koimala Lokissara 
+			Mahinda Manabharana Manavanna Moggallana Nissanka Parakramabahu Radhasuvara Rekehiriya 
+			Sahassa Sena Sirivallabha Thiribuvana Udaya Vallabha Vengeheli Vijayabahu Vikramabahu "Virabahu" Volumidi
+		}
+		female_names = {
+			Bhaddavati Henevimava Hirirashu Kalyanamahadevi Kalyanavati Kusmasanadevi Lilavati Lokhita 
+			Mitta Mulaimava Pabhavati Parvati Ranmenikya Ratnavati 
+			Samadevi Samudradevi Subadradevi Sugala Sundaradevi Sunethramahadevi Suriyadevi Swarnamanikya Ulakudayadevi
+		}
+
+		dynasty_title_names = yes
+		modifier = default_culture_modifier
+	}
+
+
+
+	dogri = {
+		graphical_culture = indiangfx
+		second_graphical_culture = muslimgfx
+		
+		color = { 0.2 0.5 0.6 }
+
+		male_names = {
+			Amoghabhuti Anirudh Bijay Budh Dharam Dipachand Ghamand Hari Harshavardhana Jagat Karam Kirat 
+			Mandhata Pratap Prithvi Prithvinarayan Rajanaka Rajendra Ranjit Ratan Sahil Sansar Sobhag Subans Surendra 
+		}
+		female_names = {
+			Champadevi Champavati "Gulab Dasi" Nanaki "Prasanna Devi" 
+		}
+
+		dynasty_title_names = yes
+		modifier = default_culture_modifier
+	}
+	kashmiri = {
+		graphical_culture = indiangfx
+		second_graphical_culture = muslimgfx
+		
+		color = { 0.3 0.6 0.6 }
+
+		male_names = {
+			Abhimanyu Abhinava Ajjaka Ananta Avantivarman Bhiksacara Bhimagupta Bhoja Bhuvanaraja Bulla Cakravarman Chippatajayapida Dhammata Dharma Domba Durlabhvardhana 
+			Gargachandra Gopalavarman Gulhana Gulla Gunga Haidaracandra Hariraja Harsa Jagadeva Jassaka Jassaraja Jayamalla Jayapida Jayaraja Jayasimha Jonaraja Kalhana Kalasha Kalyana Kantiraja Ksemagupta_Ksemagupta Kshemgupta_Ksemagupta Ksitiraja
+			Lalitaditya Laksmanadeva_Laksmanadeva Laksmandadeva_Laksmanadeva Lothana Malla Mallarjuna Mamma Meruvardhana Nandigupta Nirjitavarman Paramanuka Partha Parvagupta_Parvagupta Prabhakaradeva Pravaragupta_Parvagupta Radda Rajadeva Ralhana Ramacandra Ramadeva Rincana
+			Salhana Sambhuvardhana Samgramadeva Samgramagupta Samgramaraja Samkala Samkaravarman_Samkaravarman Shamkaravarman_Samkaravarman Shrivara Simhadeva Simharaja Suhadeva Sukhavarman Suravarman Sussala Tanvangaraja Tribhuvanagupta Tulla Tunga 
+			Uccala Udayanadeva Udayaraja Unmattavanti Utkarsa Utpala_Utpala Utpalaka_Utpala Vantideva Vigraharaja Vijayamalla Vijayaraja Viradeva Vuppadeva Yasaskara Yashovarman 
+		}
+		female_names = {
+			Bappika Didda Jayadevi Keyya Kota Kotadevi Nanda Padmasri Radda Ramalekha Shrilakha Sugandha Suryamati Vasantalekha
+		}
+
+		dynasty_title_names = yes
+		modifier = default_culture_modifier
+	}
+	garhwali = {
+		graphical_culture = indiangfx
+		second_graphical_culture = muslimgfx
+		
+		color = { 0.2 0.45 0.5 }
+
+		male_names = {
+			Abhaya-Deo Abigat-Pal Agasti-Pal Ajal-Pal Anand-Pal Anant-Pal Asal-Deo Balbhadra-Sah Bhagti-Pal
+			Bidhi-Pal Bijai-Pal Fateh-Sah Hansdeo-Pal Jagat-Pal Jai-Chand-Pal Jaikarat-Sah Jairam-Deo Jayant-Singh-Pal
+			Jit-Pal Lalipat-Sah Kalyan-Sah Kanak-Pal Madan-Pal Mahipat-Sah Man-Sah Medni-Sah Padu-Pal Pradhman-Sah
+			Pradipt-Sah Prithi-Pal Prithi-Sah Purab-Deo Ratna-Pal Sahaj-Pal Sali-Pal Shyam-Pal Shyam-Sah Sigal-Pal Sundar-Pal Surati-Pal Upendra-Sah
+		}
+		female_names = { #Kashmiri
+			Bappika Didda Keyya Kota Nanda Padmasri Radda Ramalekha Shrilakha Suryamati Vasantalekha
+		}
+
+		dynasty_title_names = yes
+		modifier = default_culture_modifier
+	}
+	khaskura = {
+		graphical_culture = indiangfx
+		second_graphical_culture = muslimgfx
+		
+		color = { 0.2 0.6 0.65 }
+
+		male_names = { #Kashmiri
+			Abhimanyu Ananta Bhikshacara Bhimagupta Bhoja Chippatajayapida Durlabhvardhana 
+			Gargachandra Gulhana Hariraja Harsa Jagadeva Jayasimha Jonaraja Kalhana Kalasha Kshemgupta 
+			Lalitaditya Laksmandadeva Lothana Mallajuna Nandigupta Pravaragupta Radda Rajadeva Ramadeva 
+			Salhana Samgramaraja Shamkaravarman Shrivara Simharaja Suhadeva Sussala Tribhuvanagupta Tunga 
+			Uccala Utkarsa Utpalaka Vigraharaja Vijayamalla Viradeva Yashaskara Yashovarman
+		}
+		female_names = {
+			Didda Kota Shrilakha Suryamati
+		}
+
+		dynasty_title_names = yes
+		modifier = default_culture_modifier
+	}
+}
+
+
+## Dravidian
+dravidian_group = {
+	tamil = {
+		graphical_culture = indiangfx
+		second_graphical_culture = muslimgfx
+		
+		color = { 0.1 0.1 0.5 }
+
+		male_names = {
+			Aditya Amarabhujanga Aparajita Athirajendra Arikesari Arikulakesari Arulmozhivarman Arinjaya Bhaskararavi 
+			Cezhiyan Gangaikonda Gandaraditya Govardhana Indukotha Irattapadikonda Jayantavarman 
+			Kadarangkonda Kadungon Kochchadaiyan Kodandarama Kopperunchinga Kotharavi Kulasekara Kulothunga 
+			Madevadigal Madhurantaka Mahendravarman Manakulachala Manavalapperumal Manukulkesari Maravarman Mudikonda 
+			Nanadivarman Narasimhavaram Nripatunga Parakrama Paramesvaravarman Parantaka 
+			Rajadhiraja Rajaditya Rajasimha Rajashekara Rajendra Ramavarman Rasasingan Ravirama 
+			Sankaranarayana Sirmara Simhavishnu Sthanuravi Sundara Uttamasili 
+			Vallabha Varagunan Varagunavarman Vikrama Vijayalaya Vira Virakerala Virarajendra Virasekhara Virasolan
+		}
+		female_names = {
+			Abhimanavalliyar Ammangadevi Anupama Arulmolinangai "Athithan Kothai" Avanimulududaiyal 
+			Bhuvanamuludaiyal Bhuvanamulududaiyal Cholakulamadeviyar Elada "Elisai Vallabhi" Elulgudayal 
+			Kaduvettigal Kalyani Kodai Kokilanadigal Kuthan Kundavai Lokamahadevi 
+			Madevadigalar Madurantaki Mathevalzagal Minavan Mukkokilan Mukkokilanadigal 
+			"Nakkan Thillai" Nandippottairalyar Nangai Parantakandevi "Rajarajan Arumoliyar" Rajasundari 
+			Sembiyan Siddhavadavan Solakulavalliyar Thidaipiranmagal Thiripuvana Thyagapataka Thyagavalli 
+			"Ulagamaga Deviyari" Ulagudai Mukkokilan Urattayana "Uruttiran Arumoli" 
+			Vanathi Vanavanmahadevi "Vayiri Akkan" Villavan Viman Viramadevi
+		}
+
+		dynasty_title_names = yes
+		modifier = default_culture_modifier
+	}
+	malayalam = {
+		graphical_culture = indiangfx
+		second_graphical_culture = muslimgfx
+		
+		color = { 0.4 0.25 0.5 }
+
+		male_names = {
+			Aditya Amarabhujanga Aparajita Athirajendra Arikesari Arikulakesari Arulmozhivarman Arinjaya Bhaskararavi 
+			Cezhiyan Gangaikonda Gandaraditya Govardhana Indukotha Irattapadikonda Jayantavarman 
+			Kadarangkonda Kadungon Kochchadaiyan Kodandarama Kopperunchinga Kotharavi Kulasekara Kulothunga 
+			Madevadigal Madhurantaka Mahendravarman Manakulachala Manavalapperumal Manukulkesari Maravarman Mudikonda 
+			Nanadivarman Narasimhavaram Nripatunga Parakrama Paramesvaravarman Parantaka 
+			Rajadhiraja Rajaditya Rajasimha Rajashekara Rajendra Ramavarman Rasasingan Ravirama 
+			Sankaranarayana Sirmara Simhavishnu Sthanuravi Sundara Uttamasili 
+			Vallabha Varagunan Varagunavarman Vikrama Vijayalaya Vira Virakerala Virarajendra Virasekhara Virasolan
+		}
+		female_names = {
+			Abhimanavalliyar Ammangadevi Anupama Arulmolinangai "Athithan Kothai" Avanimulududaiyal 
+			Bhuvanamuludaiyal Bhuvanamulududaiyal Cholakulamadeviyar Elada "Elisai Vallabhi" Elulgudayal 
+			Kaduvettigal Kalyani Kodai Kokilanadigal Kuthan Kundavai Lokamahadevi 
+			Madevadigalar Madurantaki Mathevalzagal Minavan Mukkokilan Mukkokilanadigal 
+			"Nakkan Thillai" Nandippottairalyar Nangai Parantakandevi "Rajarajan Arumoliyar" Rajasundari 
+			Sembiyan Siddhavadavan Solakulavalliyar Thidaipiranmagal Thiripuvana Thyagapataka Thyagavalli 
+			"Ulagamaga Deviyari" Ulagudai Mukkokilan Urattayana "Uruttiran Arumoli" 
+			Vanathi Vanavanmahadevi "Vayiri Akkan" Villavan Viman Viramadevi
+		}
+
+		dynasty_title_names = yes
+		modifier = default_culture_modifier
+	}
+	kannada = {
+		graphical_culture = indiangfx
+		second_graphical_culture = muslimgfx
+		
+		color = { 0.2 0.1 0.5 }
+
+		male_names = {
+			Achugi Adikavi Ahavamalla Amoghavarsha Anekonda Asaga Avinita Ayanna Bhuvikrama Bijjama Bukka Butuga 
+			Chavundaraya Dantidurga Dashavarman Dhruva Durgasimha Durvinita "Ereganga Neetimarga" Ereyanga 
+			Gangaraja Gajankusha Gobburi Govinda Hakka Harihara Harivarman Indra 
+			Jagadhekamalla Jagaraya Jagattunga Jayasimha Jogama 
+			Kambarasa Kannama Karka Khottiga Kiriyasaga Kirtivarman Konganivarman Krishna 
+			Madhava Madhura Mallikarjuna Mallugi Mangalesi Marasimha "Marulaganga Neetimarga" Mushkara 
+			Narasimha "Neetimarga Permanadi" "Nripa Kama" Permadi Polavira Praudharaya Pulakesi Purandaradasa 
+			Rachamalla Ramachandra Ramadeva Ramaraya Sankama Satyasraya Sharva Shivamara Singhana 
+			Somesvara Sovideva Sripadaraya Sripurusha Sriranga Srivikrama Tailapa Thimma Tirumalaraya 
+			Uchita Venkatadri Venkatapathi Vikramaditya Vijayaditya Vinayaditya "Vira Ballala" Viravijaya 
+			Virupaksha Vishnugopa Vishnuvardhana Yachama Yachamanedu 
+		}
+		female_names = {
+			Akkadevi Bhavanaga Bijjabbe Chandaladevi Chandrabbalabbe Gangambika Hoysaladevi Kundakadevi 
+			Lakshmi Mahadevi Mailaladevi Obayamma Pertal Revakanimmadi Shantaladevi Vijamba 
+		}
+
+		dynasty_title_names = yes
+		modifier = default_culture_modifier
+	}
+	tulu = {
+		graphical_culture = indiangfx
+		second_graphical_culture = muslimgfx
+		
+		color = { 0.2 0.2 0.5 }
+
+		male_names = {
+			Achyutadeva Krishnadevaraya "Narasa Nayaka" Ramaraya Sadashiva Vendakadri Viranarasimha
+		}
+		female_names = {
+			Chinnambike Thirumalambike 
+		}
+
+		dynasty_title_names = yes
+		modifier = default_culture_modifier
+	}
+	telugu = {
+		graphical_culture = indiangfx
+		second_graphical_culture = muslimgfx
+		
+		color = { 0.6 0.2 0.2 }
+
+		male_names = {
+			Allada Allayavema Amma Anavema Anavota Beta Bhima Chennappa Danamava Devanayaka 
+			Ganapathideva Ganapathinayaka "Indra Bhattaraka" Jayasimha 
+			Kaapayanayaka Kammanayaka Katayavema Kumaragiri Mahadeva "Mangi Yuvaraja" Nachana 
+			Prataparudra Prola Prolayanayak Prolayavema Rajanayaka "Rajaraja Narendra" Rudradeva 
+			Saktivarman Singamanayaka Vengabhupathi Vijayaditya Vimaladitya Virabhadra Vishnuvardhana Yuddamalla 
+		}
+		female_names = {
+			Anitalli Hariharamba Rudramba Rudramadevi 
+		}
+
+		dynasty_title_names = yes
+		modifier = default_culture_modifier
+	}
+}

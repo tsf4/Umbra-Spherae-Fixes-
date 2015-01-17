@@ -1,0 +1,112 @@
+831.1.1={
+	liege="k_khajuraho"
+}
+#Candella Dynasty
+831.1.1={
+	holder=1000076952 #Nannuka
+}
+845.1.1={
+	holder=1000076953 #Vakpati
+}
+865.1.1={
+	holder=1000076954 #Jayasakti
+}
+875.1.1={
+	holder=1000076955 #Vijayasakti
+}
+885.1.1={
+	holder=1000076956 #Rahila
+}
+905.1.1={
+	holder=1000076957 #Harsa
+}
+925.1.1={
+	holder=1000076958 #Yasovarman I
+}
+950.1.1={
+	holder=1000076959 #Dhangadeva
+}
+1002.1.1={
+	holder=1000076960 #Gandadeva
+}
+1015.1.1={
+	holder=1000076961 #Vidyadhara
+}
+1036.1.1={
+	holder=1000076962 #Vijayapala
+}
+1050.1.1={
+	holder=1000076963 #Devavarman
+}
+1060.1.1={
+	holder=1000076166 #Kirtivarman
+}
+1100.1.1={
+	holder=1000076964 #Sallaksanavarman
+}
+1110.1.1={
+	holder=1000076965 #Jayavarman
+}
+1120.1.1={
+	holder=1000076966 #Prithvivarman
+}
+1128.1.1={
+	holder=1000076967 #Madanavarman
+}
+1165.1.1={
+	holder=1000076968 #Yasovarman II
+}
+1166.1.1={
+	holder=1000076969 #Paramardideva
+}
+1203.1.1={
+	holder=1000076970 #Trailokyavarman
+}
+1245.1.1={
+	holder=1000076971 #Viravarman
+}
+1285.1.1={
+	holder=1000076972 #Bhojavarman
+}
+1288.1.1={
+	holder=1000076973 #Hammiravarman
+}
+
+#Khilji Dynasty
+1311.1.1={
+	liege="e_uttarapatha"
+}
+1311.1.1={
+	holder=1000083708 #Muhammad-Shah I
+}
+1316.1.3={
+	holder=1000083712 #Umar-Shah
+}
+1316.4.1={
+	holder=1000083714 #Mubarak-Shah I
+}
+1318.9.1={
+	holder=1000083716 #Mahmud-Shah II
+}
+1318.12.1={
+	holder=1000083714 #Mubarak-Shah I (second time)
+}
+
+#Hasanid Dynasty
+1320.6.1={
+	holder=1000083719 #Husraw-Shah
+}
+
+#Tughlaq Dynasty
+1320.10.1={
+	holder=1000083723 #Tughlaq-Shah I
+}
+1325.1.1={
+	holder=1000083725 #Muhammad-Shah II
+}
+1351.5.1={
+	holder=1000083727 #Mahmud-Shah III
+}
+1351.10.1={
+	holder=1000083731 #Firuz-Shah III
+}

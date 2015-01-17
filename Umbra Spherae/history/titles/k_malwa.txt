@@ -1,0 +1,99 @@
+#Paramara Dynasty
+800.1.1={
+	liege="e_madhyadesa"
+}
+800.1.1={
+	holder=1000076358 #Upendra
+}
+818.1.1={
+	holder=1000076359 #Vairisimha I
+}
+843.1.1={
+	holder=1000076360 #Siyaka I
+}
+893.1.1={
+	holder=1000076361 #Vakpatiraja I
+}
+918.1.1={
+	holder=1000076362 #Vairisimha II
+}
+948.1.1={
+	holder=1000076363 #Siyaka II
+}
+967.1.1={
+	liege=0
+}
+974.1.1={
+	holder=1000076364 #Vakpatiraja II
+}
+995.1.1={
+	holder=1000076365 #Sindhuraja
+}
+1010.1.1={
+	holder=1000076366 #Bhoja
+}
+1055.1.1={
+	holder=1000076156 #Jayasimha I
+}
+1068.1.1={
+	holder=1000076367 #Udayaditya
+}
+1087.1.1={
+	holder=1000076368 #Lakshmanadeva
+}
+1094.1.1={
+	holder=1000076369 #Naravarmandeva
+}
+1134.1.1={
+	holder=1000076370 #Yasovarman
+}
+1142.1.1={
+	holder=1000076371 #Jayavarman I
+}
+
+#Ballala Dynasty (usurper)
+1143.1.1={
+	holder=1000076372 #Ballala
+}
+
+#Malwa conquered by the Solanki
+1150.1.1={
+	holder=0
+}
+
+#Paramara Dynasty (restored)
+1160.1.1={
+	holder=1000076373 #Vindhyavarman
+}
+1193.1.1={
+	holder=1000076374 #Subhatavarman
+}
+1210.1.1={
+	holder=1000076375 #Arjunavarman I
+}
+1218.1.1={
+	holder=1000076376 #Devapala
+}
+1239.1.1={
+	holder=1000076377 #Jaitugideva
+}
+1256.1.1={
+	holder=1000076378 #Jayavarman II
+}
+1269.1.1={
+	holder=1000076379 #Jayasimha II
+}
+1274.1.1={
+	holder=1000076380 #Arjunavarman II
+}
+1283.1.1={
+	holder=1000076381 #Bhoja II
+}
+1298.1.1={
+	holder=1000076382 #Mahlakadeva
+}
+
+#Malwa conquered by the Khilji
+1305.1.1={
+	holder=0
+}

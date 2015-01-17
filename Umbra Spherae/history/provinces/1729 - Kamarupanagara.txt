@@ -1,0 +1,21 @@
+# 1729 - Kamarupanagara
+
+# County Title
+title = c_kamarupanagara
+
+# Settlements
+max_settlements = 5
+b_pakhamela = castle
+b_kamarupanagara = city
+b_geruwa = temple
+#b_kulhati =
+#b_kalitakuchi =
+#b_saniyadi =
+#b_adharpara =
+#b_bijulighat =
+
+# Misc
+culture = kamarupi
+religion = hindu
+
+# History

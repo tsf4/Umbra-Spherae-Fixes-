@@ -1,0 +1,4 @@
+370.1.1={
+	active = yes
+	liege = "k_abyssinia"
+}

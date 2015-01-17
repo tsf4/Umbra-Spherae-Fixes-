@@ -1,0 +1,155 @@
+#Rashtrakuta Dynasty (branch of Lata)
+807.1.1={
+	liege="d_lata"
+}
+807.1.1={
+	holder=1000203270 #Indra
+}
+818.1.1={
+	holder=1000203271 #Karka
+}
+826.1.1={
+	holder=1000203272 #Dhruva
+}
+845.1.1={
+	holder=1000203273 #Akalavarsha
+}
+868.1.1={
+	holder=1000203274 #Dhruva
+}
+
+#Rashtrakuta Dynasty
+871.1.1={
+	liege="e_madhyadesa"
+}
+871.1.1={
+	holder=1000202804 #Amoghavarsha I
+}
+880.1.1={
+	holder=1000202805 #Krishna II
+}
+915.1.1={
+	holder=1000202807 #Indra [III]
+}
+927.1.1={
+	holder=1000202808 #Amoghavarsha II
+}
+930.1.1={
+	holder=1000202809 #Govinda III [IV]
+}
+934.1.1={
+	holder=1000202810 #Amoghavarsha III
+}
+939.1.1={
+	holder=1000202811 #Krishna III
+}
+966.1.1={
+	holder=1000202812 #Khottiga
+}
+972.1.1={
+	holder=1000202814 #Karkka [II]
+}
+
+#Solanki Dynasty
+973.1.1={
+	liege="k_gujarat"
+}
+973.1.1={
+	holder=1000076226 #Mulraja I
+}
+996.1.1={
+	holder=1000076227 #Chamundaraja
+}
+1009.1.1={
+	holder=1000076228 #Vallabharaja
+}
+1010.1.1={
+	holder=1000076229 #Durlabharaja
+}
+1022.1.1={
+	holder=1000076230 #Bhima I
+}
+1064.1.1={
+	holder=1000076155 #Karnadeva I
+}
+1096.1.1={
+	holder=1000076231 #Jayasimha I
+}
+1125.1.1={
+	holder=1000076232 #Kumarapala
+}
+1171.1.1={
+	holder=1000076233 #Ajayapala
+}
+1176.1.1={
+	holder=1000076234 #Mulraja II
+}
+1178.1.1={
+	holder=1000076235 #Bhima II
+}
+1223.1.1={
+	holder=1000076236 #Jayasimha II
+}
+1224.1.1={
+	holder=1000076235 #Bhima II
+}
+1241.1.1={
+	holder=1000076237 #Tribhuvanapala
+}
+
+#Vaghela Dynasty
+1244.1.1={
+	holder=1000083791 #Viramadeva
+}
+1249.1.1={
+	holder=1000083793 #Visaladeva
+}
+1261.1.1={
+	holder=1000083795 #Arjunadeva
+}
+1274.1.1={
+	holder=1000083797 #Sarangadeva
+}
+1296.1.1={
+	holder=1000083799 #Karnadeva
+}
+
+#Khilji Dynasty
+1304.1.1={
+	liege="e_uttarapatha"
+}
+1304.1.1={
+	holder=1000083708 #Muhammad-Shah I
+}
+1316.1.3={
+	holder=1000083712 #Umar-Shah
+}
+1316.4.1={
+	holder=1000083714 #Mubarak-Shah I
+}
+1318.9.1={
+	holder=1000083716 #Mahmud-Shah II
+}
+1318.12.1={
+	holder=1000083714 #Mubarak-Shah I (second time)
+}
+
+#Hasanid Dynasty
+1320.6.1={
+	holder=1000083719 #Husraw-Shah
+}
+
+#Tughlaq Dynasty
+1320.10.1={
+	holder=1000083723 #Tughlaq-Shah I
+}
+1325.1.1={
+	holder=1000083725 #Muhammad-Shah II
+}
+1351.5.1={
+	holder=1000083727 #Mahmud-Shah III
+}
+1351.10.1={
+	holder=1000083731 #Firuz-Shah III
+}
+

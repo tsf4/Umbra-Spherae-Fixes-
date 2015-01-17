@@ -1,0 +1,21 @@
+# 1745 - Hastinapura
+
+# County Title
+title = c_hastinapura
+
+# Settlements
+max_settlements = 5
+b_indrasthana = castle
+b_hastinapura = city
+b_ganeshpur = temple
+#b_rehman_pur =
+#b_bahsuma =
+#b_mawana =
+#b_ramraj =
+#b_miranpur =
+
+# Misc
+culture = hindavi
+religion = hindu
+
+# History

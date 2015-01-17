@@ -1,0 +1,35 @@
+#Kalinga Magha Dynasty
+1215.1.1={
+	holder=1000203367 #Kalinga-Magha
+}
+
+#Tambralinga Dynasty
+1255.1.1={
+	holder=1000080878 #Candrabhanu
+}
+1258.1.1={
+	liege="e_dakshinapatha"
+}
+
+#Aryacakravarti Dynasty
+1260.1.1={
+	holder=1000203368 #Kulasekhara
+}
+1284.1.1={
+	holder=1000203369 #Kulottunga
+}
+1292.1.1={
+	holder=1000203370 #Vikrama
+}
+1302.1.1={
+	holder=1000203371 #Varodaya
+}
+1323.1.1={
+	liege=0
+}
+1325.1.1={
+	holder=1000203372 #Martanda
+}
+1347.1.1={
+	holder=1000203373 #Gunabhooshana
+}

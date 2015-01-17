@@ -1,0 +1,21 @@
+# 1040 - Dimapur
+
+# County Title
+title = c_dimapur
+
+# Settlements
+max_settlements = 4
+b_kashiram = castle
+b_dimapur = city
+b_ao_yimsen = temple
+#b_dhansiri =
+#b_dhansiripar =
+#b_chumukedima =
+#b_bokajan =
+#b_sariajan =
+
+# Misc
+culture = kamarupi
+religion = hindu
+
+# History

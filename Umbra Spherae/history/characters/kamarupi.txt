@@ -1,0 +1,2358 @@
+#Varman Dynasty
+
+1000083637 = {
+	name="Pusyavarman"
+	dynasty=1000028373 #Varman
+	religion="hindu"
+	culture="kamarupi"
+	320.1.1={
+		birth="320.1.1"
+	}
+	350.1.1={
+		add_spouse=1000083638
+	}
+	374.1.1={
+		death="374.1.1"
+	}
+}
+
+1000083638 = {
+	name="Ahiavadevi"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	320.1.1={
+		birth="320.1.1"
+	}
+	374.1.1={
+		death="374.1.1"
+	}
+}
+
+1000083639 = {
+	name="Samudravarman"
+	dynasty=1000028373 #Varman
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083637
+	mother=1000083638
+	350.1.1={
+		birth="350.1.1"
+	}
+	370.1.1={
+		add_spouse=1000083640
+	}
+	398.1.1={
+		death="398.1.1"
+	}
+}
+
+1000083640 = {
+	name="Dattadevi"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	350.1.1={
+		birth="350.1.1"
+	}
+	398.1.1={
+		death="398.1.1"
+	}
+}
+
+1000083641 = {
+	name="Balavarman"
+	dynasty=1000028373 #Varman
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083639
+	mother=1000083640
+	370.1.1={
+		birth="370.1.1"
+	}
+	390.1.1={
+		add_spouse=1000083642
+	}
+	422.1.1={
+		death="422.1.1"
+	}
+}
+
+1000083642 = {
+	name="Ratnavati"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	370.1.1={
+		birth="370.1.1"
+	}
+	422.1.1={
+		death="422.1.1"
+	}
+}
+
+1000083643 = {
+	name="Kalyanavarman"
+	dynasty=1000028373 #Varman
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083641
+	mother=1000083642
+	390.1.1={
+		birth="390.1.1"
+	}
+	410.1.1={
+		add_spouse=1000083644
+	}
+	446.1.1={
+		death="446.1.1"
+	}
+}
+
+1000083644 = {
+	name="Gandharavati"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	390.1.1={
+		birth="390.1.1"
+	}
+	446.1.1={
+		death="446.1.1"
+	}
+}
+
+1000083645 = {
+	name="Ganapativarman"
+	dynasty=1000028373 #Varman
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083643
+	mother=1000083644
+	410.1.1={
+		birth="410.1.1"
+	}
+	430.1.1={
+		add_spouse=1000083646
+	}
+	470.1.1={
+		death="470.1.1"
+	}
+}
+
+1000083646 = {
+	name="Yajnavati"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	410.1.1={
+		birth="410.1.1"
+	}
+	470.1.1={
+		death="470.1.1"
+	}
+}
+
+1000083647 = {
+	name="Mahendravarman"
+	dynasty=1000028373 #Varman
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083645
+	mother=1000083646
+	430.1.1={
+		birth="430.1.1"
+	}
+	450.1.1={
+		add_spouse=1000083648
+	}
+	494.1.1={
+		death="494.1.1"
+	}
+}
+
+1000083648 = {
+	name="Suvrata"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	430.1.1={
+		birth="430.1.1"
+	}
+	494.1.1={
+		death="494.1.1"
+	}
+}
+
+1000083649 = {
+	name="Narayanavarman"
+	dynasty=1000028373 #Varman
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083647
+	mother=1000083648
+	450.1.1={
+		birth="450.1.1"
+	}
+	470.1.1={
+		add_spouse=1000083650
+	}
+	518.1.1={
+		death="518.1.1"
+	}
+}
+
+1000083650 = {
+	name="Devavati"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	450.1.1={
+		birth="450.1.1"
+	}
+	518.1.1={
+		death="518.1.1"
+	}
+}
+
+1000083651 = {
+	name="Bhutivarman"
+	dynasty=1000028373 #Varman
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083649
+	mother=1000083650
+	480.1.1={
+		birth="480.1.1"
+	}
+	500.1.1={
+		add_spouse=1000083652
+	}
+	542.1.1={
+		death="542.1.1"
+	}
+}
+
+1000083652 = {
+	name="Vijnayavati"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	480.1.1={
+		birth="480.1.1"
+	}
+	542.1.1={
+		death="542.1.1"
+	}
+}
+
+1000083653 = {
+	name="Candramukhavarman"
+	dynasty=1000028373 #Varman
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083651
+	mother=1000083652
+	500.1.1={
+		birth="500.1.1"
+	}
+	520.1.1={
+		add_spouse=1000083654
+	}
+	566.1.1={
+		death="566.1.1"
+	}
+}
+
+1000083654 = {
+	name="Bhogavati"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	500.1.1={
+		birth="500.1.1"
+	}
+	566.1.1={
+		death="566.1.1"
+	}
+}
+
+1000083655 = {
+	name="Sthitavarman"
+	dynasty=1000028373 #Varman
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083653
+	mother=1000083654
+	520.1.1={
+		birth="520.1.1"
+	}
+	540.1.1={
+		add_spouse=1000083656
+	}
+	590.1.1={
+		death="590.1.1"
+	}
+}
+
+1000083656 = {
+	name="Nayanadevi"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	520.1.1={
+		birth="520.1.1"
+	}
+	590.1.1={
+		death="590.1.1"
+	}
+}
+
+1000083657 = {
+	name="Susthitavarman"
+	dynasty=1000028373 #Varman
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083655
+	mother=1000083656
+	540.1.1={
+		birth="540.1.1"
+	}
+	560.1.1={
+		add_spouse=1000083658
+	}
+	595.1.1={
+		death="595.1.1"
+	}
+}
+
+1000083658 = {
+	name="Syamadevi"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	540.1.1={
+		birth="540.1.1"
+	}
+	595.1.1={
+		death="595.1.1"
+	}
+}
+
+1000083659 = {
+	name="Supratisthitavarman"
+	dynasty=1000028373 #Varman
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083657
+	mother=1000083658
+	560.1.1={
+		birth="560.1.1"
+	}
+	580.1.1={
+		add_spouse=1000083660
+	}
+	600.1.1={
+		death="600.1.1"
+	}
+}
+
+1000083660 = {
+	name="Durlabha"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	560.1.1={
+		birth="560.1.1"
+	}
+	600.1.1={
+		death="600.1.1"
+	}
+}
+
+1000083661 = {
+	name="Bhaskaravarman"
+	dynasty=1000028373 #Varman
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083657
+	mother=1000083658
+	590.1.1={
+		birth="590.1.1"
+	}
+	610.1.1={
+		add_spouse=1000083662
+	}
+	650.1.1={
+		death="650.1.1"
+	}
+}
+
+1000083662 = {
+	name="Vasumati"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	590.1.1={
+		birth="590.1.1"
+	}
+	650.1.1={
+		death="650.1.1"
+	}
+}
+
+#Mleccha Dynasty
+
+1000083496 = {
+	name="Salastambha"
+	dynasty=1000028364 #Mleccha
+	religion="hindu"
+	culture="kamarupi"
+	600.1.1={
+		birth="600.1.1"
+	}
+	620.1.1={
+		add_spouse=1000083497
+	}
+	670.1.1={
+		death="670.1.1"
+	}
+}
+
+1000083497 = {
+	name="Bhogavati"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	600.1.1={
+		birth="600.1.1"
+	}
+	670.1.1={
+		death="670.1.1"
+	}
+}
+
+1000083498 = {
+	name="Vijayastambha"
+	dynasty=1000028364 #Mleccha
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083496
+	mother=1000083497
+	620.1.1={
+		birth="620.1.1"
+	}
+	640.1.1={
+		add_spouse=1000083499
+	}
+	680.1.1={
+		death="680.1.1"
+	}
+}
+
+1000083499 = {
+	name="Dattadevi"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	620.1.1={
+		birth="620.1.1"
+	}
+	680.1.1={
+		death="680.1.1"
+	}
+}
+
+1000083500 = {
+	name="Palakastambha"
+	dynasty=1000028364 #Mleccha
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083498
+	mother=1000083499
+	640.1.1={
+		birth="640.1.1"
+	}
+	660.1.1={
+		add_spouse=1000083501
+	}
+	690.1.1={
+		death="690.1.1"
+	}
+}
+
+1000083501 = {
+	name="Devavati"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	640.1.1={
+		birth="640.1.1"
+	}
+	690.1.1={
+		death="690.1.1"
+	}
+}
+
+1000083502 = {
+	name="Kumarastambha"
+	dynasty=1000028364 #Mleccha
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083500
+	mother=1000083501
+	660.1.1={
+		birth="660.1.1"
+	}
+	680.1.1={
+		add_spouse=1000083503
+	}
+	700.1.1={
+		death="700.1.1"
+	}
+}
+
+1000083503 = {
+	name="Durlabha"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	660.1.1={
+		birth="660.1.1"
+	}
+	700.1.1={
+		death="700.1.1"
+	}
+}
+
+1000083504 = {
+	name="Vajradeva"
+	dynasty=1000028364 #Mleccha
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083502
+	mother=1000083503
+	680.1.1={
+		birth="680.1.1"
+	}
+	700.1.1={
+		add_spouse=1000083505
+	}
+	710.1.1={
+		death="710.1.1"
+	}
+}
+
+1000083505 = {
+	name="Gandharavati"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	680.1.1={
+		birth="680.1.1"
+	}
+	710.1.1={
+		death="710.1.1"
+	}
+}
+
+1000083506 = {
+	name="Harsavarman"
+	dynasty=1000028364 #Mleccha
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083504
+	mother=1000083505
+	700.1.1={
+		birth="700.1.1"
+	}
+	720.1.1={
+		add_spouse=1000083507
+	}
+	750.1.1={
+		death="750.1.1"
+	}
+}
+
+1000083507 = {
+	name="Kuladevi"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	700.1.1={
+		birth="700.1.1"
+	}
+	750.1.1={
+		death="750.1.1"
+	}
+}
+
+1000083508 = {
+	name="Balavarman"
+	dynasty=1000028364 #Mleccha
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083506
+	mother=1000083507
+	720.1.1={
+		birth="720.1.1"
+	}
+	740.1.1={
+		add_spouse=1000083509
+	}
+	770.1.1={
+		death="770.1.1"
+	}
+}
+
+1000083509 = {
+	name="Nayanadevi"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	720.1.1={
+		birth="720.1.1"
+	}
+	770.1.1={
+		death="770.1.1"
+	}
+}
+
+1000083510 = {
+	name="Salambha"
+	dynasty=1000028364 #Mleccha
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083508
+	mother=1000083509
+	740.1.1={
+		birth="740.1.1"
+	}
+	760.1.1={
+		add_spouse=1000083511
+	}
+	790.1.1={
+		death="790.1.1"
+	}
+}
+
+1000083511 = {
+	name="Ratnadevi"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	740.1.1={
+		birth="740.1.1"
+	}
+	790.1.1={
+		death="790.1.1"
+	}
+}
+
+1000083512 = {
+	name="Arathi"
+	dynasty=1000028364 #Mleccha
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083508
+	mother=1000083509
+	750.1.1={
+		birth="750.1.1"
+	}
+	770.1.1={
+		add_spouse=1000083513
+	}
+	820.1.1={
+		death="820.1.1"
+	}
+}
+
+1000083513 = {
+	name="Suvrata"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	750.1.1={
+		birth="750.1.1"
+	}
+	820.1.1={
+		death="820.1.1"
+	}
+}
+
+1000083514 = {
+	name="Harjaravarman"
+	dynasty=1000028364 #Mleccha
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083512
+	mother=1000083513
+	770.1.1={
+		birth="770.1.1"
+	}
+	790.1.1={
+		add_spouse=1000083515
+	}
+	836.1.1={
+		death="836.1.1"
+	}
+}
+
+1000083515 = {
+	name="Vijnanavati"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	770.1.1={
+		birth="770.1.1"
+	}
+	836.1.1={
+		death="836.1.1"
+	}
+}
+
+1000083516 = {
+	name="Vanamalavarman"
+	dynasty=1000028364 #Mleccha
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083514
+	mother=1000083515
+	790.1.1={
+		birth="790.1.1"
+	}
+	810.1.1={
+		add_spouse=1000083517
+	}
+	855.1.1={
+		death="855.1.1"
+	}
+}
+
+1000083517 = {
+	name="Yajiyavati"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	790.1.1={
+		birth="790.1.1"
+	}
+	855.1.1={
+		death="855.1.1"
+	}
+}
+
+1000083518 = {
+	name="Jayamala"
+	dynasty=1000028364 #Mleccha
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083516
+	mother=1000083517
+	810.1.1={
+		birth="810.1.1"
+	}
+	826.1.1={
+		add_spouse=1000083519
+	}
+	860.1.1={
+		death="860.1.1"
+	}
+}
+
+1000083519 = {
+	name="Bhogavati"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	826.1.1={
+		birth="826.1.1"
+	}
+	860.1.1={
+		death="860.1.1"
+	}
+}
+
+1000083520 = {
+	name="Virabahu"
+	dynasty=1000028364 #Mleccha
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083518
+	mother=1000083519
+	826.1.1={
+		birth="826.1.1"
+	}
+	846.1.1={
+		add_spouse=1000083521
+	}
+	880.1.1={
+		death="880.1.1"
+	}
+}
+
+1000083521 = {
+	name="Dattadevi"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	826.1.1={
+		birth="826.1.1"
+	}
+	880.1.1={
+		death="880.1.1"
+	}
+}
+
+1000083522 = {
+	name="Balavarman"
+	dynasty=1000028364 #Mleccha
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083520
+	mother=1000083521
+	850.1.1={
+		birth="850.1.1"
+	}
+	870.1.1={
+		add_spouse=1000083523
+	}
+	890.1.1={
+		death="890.1.1"
+	}
+}
+
+1000083523 = {
+	name="Devavati"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	850.1.1={
+		birth="850.1.1"
+	}
+	890.1.1={
+		death="890.1.1"
+	}
+}
+
+1000083524 = {
+	name="Jivara"
+	dynasty=1000028364 #Mleccha
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083522
+	mother=1000083523
+	870.1.1={
+		birth="870.1.1"
+	}
+	890.1.1={
+		add_spouse=1000083525
+	}
+	892.1.1={
+		death="892.1.1"
+	}
+}
+
+1000083525 = {
+	name="Durlabha"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	870.1.1={
+		birth="870.1.1"
+	}
+	892.1.1={
+		death="892.1.1"
+	}
+}
+
+1000083526 = {
+	name="Diglekhavarman"
+	dynasty=1000028364 #Mleccha
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083522
+	mother=1000083523
+	871.1.1={
+		birth="871.1.1"
+	}
+	891.1.1={
+		add_spouse=1000083527
+	}
+	894.1.1={
+		death="894.1.1"
+	}
+}
+
+1000083527 = {
+	name="Gandharavati"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	871.1.1={
+		birth="871.1.1"
+	}
+	894.1.1={
+		death="894.1.1"
+	}
+}
+
+1000083528 = {
+	name="Vigrahastambha"
+	dynasty=1000028364 #Mleccha
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083522
+	mother=1000083523
+	872.1.1={
+		birth="872.1.1"
+	}
+	892.1.1={
+		add_spouse=1000083529
+	}
+	896.1.1={
+		death="896.1.1"
+	}
+}
+
+1000083529 = {
+	name="Kuladevi"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	872.1.1={
+		birth="872.1.1"
+	}
+	896.1.1={
+		death="896.1.1"
+	}
+}
+
+1000083530 = {
+	name="Tyagasimha"
+	dynasty=1000028364 #Mleccha
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083522
+	mother=1000083523
+	873.1.1={
+		birth="873.1.1"
+	}
+	893.1.1={
+		add_spouse=1000083531
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000083531 = {
+	name="Nayanadevi"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	873.1.1={
+		birth="873.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+#Bhauma Dynasty
+
+1000083532 = {
+	name="Brahmapala"
+	dynasty=1000028281 #Bhauma
+	religion="hindu"
+	culture="kamarupi"
+	860.1.1={
+		birth="860.1.1"
+	}
+	880.1.1={
+		add_spouse=1000083533
+	}
+	920.1.1={
+		death="920.1.1"
+	}
+}
+
+1000083533 = {
+	name="Kuladevi"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	860.1.1={
+		birth="860.1.1"
+	}
+	920.1.1={
+		death="920.1.1"
+	}
+}
+
+1000083534 = {
+	name="Ratnapala"
+	dynasty=1000028281 #Bhauma
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083532
+	mother=1000083533
+	890.1.1={
+		birth="890.1.1"
+	}
+	910.1.1={
+		add_spouse=1000083535
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000083535 = {
+	name="Durlabha"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	890.1.1={
+		birth="890.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000083545 = {
+	name="Purandarapala"
+	dynasty=1000028281 #Bhauma
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083534
+	mother=1000083535
+	910.1.1={
+		birth="910.1.1"
+	}
+	930.1.1={
+		add_spouse=1000083546
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000083546 = {
+	name="Vijnayavati"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	910.1.1={
+		birth="910.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000083536 = {
+	name="Indrapala"
+	dynasty=1000028281 #Bhauma
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083545
+	mother=1000083546
+	930.1.1={
+		birth="930.1.1"
+	}
+	950.1.1={
+		add_spouse=1000083537
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000083537 = {
+	name="Rajyadevi"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	930.1.1={
+		birth="930.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000076167 = {
+	name="Gopala"
+	dynasty=1000028281 #Bhauma
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083536
+	mother=1000083537
+	950.1.1={
+		birth="950.1.1"
+	}
+	970.1.1={
+		add_spouse=1000083538
+	}
+	1015.1.1={
+		death="1015.1.1"
+	}
+}
+
+1000083538 = {
+	name="Nayanadevi"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	950.1.1={
+		birth="950.1.1"
+	}
+	1015.1.1={
+		death="1015.1.1"
+	}
+}
+
+1000083539 = {
+	name="Harsapala"
+	dynasty=1000028281 #Bhauma
+	religion="hindu"
+	culture="kamarupi"
+	father=1000076167
+	mother=1000083538
+	980.1.1={
+		birth="980.1.1"
+	}
+	1000.1.1={
+		add_spouse=1000083540
+	}
+	1040.1.1={
+		death="1040.1.1"
+	}
+}
+
+1000083540 = {
+	name="Ratnavati"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	980.1.1={
+		birth="980.1.1"
+	}
+	1040.1.1={
+		death="1040.1.1"
+	}
+}
+
+1000083541 = {
+	name="Dharmapala"
+	dynasty=1000028281 #Bhauma
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083539
+	mother=1000083540
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1030.1.1={
+		add_spouse=1000083542
+	}
+	1065.1.1={
+		death="1065.1.1"
+	}
+}
+
+1000083542 = {
+	name="Suvrata"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1065.1.1={
+		death="1065.1.1"
+	}
+}
+
+1000083543 = {
+	name="Jayapala"
+	dynasty=1000028281 #Bhauma
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083541
+	mother=1000083542
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1050.1.1={
+		add_spouse=1000083544
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+1000083544 = {
+	name="Syamadevi"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+#Timgyadeva Dynasty
+
+1000083547 = {
+	name="Timgyadeva"
+	dynasty=1000028365 #Timgyadeva
+	religion="hindu"
+	culture="kamarupi"
+	1070.1.1={
+		birth="1070.1.1"
+	}
+	1090.1.1={
+		add_spouse=1000083548
+	}
+	1125.1.1={
+		death="1125.1.1"
+	}
+}
+
+1000083548 = {
+	name="Vasumati"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	1070.1.1={
+		birth="1070.1.1"
+	}
+	1125.1.1={
+		death="1125.1.1"
+	}
+}
+
+#Vaidyadeva Dynasty
+
+1000083549 = {
+	name="Vaidyadeva"
+	dynasty=1000028366 #Vaidyadeva
+	religion="hindu"
+	culture="kamarupi"
+	1095.1.1={
+		birth="1095.1.1"
+	}
+	1115.1.1={
+		add_spouse=1000083550
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000083550 = {
+	name="Vijnanavati"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	1095.1.1={
+		birth="1095.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+#Candravamsa Dynasty
+
+1000083551 = {
+	name="Bhaskara"
+	dynasty=1000028367 #Candravamsa
+	religion="hindu"
+	culture="kamarupi"
+	1090.1.1={
+		birth="1090.1.1"
+	}
+	1110.1.1={
+		add_spouse=1000083552
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+1000083552 = {
+	name="Yajiyavati"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	1090.1.1={
+		birth="1090.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+1000083553 = {
+	name="Rayarideva"
+	dynasty=1000028367 #Candravamsa
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083551
+	mother=1000083552
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1130.1.1={
+		add_spouse=1000083554
+	}
+	1160.1.1={
+		death="1160.1.1"
+	}
+}
+
+1000083554 = {
+	name="Yajnavati"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1160.1.1={
+		death="1160.1.1"
+	}
+}
+
+1000083555 = {
+	name="Udayakarna"
+	dynasty=1000028367 #Candravamsa
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083553
+	mother=1000083554
+	1130.1.1={
+		birth="1130.1.1"
+	}
+	1150.1.1={
+		add_spouse=1000083556
+	}
+	1180.1.1={
+		death="1180.1.1"
+	}
+}
+
+1000083556 = {
+	name="Ahiavadevi"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	1130.1.1={
+		birth="1130.1.1"
+	}
+	1180.1.1={
+		death="1180.1.1"
+	}
+}
+
+1000083557 = {
+	name="Vallabhadeva"
+	dynasty=1000028367 #Candravamsa
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083555
+	mother=1000083556
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1170.1.1={
+		add_spouse=1000083558
+	}
+	1210.1.1={
+		death="1210.1.1"
+	}
+}
+
+1000083558 = {
+	name="Bhogavati"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1210.1.1={
+		death="1210.1.1"
+	}
+}
+
+1000083559 = {
+	name="Visvasundaradeva"
+	dynasty=1000028367 #Candravamsa
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083557
+	mother=1000083558
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1190.1.1={
+		add_spouse=1000083560
+	}
+	1228.1.1={
+		death="1228.1.1"
+	}
+}
+
+1000083560 = {
+	name="Dattadevi"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1228.1.1={
+		death="1228.1.1"
+	}
+}
+
+#Kachari Dynasty
+
+1000083577 = {
+	name="Virochana"
+	dynasty=1000028370 #Kachari
+	religion="hindu"
+	culture="kamarupi"
+	815.1.1={
+		birth="815.1.1"
+	}
+	845.1.1={
+		add_spouse=1000083578
+	}
+	885.1.1={
+		death="885.1.1"
+	}
+}
+
+1000083578 = {
+	name="Ahiavadevi"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	815.1.1={
+		birth="815.1.1"
+	}
+	885.1.1={
+		death="885.1.1"
+	}
+}
+
+1000083579 = {
+	name="Vorahi"
+	dynasty=1000028370 #Kachari
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083577
+	mother=1000083578
+	865.1.1={
+		birth="865.1.1"
+	}
+	895.1.1={
+		add_spouse=1000083580
+	}
+	925.1.1={
+		death="925.1.1"
+	}
+}
+
+1000083580 = {
+	name="Bhogavati"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	865.1.1={
+		birth="865.1.1"
+	}
+	925.1.1={
+		death="925.1.1"
+	}
+}
+
+1000083581 = {
+	name="Prasanto"
+	dynasty=1000028370 #Kachari
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083579
+	mother=1000083580
+	920.1.1={
+		birth="920.1.1"
+	}
+	950.1.1={
+		add_spouse=1000083582
+	}
+	1010.1.1={
+		death="1010.1.1"
+	}
+}
+
+1000083582 = {
+	name="Dattadevi"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	920.1.1={
+		birth="920.1.1"
+	}
+	1010.1.1={
+		death="1010.1.1"
+	}
+}
+
+1000083583 = {
+	name="Uditya"
+	dynasty=1000028370 #Kachari
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083581
+	mother=1000083582
+	970.1.1={
+		birth="970.1.1"
+	}
+	990.1.1={
+		add_spouse=1000083584
+	}
+	1040.1.1={
+		death="1040.1.1"
+	}
+}
+
+1000083584 = {
+	name="Devavati"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	970.1.1={
+		birth="970.1.1"
+	}
+	1040.1.1={
+		death="1040.1.1"
+	}
+}
+
+1000083585 = {
+	name="Prabhakar"
+	dynasty=1000028370 #Kachari
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083583
+	mother=1000083584
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1030.1.1={
+		add_spouse=1000083586
+	}
+	1070.1.1={
+		death="1070.1.1"
+	}
+}
+
+1000083586 = {
+	name="Durlabha"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1070.1.1={
+		death="1070.1.1"
+	}
+}
+
+1000083587 = {
+	name="Korpoordhwaj"
+	dynasty=1000028370 #Kachari
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083585
+	mother=1000083586
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1060.1.1={
+		add_spouse=1000083588
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+1000083588 = {
+	name="Gandharavati"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+1000083589 = {
+	name="Giridhar"
+	dynasty=1000028370 #Kachari
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083587
+	mother=1000083588
+	1065.1.1={
+		birth="1065.1.1"
+	}
+	1090.1.1={
+		add_spouse=1000083590
+	}
+	1125.1.1={
+		death="1125.1.1"
+	}
+}
+
+1000083590 = {
+	name="Kuladevi"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	1065.1.1={
+		birth="1065.1.1"
+	}
+	1125.1.1={
+		death="1125.1.1"
+	}
+}
+
+1000083591 = {
+	name="Beeradhwaj"
+	dynasty=1000028370 #Kachari
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083589
+	mother=1000083590
+	1090.1.1={
+		birth="1090.1.1"
+	}
+	1110.1.1={
+		add_spouse=1000083592
+	}
+	1155.1.1={
+		death="1155.1.1"
+	}
+}
+
+1000083592 = {
+	name="Nayanadevi"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	1090.1.1={
+		birth="1090.1.1"
+	}
+	1155.1.1={
+		death="1155.1.1"
+	}
+}
+
+1000083593 = {
+	name="Surajit"
+	dynasty=1000028370 #Kachari
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083591
+	mother=1000083592
+	1130.1.1={
+		birth="1130.1.1"
+	}
+	1150.1.1={
+		add_spouse=1000083594
+	}
+	1180.1.1={
+		death="1180.1.1"
+	}
+}
+
+1000083594 = {
+	name="Ratnavati"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	1130.1.1={
+		birth="1130.1.1"
+	}
+	1180.1.1={
+		death="1180.1.1"
+	}
+}
+
+1000083595 = {
+	name="Ohak"
+	dynasty=1000028370 #Kachari
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083593
+	mother=1000083594
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1180.1.1={
+		add_spouse=1000083596
+	}
+	1210.1.1={
+		death="1210.1.1"
+	}
+}
+
+1000083596 = {
+	name="Suvrata"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1210.1.1={
+		death="1210.1.1"
+	}
+}
+
+1000083597 = {
+	name="Makardhwaj"
+	dynasty=1000028370 #Kachari
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083595
+	mother=1000083596
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1250.1.1={
+		add_spouse=1000083598
+	}
+	1286.1.1={
+		death="1286.1.1"
+	}
+}
+
+1000083598 = {
+	name="Syamadevi"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1286.1.1={
+		death="1286.1.1"
+	}
+}
+
+1000083599 = {
+	name="Bhopal"
+	dynasty=1000028370 #Kachari
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083597
+	mother=1000083598
+	1250.1.1={
+		birth="1250.1.1"
+	}
+	1270.1.1={
+		add_spouse=1000083600
+	}
+	1316.1.1={
+		death="1316.1.1"
+	}
+}
+
+1000083600 = {
+	name="Vasumati"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	1250.1.1={
+		birth="1250.1.1"
+	}
+	1316.1.1={
+		death="1316.1.1"
+	}
+}
+
+1000083601 = {
+	name="Purandar"
+	dynasty=1000028370 #Kachari
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083599
+	mother=1000083600
+	1270.1.1={
+		birth="1270.1.1"
+	}
+	1300.1.1={
+		add_spouse=1000083602
+	}
+	1336.1.1={
+		death="1336.1.1"
+	}
+}
+
+1000083602 = {
+	name="Vijnanavati"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	1270.1.1={
+		birth="1270.1.1"
+	}
+	1336.1.1={
+		death="1336.1.1"
+	}
+}
+
+1000083603 = {
+	name="Bicharpatiha"
+	dynasty=1000028370 #Kachari
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083601
+	mother=1000083602
+	1310.1.1={
+		birth="1310.1.1"
+	}
+	1350.1.1={
+		add_spouse=1000083604
+	}
+	1386.1.1={
+		death="1386.1.1"
+	}
+}
+
+1000083604 = {
+	name="Vijnanavati"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	1310.1.1={
+		birth="1310.1.1"
+	}
+	1386.1.1={
+		death="1386.1.1"
+	}
+}
+
+#Sutiya Dynasty
+
+1000083605 = {
+	name="Birpal"
+	dynasty=1000028371 #Sutiya
+	religion="hindu"
+	culture="kamarupi"
+	1160.1.1={
+		birth="1160.1.1"
+	}
+	1180.1.1={
+		add_spouse=1000083606
+	}
+	1210.1.1={
+		death="1210.1.1"
+	}
+}
+
+1000083606 = {
+	name="Yajiyavati"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	1160.1.1={
+		birth="1160.1.1"
+	}
+	1210.1.1={
+		death="1210.1.1"
+	}
+}
+
+1000083607 = {
+	name="Gaurinarayan"
+	dynasty=1000028371 #Sutiya
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083605
+	mother=1000083606
+	1180.1.1={
+		birth="1180.1.1"
+	}
+	1200.1.1={
+		add_spouse=1000083608
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000083609 = {
+	name="Birpal"
+	dynasty=1000028371 #Sutiya
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083607
+	mother=1000083608
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1220.1.1={
+		add_spouse=1000083610
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000083610 = {
+	name="Ahiavadevi"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000083611 = {
+	name="Gaurinarayan"
+	dynasty=1000028371 #Sutiya
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083609
+	mother=1000083610
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1260.1.1={
+		add_spouse=1000083612
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000083612 = {
+	name="Bhogavati"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000083613 = {
+	name="Birpal"
+	dynasty=1000028371 #Sutiya
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083611
+	mother=1000083612
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1290.1.1={
+		add_spouse=1000083614
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000083614 = {
+	name="Dattadevi"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000083615 = {
+	name="Gaurinarayan"
+	dynasty=1000028371 #Sutiya
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083613
+	mother=1000083614
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1320.1.1={
+		add_spouse=1000083616
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000083616 = {
+	name="Devavati"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000083617 = {
+	name="Birpal"
+	dynasty=1000028371 #Sutiya
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083615
+	mother=1000083616
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1350.1.1={
+		add_spouse=1000083618
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+1000083618 = {
+	name="Durlabha"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Khen Dynasty
+
+1000083619 = {
+	name="Prithu"
+	dynasty=1000028372 #Khen
+	religion="hindu"
+	culture="kamarupi"
+	1160.1.1={
+		birth="1160.1.1"
+	}
+	1180.1.1={
+		add_spouse=1000083620
+	}
+	1228.1.1={
+		death="1228.1.1"
+	}
+}
+
+1000083620 = {
+	name="Gandharavati"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	1160.1.1={
+		birth="1160.1.1"
+	}
+	1228.1.1={
+		death="1228.1.1"
+	}
+}
+
+1000083608 = {
+	name="Yajnavati"
+	female=yes
+	dynasty=1000028372 #Khen
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083619
+	mother=1000083620
+	1180.1.1={
+		birth="1180.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000083621 = {
+	name="Sandhya"
+	dynasty=1000028372 #Khen
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083619
+	mother=1000083620
+	1190.1.1={
+		birth="1190.1.1"
+	}
+	1210.1.1={
+		add_spouse=1000083622
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000083622 = {
+	name="Kuladevi"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	1190.1.1={
+		birth="1190.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000083623 = {
+	name="Sindhurai"
+	dynasty=1000028372 #Khen
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083621
+	mother=1000083622
+	1220.1.1={
+		birth="1220.1.1"
+	}
+	1240.1.1={
+		add_spouse=1000083624
+	}
+	1285.1.1={
+		death="1285.1.1"
+	}
+}
+
+1000083624 = {
+	name="Nayanadevi"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	1220.1.1={
+		birth="1220.1.1"
+	}
+	1285.1.1={
+		death="1285.1.1"
+	}
+}
+
+1000083625 = {
+	name="Rupnarayan"
+	dynasty=1000028372 #Khen
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083623
+	mother=1000083624
+	1240.1.1={
+		birth="1240.1.1"
+	}
+	1260.1.1={
+		add_spouse=1000083626
+	}
+	1300.1.1={
+		death="1300.1.1"
+	}
+}
+
+1000083626 = {
+	name="Ratnavati"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	1240.1.1={
+		birth="1240.1.1"
+	}
+	1300.1.1={
+		death="1300.1.1"
+	}
+}
+
+1000083627 = {
+	name="Singhdhwaj"
+	dynasty=1000028372 #Khen
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083625
+	mother=1000083626
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1280.1.1={
+		add_spouse=1000083628
+	}
+	1305.1.1={
+		death="1305.1.1"
+	}
+}
+
+1000083628 = {
+	name="Suvrata"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1305.1.1={
+		death="1305.1.1"
+	}
+}
+
+1000083629 = {
+	name="Pratapdhwaj"
+	dynasty=1000028372 #Khen
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083627
+	mother=1000083628
+	1280.1.1={
+		birth="1280.1.1"
+	}
+	1296.1.1={
+		add_spouse=1000083630
+	}
+	1325.1.1={
+		death="1325.1.1"
+	}
+}
+
+1000083630 = {
+	name="Syamadevi"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	1280.1.1={
+		birth="1280.1.1"
+	}
+	1325.1.1={
+		death="1325.1.1"
+	}
+}
+
+1000083631 = {
+	name="Dharmanarayan"
+	dynasty=1000028372 #Khen
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083629
+	mother=1000083630
+	1296.1.1={
+		birth="1296.1.1"
+	}
+	1316.1.1={
+		add_spouse=1000083632
+	}
+	1330.1.1={
+		death="1330.1.1"
+	}
+}
+
+1000083632 = {
+	name="Vasumati"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	1296.1.1={
+		birth="1296.1.1"
+	}
+	1330.1.1={
+		death="1330.1.1"
+	}
+}
+
+1000083633 = {
+	name="Durlabhnarayan"
+	dynasty=1000028372 #Khen
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083631
+	mother=1000083632
+	1316.1.1={
+		birth="1316.1.1"
+	}
+	1336.1.1={
+		add_spouse=1000083634
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000083634 = {
+	name="Vijnanavati"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	1316.1.1={
+		birth="1316.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000083635 = {
+	name="Indranarayan"
+	dynasty=1000028372 #Khen
+	religion="hindu"
+	culture="kamarupi"
+	father=1000083633
+	mother=1000083634
+	1336.1.1={
+		birth="1336.1.1"
+	}
+	1350.1.1={
+		add_spouse=1000083636
+	}
+	1365.1.1={
+		death="1365.1.1"
+	}
+}
+
+1000083636 = {
+	name="Vijnayavati"
+	female=yes
+	religion="hindu"
+	culture="kamarupi"
+	1336.1.1={
+		birth="1336.1.1"
+	}
+	1365.1.1={
+		death="1365.1.1"
+	}
+}

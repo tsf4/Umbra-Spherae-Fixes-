@@ -1,0 +1,21 @@
+# 1369 - Hobyo
+
+# County Title
+title = c_hobyo
+
+# Settlements
+max_settlements = 4
+b_eyl = castle
+b_hobyo = city
+b_galkayo = castle
+
+#b_qosoltire = city
+#b_el_hur = temple
+#b_garowe = castle
+#b_hilalaye = temple
+
+
+# Misc
+culture = somali
+religion = sunni
+

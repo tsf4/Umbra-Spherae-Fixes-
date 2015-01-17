@@ -1,0 +1,78 @@
+#Kulasekhara Dynasty
+800.1.1={
+	liege="d_chera_nadu"
+}
+800.1.1={
+	holder=1000203066 #Khulaskharavarman
+}
+820.1.1={
+	holder=1000203067 #Rajasekharavarman
+}
+844.1.1={
+	holder=1000203068 #Sthanu-Ravivarman
+}
+885.1.1={
+	holder=1000203069 #Ramavarman
+}
+917.1.1={
+	holder=1000203070 #Kotha-Ravivarman
+}
+944.1.1={
+	holder=1000203071 #Indu-Kothavarman
+}
+962.1.1={
+	holder=1000203072 #Bhaskara-Ravivarman I
+}
+1019.1.1={
+	holder=1000203075 #Bhaskara-Ravivarman II
+}
+1021.1.1={
+	holder=1000203073 #Vira-Kerala
+}
+1028.1.1={
+	holder=1000203074 #Rajasimha
+}
+1043.1.1={
+	holder=1000076174 #Bhaskara-Ravivarman III
+}
+1082.1.1={
+	holder=1000203076 #Ravi-Ramavarman
+}
+1090.1.1={
+	holder=1000203077 #Ramavarman-Kulasekhara
+}
+
+#Calicut Dynasty
+1102.1.1={
+	liege="d_calicut"
+}
+1102.1.1={
+	holder=1000203441 #Narasimhavarman
+}
+1110.1.1={
+	holder=1000203442 #Adityavarman
+}
+1140.1.1={
+	holder=1000203443 #Ramavarman
+}
+1170.1.1={
+	holder=1000203444 #Rajasimha
+}
+1200.1.1={
+	holder=1000203445 #Kulasekhara
+}
+1230.1.1={
+	holder=1000203446 #Vikrama
+}
+1260.1.1={
+	holder=1000203447 #Rajendra
+}
+1290.1.1={
+	holder=1000203448 #Govardhana
+}
+1320.1.1={
+	holder=1000203449 #Mahendravarman
+}
+1350.1.1={
+	holder=1000203450 #Maravarman
+}

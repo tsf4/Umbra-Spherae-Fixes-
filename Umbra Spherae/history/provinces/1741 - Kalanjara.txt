@@ -1,0 +1,21 @@
+# 1741 - Kalanjara
+
+# County Title
+title = c_kalanjara
+
+# Settlements
+max_settlements = 5
+b_karwi = castle
+b_kalanjara = city
+b_mau = temple
+#b_chitrakoot =
+#b_pahari =
+#b_oran_kalanjara =
+#b_atarra =
+#b_bharat_kup =
+
+# Misc
+culture = hindavi
+religion = hindu
+
+# History

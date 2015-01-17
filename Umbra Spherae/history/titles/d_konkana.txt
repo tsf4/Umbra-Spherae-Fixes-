@@ -1,0 +1,70 @@
+#Gove Kadamba Dynasty
+950.1.1={
+	liege="e_madhyadesa"
+}
+950.1.1={
+	holder=1000203142 #Kantakacharya
+}
+960.1.1={
+	holder=1000203143 #Nagavarman
+}
+970.1.1={
+	holder=1000203144 #Guhaladeva I
+}
+975.1.1={
+	holder=1000203145 #Sasthadeva I
+}
+979.1.1={
+	holder=1000203146 #Chaturbhuja
+}
+980.1.1={
+	holder=1000203147 #Guhaladeva II
+}
+1005.1.1={
+	holder=1000203148 #Sasthadeva II
+}
+1050.1.1={
+	holder=1000203149 #Jayakeshi I
+}
+1080.1.1={
+	holder=1000203150 #Guhaladeva III
+}
+1100.1.1={
+	holder=1000203151 #Vijayaditya I
+}
+1104.1.1={
+	holder=1000203152 #Jayakeshi II
+}
+1147.1.1={
+	holder=1000203153 #Permadi
+}
+1181.1.1={
+	holder=1000203154 #Vijayaditya II
+}
+1187.1.1={
+	holder=1000203155 #Jayakeshi III
+}
+1216.1.1={
+	holder=1000203156 #Sivachitta-Vira-Varjadeva
+}
+1220.1.1={
+	holder=1000203157 #Tribhuvanamalla
+}
+1237.1.1={
+	holder=1000203158 #Sasthadeva III
+}
+
+#Kamadeva Dynasty
+1257.1.1={
+	holder=1000203159 #Kamadeva I
+}
+1310.1.1={
+	holder=1000203160 #Kamadeva II
+}
+1328.1.1={
+	holder=1000203161 #Kamadeva III
+}
+
+1336.1.1={
+	liege="e_madhyadesa"
+}

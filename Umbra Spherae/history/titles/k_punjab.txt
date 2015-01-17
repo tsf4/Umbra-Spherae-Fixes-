@@ -1,0 +1,38 @@
+#Turki Sahi Dynasty
+840.1.1={
+	holder=1000083733 #Lagaturman
+}
+
+#Hindu Sahi Dynasty
+870.1.1={
+	holder=1000083737 #Lalliya
+}
+
+#Turki Sahi Dynasty (usurper)
+895.1.1={
+	holder=1000083735 #Samantadeva
+}
+
+#Hindu Sahi Dynasty (restored)
+903.1.1={
+	holder=1000083739 #Kamaluka
+}
+921.1.1={
+	holder=1000083741 #Bhima
+}
+965.1.1={
+	holder=1000083745 #Jayapala
+}
+1002.1.1={
+	holder=1000083747 #Anandapala
+}
+1012.1.1={
+	holder=1000083749 #Trilocanapala
+}
+1021.1.1={
+	holder=1000083751 #Bhimapala
+}
+
+1026.1.1={
+	holder=0
+}

@@ -1,0 +1,15 @@
+# 1863 - Umnugobi
+
+# County Title
+title = c_umnugobi
+
+# Settlements
+max_settlements = 2
+b_dalanzadgad = castle
+b_mani_hiid = castle
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

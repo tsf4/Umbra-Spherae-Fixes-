@@ -1,0 +1,16 @@
+#Gurban Mergid
+1060.1.1 = {
+	holder=1000081067 #Tog-Temur
+}
+1120.1.1 = {
+	holder=1000202601 #Bukha
+}
+1150.1.1 = {
+	holder=1000202602 #Yehe-Chiledu
+}
+1180.1.1 = {
+	holder=1000202603 #Toghta-Bekis
+}
+1200.1.1 = {
+	holder=0
+}

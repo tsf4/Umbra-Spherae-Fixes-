@@ -1,0 +1,96 @@
+#Capa Dynasty
+746.1.1={
+	holder=1000083771 #Vanaraja
+}
+750.1.1={
+	liege="e_uttarapatha"
+}
+780.1.1={
+	holder=1000083773 #Yogaraja
+}
+820.1.1={
+	holder=1000083775 #Ratnaditya
+}
+840.1.1={
+	holder=1000083777 #Vairisimha
+}
+850.1.1={
+	holder=1000083779 #Ksemraja
+}
+860.1.1={
+	holder=1000083781 #Akadadeva
+}
+890.1.1={
+	holder=1000083783 #Bhuyadadeva
+}
+913.1.1={
+	liege=0
+}
+920.1.1={
+	holder=1000083785 #Bhubhatadeva
+}
+
+#Solanki Dynasty
+942.1.1={
+	holder=1000076226 #Mulraja I
+}
+996.1.1={
+	holder=1000076227 #Chamundaraja
+}
+1009.1.1={
+	holder=1000076228 #Vallabharaja
+}
+1010.1.1={
+	holder=1000076229 #Durlabharaja
+}
+1022.1.1={
+	holder=1000076230 #Bhima I
+}
+1064.1.1={
+	holder=1000076155 #Karnadeva I
+}
+1096.1.1={
+	holder=1000076231 #Jayasimha I
+}
+1125.1.1={
+	holder=1000076232 #Kumarapala
+}
+1171.1.1={
+	holder=1000076233 #Ajayapala
+}
+1176.1.1={
+	holder=1000076234 #Mulraja II
+}
+1178.1.1={
+	holder=1000076235 #Bhima II
+}
+1223.1.1={
+	holder=1000076236 #Jayasimha II
+}
+1224.1.1={
+	holder=1000076235 #Bhima II
+}
+1241.1.1={
+	holder=1000076237 #Tribhuvanapala
+}
+
+#Vaghela Dynasty
+1244.1.1={
+	holder=1000083791 #Viramadeva
+}
+1249.1.1={
+	holder=1000083793 #Visaladeva
+}
+1261.1.1={
+	holder=1000083795 #Arjunadeva
+}
+1274.1.1={
+	holder=1000083797 #Sarangadeva
+}
+1296.1.1={
+	holder=1000083799 #Karnadeva
+}
+
+1304.1.1={
+	holder=0
+}

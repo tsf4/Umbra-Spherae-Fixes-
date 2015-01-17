@@ -1,0 +1,70 @@
+#East Ganga Dynasty
+900.1.1={
+	holder=1000202950 #Vajrahasta I
+}
+939.1.1={
+	holder=1000202951 #Gundama I
+}
+942.1.1={
+	holder=1000202952 #Kamarnava I
+}
+977.1.1={
+	holder=1000202953 #Vinayaditya
+}
+980.1.1={
+	holder=1000202954 #Vajrahasta II
+}
+1015.1.1={
+	holder=1000202955 #Kamarnava II
+}
+1016.1.1={
+	holder=1000202956 #Gundama II
+}
+1019.1.1={
+	holder=1000202957 #Madhukamarnava
+}
+1038.1.1={
+	holder=1000076170 #Vajrahasta III
+}
+1070.1.1={
+	holder=1000202958 #Rajaraja I
+}
+1078.1.1={
+	holder=1000202959 #Codaganga
+}
+1150.1.1={
+	holder=1000202960 #Kamarnava III
+}
+1157.1.1={
+	holder=1000202961 #Raghava
+}
+1171.1.1={
+	holder=1000202962 #Rajaraja II
+}
+1192.1.1={
+	holder=1000202963 #Anangabhima I
+}
+1195.1.1={
+	holder=1000202964 #Rajaraja III
+}
+1216.1.1={
+	holder=1000202965 #Anangabhima II
+}
+1238.1.1={
+	holder=1000202966 #Narasimha I
+}
+1264.1.1={
+	holder=1000202967 #Bhanudeva I
+}
+1279.1.1={
+	holder=1000202968 #Narasimha II
+}
+1306.1.1={
+	holder=1000202969 #Bhanudeva II
+}
+1328.1.1={
+	holder=1000202970 #Narasimha III
+}
+1352.1.1={
+	holder=1000202971 #Bhanudeva III
+}

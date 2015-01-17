@@ -1,0 +1,55 @@
+#North Kalachuri Dynasty
+840.1.1={
+	liege="e_uttarapatha"
+}
+840.1.1={
+	holder=1000202901 #Kokkala I
+}
+875.1.1={
+	holder=1000202902 #Sankaragana I
+}
+900.1.1={
+	holder=1000202903 #Balaharsha
+}
+913.1.1={
+	liege=0
+}
+925.1.1={
+	holder=1000202904 #Yuvaraja I
+}
+930.1.1={
+	holder=1000202905 #Lakshmanaraja
+}
+970.1.1={
+	holder=1000202906 #Sankaragana II
+}
+975.1.1={
+	holder=1000202907 #Yuvaraja II
+}
+1000.1.1={
+	holder=1000202908 #Kokkala II
+}
+1038.1.1={
+	holder=1000202909 #Gangeyadeva
+}
+1042.1.1={
+	holder=1000076169 #Karnadeva
+}
+1122.1.1={
+	holder=1000202910 #Yashkarna
+}
+1151.1.1={
+	holder=1000202911 #Gayakarna
+}
+1155.1.1={
+	holder=1000202912 #Narasimha
+}
+1177.1.1={
+	holder=1000202913 #Jayasimha
+}
+1180.1.1={
+	holder=1000202914 #Vijayasimha
+}
+1211.1.1={
+	holder=0
+}

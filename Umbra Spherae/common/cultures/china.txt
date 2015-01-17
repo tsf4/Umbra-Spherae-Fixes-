@@ -1,0 +1,71 @@
+chinese = {
+	graphical_culture = muslimgfx
+
+	han = {
+		graphical_culture = mongolgfx
+		
+		color = { 0.1 0.2 0.3 }
+		
+		male_names = {
+			Ngyuk Ghaux Ngran Kyn Jit Ginh Cynh Sjin Ghranx Hyoh Krah Thek Bjit Yoix Git Ngyox Zsix Si Muh Ghuanx Khraix Thrieng Ciep Chjyo Khix Yox Yk Kuh Zai Mo Zjik Buk
+            		Deh Ngak Kyungx Thrik Crin Thryn Gianx Kioi Thungh Dung Zjim Kionx Hyonh Cjyn Ghuangh Jyn Gi Mjin-henx Zjex Piengx Phox Njin-phox Ki-cjengh Ngieh-lyn Ta-suonh
+            		Pyangx Mung-cjengh Ze-ghen Tuan Ghang Minx-triung Zrix-'an Cjynx Tanh Khim-njak Yoih Dek Cjingx Cong Trie-brak Zrix-suonh Jii-krenx Zsye Ngeu-cah Tok-zsiangx
+            		Zjyo Jenx Chjang-drieu Cjip-triung Ngienh-pak Zsiang Ziek Bit Gie Kung-liangh Cuung-daux Driung-'iem Cheng Myon-kuangx Hyuk Krungh an-zjek Chjung Kue Khruk
+            		Ghueh-khieng Thrin Kuang Kung-triak Dad-byang Zjyn-njin Cjiih Zsyungh Driet Bienh Syn Sjik Ki-triung Minx Triung-ngienh Sjim Khak Poh Pyox Kieng Zji-triung
+            		Prung-ngienh Sjang-'ieng Prung-chjeng Ju an-triung Kuanh Giu Srii-zjeng Srii-jah Srii-daux Ngang Syn-myox Lit Pyoi Sjed-triung Ngioi-triung Kang Ziem-zjenx
+            		Prak-ngienh Ji-ghaux Sjingh-pyoi Chjung Cuung-jynx Kuad Tengx Synh Kai Si-thuaih Khang-prak Truk Lyn Sieuh-driuh Drak Yon Kraih Lin Kuang-sjed Ngyung Junx-myon
+            		Cynh-khieng Khok-kra
+		}
+		female_names = {
+			Ching-cjeuh Ghung-ngyuk Ngyuk-buan Ngyuk Kim-ngyuk Khraux-yon Khraux-ngyuk Khraux-nje Hiang-yon
+		}
+		
+		prefix = no
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 0
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 0
+		mat_grm_name_chance = 0
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+	bai = {
+		graphical_culture = mongolgfx
+		
+		color = { 0.7 0.4 0.15 }
+		
+		male_names = {
+			Ngyuk Ghaux Ngran Kyn Jit Ginh Cynh Sjin Ghranx Hyoh Krah Thek Bjit Yoix Git Ngyox Zsix Si Muh Ghuanx Khraix Thrieng Ciep Chjyo Khix Yox Yk Kuh Zai Mo Zjik Buk
+            		Deh Ngak Kyungx Thrik Crin Thryn Gianx Kioi Thungh Dung Zjim Kionx Hyonh Cjyn Ghuangh Jyn Gi Mjin-henx Zjex Piengx Phox Njin-phox Ki-cjengh Ngieh-lyn Ta-suonh
+            		Pyangx Mung-cjengh Ze-ghen Tuan Ghang Minx-triung Zrix-'an Cjynx Tanh Khim-njak Yoih Dek Cjingx Cong Trie-brak Zrix-suonh Jii-krenx Zsye Ngeu-cah Tok-zsiangx
+            		Zjyo Jenx Chjang-drieu Cjip-triung Ngienh-pak Zsiang Ziek Bit Gie Kung-liangh Cuung-daux Driung-'iem Cheng Myon-kuangx Hyuk Krungh an-zjek Chjung Kue Khruk
+            		Ghueh-khieng Thrin Kuang Kung-triak Dad-byang Zjyn-njin Cjiih Zsyungh Driet Bienh Syn Sjik Ki-triung Minx Triung-ngienh Sjim Khak Poh Pyox Kieng Zji-triung
+            		Prung-ngienh Sjang-'ieng Prung-chjeng Ju an-triung Kuanh Giu Srii-zjeng Srii-jah Srii-daux Ngang Syn-myox Lit Pyoi Sjed-triung Ngioi-triung Kang Ziem-zjenx
+            		Prak-ngienh Ji-ghaux Sjingh-pyoi Chjung Cuung-jynx Kuad Tengx Synh Kai Si-thuaih Khang-prak Truk Lyn Sieuh-driuh Drak Yon Kraih Lin Kuang-sjed Ngyung Junx-myon
+            		Cynh-khieng Khok-kra
+		}
+		female_names = {
+			Ching-cjeuh Ghung-ngyuk Ngyuk-buan Ngyuk Kim-ngyuk Khraux-yon Khraux-ngyuk Khraux-nje Hiang-yon
+		}
+
+		prefix = no
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 0
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 0
+		mat_grm_name_chance = 0
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+	
+}

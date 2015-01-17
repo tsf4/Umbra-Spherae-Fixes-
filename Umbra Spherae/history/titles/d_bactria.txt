@@ -1,0 +1,29 @@
+#Ghurid branch of Bamiyan
+1146.1.1={
+	liege="k_persia"
+}
+1146.1.1={
+	holder=93146 #Masud
+}
+1153.1.1={
+	liege=0
+}
+1163.1.1={
+	holder=93147 #Muhammad
+}
+1186.1.1={
+	liege="k_afghans"
+}
+1192.1.1={
+	holder=93148 #Sam
+}
+1206.1.1={
+	liege=0
+}
+1206.1.1={
+	holder=93149 #Ali
+}
+
+1215.1.1={
+	holder=0
+}

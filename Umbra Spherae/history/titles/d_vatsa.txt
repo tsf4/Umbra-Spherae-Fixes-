@@ -1,0 +1,50 @@
+#Rashtrakuta Dynasty (branch of Kanyakubja)
+1019.1.1={
+	liege="k_kanyakubja"
+}
+1019.1.1={
+	holder=1000080438 #Candra
+}
+1030.1.1={
+	holder=1000080439 #Vigrahapala
+}
+1060.1.1={
+	holder=1000080440 #Bhuvanapala
+}
+1080.1.1={
+	holder=1000080441 #Gopala
+}
+1085.1.1={
+	liege=0
+}
+1090.1.1={
+	holder=1000080442 #Tribhuvanapala
+}
+1110.1.1={
+	holder=1000080443 #Madanapala
+}
+1125.1.1={
+	holder=1000080444 #Devapala
+}
+1140.1.1={
+	holder=1000080445 #Bhimapala
+}
+1150.1.1={
+	holder=1000080446 #Surapala
+}
+1170.1.1={
+	holder=1000080447 #Amritapala
+}
+1190.1.1={
+	holder=1000080448 #Lakhanapala
+}
+1202.1.1={
+	liege="k_kanyakubja"
+}
+1202.1.1={
+	holder=1000080449 #Barahadeva
+}
+1226.1.1={
+	holder=0
+	liege=0
+}

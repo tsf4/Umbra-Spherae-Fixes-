@@ -1,0 +1,109 @@
+#Pala Dynasty
+750.1.1={
+	liege="e_purvadesa"
+}
+750.1.1={
+	holder=1000083411 #Gopala I
+}
+770.1.1={
+	holder=1000083413 #Dharmapala
+}
+810.1.1={
+	holder=1000083415 #Devapala
+}
+850.1.1={
+	holder=1000083417 #Surapala I
+}
+858.1.1={
+	holder=1000083421 #Vigrahapala I
+}
+860.1.1={
+	holder=1000083423 #Narayanapala
+}
+917.1.1={
+	holder=1000083425 #Rajyapala
+}
+952.1.1={
+	holder=1000083427 #Gopala II
+}
+972.1.1={
+	holder=1000083429 #Vigrahapala II
+}
+977.1.1={
+	holder=1000083431 #Mahipala I
+}
+1027.1.1={
+	holder=1000083433 #Nayapala
+}
+
+#Sena Dynasty
+1040.1.1={
+	liege="d_radha"
+}
+1040.1.1={
+	holder=1000083452 #Samantasena
+}
+1080.1.1={
+	holder=1000076183 #Hemantasena
+}
+1095.1.1={
+	holder=1000083455 #Vijayasena
+}
+1158.1.1={
+	holder=1000083457 #Vallasena
+}
+1179.1.1={
+	holder=1000083459 #Laksmanasena
+}
+1206.1.1={
+	holder=1000083461 #Visvarupasena
+}
+1220.1.1={
+	holder=1000083463 #Kesavasena
+}
+
+#Deva Dynasty
+1245.1.1={
+	liege="k_bengal"
+}
+1245.1.1={
+	holder=1000083471 #Dasaratha
+}
+
+#Balbanid Dynasty
+1283.1.1={
+	holder=1000083688 #Bugra I
+}
+1291.1.1={
+	holder=1000083690 #Kay-Kawus
+}
+1302.1.1={
+	holder=1000083692 #Firuz I
+}
+1322.1.1={
+	holder=1000083694 #Mahmud I
+}
+1322.5.1={
+	holder=1000083696 #Bugra II
+}
+1322.10.1={
+	holder=1000083698 #Bahadur
+}
+1324.1.1={
+	holder=1000083700 #Ibrahim
+}
+
+#Tughlaq Dynasty
+1326.1.1={
+	liege="e_uttarapatha"
+}
+1326.1.1={
+	holder=1000083725 #Muhammad-Shah II
+}
+1351.5.1={
+	holder=1000083727 #Mahmud-Shah III
+}
+1351.10.1={
+	holder=1000083731 #Firuz-Shah III
+}
+

@@ -1,0 +1,94 @@
+#Male Dynasty (placeholders)
+840.1.1={
+	holder=1000203275 #Dharmasoka
+}
+870.1.1={
+	holder=1000203276 #Tribhuvanapala
+}
+900.1.1={
+	holder=1000203277 #Mahideva
+}
+930.1.1={
+	holder=1000203278 #Vijaya
+}
+
+#Adeetta Vansa Dynasty
+960.1.1={
+	liege="d_dhivehi"
+}
+960.1.1={
+	holder=1000203280 #Soorudasaruna-Adeettiya
+}
+980.1.1={
+	holder=1000203281 #Damahaar
+}
+
+#Soma Vansa Dynasty
+990.1.1={
+	holder=1000203282 #Balaadeettiya
+}
+1020.1.1={
+	holder=1000203283 #Loakaabarana
+}
+1050.1.1={
+	holder=1000076180 #Maha-Sandura
+}
+1090.1.1={
+	holder=1000203284 #Bovana-Aananda
+}
+
+#Theemuge Dynasty
+1117.1.1={
+	holder=1000203285 #Koimala
+}
+1141.1.1={
+	holder=1000203287 #Dhovemi
+}
+1166.1.1={
+	holder=1000203289 #Muthey
+}
+1185.1.1={
+	holder=1000203290 #Ali
+}
+1193.1.1={
+	holder=1000203291 #Dhinei
+}
+1199.1.1={
+	holder=1000203292 #Dhihei
+}
+1214.1.1={
+	holder=1000203293 #Wadi
+}
+1233.1.1={
+	holder=1000203294 #Valla-Dio
+}
+1258.1.1={
+	holder=1000203295 #Hudhei
+}
+1264.1.1={
+	holder=1000203296 #Aima
+}
+1266.1.1={
+	holder=1000203297 #Hali I
+}
+1268.1.1={
+	holder=1000203298 #Keimi
+}
+1269.1.1={
+	holder=1000203299 #Audha
+}
+1278.1.1={
+	holder=1000203300 #Hali II
+}
+1288.1.1={
+	holder=1000203301 #Yoosuf
+}
+1294.1.1={
+	holder=1000203302 #Salis
+}
+1302.1.1={
+	holder=1000203303 #Davud
+}
+1307.1.1={
+	holder=1000203304 #Omar
+}

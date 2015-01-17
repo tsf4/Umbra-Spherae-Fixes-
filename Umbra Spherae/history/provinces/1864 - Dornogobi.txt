@@ -1,0 +1,15 @@
+# 1864 - Dornogobi
+
+# County Title
+title = c_dornogobi
+
+# Settlements
+max_settlements = 2
+b_shabi_hural = castle
+b_khatanbulag = castle
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

@@ -1,0 +1,21 @@
+# 1026 - Valabhi
+
+# County Title
+title = c_valabhi
+
+# Settlements
+max_settlements = 5
+b_vadiya = castle
+b_valabhi = city
+b_hadmatiya = temple
+#b_moti_rajasthali =
+#b_sagapra =
+#b_randola =
+#b_mokhadka =
+#b_khijadiya =
+
+# Misc
+culture = gujarati
+religion = hindu
+
+# History

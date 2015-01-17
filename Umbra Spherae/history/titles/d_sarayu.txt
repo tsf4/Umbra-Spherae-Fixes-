@@ -1,0 +1,56 @@
+#Sarayupara Kalachuri Dynasty
+800.1.1={
+	liege="e_uttarapatha"
+}
+800.1.1={
+	holder=1000203172 #Rajputra
+}
+810.1.1={
+	holder=1000203173 #Shivaraja I
+}
+830.1.1={
+	holder=1000203174 #Shankaragana I
+}
+875.1.1={
+	holder=1000203175 #Gunasagara I
+}
+890.1.1={
+	holder=1000203176 #Ullabha
+}
+910.1.1={
+	holder=1000203177 #Bhamanadeva
+}
+920.1.1={
+	holder=1000203178 #Shankaragana II
+}
+940.1.1={
+	holder=1000203179 #Mugdhatunga
+}
+950.1.1={
+	holder=1000203180 #Gunasagara II
+}
+960.1.1={
+	holder=1000203181 #Shivaraja II
+}
+970.1.1={
+	holder=1000203182 #Bhamana
+}
+990.1.1={
+	holder=1000203183 #Shankaragana III
+}
+1010.1.1={
+	holder=1000203184 #Bhima
+}
+1019.1.1={
+	liege="k_kanyakubja"
+}
+1040.1.1={
+	holder=1000203185 #Vyasa
+}
+1079.1.1={
+	holder=1000203186 #Sondhadeva
+}
+1080.1.1={
+	liege=0
+	holder=0
+}

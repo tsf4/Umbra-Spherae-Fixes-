@@ -1,0 +1,82 @@
+#Bhaumakara Dynasty
+726.1.1={
+	holder=1000203248 #Lakshmikaradeva
+}
+736.1.1={
+	holder=1000203249 #Ksemankaradeva
+}
+756.1.1={
+	holder=1000203250 #Sivakaradeva I
+}
+786.1.1={
+	holder=1000203251 #Subhakaradeva I
+}
+790.1.1={
+	holder=1000203252 #Sivakaradeva II
+}
+815.1.1={
+	holder=1000203253 #Santikaradeva I
+}
+830.1.1={
+	holder=1000203254 #Subhakaradeva II
+}
+837.1.1={
+	holder=1000203255 #Subhakaradeva III
+}
+
+#Khinjali Dynasty
+842.1.1={
+	holder=1000203256 #Tribhuvana-Mahadevi I
+}
+
+#Bhaumakara Dynasty
+850.1.1={
+	holder=1000203257 #Santikaradeva II
+}
+875.1.1={
+	holder=1000203258 #Subhakaradeva IV
+}
+885.1.1={
+	holder=1000203259 #Sivakaradeva III
+}
+
+#Khijjinga Dynasty
+894.1.1={
+	holder=1000203260 #Tribhuvana-Mahadevi II
+}
+
+#Kodalaka Dynasty
+896.1.1={
+	holder=1000203261 #Tribhuvana-Mahadevi III
+}
+
+#Bhaumakara Dynasty
+900.1.1={
+	holder=1000203262 #Santikaradeva III
+}
+905.1.1={
+	holder=1000203263 #Subhakaradeva V
+}
+
+#Yamagartta Dynasty
+910.1.1={
+	holder=1000203264 #Gauri
+}
+
+#Bhaumakara Dynasty
+916.1.1={
+	holder=1000203265 #Dandi-Mahadevi
+}
+
+#Auravatta Dynasty
+923.1.1={
+	holder=1000203266 #Vakula-Mahadevi
+}
+
+#Banei Dynasty
+930.1.1={
+	holder=1000203267 #Dharma-Mahadevi
+}
+940.1.1={
+	holder=0
+}

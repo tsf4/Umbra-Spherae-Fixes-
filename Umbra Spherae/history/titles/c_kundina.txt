@@ -1,0 +1,169 @@
+#Varman Dynasty
+350.1.1={
+	liege="k_kamarupa"
+}
+350.1.1={
+	holder=1000083637 #Pusyavarman
+}
+374.1.1={
+	holder=1000083639 #Samudravarman
+}
+398.1.1={
+	holder=1000083641 #Balavarman I
+}
+422.1.1={
+	holder=1000083643 #Kalyanavarman
+}
+446.1.1={
+	holder=1000083645 #Ganapativarman
+}
+470.1.1={
+	holder=1000083647 #Mahendravarman
+}
+494.1.1={
+	holder=1000083649 #Narayanavarman
+}
+518.1.1={
+	holder=1000083651 #Bhutivarman
+}
+542.1.1={
+	holder=1000083653 #Candramukhavarman
+}
+566.1.1={
+	holder=1000083655 #Sthitavarman
+}
+590.1.1={
+	holder=1000083657 #Susthitavarman
+}
+595.1.1={
+	holder=1000083659 #Supratisthitavarman
+}
+600.1.1={
+	holder=1000083661 #Bhaskaravarman
+}
+
+#Mleccha Dynasty
+650.1.1={
+	holder=1000083496 #Salastambha
+}
+670.1.1={
+	holder=1000083498 #Vijayastambha
+}
+680.1.1={
+	holder=1000083500 #Palakastambha
+}
+690.1.1={
+	holder=1000083502 #Kumarastambha
+}
+700.1.1={
+	holder=1000083504 #Vajradeva
+}
+710.1.1={
+	holder=1000083506 #Harsavarman
+}
+750.1.1={
+	holder=1000083508 #Balavarman II
+}
+770.1.1={
+	holder=1000083510 #Salambha
+}
+790.1.1={
+	holder=1000083512 #Arathi
+}
+820.1.1={
+	holder=1000083514 #Harjaravarman
+}
+836.1.1={
+	holder=1000083516 #Vanamalavarman
+}
+855.1.1={
+	holder=1000083518 #Jayamala
+}
+860.1.1={
+	holder=1000083520 #Virabahu
+}
+880.1.1={
+	holder=1000083522 #Balavarman III
+}
+890.1.1={
+	holder=1000083524 #Jivara
+}
+892.1.1={
+	holder=1000083526 #Diglekhavarman
+}
+894.1.1={
+	holder=1000083528 #Vigrahastambha
+}
+896.1.1={
+	holder=1000083530 #Tyagasimha
+}
+
+#Bhauma Dynasty
+880.1.1={
+	holder=1000083532 #Brahmapala
+}
+920.1.1={
+	holder=1000083534 #Ratnapala
+}
+960.1.1={
+	holder=1000083536 #Indrapala
+}
+990.1.1={
+	holder=1000076167 #Gopala
+}
+1015.1.1={
+	holder=1000083539 #Harsapala
+}
+1040.1.1={
+	holder=1000083541 #Dharmapala
+}
+1065.1.1={
+	holder=1000083543 #Jayapala
+}
+
+#Timgyadeva Dynasty
+1100.1.1={
+	holder=1000083547 #Timgyadeva
+}
+
+#Vaidyadeva Dynasty
+1125.1.1={
+	holder=1000083549 #Vaidyadeva
+}
+
+#Candravamsa Dynasty
+1110.1.1={
+	holder=1000083551 #Bhaskara
+}
+1130.1.1={
+	holder=1000083553 #Rayarideva
+}
+1160.1.1={
+	holder=1000083555 #Udayakarna
+}
+
+#Sutiya Dynasty
+1180.1.1 = {
+	liege="d_sutiya"
+}
+1180.1.1 = {
+	holder=1000083605 #Birpal
+}
+1210.1.1 = {
+	holder=1000083607 #Gaurinarayan
+}
+1230.1.1 = {
+	holder=1000083609 #Birpal II (placeholder)
+}
+1260.1.1 = {
+	holder=1000083611 #Gaurinarayan II (placeholder)
+}
+1290.1.1 = {
+	holder=1000083613 #Birpal III (placeholder)
+}
+1320.1.1 = {
+	holder=1000083615 #Gaurinarayan III (placeholder)
+}
+1350.1.1 = {
+	holder=1000083617 #Birpal IV (placeholder)
+}

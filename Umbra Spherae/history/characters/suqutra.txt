@@ -1,0 +1,268 @@
+#Suqutra Dynasty (placeholders)
+
+1000203515 = {
+	name="Halil"
+	dynasty=1000078072 #Suqutra
+	religion="nestorian"
+	culture="bedouin_arabic"
+	810.1.1={
+		birth="810.1.1"
+	}
+	870.1.1={
+		death="870.1.1"
+	}
+}
+
+1000203516 = {
+	name="Talib"
+	dynasty=1000078072 #Suqutra
+	religion="nestorian"
+	culture="bedouin_arabic"
+	father=1000203515
+	840.1.1={
+		birth="840.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000203517 = {
+	name="Aarif"
+	dynasty=1000078072 #Suqutra
+	religion="nestorian"
+	culture="bedouin_arabic"
+	father=1000203516
+	867.1.1={
+		birth="867.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000203518 = {
+	name="Mirza"
+	dynasty=1000078072 #Suqutra
+	religion="nestorian"
+	culture="bedouin_arabic"
+	father=1000203517
+	900.1.1={
+		birth="900.1.1"
+	}
+	960.1.1={
+		death="960.1.1"
+	}
+}
+
+1000203519 = {
+	name="Shujah"
+	dynasty=1000078072 #Suqutra
+	religion="nestorian"
+	culture="bedouin_arabic"
+	father=1000203518
+	930.1.1={
+		birth="930.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000203520 = {
+	name="Faruk"
+	dynasty=1000078072 #Suqutra
+	religion="nestorian"
+	culture="bedouin_arabic"
+	father=1000203519
+	960.1.1={
+		birth="960.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+################################
+
+1000077018 = {
+	name="Abdul"
+	dynasty=1000027303 #d-Saqátri
+	religion="nestorian"
+	culture="bedouin_arabic"
+	975.1.1={
+		birth="975.1.1"
+	}
+	1048.1.1={
+		death="1048.1.1"
+	}
+}
+
+1000077019 = {
+	name="Abu"
+	dynasty=1000027303 #d-Saqátri
+	religion="nestorian"
+	culture="bedouin_arabic"
+	father=1000077018
+	1003.1.1={
+		birth="1003.1.1"
+	}
+	1073.1.1={
+		death="1073.1.1"
+	}
+}
+
+1000077020 = {
+	name="'Aden"
+	dynasty=1000027303 #d-Saqátri
+	religion="nestorian"
+	culture="bedouin_arabic"
+	father=1000077019
+	1038.1.1={
+		birth="1038.1.1"
+	}
+	1095.1.1={
+		death="1095.1.1"
+	}
+}
+
+1000077021 = {
+	name="Ibrahim"
+	dynasty=1000027303 #d-Saqátri
+	religion="nestorian"
+	culture="bedouin_arabic"
+	father=1000077020
+	1062.1.1={
+		birth="1062.1.1"
+	}
+	1125.1.1={
+		death="1125.1.1"
+	}
+}
+
+1000077022 = {
+	name="Yusuf"
+	dynasty=1000027303 #d-Saqátri
+	religion="nestorian"
+	culture="bedouin_arabic"
+	father=1000077021
+	1099.1.1={
+		birth="1099.1.1"
+	}
+	1167.1.1={
+		death="1167.1.1"
+	}
+}
+
+1000077023 = {
+	name="Talib"
+	dynasty=1000027303 #d-Saqátri
+	religion="nestorian"
+	culture="bedouin_arabic"
+	father=1000077022
+	1130.1.1={
+		birth="1130.1.1"
+	}
+	1202.1.1={
+		death="1202.1.1"
+	}
+}
+
+1000077024 = {
+	name="Sami"
+	dynasty=1000027303 #d-Saqátri
+	religion="nestorian"
+	culture="bedouin_arabic"
+	father=1000077023
+	1161.1.1={
+		birth="1161.1.1"
+	}
+	1234.1.1={
+		death="1234.1.1"
+	}
+}
+
+1000077025 = {
+	name="Ya'qub"
+	dynasty=1000027303 #d-Saqátri
+	religion="nestorian"
+	culture="bedouin_arabic"
+	father=1000077024
+	1194.1.1={
+		birth="1194.1.1"
+	}
+	1253.1.1={
+		death="1253.1.1"
+	}
+}
+
+1000077026 = {
+	name="Isa"
+	dynasty=1000027303 #d-Saqátri
+	religion="nestorian"
+	culture="bedouin_arabic"
+	father=1000077025
+	1224.1.1={
+		birth="1224.1.1"
+	}
+	1298.1.1={
+		death="1298.1.1"
+	}
+}
+
+1000077027 = {
+	name="Idris"
+	dynasty=1000027303 #d-Saqátri
+	religion="nestorian"
+	culture="bedouin_arabic"
+	father=1000077026
+	1251.1.1={
+		birth="1251.1.1"
+	}
+	1333.1.1={
+		death="1333.1.1"
+	}
+}
+
+1000077028 = {
+	name="Halil"
+	dynasty=1000027303 #d-Saqátri
+	religion="nestorian"
+	culture="bedouin_arabic"
+	father=1000077027
+	1277.1.1={
+		birth="1277.1.1"
+	}
+	1359.1.1={
+		death="1359.1.1"
+	}
+}
+
+1000077029 = {
+	name="Zeyd"
+	dynasty=1000027303 #d-Saqátri
+	religion="nestorian"
+	culture="bedouin_arabic"
+	father=1000077028
+	1301.1.1={
+		birth="1301.1.1"
+	}
+	1375.1.1={
+		death="1375.1.1"
+	}
+}
+
+1000077030 = {
+	name="Muza"
+	dynasty=1000027303 #d-Saqátri
+	religion="nestorian"
+	culture="bedouin_arabic"
+	father=1000077029
+	1329.1.1={
+		birth="1329.1.1"
+	}
+	1401.1.1={
+		death="1401.1.1"
+	}
+}
+

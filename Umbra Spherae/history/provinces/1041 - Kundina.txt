@@ -1,0 +1,21 @@
+# 1041 - Kundina
+
+# County Title
+title = c_kundina
+
+# Settlements
+max_settlements = 4
+b_tezu = castle
+b_kundina = city
+b_chongkham = temple
+#b_namsai =
+#b_wakro =
+#b_jonai =
+#b_dambuk =
+#b_saikhoa_ghat =
+
+# Misc
+culture = kamarupi
+religion = hindu
+
+# History

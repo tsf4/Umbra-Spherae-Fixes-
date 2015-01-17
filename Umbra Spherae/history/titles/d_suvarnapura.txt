@@ -1,0 +1,31 @@
+#Somavamsa Dynasty
+900.1.1={
+	holder=1000202938 #Sivagupta
+}
+930.1.1={
+	holder=1000202939 #Mahabhavagupta I
+}
+965.1.1={
+	holder=1000202940 #Mahasivagupta I
+}
+1000.1.1={
+	holder=1000202941 #Mahabhavagupta II
+}
+1015.1.1={
+	holder=1000202942 #Mahasivagupta II
+}
+1020.1.1={
+	holder=1000202943 #Mahabhavagupta III
+}
+1025.1.1={
+	holder=1000202946 #Mahasivagupta III
+}
+1055.1.1={
+	holder=1000202947 #Mahabhavagupta IV
+}
+1080.1.1={
+	holder=1000202948 #Mahasivagupta IV
+}
+1118.1.1={
+	holder=0
+}

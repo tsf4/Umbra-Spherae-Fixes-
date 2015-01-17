@@ -1,0 +1,323 @@
+#Kulasekhara Dynasty
+
+1000203066 = {
+	name="Khulasekharavarman"
+	dynasty=1000028288 #Kulasekhara
+	religion="hindu"
+	culture="malayalam"
+	770.1.1={
+		birth="770.1.1"
+	}
+	820.1.1={
+		death="820.1.1"
+	}
+}
+
+1000203067 = {
+	name="Rajasekharavarman"
+	dynasty=1000028288 #Kulasekhara
+	religion="hindu"
+	culture="malayalam"
+	father=1000203066
+	790.1.1={
+		birth="790.1.1"
+	}
+	844.1.1={
+		death="844.1.1"
+	}
+}
+
+1000203068 = {
+	name="Sthanu-Ravivarman"
+	dynasty=1000028288 #Kulasekhara
+	religion="hindu"
+	culture="malayalam"
+	father=1000203067
+	820.1.1={
+		birth="820.1.1"
+	}
+	885.1.1={
+		death="885.1.1"
+	}
+}
+
+1000203069 = {
+	name="Ramavarman"
+	dynasty=1000028288 #Kulasekhara
+	religion="hindu"
+	culture="malayalam"
+	father=1000203068
+	850.1.1={
+		birth="850.1.1"
+	}
+	917.1.1={
+		death="917.1.1"
+	}
+}
+
+1000203070 = {
+	name="Kotha-Ravivarman"
+	dynasty=1000028288 #Kulasekhara
+	religion="hindu"
+	culture="malayalam"
+	father=1000203069
+	880.1.1={
+		birth="880.1.1"
+	}
+	944.1.1={
+		death="944.1.1"
+	}
+}
+
+1000203071 = {
+	name="Indu-Kothavarman"
+	dynasty=1000028288 #Kulasekhara
+	religion="hindu"
+	culture="malayalam"
+	father=1000203070
+	900.1.1={
+		birth="900.1.1"
+	}
+	962.1.1={
+		death="962.1.1"
+	}
+}
+
+1000203072 = {
+	name="Bhaskara-Ravivarman"
+	dynasty=1000028288 #Kulasekhara
+	religion="hindu"
+	culture="malayalam"
+	father=1000203071
+	940.1.1={
+		birth="940.1.1"
+	}
+	1019.1.1={
+		death="1019.1.1"
+	}
+}
+
+1000203075 = {
+	name="Bhaskara-Ravivarman"
+	dynasty=1000028288 #Kulasekhara
+	religion="hindu"
+	culture="malayalam"
+	father=1000203072
+	970.1.1={
+		birth="970.1.1"
+	}
+	1021.1.1={
+		death="1021.1.1"
+	}
+}
+
+1000203073 = {
+	name="Vira-Kerala"
+	dynasty=1000028288 #Kulasekhara
+	religion="hindu"
+	culture="malayalam"
+	father=1000203075
+	990.1.1={
+		birth="990.1.1"
+	}
+	1028.1.1={
+		death="1028.1.1"
+	}
+}
+
+1000203074 = {
+	name="Rajasimha"
+	dynasty=1000028288 #Kulasekhara
+	religion="hindu"
+	culture="malayalam"
+	father=1000203073
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1043.1.1={
+		death="1043.1.1"
+	}
+}
+
+1000076174 = {
+	name="Bhaskara-Ravivarman"
+	dynasty=1000028288 #Kulasekhara
+	religion="hindu"
+	culture="malayalam"
+	father=1000203074
+	1028.1.1={
+		birth="1028.1.1"
+	}
+	1082.1.1={
+		death="1082.1.1"
+	}
+}
+
+1000203076 = {
+	name="Ravi-Ramavarman"
+	dynasty=1000028288 #Kulasekhara
+	religion="hindu"
+	culture="malayalam"
+	father=1000076174
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1090.1.1={
+		death="1090.1.1"
+	}
+}
+
+1000203077 = {
+	name="Ramavarman-Kulasekhara"
+	dynasty=1000028288 #Kulasekhara
+	religion="hindu"
+	culture="malayalam"
+	father=1000203076
+	1070.1.1={
+		birth="1070.1.1"
+	}
+	1102.1.1={
+		death="1102.1.1"
+	}
+}
+
+#Calicut Dynasty (placeholders for Zamorins of Calicut)
+
+1000203441 = {
+	name="Narasimhavarman"
+	dynasty=1000078065 #Calicut
+	religion="hindu"
+	culture="malayalam"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000203442 = {
+	name="Adityavarman"
+	dynasty=1000078065 #Calicut
+	religion="hindu"
+	culture="malayalam"
+	father=1000203441
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000203443 = {
+	name="Ramavarman"
+	dynasty=1000078065 #Calicut
+	religion="hindu"
+	culture="malayalam"
+	father=1000203442
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000203444 = {
+	name="Rajasimha"
+	dynasty=1000078065 #Calicut
+	religion="hindu"
+	culture="malayalam"
+	father=1000203443
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000203445 = {
+	name="Kulasekhara"
+	dynasty=1000078065 #Calicut
+	religion="hindu"
+	culture="malayalam"
+	father=1000203444
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000203446 = {
+	name="Vikrama"
+	dynasty=1000078065 #Calicut
+	religion="hindu"
+	culture="malayalam"
+	father=1000203445
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000203447 = {
+	name="Rajendra"
+	dynasty=1000078065 #Calicut
+	religion="hindu"
+	culture="malayalam"
+	father=1000203446
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+
+1000203448 = {
+	name="Govardhana"
+	dynasty=1000078065 #Calicut
+	religion="hindu"
+	culture="malayalam"
+	father=1000203447
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000203449 = {
+	name="Mahendravarman"
+	dynasty=1000078065 #Calicut
+	religion="hindu"
+	culture="malayalam"
+	father=1000203448
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000203450 = {
+	name="Maravarman"
+	dynasty=1000078065 #Calicut
+	religion="hindu"
+	culture="malayalam"
+	father=1000203449
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}

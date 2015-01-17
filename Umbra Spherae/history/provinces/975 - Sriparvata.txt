@@ -1,0 +1,21 @@
+# 975 - Sriparvata
+
+# County Title
+title = c_sriparvata
+
+# Settlements
+max_settlements = 5
+b_alampura = castle
+b_sriparvata = city
+b_thimmapuram = temple
+#b_velamuripadu_palle =
+#b_singarakonda_palem =
+#b_chakrayapalem =
+#b_khambampadu =
+#b_parvathipuram =
+
+# Misc
+culture = telugu
+religion = hindu
+
+# History

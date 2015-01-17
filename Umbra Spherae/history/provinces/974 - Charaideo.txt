@@ -1,0 +1,21 @@
+# 974 - Charaideo
+
+# County Title
+title = c_charaideo
+
+# Settlements
+max_settlements = 4
+b_dibrugarh = castle
+b_charaideo = city
+b_duliajan = temple
+#b_tizit =
+#b_margherita =
+#b_manmao =
+#b_sibsagar =
+#b_moran =
+
+# Misc
+culture = kamarupi
+religion = hindu
+
+# History

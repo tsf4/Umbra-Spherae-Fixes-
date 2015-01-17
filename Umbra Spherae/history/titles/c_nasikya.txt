@@ -1,0 +1,123 @@
+#Yadava Dynasty
+830.1.1={
+	liege="k_devagiri"
+}
+830.1.1={
+	holder=1000202872 #Dridhaprahara
+}
+850.1.1={
+	holder=1000202873 #Seunachandra I
+}
+874.1.1={
+	holder=1000202874 #Dhadiyappa I
+}
+900.1.1={
+	holder=1000202875 #Bhillama I
+}
+950.1.1={
+	holder=1000202876 #Vadugi
+}
+974.1.1={
+	holder=1000202877 #Dhadhiyappa II
+}
+975.1.1={
+	holder=1000202878 #Bhillama II
+}
+1005.1.1={
+	holder=1000202879 #Vesugi I
+}
+1020.1.1={
+	holder=1000076157 #Bhillama III
+}
+1055.1.1={
+	holder=1000202880 #Vesugi II
+}
+1068.1.1={
+	holder=1000202881 #Bhillama IV
+}
+1068.6.1={
+	holder=1000202882 #Seunachandra II
+}
+1085.1.1={
+	holder=1000202883 #Airamadeva
+}
+1115.1.1={
+	holder=1000202884 #Singhana I
+}
+1145.1.1={
+	holder=1000202885 #Mallugi I
+}
+1150.1.1={
+	holder=1000202886 #Amaragangeyya
+}
+1160.1.1={
+	holder=1000202887 #Govindaraja
+}
+1160.6.1={
+	holder=1000202888 #Mallugi II
+}
+1165.1.1={
+	holder=1000202889 #Kaliya-Ballala
+}
+1173.1.1={
+	holder=1000202890 #Bhillama V
+}
+1191.1.1={
+	holder=1000202891 #Jaiturgi I
+}
+1210.1.1={
+	holder=1000202892 #Singhana II
+}
+1247.1.1={
+	holder=1000202894 #Kannara
+}
+1260.1.1={
+	holder=1000202895 #Mahadeva
+}
+1271.1.1={
+	holder=1000202896 #Amana
+}
+1271.6.1={
+	holder=1000202897 #Ramacandra
+}
+1311.1.1={
+	holder=1000202898 #Singhana III
+}
+
+#Harapaladeva Dynasty
+1313.1.1={
+	holder=1000202899 #Harapaladeva
+}
+
+#Khilji Dynasty
+1317.1.1={
+	liege="e_uttarapatha"
+}
+1317.1.1={
+	holder=1000083714 #Mubarak-Shah I
+}
+1318.9.1={
+	holder=1000083716 #Mahmud-Shah II
+}
+1318.12.1={
+	holder=1000083714 #Mubarak-Shah I (second time)
+}
+
+#Hasanid Dynasty
+1320.6.1={
+	holder=1000083719 #Husraw-Shah
+}
+
+#Tughlaq Dynasty
+1320.10.1={
+	holder=1000083723 #Tughlaq-Shah I
+}
+1325.1.1={
+	holder=1000083725 #Muhammad-Shah II
+}
+1351.5.1={
+	holder=1000083727 #Mahmud-Shah III
+}
+1351.10.1={
+	holder=1000083731 #Firuz-Shah III
+}

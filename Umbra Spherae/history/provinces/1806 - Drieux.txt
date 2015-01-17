@@ -1,0 +1,17 @@
+# 1806 - Drieux
+
+# County Title
+title = c_jurchendrieux
+
+# Settlements
+max_settlements = 4
+b_sjixhing_jurchendrieux = castle
+b_driungchjyn = castle
+b_liihzjep = castle
+b_drieuxmyoxchjang = castle
+
+# Misc
+culture = jurchen
+religion = jurchen_pagan
+
+# History

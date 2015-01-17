@@ -1,0 +1,21 @@
+# 1042 - Maibang
+
+# County Title
+title = c_maibang
+
+# Settlements
+max_settlements = 3
+b_subhash_nagar = castle
+b_maibang = city
+#b_wadrengdisa =
+#b_yeabra =
+#b_kherbari =
+#b_khailimdisa =
+#b_kalachand =
+#b_langting =
+
+# Misc
+culture = kamarupi
+religion = hindu
+
+# History

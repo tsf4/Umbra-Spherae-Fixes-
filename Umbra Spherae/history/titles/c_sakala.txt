@@ -1,0 +1,123 @@
+#Turki Sahi Dynasty
+840.1.1={
+	liege="k_punjab"
+}
+840.1.1={
+	holder=1000083733 #Lagaturman
+}
+
+#Hindu Sahi Dynasty
+870.1.1={
+	holder=1000083737 #Lalliya
+}
+
+#Turki Sahi Dynasty (usurper)
+895.1.1={
+	holder=1000083735 #Samantadeva
+}
+
+#Hindu Sahi Dynasty (restored)
+903.1.1={
+	holder=1000083739 #Kamaluka
+}
+921.1.1={
+	holder=1000083741 #Bhima
+}
+965.1.1={
+	holder=1000083745 #Jayapala
+}
+1002.1.1={
+	holder=1000083747 #Anandapala
+}
+1012.1.1={
+	holder=1000083749 #Trilocanapala
+}
+1021.1.1={
+	holder=1000083751 #Bhimapala
+}
+
+#Ghaznavids
+1026.1.1 = {
+	liege="k_afghans"
+}
+1026.1.1={
+	holder = 144125 #Mahmud
+}
+1030.1.1={
+	holder = 144126 #Muhammad
+}
+1031.1.1={
+	holder = 144127 #Musud
+}
+1041.1.1={
+	holder = 144128 #Mawdud
+}
+1050.1.1={
+	holder = 144129 #Masud
+}
+1050.6.1={
+	holder = 144130 #Ali
+}
+1050.9.1={
+	holder = 144131 #Abd al-Rashid
+}
+1053.1.1={
+	holder = 144132 #Farrukhzad
+}
+1059.1.1={
+	holder = 144133 #Ibrahim
+}
+
+#Pathania dynasty
+
+1095.1.1={
+	holder=1000076486 #Jhetpal
+}
+1100.1.1={
+	holder=1000076549 #Khetrapal
+}
+1117.1.1={
+	holder=1000076550 #Sukhinpal
+}
+1134.1.1={
+	holder=1000076551 #Jagatpal
+}
+1151.1.1={
+	holder=1000076552 #Rampal
+}
+1168.1.1={
+	holder=1000076553 #Gopal
+}
+1185.1.1={
+	holder=1000076554 #Arjunpal
+}
+1186.1.1={
+	liege="d_afghans"
+}
+1202.1.1={
+	holder=1000076555 #Varshpal
+}
+1206.1.1={
+	liege="d_multan"
+}
+1219.1.1={
+	holder=1000076556 #Jatanpal
+}
+1228.1.1={
+	liege="e_uttarapatha"
+}
+1236.1.1={
+	holder=1000076557 #Vidurathpal
+}
+1253.1.1={
+	holder=1000076558 #Jaganpal
+}
+1270.1.1={
+	holder=1000076559 #Kiratpal
+}
+1287.1.1={
+	holder=1000076560 #Kakhopal
+}
+1313.1.1={
+	holder=1000076561 #Jaspal
+}

@@ -1,0 +1,67 @@
+#Hangal Kadamba Dynasty
+967.1.1={
+	liege="e_madhyadesa"
+}
+967.1.1={
+	holder=1000203125 #Irivabedangadeva
+}
+980.1.1={
+	holder=1000203126 #Chattadeva
+}
+1031.1.1={
+	holder=1000203127 #Jayasimha
+}
+1037.1.1={
+	holder=1000203128 #Mayuravarman I [II]
+}
+1048.1.1={
+	holder=1000203129 #Tailapa I
+}
+1075.1.1={
+	holder=1000203131 #Santivarman
+}
+1076.1.1={
+	holder=1000203130 #Kirtivarman
+}
+1094.1.1={
+	holder=1000203132 #Tailapa II
+}
+1095.1.1={
+	holder=1000203130 #Kirtivarman (again)
+}
+1116.1.1={
+	holder=1000203268 #Tailapa III
+}
+1130.1.1={
+	holder=1000203133 #Mayuravarman II [III]
+}
+1132.1.1={
+	holder=1000203134 #Mallikarjuna
+}
+1146.1.1={
+	holder=1000203135 #Tailama
+}
+1151.1.1={
+	holder=1000203136 #Kirtideva
+}
+1180.1.1={
+	holder=1000203137 #Kamadeva
+}
+1189.1.1={
+	liege=0
+}
+1217.1.1={
+	holder=1000203138 #Mallideva
+}
+1252.1.1={
+	holder=1000203139 #Ramadeva
+}
+1260.1.1={
+	holder=1000203140 #Kavadeva
+}
+1315.1.1={
+	holder=1000203141 #Purandararaya
+}
+1336.1.1={
+	liege="e_madhyadesa"
+}

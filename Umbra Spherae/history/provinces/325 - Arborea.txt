@@ -1,0 +1,29 @@
+# 325 - Arborea
+
+# County Title
+title = c_arborea
+
+# Settlements
+max_settlements = 3
+b_tharros = castle
+b_oristano = city
+b_santa_giusta = temple
+#b_sanluri = castle
+#b_pabillonis = temple
+#b_cabras = castle
+#b_fordongianus = city
+#b_sorgono = castle
+
+# Misc
+culture = italian
+religion = catholic
+terrain = mountain
+
+# History
+1015.1.1 = { trade_post = b_visconti }
+1070.1.1 = {
+		remove_settlement = b_tharros
+		b_cabras = castle
+		capital = b_cabras
+           } # Tharros abandoned due to Saracen raids
+1285.1.1 = { trade_post = b_grimaldi }

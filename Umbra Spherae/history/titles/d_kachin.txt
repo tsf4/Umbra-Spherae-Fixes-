@@ -1,0 +1,53 @@
+#Marip Dynasty (placeholders)
+867.1.1 = {
+	holder=1000080328 #Gun-Maw I
+}
+887.1.1 = {
+	holder=1000080329 #Gam-Shawng I
+}
+907.1.1 = {
+	holder=1000080330 #La-Nan I
+}
+927.1.1 = {
+	holder=1000080331 #La-Rip I
+}
+947.1.1 = {
+	holder=1000080332 #Lum-Dau I
+}
+967.1.1 = {
+	holder=1000080333 #Gun-Maw II
+}
+987.1.1 = {
+	holder=1000080334 #Gam-Shawng II
+}
+1007.1.1 = {
+	holder=1000080335 #La-Nan II
+}
+1027.1.1 = {
+	holder=1000080336 #La-Rip II
+}
+1057.1.1 = {
+	liege="e_bagan"
+}
+1057.1.1 = {
+	holder=1000201978 #Lum-Dau II
+}
+1080.1.1 = {
+	holder=1000201979 #Gun-Maw III
+}
+1110.1.1 = {
+	holder=1000201980 #Gam-Shawng III
+}
+1140.1.1 = {
+	holder=1000201981 #La-Nan III
+}
+1170.1.1 = {
+	holder=1000201982 #La-Rip III
+}
+1200.1.1 = {
+	holder=1000201983 #Lum-Dau III
+}
+1215.1.1 = {
+	holder=0
+	liege=0
+}

@@ -1,0 +1,21 @@
+# 1032 - Pataliputra
+
+# County Title
+title = c_pataliputra
+
+# Settlements
+max_settlements = 7
+b_punpun = castle
+b_pataliputra = city
+b_khagaul = temple
+b_sonepur = city
+#b_hajipur =
+#b_fatwah =
+#b_mahnar_bazar =
+#b_desri =
+
+# Misc
+culture = magahi
+religion = hindu
+
+# History

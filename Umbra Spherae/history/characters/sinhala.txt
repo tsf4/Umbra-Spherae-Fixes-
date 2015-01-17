@@ -1,0 +1,1703 @@
+#Lambakanna Dynasty
+
+1000203308 = {
+	name="Manavanna"
+	dynasty=1000028291 #Lambakanna
+	religion="buddhism"
+	culture="sinhala"
+	660.1.1={
+		birth="660.1.1"
+	}
+	726.1.1={
+		death="726.1.1"
+	}
+}
+
+1000203309 = {
+	name="Aggabodhi"
+	dynasty=1000028291 #Lambakanna
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203308
+	690.1.1={
+		birth="690.1.1"
+	}
+	732.1.1={
+		death="732.1.1"
+	}
+}
+
+1000203310 = {
+	name="Kassapa"
+	dynasty=1000028291 #Lambakanna
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203308
+	700.1.1={
+		birth="700.1.1"
+	}
+	738.1.1={
+		death="738.1.1"
+	}
+}
+
+1000203311 = {
+	name="Mahinda"
+	dynasty=1000028291 #Lambakanna
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203308
+	710.1.1={
+		birth="710.1.1"
+	}
+	741.1.1={
+		death="741.1.1"
+	}
+}
+
+1000203312 = {
+	name="Aggabodhi"
+	dynasty=1000028291 #Lambakanna
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203310
+	730.1.1={
+		birth="730.1.1"
+	}
+	781.1.1={
+		death="781.1.1"
+	}
+}
+
+1000203313 = {
+	name="Aggabodhi"
+	dynasty=1000028291 #Lambakanna
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203311
+	740.1.1={
+		birth="740.1.1"
+	}
+	787.1.1={
+		death="787.1.1"
+	}
+}
+
+1000203314 = {
+	name="Mahinda"
+	dynasty=1000028291 #Lambakanna
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203312
+	750.1.1={
+		birth="750.1.1"
+	}
+	807.1.1={
+		death="807.1.1"
+	}
+}
+
+1000203315 = {
+	name="Dappula"
+	dynasty=1000028291 #Lambakanna
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203314
+	770.1.1={
+		birth="770.1.1"
+	}
+	812.1.1={
+		death="812.1.1"
+	}
+}
+
+1000203316 = {
+	name="Mahinda"
+	dynasty=1000028291 #Lambakanna
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203315
+	790.1.1={
+		birth="790.1.1"
+	}
+	816.1.1={
+		death="816.1.1"
+	}
+}
+
+1000203317 = {
+	name="Aggabodhi"
+	dynasty=1000028291 #Lambakanna
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203315
+	791.1.1={
+		birth="791.1.1"
+	}
+	827.1.1={
+		death="827.1.1"
+	}
+}
+
+1000203318 = {
+	name="Dappula"
+	dynasty=1000028291 #Lambakanna
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203315
+	792.1.1={
+		birth="792.1.1"
+	}
+	843.1.1={
+		death="843.1.1"
+	}
+}
+
+1000203319 = {
+	name="Aggabodhi"
+	dynasty=1000028291 #Lambakanna
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203318
+	810.1.1={
+		birth="810.1.1"
+	}
+	846.1.1={
+		death="846.1.1"
+	}
+}
+
+1000203320 = {
+	name="Sena"
+	dynasty=1000028291 #Lambakanna
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203318
+	811.1.1={
+		birth="811.1.1"
+	}
+	866.1.1={
+		death="866.1.1"
+	}
+}
+
+1000203321 = {
+	name="Kassapa"
+	dynasty=1000028291 #Lambakanna
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203318
+	812.1.1={
+		birth="812.1.1"
+	}
+	866.1.1={
+		death="866.1.1"
+	}
+}
+
+1000203322 = {
+	name="Sena"
+	dynasty=1000028291 #Lambakanna
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203321
+	840.1.1={
+		birth="840.1.1"
+	}
+	901.1.1={
+		death="901.1.1"
+	}
+}
+
+1000203324 = {
+	name="Kassapa"
+	dynasty=1000028291 #Lambakanna
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203322
+	867.1.1={
+		birth="867.1.1"
+	}
+	929.1.1={
+		death="929.1.1"
+	}
+}
+
+1000203325 = {
+	name="Kassapa"
+	dynasty=1000028291 #Lambakanna
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203324
+	890.1.1={
+		birth="890.1.1"
+	}
+	939.1.1={
+		death="939.1.1"
+	}
+}
+
+1000203326 = {
+	name="Dappula"
+	dynasty=1000028291 #Lambakanna
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203325
+	910.1.1={
+		birth="910.1.1"
+	}
+	940.1.1={
+		death="940.1.1"
+	}
+}
+
+1000203327 = {
+	name="Dappula"
+	dynasty=1000028291 #Lambakanna
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203325
+	911.1.1={
+		birth="911.1.1"
+	}
+	952.1.1={
+		death="952.1.1"
+	}
+}
+
+1000203328 = {
+	name="Udaya"
+	dynasty=1000028291 #Lambakanna
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203322
+	870.1.1={
+		birth="870.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000203329 = {
+	name="Udaya"
+	dynasty=1000028291 #Lambakanna
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203328
+	910.1.1={
+		birth="910.1.1"
+	}
+	955.1.1={
+		death="955.1.1"
+	}
+}
+
+1000203330 = {
+	name="Sena"
+	dynasty=1000028291 #Lambakanna
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203328
+	911.1.1={
+		birth="911.1.1"
+	}
+	964.1.1={
+		death="964.1.1"
+	}
+}
+
+1000203332 = {
+	name="Sena"
+	dynasty=1000028291 #Lambakanna
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203325
+	920.1.1={
+		birth="920.1.1"
+	}
+	975.1.1={
+		death="975.1.1"
+	}
+}
+
+1000203333 = {
+	name="Mahinda"
+	dynasty=1000028291 #Lambakanna
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203325
+	930.1.1={
+		birth="930.1.1"
+	}
+	991.1.1={
+		death="991.1.1"
+	}
+}
+
+1000203334 = {
+	name="Sena"
+	dynasty=1000028291 #Lambakanna
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203333
+	950.1.1={
+		birth="950.1.1"
+	}
+	1001.1.1={
+		death="1001.1.1"
+	}
+}
+
+1000203335 = {
+	name="Mahinda"
+	dynasty=1000028291 #Lambakanna
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203333
+	970.1.1={
+		birth="970.1.1"
+	}
+	1029.1.1={
+		death="1029.1.1"
+	}
+}
+
+#Udaya Dynasty
+
+1000203323 = {
+	name="Udaya"
+	dynasty=1000078035 #Udaya
+	religion="buddhism"
+	culture="sinhala"
+	860.1.1={
+		birth="860.1.1"
+	}
+	912.1.1={
+		death="912.1.1"
+	}
+}
+
+1000203331 = {
+	name="Udaya"
+	dynasty=1000078035 #Udaya
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203323
+	900.1.1={
+		birth="900.1.1"
+	}
+	972.1.1={
+		death="972.1.1"
+	}
+}
+
+#Vijayabahu Dynasty
+
+1000203336 = {
+	name="Vijayabahu"
+	dynasty=1000078036 #Vijayabahu
+	religion="buddhism"
+	culture="sinhala"
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1050.1.1={
+		death="1050.1.1"
+	}
+}
+
+1000076177 = {
+	name="Vijayabahu"
+	dynasty=1000078036 #Vijayabahu
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203336
+	1039.1.1={
+		birth="1039.1.1"
+	}
+	1110.1.1={
+		death="1110.1.1"
+	}
+}
+
+1000203337 = {
+	name="Jayabahu"
+	dynasty=1000078036 #Vijayabahu
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203336
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1111.1.1={
+		death="1111.1.1"
+	}
+}
+
+1000203338 = {
+	name="Vikramabahu"
+	dynasty=1000078036 #Vijayabahu
+	religion="buddhism"
+	culture="sinhala"
+	father=1000076177
+	1066.1.1={
+		birth="1066.1.1"
+	}
+	1132.1.1={
+		death="1132.1.1"
+	}
+}
+
+1000203339 = {
+	name="Gajabahu"
+	dynasty=1000078036 #Vijayabahu
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203338
+	1090.1.1={
+		birth="1090.1.1"
+	}
+	1153.1.1={
+		death="1153.1.1"
+	}
+}
+
+1000203340 = {
+	name="Parakramabahu"
+	dynasty=1000078036 #Vijayabahu
+	religion="buddhism"
+	culture="sinhala"
+	father=1000076177
+	1090.1.1={
+		birth="1090.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+1000203341 = {
+	name="Parakramabahu"
+	dynasty=1000078036 #Vijayabahu
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203340
+	1123.1.1={
+		birth="1123.1.1"
+	}
+	1150.1.1={
+		add_spouse=1000203352
+	}
+	1186.1.1={
+		death="1186.1.1"
+	}
+}
+
+1000203342 = {
+	name="Parakramabahu"
+	dynasty=1000078036 #Vijayabahu
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203340
+	1124.1.1={
+		birth="1124.1.1"
+	}
+	1186.1.1={
+		death="1186.1.1"
+	}
+}
+
+1000203343 = {
+	name="Vijayabahu"
+	dynasty=1000078036 #Vijayabahu
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203342
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1187.1.1={
+		death="1187.1.1"
+	}
+}
+
+#Mahinda Dynasty
+
+1000203344 = {
+	name="Mahinda"
+	dynasty=1000078037 #Mahinda
+	religion="buddhism"
+	culture="sinhala"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1187.6.1={
+		death="1187.6.1"
+	}
+}
+
+#Nissanka Malla Dynasty
+
+1000203374 = {
+	name="Jayagopa"
+	dynasty=1000078038 #Nissanka Malla
+	religion="buddhism"
+	culture="sinhala"
+	1130.1.1={
+		birth="1130.1.1"
+	}
+	1190.1.1={
+		death="1190.1.1"
+	}
+}
+
+1000203345 = {
+	name="Nissanka-Malla"
+	dynasty=1000078038 #Nissanka Malla
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203374
+	1157.1.1={
+		birth="1157.1.1"
+	}
+	1170.1.1={
+		add_spouse=1000303349
+	}
+	1196.1.1={
+		death="1196.1.1"
+	}
+}
+
+1000203375 = {
+	name="Chodaganga"
+	dynasty=1000078038 #Nissanka Malla
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203374
+	1159.1.1={
+		birth="1159.1.1"
+	}
+	1195.1.1={
+		death="1195.1.1"
+	}
+}
+
+1000203346 = {
+	name="Virabahu"
+	dynasty=1000078038 #Nissanka Malla
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203345
+	1177.1.1={
+		birth="1177.1.1"
+	}
+	1196.4.1={
+		death="1196.4.1"
+	}
+}
+
+1000203376 = {
+	name="Vikramabahu"
+	dynasty=1000078038 #Nissanka Malla
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203374
+	1158.1.1={
+		birth="1158.1.1"
+	}
+	1196.9.1={
+		death="1196.9.1"
+	}
+}
+
+1000203347 = {
+	name="Chodaganga"
+	dynasty=1000078038 #Nissanka Malla
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203375
+	1180.1.1={
+		birth="1180.1.1"
+	}
+	1197.1.1={
+		death="1197.1.1"
+	}
+}
+
+1000203348 = {
+	name="Sahassa-Malla"
+	dynasty=1000078038 #Nissanka Malla
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203374
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1202.1.1={
+		death="1202.1.1"
+	}
+}
+
+#Lilavati Dynasty
+
+1000203352 = {
+	name="Lilavati"
+	female=yes
+	dynasty=1000078039 #Lilavati
+	religion="buddhism"
+	culture="sinhala"
+	1130.1.1={
+		birth="1130.1.1"
+	}
+	1212.1.1={
+		death="1212.1.1"
+	}
+}
+
+#Kalyanavati Dynasty
+
+1000203349 = {
+	name="Kalyanavati"
+	female=yes
+	dynasty=1000078040 #Kalyanavati
+	religion="buddhism"
+	culture="sinhala"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1208.1.1={
+		death="1208.1.1"
+	}
+}
+
+#Anikanga Dynasty
+
+1000203351 = {
+	name="Anikanga"
+	dynasty=1000078041 #Anikanga
+	religion="buddhism"
+	culture="sinhala"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1209.9.1={
+		death="1209.9.1"
+	}
+}
+
+1000203350 = {
+	name="Dharmasoka"
+	dynasty=1000078041 #Anikanga
+	religion="buddhism"
+	culture="sinhala"
+	father=1000303351
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1209.4.1={
+		death="1209.4.1"
+	}
+}
+
+#Siri Sanga Bo Dynasty
+
+1000203355 = {
+	name="Vijayabahu"
+	dynasty=1000078045 #Siri Sanga Bo
+	religion="buddhism"
+	culture="sinhala"
+	1180.1.1={
+		birth="1180.1.1"
+	}
+	1234.1.1={
+		death="1234.1.1"
+	}
+}
+
+1000203356 = {
+	name="Parakramabahu"
+	dynasty=1000078045 #Siri Sanga Bo
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203355
+	1210.1.1={
+		birth="1210.1.1"
+	}
+	1269.1.1={
+		death="1269.1.1"
+	}
+}
+
+1000203357 = {
+	name="Vijayabahu"
+	dynasty=1000078045 #Siri Sanga Bo
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203356
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1270.10.1={
+		death="1270.10.1"
+	}
+}
+
+1000203358 = {
+	name="Bhuvanaikabahu"
+	dynasty=1000078045 #Siri Sanga Bo
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203356
+	1231.1.1={
+		birth="1231.1.1"
+	}
+	1283.1.1={
+		death="1283.1.1"
+	}
+}
+
+1000203359 = {
+	name="Parakramabahu"
+	dynasty=1000078045 #Siri Sanga Bo
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203357
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1310.1.1={
+		death="1310.1.1"
+	}
+}
+
+1000203360 = {
+	name="Bhuvanaikabahu"
+	dynasty=1000078045 #Siri Sanga Bo
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203358
+	1270.1.1={
+		birth="1270.1.1"
+	}
+	1325.1.1={
+		death="1325.1.1"
+	}
+}
+
+1000203361 = {
+	name="Parakramabahu"
+	dynasty=1000078045 #Siri Sanga Bo
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203360
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1326.1.1={
+		death="1326.1.1"
+	}
+}
+
+#Bhuvanaikabahu Dynasty
+
+1000203362 = {
+	name="Bhuvanaikabahu"
+	dynasty=1000078046 #Bhuvanaikabahu
+	religion="buddhism"
+	culture="sinhala"
+	1280.1.1={
+		birth="1280.1.1"
+	}
+	1326.6.1={
+		death="1326.6.1"
+	}
+}
+
+#Tambralinga Dynasty (branch of Gampola)
+
+1000203364 = {
+	name="Bhuvanaikabahu"
+	dynasty=1000028213 #Tambralinga
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203363
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1354.1.1={
+		death="1354.1.1"
+	}
+}
+
+1000203365 = {
+	name="Parakramabahu"
+	dynasty=1000028213 #Tambralinga
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203363
+	1311.1.1={
+		birth="1311.1.1"
+	}
+	1359.1.1={
+		death="1359.1.1"
+	}
+}
+
+1000203366 = {
+	name="Vikramabahu"
+	dynasty=1000028213 #Tambralinga
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203364
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1374.1.1={
+		death="1374.1.1"
+	}
+}
+
+#Vasabha Dynasty
+
+1000203377 = {
+	name="Vasabha"
+	dynasty=1000078047 #Vasabha
+	religion="buddhism"
+	culture="sinhala"
+	46.1.1={
+		birth="46.1.1"
+	}
+	110.1.1={
+		death="110.1.1"
+	}
+}
+
+1000203378 = {
+	name="Vankanasika-Tissa"
+	dynasty=1000078047 #Vasabha
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203377
+	66.1.1={
+		birth="66.1.1"
+	}
+	113.1.1={
+		death="113.1.1"
+	}
+}
+
+1000203379 = {
+	name="Gajabahu"
+	dynasty=1000078047 #Vasabha
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203378
+	86.1.1={
+		birth="86.1.1"
+	}
+	106.1.1={
+		add_spouse=1000203432
+	}
+	135.1.1={
+		death="135.1.1"
+	}
+}
+
+#Mahallaka Naga Dynasty
+
+1000203380 = {
+	name="Mahallaka-Naga"
+	dynasty=1000078048 #Mahallaka Naga
+	religion="buddhism"
+	culture="sinhala"
+	66.1.1={
+		birth="66.1.1"
+	}
+	141.1.1={
+		death="141.1.1"
+	}
+}
+
+1000203432 = {
+	name="Mahavati"
+	female=yes
+	dynasty=1000078048 #Mahallaka Naga
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203380
+	86.1.1={
+		birth="86.1.1"
+	}
+	135.1.1={
+		death="135.1.1"
+	}
+}
+
+1000203381 = {
+	name="Bhatika-Tissa"
+	dynasty=1000078048 #Mahallaka Naga
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203380
+	100.1.1={
+		birth="100.1.1"
+	}
+	165.1.1={
+		death="165.1.1"
+	}
+}
+
+1000203382 = {
+	name="Kanittha-Tissa"
+	dynasty=1000078048 #Mahallaka Naga
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203380
+	130.1.1={
+		birth="130.1.1"
+	}
+	193.1.1={
+		death="193.1.1"
+	}
+}
+
+1000203383 = {
+	name="Cula-Naga"
+	dynasty=1000078048 #Mahallaka Naga
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203382
+	150.1.1={
+		birth="150.1.1"
+	}
+	195.1.1={
+		death="195.1.1"
+	}
+}
+
+1000203384 = {
+	name="Kuda-Naga"
+	dynasty=1000078048 #Mahallaka Naga
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203382
+	160.1.1={
+		birth="160.1.1"
+	}
+	196.1.1={
+		death="196.1.1"
+	}
+}
+
+1000203433 = {
+	name="Mahavati"
+	female=yes
+	dynasty=1000078048 #Mahallaka Naga
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203382
+	161.1.1={
+		birth="161.1.1"
+	}
+	215.1.1={
+		death="215.1.1"
+	}
+}
+
+#Siri Naga Dynasty
+
+1000203385 = {
+	name="Siri-Naga"
+	dynasty=1000078049 #Siri Naga
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203382
+	161.1.1={
+		birth="161.1.1"
+	}
+	180.1.1={
+		add_spouse=1000203433
+	}
+	215.1.1={
+		death="215.1.1"
+	}
+}
+
+1000203386 = {
+	name="Voharika-Tissa"
+	dynasty=1000078049 #Siri Naga
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203382
+	mother=1000203433
+	180.1.1={
+		birth="180.1.1"
+	}
+	237.1.1={
+		death="237.1.1"
+	}
+}
+
+1000203387 = {
+	name="Abhaya-Naga"
+	dynasty=1000078049 #Siri Naga
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203382
+	mother=1000203433
+	190.1.1={
+		birth="190.1.1"
+	}
+	245.1.1={
+		death="245.1.1"
+	}
+}
+
+1000203388 = {
+	name="Siri-Naga"
+	dynasty=1000078049 #Siri Naga
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203386
+	200.1.1={
+		birth="200.1.1"
+	}
+	247.1.1={
+		death="247.1.1"
+	}
+}
+
+1000203389 = {
+	name="Vijaya-Kumara"
+	dynasty=1000078049 #Siri Naga
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203388
+	220.1.1={
+		birth="220.1.1"
+	}
+	248.1.1={
+		death="248.1.1"
+	}
+}
+
+#Sangha Tissa Dynasty
+
+1000203390 = {
+	name="Sangha-Tissa"
+	dynasty=1000078050 #Sangha Tissa
+	religion="buddhism"
+	culture="sinhala"
+	200.1.1={
+		birth="200.1.1"
+	}
+	252.1.1={
+		death="252.1.1"
+	}
+}
+
+1000203391 = {
+	name="Siri-Sangha-Bodhi"
+	dynasty=1000078050 #Sangha Tissa
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203390
+	220.1.1={
+		birth="220.1.1"
+	}
+	254.1.1={
+		death="254.1.1"
+	}
+}
+
+#Gothabhaya Dynasty
+
+1000203392 = {
+	name="Gothabhaya"
+	dynasty=1000078051 #Gothabhaya
+	religion="buddhism"
+	culture="sinhala"
+	210.1.1={
+		birth="210.1.1"
+	}
+	267.1.1={
+		death="267.1.1"
+	}
+}
+
+1000203393 = {
+	name="Jettha-Tissa"
+	dynasty=1000078051 #Gothabhaya
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203392
+	230.1.1={
+		birth="230.1.1"
+	}
+	277.1.1={
+		death="277.1.1"
+	}
+}
+
+1000203394 = {
+	name="Mahasena"
+	dynasty=1000078051 #Gothabhaya
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203392
+	240.1.1={
+		birth="240.1.1"
+	}
+	304.1.1={
+		death="304.1.1"
+	}
+}
+
+1000203395 = {
+	name="Sirimeghavanna"
+	dynasty=1000078051 #Gothabhaya
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203394
+	270.1.1={
+		birth="270.1.1"
+	}
+	332.1.1={
+		death="332.1.1"
+	}
+}
+
+1000203396 = {
+	name="Jettha-Tissa"
+	dynasty=1000078051 #Gothabhaya
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203394
+	280.1.1={
+		birth="280.1.1"
+	}
+	341.1.1={
+		death="341.1.1"
+	}
+}
+
+1000203397 = {
+	name="Buddhadasa"
+	dynasty=1000078051 #Gothabhaya
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203396
+	310.1.1={
+		birth="310.1.1"
+	}
+	370.1.1={
+		death="370.1.1"
+	}
+}
+
+1000203398 = {
+	name="Upatissa"
+	dynasty=1000078051 #Gothabhaya
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203397
+	350.1.1={
+		birth="350.1.1"
+	}
+	412.1.1={
+		death="412.1.1"
+	}
+}
+
+1000203399 = {
+	name="Mahanama"
+	dynasty=1000078051 #Gothabhaya
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203397
+	360.1.1={
+		birth="360.1.1"
+	}
+	434.1.1={
+		death="434.1.1"
+	}
+}
+
+1000203400 = {
+	name="Soththisena"
+	dynasty=1000078051 #Gothabhaya
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203399
+	390.1.1={
+		birth="390.1.1"
+	}
+	434.6.1={
+		death="434.6.1"
+	}
+}
+
+1000203401 = {
+	name="Chattagahaka-Jantu"
+	female=yes
+	dynasty=1000078051 #Gothabhaya
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203399
+	391.1.1={
+		birth="391.1.1"
+	}
+	435.1.1={
+		death="435.1.1"
+	}
+}
+
+#Mittasena Dynasty
+
+1000203402 = {
+	name="Mittasena"
+	dynasty=1000078052 #Mittasena
+	religion="buddhism"
+	culture="sinhala"
+	400.1.1={
+		birth="400.1.1"
+	}
+	436.1.1={
+		death="436.1.1"
+	}
+}
+
+#Moriya Dynasty
+
+1000203403 = {
+	name="Dhatusena"
+	dynasty=1000078053 #Moriya
+	religion="buddhism"
+	culture="sinhala"
+	mother=1000203401
+	420.1.1={
+		birth="420.1.1"
+	}
+	479.1.1={
+		death="479.1.1"
+	}
+}
+
+1000203404 = {
+	name="Kassapa"
+	dynasty=1000078053 #Moriya
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203403
+	450.1.1={
+		birth="450.1.1"
+	}
+	497.1.1={
+		death="497.1.1"
+	}
+}
+
+1000203405 = {
+	name="Moggallana"
+	dynasty=1000078053 #Moriya
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203403
+	460.1.1={
+		birth="460.1.1"
+	}
+	515.1.1={
+		death="515.1.1"
+	}
+}
+
+1000203406 = {
+	name="Kumara-Dhatusena"
+	dynasty=1000078053 #Moriya
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203405
+	480.1.1={
+		birth="480.1.1"
+	}
+	524.1.1={
+		death="524.1.1"
+	}
+}
+
+1000203407 = {
+	name="Kirti-Sena"
+	dynasty=1000078053 #Moriya
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203406
+	496.1.1={
+		birth="496.1.1"
+	}
+	524.6.1={
+		death="524.6.1"
+	}
+}
+
+1000203408 = {
+	name="Siva"
+	dynasty=1000078053 #Moriya
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203405
+	481.1.1={
+		birth="481.1.1"
+	}
+	525.1.1={
+		death="525.1.1"
+	}
+}
+
+1000203434 = {
+	name="Mahavati"
+	female=yes
+	dynasty=1000078053 #Moriya
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203406
+	497.1.1={
+		birth="497.1.1"
+	}
+	526.1.1={
+		death="526.1.1"
+	}
+}
+
+#Upatissa Dynasty
+
+1000203409 = {
+	name="Upatissa"
+	dynasty=1000078054 #Upatissa
+	religion="buddhism"
+	culture="sinhala"
+	481.1.1={
+		birth="481.1.1"
+	}
+	520.1.1={
+		add_spouse=1000203434
+	}
+	526.1.1={
+		death="526.1.1"
+	}
+}
+
+#Upatissa Dynasty
+
+1000203410 = {
+	name="Silakala-Ambosamanera"
+	dynasty=1000078055 #Silakala
+	religion="buddhism"
+	culture="sinhala"
+	490.1.1={
+		birth="490.1.1"
+	}
+	539.1.1={
+		death="539.1.1"
+	}
+}
+
+1000203411 = {
+	name="Dathappabhuti"
+	dynasty=1000078055 #Silakala
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203410
+	510.1.1={
+		birth="510.1.1"
+	}
+	540.1.1={
+		death="540.1.1"
+	}
+}
+
+1000203412 = {
+	name="Moggallana"
+	dynasty=1000078055 #Silakala
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203410
+	509.1.1={
+		birth="509.1.1"
+	}
+	560.1.1={
+		death="560.1.1"
+	}
+}
+
+1000203413 = {
+	name="Kittisiri-Meghavanna"
+	dynasty=1000078055 #Silakala
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203412
+	530.1.1={
+		birth="530.1.1"
+	}
+	561.1.1={
+		death="561.1.1"
+	}
+}
+
+#Maha Naga Dynasty
+
+1000203414 = {
+	name="Maha-Naga"
+	dynasty=1000078056 #Maha Naga
+	religion="buddhism"
+	culture="sinhala"
+	500.1.1={
+		birth="500.1.1"
+	}
+	560.1.1={
+		death="560.1.1"
+	}
+}
+
+1000203415 = {
+	name="Maha-Naga"
+	dynasty=1000078056 #Maha Naga
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203414
+	520.1.1={
+		birth="520.1.1"
+	}
+	564.1.1={
+		death="564.1.1"
+	}
+}
+
+1000203416 = {
+	name="Aggabodhi"
+	dynasty=1000078056 #Maha Naga
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203414
+	540.1.1={
+		birth="540.1.1"
+	}
+	598.1.1={
+		death="598.1.1"
+	}
+}
+
+1000203417 = {
+	name="Aggabodhi"
+	dynasty=1000078056 #Maha Naga
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203414
+	541.1.1={
+		birth="541.1.1"
+	}
+	598.1.1={
+		death="598.1.1"
+	}
+}
+
+1000203418 = {
+	name="Aggabodhi"
+	dynasty=1000078056 #Maha Naga
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203417
+	560.1.1={
+		birth="560.1.1"
+	}
+	608.1.1={
+		death="608.1.1"
+	}
+}
+
+1000203419 = {
+	name="Sangha-Tissa"
+	dynasty=1000078056 #Maha Naga
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203417
+	570.1.1={
+		birth="570.1.1"
+	}
+	608.6.1={
+		death="608.6.1"
+	}
+}
+
+1000203423 = {
+	name="Jettha-Tissa"
+	dynasty=1000078056 #Maha Naga
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203419
+	590.1.1={
+		birth="590.1.1"
+	}
+	624.1.1={
+		death="624.1.1"
+	}
+}
+
+1000203425 = {
+	name="Kassapa"
+	dynasty=1000078056 #Maha Naga
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203417
+	590.1.1={
+		birth="590.1.1"
+	}
+	661.1.1={
+		death="661.1.1"
+	}
+}
+
+#Moggallana Dynasty
+
+1000203420 = {
+	name="Moggallana"
+	dynasty=1000078057 #Moggallana
+	religion="buddhism"
+	culture="sinhala"
+	560.1.1={
+		birth="560.1.1"
+	}
+	614.1.1={
+		death="614.1.1"
+	}
+}
+
+#Silameghavanna Dynasty
+
+1000203421 = {
+	name="Silameghavanna"
+	dynasty=1000078058 #Silameghavanna
+	religion="buddhism"
+	culture="sinhala"
+	570.1.1={
+		birth="570.1.1"
+	}
+	623.1.1={
+		death="623.1.1"
+	}
+}
+
+1000203422 = {
+	name="Aggabodhi"
+	dynasty=1000078058 #Silameghavanna
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203421
+	590.1.1={
+		birth="590.1.1"
+	}
+	640.1.1={
+		death="640.1.1"
+	}
+}
+
+#Dathopa Tissa Dynasty
+
+1000203427 = {
+	name="Dathopa-Tissa"
+	dynasty=1000078059 #Dathopa Tissa
+	religion="buddhism"
+	culture="sinhala"
+	570.1.1={
+		birth="570.1.1"
+	}
+	620.1.1={
+		death="620.1.1"
+	}
+}
+
+1000203424 = {
+	name="Dathopa-Tissa"
+	dynasty=1000078059 #Dathopa Tissa
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203427
+	600.1.1={
+		birth="600.1.1"
+	}
+	652.1.1={
+		death="652.1.1"
+	}
+}
+
+1000203428 = {
+	name="Dathopa-Tissa"
+	dynasty=1000078059 #Dathopa Tissa
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203427
+	610.1.1={
+		birth="610.1.1"
+	}
+	652.1.1={
+		death="652.1.1"
+	}
+}
+
+1000203429 = {
+	name="Dathopa-Tissa"
+	dynasty=1000078059 #Dathopa Tissa
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203428
+	630.1.1={
+		birth="630.1.1"
+	}
+	673.1.1={
+		death="673.1.1"
+	}
+}
+
+1000203430 = {
+	name="Aggabodhi"
+	dynasty=1000078059 #Dathopa Tissa
+	religion="buddhism"
+	culture="sinhala"
+	father=1000203428
+	640.1.1={
+		birth="640.1.1"
+	}
+	689.1.1={
+		death="689.1.1"
+	}
+}
+
+#Dappula Dynasty
+
+1000203426 = {
+	name="Dappula"
+	dynasty=1000078067 #Dappula
+	religion="buddhism"
+	culture="sinhala"
+	630.1.1={
+		birth="630.1.1"
+	}
+	664.1.1={
+		death="664.1.1"
+	}
+}
+
+#Unhanagara Dynasty
+
+1000203431 = {
+	name="Unhanagara-Hatthadatha"
+	dynasty=1000078060 #Unhanagara
+	religion="buddhism"
+	culture="sinhala"
+	640.1.1={
+		birth="640.1.1"
+	}
+	691.1.1={
+		death="691.1.1"
+	}
+}

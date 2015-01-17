@@ -1,0 +1,132 @@
+800.1.1={
+	liege="k_malwa"
+}
+#Paramara Dynasty
+800.1.1={
+	holder=1000076358 #Upendra
+}
+818.1.1={
+	holder=1000076359 #Vairisimha I
+}
+843.1.1={
+	holder=1000076360 #Siyaka I
+}
+893.1.1={
+	holder=1000076361 #Vakpatiraja I
+}
+918.1.1={
+	holder=1000076362 #Vairisimha II
+}
+948.1.1={
+	holder=1000076363 #Siyaka II
+}
+974.1.1={
+	holder=1000076364 #Vakpatiraja II
+}
+995.1.1={
+	holder=1000076365 #Sindhuraja
+}
+1010.1.1={
+	holder=1000076366 #Bhoja
+}
+1055.1.1={
+	holder=1000076156 #Jayasimha I
+}
+1068.1.1={
+	holder=1000076367 #Udayaditya
+}
+1087.1.1={
+	holder=1000076368 #Lakshmanadeva
+}
+1094.1.1={
+	holder=1000076369 #Naravarmandeva
+}
+1134.1.1={
+	holder=1000076370 #Yasovarman
+}
+1142.1.1={
+	holder=1000076371 #Jayavarman I
+}
+
+#Ballala Dynasty (usurper)
+1143.1.1={
+	holder=1000076372 #Ballala
+}
+
+#Malwa conquered by the Solanki
+1150.1.1={
+	liege="k_gujarat"
+	holder=1000076232 #Kumarapala
+}
+
+#Paramara Dynasty (restored)
+1160.1.1={
+	liege="k_malwa"
+	holder=1000076373 #Vindhyavarman
+}
+1193.1.1={
+	holder=1000076374 #Subhatavarman
+}
+1210.1.1={
+	holder=1000076375 #Arjunavarman I
+}
+1218.1.1={
+	holder=1000076376 #Devapala
+}
+1239.1.1={
+	holder=1000076377 #Jaitugideva
+}
+1256.1.1={
+	holder=1000076378 #Jayavarman II
+}
+1269.1.1={
+	holder=1000076379 #Jayasimha II
+}
+1274.1.1={
+	holder=1000076380 #Arjunavarman II
+}
+1283.1.1={
+	holder=1000076381 #Bhoja II
+}
+1298.1.1={
+	holder=1000076382 #Mahlakadeva
+}
+
+#Khilji Dynasty
+1305.1.1={
+	liege="e_uttarapatha"
+}
+1305.1.1={
+	holder=1000083708 #Muhammad-Shah I
+}
+1316.1.3={
+	holder=1000083712 #Umar-Shah
+}
+1316.4.1={
+	holder=1000083714 #Mubarak-Shah I
+}
+1318.9.1={
+	holder=1000083716 #Mahmud-Shah II
+}
+1318.12.1={
+	holder=1000083714 #Mubarak-Shah I (second time)
+}
+
+#Hasanid Dynasty
+1320.6.1={
+	holder=1000083719 #Husraw-Shah
+}
+
+#Tughlaq Dynasty
+1320.10.1={
+	holder=1000083723 #Tughlaq-Shah I
+}
+1325.1.1={
+	holder=1000083725 #Muhammad-Shah II
+}
+1351.5.1={
+	holder=1000083727 #Mahmud-Shah III
+}
+1351.10.1={
+	holder=1000083731 #Firuz-Shah III
+}

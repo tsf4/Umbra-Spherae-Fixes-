@@ -1,0 +1,135 @@
+#Guhilot Dynasty
+734.1.1={
+	liege="d_citrakuta"
+}
+734.1.1={
+	holder=1000083164 #Kalbhoj
+}
+753.1.1={
+	holder=1000083165 #Khuman I
+}
+773.1.1={
+	holder=1000083166 #Mattat
+}
+793.1.1={
+	holder=1000083167 #Bhert-Patt I
+}
+813.1.1={
+	holder=1000083168 #Sinha
+}
+828.1.1={
+	holder=1000083169 #Khuman II
+}
+853.1.1={
+	holder=1000083170 #Mahayak
+}
+878.1.1={
+	holder=1000083171 #Khuman III
+}
+942.1.1={
+	holder=1000083172 #Bhert-Patt II
+}
+951.1.1={
+	holder=1000083173 #Allat
+}
+953.1.1={
+	holder=1000083174 #Narwahan
+}
+973.1.1={
+	holder=1000083175 #Shaliwahan
+}
+977.1.1={
+	holder=1000083176 #Shakti-Kumar
+}
+993.1.1={
+	holder=1000083177 #Ambra-Prasad
+}
+1007.1.1={
+	holder=1000083178 #Suchi-Verma
+}
+1021.1.1={
+	holder=1000083179 #Nar-Verma
+}
+1035.1.1={
+	holder=1000083180 #Keerti-Verma
+}
+1051.1.1={
+	holder=1000083181 #Yograj
+}
+1068.1.1={
+	holder=1000076162 #Bairath
+}
+1088.1.1={
+	holder=1000083182 #Hanspal
+}
+1103.1.1={
+	holder=1000083183 #Vairsingh
+}
+1107.1.1={
+	holder=1000083184 #Vijai-Singh
+}
+1127.1.1={
+	holder=1000083185 #Ari-Singh I
+}
+1138.1.1={
+	holder=1000083186 #Chaud-Singh
+}
+1148.1.1={
+	holder=1000083187 #Vikramaditya I
+}
+1158.1.1={
+	holder=1000083188 #Karan-Singh I
+}
+1168.1.1={
+	holder=1000083189 #Kshem-Singh
+}
+1172.1.1={
+	holder=1000083190 #Samant-Singh
+}
+
+#Sisodia Dynasty
+1173.1.1={
+	holder=1000083198 #Rahap
+}
+1207.1.1={
+	holder=1000083220 #Narapati
+}
+1217.1.1={
+	holder=1000083221 #Dinakarn
+}
+1227.1.1={
+	holder=1000083222 #Jaskarn
+}
+1237.1.1={
+	holder=1000083223 #Purnpala
+}
+1247.1.1={
+	holder=1000083224 #Prithvipal
+}
+1257.1.1={
+	holder=1000083225 #Bhuvan-Singh
+}
+1267.1.1={
+	holder=1000083226 #Bhim-Singh
+}
+1277.1.1={
+	holder=1000083227 #Jay-Singh
+}
+1287.1.1={
+	holder=1000083228 #Lakshaman-Singh
+}
+1303.1.1={
+	liege="k_malwa"
+}
+1303.1.1={
+	holder=1000083230 #Ajay-Singh
+}
+1305.1.1={
+	liege="e_uttarapatha"
+}
+1314.1.1={
+	holder=1000083231 #Hammir-Singh
+}
+1326.1.1={
+	liege="k_rajputana"
+}

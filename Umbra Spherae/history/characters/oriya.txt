@@ -1,0 +1,1186 @@
+#East Ganga Dynasty
+
+1000202915 = {
+	name="Indravarman"
+	dynasty=1000028284 #East Ganga
+	religion="hindu"
+	culture="oriya"
+	470.1.1={
+		birth="470.1.1"
+	}
+	534.1.1={
+		death="534.1.1"
+	}
+}
+
+1000202916 = {
+	name="Maharanjendravarman"
+	dynasty=1000028284 #East Ganga
+	religion="hindu"
+	culture="oriya"
+	father=1000202915
+	500.1.1={
+		birth="500.1.1"
+	}
+	560.1.1={
+		death="560.1.1"
+	}
+}
+
+1000202917 = {
+	name="Mahasamantavarman"
+	dynasty=1000028284 #East Ganga
+	religion="hindu"
+	culture="oriya"
+	father=1000202916
+	520.1.1={
+		birth="520.1.1"
+	}
+	575.1.1={
+		death="575.1.1"
+	}
+}
+
+1000202918 = {
+	name="Hastivarman"
+	dynasty=1000028284 #East Ganga
+	religion="hindu"
+	culture="oriya"
+	father=1000202917
+	540.1.1={
+		birth="540.1.1"
+	}
+	583.1.1={
+		death="583.1.1"
+	}
+}
+
+1000202919 = {
+	name="Indravarman"
+	dynasty=1000028284 #East Ganga
+	religion="hindu"
+	culture="oriya"
+	father=1000202918
+	556.1.1={
+		birth="556.1.1"
+	}
+	587.1.1={
+		death="587.1.1"
+	}
+}
+
+1000202920 = {
+	name="Mitravarman"
+	dynasty=1000028284 #East Ganga
+	religion="hindu"
+	culture="oriya"
+	father=1000202919
+	572.1.1={
+		birth="572.1.1"
+	}
+	624.1.1={
+		death="624.1.1"
+	}
+}
+
+1000202921 = {
+	name="Indravarman"
+	dynasty=1000028284 #East Ganga
+	religion="hindu"
+	culture="oriya"
+	father=1000202920
+	588.1.1={
+		birth="588.1.1"
+	}
+	634.1.1={
+		death="634.1.1"
+	}
+}
+
+1000202922 = {
+	name="Danarnava"
+	dynasty=1000028284 #East Ganga
+	religion="hindu"
+	culture="oriya"
+	father=1000202919
+	580.1.1={
+		birth="580.1.1"
+	}
+	634.1.1={
+		death="634.1.1"
+	}
+}
+
+1000202923 = {
+	name="Indravarman"
+	dynasty=1000028284 #East Ganga
+	religion="hindu"
+	culture="oriya"
+	father=1000202922
+	600.1.1={
+		birth="600.1.1"
+	}
+	650.1.1={
+		death="650.1.1"
+	}
+}
+
+1000202924 = {
+	name="Gunarnava"
+	dynasty=1000028284 #East Ganga
+	religion="hindu"
+	culture="oriya"
+	father=1000202923
+	630.1.1={
+		birth="630.1.1"
+	}
+	679.1.1={
+		death="679.1.1"
+	}
+}
+
+1000202925 = {
+	name="Devendravarman"
+	dynasty=1000028284 #East Ganga
+	religion="hindu"
+	culture="oriya"
+	father=1000202924
+	650.1.1={
+		birth="650.1.1"
+	}
+	691.1.1={
+		death="691.1.1"
+	}
+}
+
+1000202926 = {
+	name="Anantavarman"
+	dynasty=1000028284 #East Ganga
+	religion="hindu"
+	culture="oriya"
+	father=1000202925
+	670.1.1={
+		birth="670.1.1"
+	}
+	717.1.1={
+		death="717.1.1"
+	}
+}
+
+1000202927 = {
+	name="Nandavarman"
+	dynasty=1000028284 #East Ganga
+	religion="hindu"
+	culture="oriya"
+	father=1000202926
+	690.1.1={
+		birth="690.1.1"
+	}
+	747.1.1={
+		death="747.1.1"
+	}
+}
+
+1000202928 = {
+	name="Devendravarman"
+	dynasty=1000028284 #East Ganga
+	religion="hindu"
+	culture="oriya"
+	father=1000202926
+	700.1.1={
+		birth="700.1.1"
+	}
+	752.1.1={
+		death="752.1.1"
+	}
+}
+
+1000202929 = {
+	name="Rajendravarman"
+	dynasty=1000028284 #East Ganga
+	religion="hindu"
+	culture="oriya"
+	father=1000202928
+	720.1.1={
+		birth="720.1.1"
+	}
+	780.1.1={
+		death="780.1.1"
+	}
+}
+
+1000202930 = {
+	name="Anantavarman"
+	dynasty=1000028284 #East Ganga
+	religion="hindu"
+	culture="oriya"
+	father=1000202929
+	740.1.1={
+		birth="740.1.1"
+	}
+	800.1.1={
+		death="800.1.1"
+	}
+}
+
+1000202931 = {
+	name="Devendravarman"
+	dynasty=1000028284 #East Ganga
+	religion="hindu"
+	culture="oriya"
+	father=1000202929
+	750.1.1={
+		birth="750.1.1"
+	}
+	809.1.1={
+		death="809.1.1"
+	}
+}
+
+1000202932 = {
+	name="Rajendravarman"
+	dynasty=1000028284 #East Ganga
+	religion="hindu"
+	culture="oriya"
+	father=1000202930
+	770.1.1={
+		birth="770.1.1"
+	}
+	838.1.1={
+		death="838.1.1"
+	}
+}
+
+1000202933 = {
+	name="Satyavarman"
+	dynasty=1000028284 #East Ganga
+	religion="hindu"
+	culture="oriya"
+	father=1000202931
+	780.1.1={
+		birth="780.1.1"
+	}
+	850.1.1={
+		death="850.1.1"
+	}
+}
+
+1000202934 = {
+	name="Anantavarman"
+	dynasty=1000028284 #East Ganga
+	religion="hindu"
+	culture="oriya"
+	father=1000202931
+	790.1.1={
+		birth="790.1.1"
+	}
+	860.1.1={
+		death="860.1.1"
+	}
+}
+
+1000202935 = {
+	name="Vajri"
+	dynasty=1000028284 #East Ganga
+	religion="hindu"
+	culture="oriya"
+	father=1000202931
+	800.1.1={
+		birth="800.1.1"
+	}
+	860.1.1={
+		death="860.1.1"
+	}
+}
+
+1000202936 = {
+	name="Bhupendravarman"
+	dynasty=1000028284 #East Ganga
+	religion="hindu"
+	culture="oriya"
+	father=1000202935
+	830.1.1={
+		birth="830.1.1"
+	}
+	889.1.1={
+		death="889.1.1"
+	}
+}
+
+1000202937 = {
+	name="Devendravarman"
+	dynasty=1000028284 #East Ganga
+	religion="hindu"
+	culture="oriya"
+	father=1000202936
+	860.1.1={
+		birth="860.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000202949 = {
+	name="Gunamaharnava"
+	dynasty=1000028284 #East Ganga
+	religion="hindu"
+	culture="oriya"
+	father=1000202936 #no one knows?
+	861.1.1={
+		birth="861.1.1"
+	}
+	895.1.1={
+		death="895.1.1"
+	}
+}
+
+1000202950 = {
+	name="Vajrahasta"
+	dynasty=1000028284 #East Ganga
+	religion="hindu"
+	culture="oriya"
+	father=1000202949
+	877.1.1={
+		birth="877.1.1"
+	}
+	939.1.1={
+		death="939.1.1"
+	}
+}
+
+1000202951 = {
+	name="Gundama"
+	dynasty=1000028284 #East Ganga
+	religion="hindu"
+	culture="oriya"
+	father=1000202950
+	900.1.1={
+		birth="900.1.1"
+	}
+	942.1.1={
+		death="942.1.1"
+	}
+}
+
+1000202952 = {
+	name="Kamarnava"
+	dynasty=1000028284 #East Ganga
+	religion="hindu"
+	culture="oriya"
+	father=1000202950
+	910.1.1={
+		birth="910.1.1"
+	}
+	977.1.1={
+		death="977.1.1"
+	}
+}
+
+1000202953 = {
+	name="Vinayaditya"
+	dynasty=1000028284 #East Ganga
+	religion="hindu"
+	culture="oriya"
+	father=1000202950
+	920.1.1={
+		birth="920.1.1"
+	}
+	980.1.1={
+		death="980.1.1"
+	}
+}
+
+1000202954 = {
+	name="Vajrahasta"
+	dynasty=1000028284 #East Ganga
+	religion="hindu"
+	culture="oriya"
+	father=1000202952
+	940.1.1={
+		birth="940.1.1"
+	}
+	1015.1.1={
+		death="1015.1.1"
+	}
+}
+
+1000202955 = {
+	name="Kamarnava"
+	dynasty=1000028284 #East Ganga
+	religion="hindu"
+	culture="oriya"
+	father=1000202954
+	970.1.1={
+		birth="970.1.1"
+	}
+	1016.1.1={
+		death="1016.1.1"
+	}
+}
+
+1000202956 = {
+	name="Gundama"
+	dynasty=1000028284 #East Ganga
+	religion="hindu"
+	culture="oriya"
+	father=1000202954
+	971.1.1={
+		birth="971.1.1"
+	}
+	1019.1.1={
+		death="1019.1.1"
+	}
+}
+
+1000202957 = {
+	name="Madhukamarnava"
+	dynasty=1000028284 #East Ganga
+	religion="hindu"
+	culture="oriya"
+	father=1000202954
+	980.1.1={
+		birth="980.1.1"
+	}
+	1038.1.1={
+		death="1038.1.1"
+	}
+}
+
+1000076170 = {
+	name="Vajrahasta"
+	dynasty=1000028284 #East Ganga
+	religion="hindu"
+	culture="oriya"
+	father=1000202955
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1070.1.1={
+		death="1070.1.1"
+	}
+}
+
+1000202958 = {
+	name="Rajaraja"
+	dynasty=1000028284 #East Ganga
+	religion="hindu"
+	culture="oriya"
+	father=1000076170
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1078.1.1={
+		death="1078.1.1"
+	}
+}
+
+1000202959 = {
+	name="Codaganga"
+	dynasty=1000028284 #East Ganga
+	religion="hindu"
+	culture="oriya"
+	father=1000202958
+	1066.1.1={
+		birth="1066.1.1"
+	}
+	1150.1.1={
+		death="1150.1.1"
+	}
+}
+
+1000202960 = {
+	name="Kamarnava"
+	dynasty=1000028284 #East Ganga
+	religion="hindu"
+	culture="oriya"
+	father=1000202959
+	1100.1.1={
+		birth="1100.1.1"
+	}
+	1157.1.1={
+		death="1157.1.1"
+	}
+}
+
+1000202961 = {
+	name="Raghava"
+	dynasty=1000028284 #East Ganga
+	religion="hindu"
+	culture="oriya"
+	father=1000202959
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1171.1.1={
+		death="1171.1.1"
+	}
+}
+
+1000202962 = {
+	name="Rajaraja"
+	dynasty=1000028284 #East Ganga
+	religion="hindu"
+	culture="oriya"
+	father=1000202959
+	1120.1.1={
+		birth="1120.1.1"
+	}
+	1192.1.1={
+		death="1192.1.1"
+	}
+}
+
+1000202963 = {
+	name="Anangabhima"
+	dynasty=1000028284 #East Ganga
+	religion="hindu"
+	culture="oriya"
+	father=1000202959
+	1130.1.1={
+		birth="1130.1.1"
+	}
+	1195.1.1={
+		death="1195.1.1"
+	}
+}
+
+1000202964 = {
+	name="Rajaraja"
+	dynasty=1000028284 #East Ganga
+	religion="hindu"
+	culture="oriya"
+	father=1000202963
+	1160.1.1={
+		birth="1160.1.1"
+	}
+	1216.1.1={
+		death="1216.1.1"
+	}
+}
+
+1000202965 = {
+	name="Anangabhima"
+	dynasty=1000028284 #East Ganga
+	religion="hindu"
+	culture="oriya"
+	father=1000202964
+	1180.1.1={
+		birth="1180.1.1"
+	}
+	1238.1.1={
+		death="1238.1.1"
+	}
+}
+
+1000202966 = {
+	name="Narasimha"
+	dynasty=1000028284 #East Ganga
+	religion="hindu"
+	culture="oriya"
+	father=1000202965
+	1200.1.1={
+		birth="1200.1.1"
+	}
+	1264.1.1={
+		death="1264.1.1"
+	}
+}
+
+1000202967 = {
+	name="Bhanudeva"
+	dynasty=1000028284 #East Ganga
+	religion="hindu"
+	culture="oriya"
+	father=1000202966
+	1220.1.1={
+		birth="1220.1.1"
+	}
+	1279.1.1={
+		death="1279.1.1"
+	}
+}
+
+1000202968 = {
+	name="Narasimha"
+	dynasty=1000028284 #East Ganga
+	religion="hindu"
+	culture="oriya"
+	father=1000202967
+	1240.1.1={
+		birth="1240.1.1"
+	}
+	1306.1.1={
+		death="1306.1.1"
+	}
+}
+
+1000202969 = {
+	name="Bhanudeva"
+	dynasty=1000028284 #East Ganga
+	religion="hindu"
+	culture="oriya"
+	father=1000202968
+	1270.1.1={
+		birth="1270.1.1"
+	}
+	1328.1.1={
+		death="1328.1.1"
+	}
+}
+
+1000202970 = {
+	name="Narasimha"
+	dynasty=1000028284 #East Ganga
+	religion="hindu"
+	culture="oriya"
+	father=1000202969
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1352.1.1={
+		death="1352.1.1"
+	}
+}
+
+1000202971 = {
+	name="Bhanudeva"
+	dynasty=1000028284 #East Ganga
+	religion="hindu"
+	culture="oriya"
+	father=1000202970
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1378.1.1={
+		death="1378.1.1"
+	}
+}
+
+#Somavamsa Dynasty
+
+1000202938 = {
+	name="Sivagupta"
+	dynasty=1000078012 #Somavamsa
+	religion="hindu"
+	culture="oriya"
+	867.1.1={
+		birth="867.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000202939 = {
+	name="Mahabhavagupta"
+	dynasty=1000078012 #Somavamsa
+	religion="hindu"
+	culture="oriya"
+	father=1000202938
+	900.1.1={
+		birth="900.1.1"
+	}
+	963.1.1={
+		death="963.1.1"
+	}
+}
+
+1000202940 = {
+	name="Mahasivagupta"
+	dynasty=1000078012 #Somavamsa
+	religion="hindu"
+	culture="oriya"
+	father=1000202939
+	930.1.1={
+		birth="930.1.1"
+	}
+	1000.1.1={
+		death="1000.1.1"
+	}
+}
+
+1000202941 = {
+	name="Mahabhavagupta"
+	dynasty=1000078012 #Somavamsa
+	religion="hindu"
+	culture="oriya"
+	father=1000202940
+	950.1.1={
+		birth="950.1.1"
+	}
+	1015.1.1={
+		death="1015.1.1"
+	}
+}
+
+1000202942 = {
+	name="Mahasivagupta"
+	dynasty=1000078012 #Somavamsa
+	religion="hindu"
+	culture="oriya"
+	father=1000202941
+	970.1.1={
+		birth="970.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000202943 = {
+	name="Mahabhavagupta"
+	dynasty=1000078012 #Somavamsa
+	religion="hindu"
+	culture="oriya"
+	father=1000202942
+	990.1.1={
+		birth="990.1.1"
+	}
+	1025.1.1={
+		death="1025.1.1"
+	}
+}
+
+1000202944 = {
+	name="Vicitravira"
+	dynasty=1000078012 #Somavamsa
+	religion="hindu"
+	culture="oriya"
+	father=1000202939
+	940.1.1={
+		birth="940.1.1"
+	}
+	1000.1.1={
+		death="1000.1.1"
+	}
+}
+
+
+1000202945 = {
+	name="Abhimanyu"
+	dynasty=1000078012 #Somavamsa
+	religion="hindu"
+	culture="oriya"
+	father=1000202944
+	970.1.1={
+		birth="970.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000202946 = {
+	name="Mahasivagupta"
+	dynasty=1000078012 #Somavamsa
+	religion="hindu"
+	culture="oriya"
+	father=1000202945
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1055.1.1={
+		death="1055.1.1"
+	}
+}
+
+1000202947 = {
+	name="Mahabhavagupta"
+	dynasty=1000078012 #Somavamsa
+	religion="hindu"
+	culture="oriya"
+	father=1000202946
+	1030.1.1={
+		birth="1030.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000202948 = {
+	name="Mahasivagupta"
+	dynasty=1000078012 #Somavamsa
+	religion="hindu"
+	culture="oriya"
+	father=1000202947
+	1066.1.1={
+		birth="1066.1.1"
+	}
+	1118.1.1={
+		death="1118.1.1"
+	}
+}
+
+#Bhaumakara Dynasty
+
+1000203248 = {
+	name="Lakshmikaradeva"
+	dynasty=1000078013 #Bhaumakara
+	religion="mahayana"
+	culture="oriya"
+	690.1.1={
+		birth="690.1.1"
+	}
+	736.1.1={
+		death="736.1.1"
+	}
+}
+
+1000203249 = {
+	name="Ksemankaradeva"
+	dynasty=1000078013 #Bhaumakara
+	religion="mahayana"
+	culture="oriya"
+	father=1000203248
+	710.1.1={
+		birth="710.1.1"
+	}
+	756.1.1={
+		death="756.1.1"
+	}
+}
+
+1000203250 = {
+	name="Sivakaradeva"
+	dynasty=1000078013 #Bhaumakara
+	religion="mahayana"
+	culture="oriya"
+	father=1000203249
+	730.1.1={
+		birth="730.1.1"
+	}
+	786.1.1={
+		death="786.1.1"
+	}
+}
+
+1000203251 = {
+	name="Subhakaradeva"
+	dynasty=1000078013 #Bhaumakara
+	religion="mahayana"
+	culture="oriya"
+	father=1000203250
+	750.1.1={
+		birth="750.1.1"
+	}
+	790.1.1={
+		death="790.1.1"
+	}
+}
+
+1000203252 = {
+	name="Sivakaradeva"
+	dynasty=1000078013 #Bhaumakara
+	religion="mahayana"
+	culture="oriya"
+	father=1000203251
+	770.1.1={
+		birth="770.1.1"
+	}
+	815.1.1={
+		death="815.1.1"
+	}
+}
+
+1000203253 = {
+	name="Santikaradeva"
+	dynasty=1000078013 #Bhaumakara
+	religion="mahayana"
+	culture="oriya"
+	father=1000203252
+	786.1.1={
+		birth="786.1.1"
+	}
+	802.1.1={
+		add_spouse=1000203256
+	}
+	830.1.1={
+		death="830.1.1"
+	}
+}
+
+1000203254 = {
+	name="Subhakaradeva"
+	dynasty=1000078013 #Bhaumakara
+	religion="mahayana"
+	culture="oriya"
+	father=1000203253
+	mother=1000203256
+	802.1.1={
+		birth="802.1.1"
+	}
+	837.1.1={
+		death="837.1.1"
+	}
+}
+
+1000203255 = {
+	name="Subhakaradeva"
+	dynasty=1000078013 #Bhaumakara
+	religion="mahayana"
+	culture="oriya"
+	father=1000203253
+	mother=1000203256
+	803.1.1={
+		birth="803.1.1"
+	}
+	842.1.1={
+		death="842.1.1"
+	}
+}
+
+1000203257 = {
+	name="Santikaradeva"
+	dynasty=1000078013 #Bhaumakara
+	religion="mahayana"
+	culture="oriya"
+	father=1000203255
+	820.1.1={
+		birth="820.1.1"
+	}
+	875.1.1={
+		death="875.1.1"
+	}
+}
+
+1000203258 = {
+	name="Subhakaradeva"
+	dynasty=1000078013 #Bhaumakara
+	religion="hindu"
+	culture="oriya"
+	father=1000203257
+	850.1.1={
+		birth="850.1.1"
+	}
+	870.1.1={
+		add_spouse=1000203260
+	}
+	885.1.1={
+		death="885.1.1"
+	}
+}
+
+1000203259 = {
+	name="Sivakaradeva"
+	dynasty=1000078013 #Bhaumakara
+	religion="hindu"
+	culture="oriya"
+	father=1000203257
+	855.1.1={
+		birth="855.1.1"
+	}
+	875.1.1={
+		add_spouse=1000203261
+	}
+	894.1.1={
+		death="894.1.1"
+	}
+}
+
+1000203262 = {
+	name="Santikaradeva"
+	dynasty=1000078013 #Bhaumakara
+	religion="hindu"
+	culture="oriya"
+	father=1000203258
+	866.1.1={
+		birth="866.1.1"
+	}
+	900.1.1={
+		add_spouse=1000203267
+	}
+	905.1.1={
+		death="905.1.1"
+	}
+}
+
+1000203263 = {
+	name="Subhakaradeva"
+	dynasty=1000078013 #Bhaumakara
+	religion="hindu"
+	culture="oriya"
+	father=1000203258
+	867.1.1={
+		birth="867.1.1"
+	}
+	890.1.1={
+		add_spouse=1000203264
+	}
+	900.1.1={
+		add_spouse=1000203266
+	}
+	910.1.1={
+		death="910.1.1"
+	}
+}
+
+1000203265 = {
+	name="Dandi-Mahadevi"
+	female=yes
+	dynasty=1000078013 #Bhaumakara
+	religion="hindu"
+	culture="oriya"
+	father=1000203263
+	mother=1000203264
+	900.1.1={
+		birth="900.1.1"
+	}
+	923.1.1={
+		death="923.1.1"
+	}
+}
+
+#Khinjali Dynasty
+
+1000203256 = {
+	name="Tribhuvana-Mahadevi"
+	female=yes
+	dynasty=1000078014 #Khinjali
+	religion="mahayana"
+	culture="oriya"
+	786.1.1={
+		birth="786.1.1"
+	}
+	850.1.1={
+		death="850.1.1"
+	}
+}
+
+#Khijjinga Dynasty
+
+1000203260 = {
+	name="Tribhuvana-Mahadevi"
+	female=yes
+	dynasty=1000078015 #Khijjinga
+	religion="hindu"
+	culture="oriya"
+	850.1.1={
+		birth="850.1.1"
+	}
+	896.1.1={
+		death="896.1.1"
+	}
+}
+
+#Kodalaka Dynasty
+
+1000203261 = {
+	name="Tribhuvana-Mahadevi"
+	female=yes
+	dynasty=1000078016 #Kodalaka
+	religion="hindu"
+	culture="oriya"
+	855.1.1={
+		birth="855.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+#Yamagartta Dynasty
+
+1000203264 = {
+	name="Gauri"
+	female=yes
+	dynasty=1000078017 #Yamagartta
+	religion="hindu"
+	culture="oriya"
+	869.1.1={
+		birth="869.1.1"
+	}
+	916.1.1={
+		death="916.1.1"
+	}
+}
+
+#Auravatta Dynasty
+
+1000203266 = {
+	name="Vakula-Mahadevi"
+	female=yes
+	dynasty=1000078018 #Auravatta
+	religion="hindu"
+	culture="oriya"
+	880.1.1={
+		birth="880.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+#Banei Dynasty
+
+1000203267 = {
+	name="Dharma-Mahadevi"
+	female=yes
+	dynasty=1000078019 #Banei
+	religion="hindu"
+	culture="oriya"
+	880.1.1={
+		birth="880.1.1"
+	}
+	940.1.1={
+		death="940.1.1"
+	}
+}
+
+#Khedi Dynasty
+
+1000203231 = {
+	name="Bhamakhedi"
+	dynasty=1000078027 #Khedi
+	religion="hindu"
+	culture="oriya"
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1080.1.1={
+		death="1080.1.1"
+	}
+}
+
+1000203232 = {
+	name="Dharmakhedi"
+	dynasty=1000078027 #Khedi
+	religion="hindu"
+	culture="oriya"
+	father=1000203231
+	1060.1.1={
+		birth="1060.1.1"
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000203233 = {
+	name="Udayadityadeva"
+	dynasty=1000078027 #Khedi
+	religion="hindu"
+	culture="oriya"
+	father=1000203232
+	1100.1.1={
+		birth="1100.1.1"
+	}
+	1185.1.1={
+		death="1185.1.1"
+	}
+}
+
+1000203234 = {
+	name="Nagakhedi"
+	dynasty=1000078027 #Khedi
+	religion="hindu"
+	culture="oriya"
+	father=1000203233
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1190.1.1={
+		death="1190.1.1"
+	}
+}

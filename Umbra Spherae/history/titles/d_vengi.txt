@@ -1,0 +1,153 @@
+#East Chalukya Dynasty
+615.1.1={
+	liege="k_andhra"
+}
+615.1.1={
+	holder=1000203078 #Vishnuvardhana I
+}
+641.1.1={
+	holder=1000203079 #Jayasimha I
+}
+673.1.1={
+	holder=1000203080 #Indrabhattaraka
+}
+673.6.1={
+	holder=1000203081 #Vishnuvardhana II
+}
+682.1.1={
+	holder=1000203082 #Mangi-Yuvaraja
+}
+706.1.1={
+	holder=1000203083 #Jayasimha II
+}
+718.1.1={
+	holder=1000203084 #Kokkili-Vikramaditya
+}
+719.1.1={
+	holder=1000203085 #Vishnuvardhana III
+}
+755.1.1={
+	holder=1000203086 #Vijayaditya I
+}
+772.1.1={
+	holder=1000203087 #Vishnuvardhana IV
+}
+808.1.1={
+	holder=1000203088 #Vijayaditya II
+}
+843.1.1={
+	holder=1000203089 #Vishnuvardhana V
+}
+890.1.1={
+	holder=1000203090 #Vijayaditya III
+}
+892.1.1={
+	holder=1000203092 #Chalukyabhima I
+}
+921.1.1={
+	holder=1000203093 #Vijayaditya IV
+}
+921.6.1={
+	holder=1000203094 #Ammaraja
+}
+927.1.1={
+	holder=1000203095 #Vijayaditya V
+}
+927.4.1={
+	holder=1000203097 #Tala I
+}
+927.9.1={
+	holder=1000203098 #Vikramaditya
+}
+928.1.1={
+	holder=1000203099 #Rajabhima
+}
+928.6.1={
+	holder=1000203100 #Yuddhamalla
+}
+935.1.1={
+	holder=1000203101 #Chalukyabhima II
+}
+947.1.1={
+	holder=1000203102 #Vijayaditya VI
+}
+970.1.1={
+	holder=1000203103 #Danarnava
+}
+971.1.1={
+	holder=1000203104 #Jatacodabhima
+}
+973.1.1={
+	holder=1000203105 #Tala II
+}
+985.1.1={
+	holder=1000203106 #Badapa
+}
+1001.1.1={
+	holder=1000203107 #Saktivarman I
+}
+1011.1.1={
+	holder=1000203108 #Vimaladitya
+}
+1018.1.1={
+	holder=1000203109 #Rajaraja
+}
+1061.1.1={
+	holder=1000076171 #Vijayaditya VII
+}
+1061.6.1={
+	holder=1000203110 #Saktivarman II
+}
+1062.1.1={
+	holder=1000076171 #Vijayaditya VII (again)
+}
+
+#Velanati Chola Dynasty
+1076.1.1={
+	liege="e_dakshinapatha"
+}
+1076.1.1={
+	holder=1000203471 #Gonka I
+}
+1108.1.1={
+	holder=1000203472 #Rajendra I
+}
+1132.1.1={
+	holder=1000203473 #Gonka II
+}
+1161.1.1={
+	holder=1000203474 #Rajendra II
+}
+1181.1.1={
+	holder=1000203475 #Gonka III
+}
+1186.1.1={
+	holder=1000203476 #Prithviswara
+}
+1207.1.1={
+	holder=1000203477 #Rajendra III
+}
+1216.1.1={
+	liege=0
+	holder=0
+}
+
+#Reddy Dynasty
+1300.1.1={
+	liege="k_orugallu"
+}
+1300.1.1={
+	holder=1000202773 #Prola
+}
+1320.1.1={
+	holder=1000202774 #Pulayyavema
+}
+1323.1.1={
+	liege="k_andhra"
+}
+1349.1.1={
+	holder=1000202775 #Anapota
+}
+1361.1.1={
+	holder=1000202776 #Anavema
+}

@@ -1,0 +1,145 @@
+831.1.1={
+	liege="k_khajuraho"
+}
+#Candella Dynasty
+831.1.1={
+	holder=1000076952 #Nannuka
+}
+845.1.1={
+	holder=1000076953 #Vakpati
+}
+865.1.1={
+	holder=1000076954 #Jayasakti
+}
+875.1.1={
+	holder=1000076955 #Vijayasakti
+}
+885.1.1={
+	holder=1000076956 #Rahila
+}
+905.1.1={
+	holder=1000076957 #Harsa
+}
+925.1.1={
+	holder=1000076958 #Yasovarman I
+}
+950.1.1={
+	holder=1000076959 #Dhangadeva
+}
+1002.1.1={
+	holder=1000076960 #Gandadeva
+}
+1015.1.1={
+	holder=1000076961 #Vidyadhara
+}
+1036.1.1={
+	holder=1000076962 #Vijayapala
+}
+1050.1.1={
+	holder=1000076963 #Devavarman
+}
+1060.1.1={
+	holder=1000076166 #Kirtivarman
+}
+
+#Gahadvala Dynasty
+1085.1.1={
+	liege="k_kanyakubja"
+}
+1085.1.1={
+	holder=1000080451 #Candradeva
+}
+1104.1.1={
+	holder=1000080452 #Madanacandra
+}
+1114.1.1={
+	holder=1000080453 #Govindacandra
+}
+1168.1.1={
+	holder=1000080454 #Vijayacandra
+}
+1170.1.1={
+	holder=1000080455 #Jayacandra
+}
+1193.1.1={
+	holder=1000080456 #Hariscandra
+}
+1197.1.1={
+	holder=1000080457 #Adakkamalla
+}
+
+#Ilam-Hanid Dynasty
+1226.1.1={
+	liege="e_uttarapatha"
+}
+1226.1.1={
+	holder=1000083673 #Iltutmish
+}
+1236.5.1={
+	holder=1000083674 #Firuz-Shah I
+}
+1236.11.20={
+	holder=1000083676 #Radiyyah-Bigam
+}
+1240.10.15={
+	holder=1000083677 #Bahram-Shah
+}
+1242.5.15={
+	holder=1000083679 #Masud-Shah
+}
+1246.6.11={
+	holder=1000083681 #Mahmud-Shah I
+}
+
+#Balbanid Dynasty
+1266.2.19={
+	holder=1000083683 #Balban
+}
+1287.1.1={
+	holder=1000083685 #Kay-Qubad
+}
+1290.10.14={
+	holder=1000083687 #Kay-Umart
+}
+
+#Khilji Dynasty
+1290.12.1={
+	holder=1000083704 #Firuz-Shah II
+}
+1296.7.21={
+	holder=1000083706 #Ibrahim-Shah I
+}
+1296.11.1={
+	holder=1000083708 #Muhammad-Shah I
+}
+1316.1.3={
+	holder=1000083712 #Umar-Shah
+}
+1316.4.1={
+	holder=1000083714 #Mubarak-Shah I
+}
+1318.9.1={
+	holder=1000083716 #Mahmud-Shah II
+}
+1318.12.1={
+	holder=1000083714 #Mubarak-Shah I (second time)
+}
+
+#Hasanid Dynasty
+1320.6.1={
+	holder=1000083719 #Husraw-Shah
+}
+
+#Tughlaq Dynasty
+1320.10.1={
+	holder=1000083723 #Tughlaq-Shah I
+}
+1325.1.1={
+	holder=1000083725 #Muhammad-Shah II
+}
+1351.5.1={
+	holder=1000083727 #Mahmud-Shah III
+}
+1351.10.1={
+	holder=1000083731 #Firuz-Shah III
+}

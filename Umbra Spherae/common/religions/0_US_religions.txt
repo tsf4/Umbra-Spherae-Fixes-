@@ -1,0 +1,1861 @@
+indian_group = {
+	has_coa_on_barony_only = no
+	graphical_culture = indiangfx
+	playable = yes
+	ai_peaceful = yes # Will make Hordes lose their super aggressiveness
+	hostile_within_group = yes
+	
+	ai_convert_same_group = 1 # try to convert if ai_zeal is high
+	ai_convert_other_group = 2	# always try to convert
+	
+	hindu = {
+		graphical_culture = hindugfx
+		secondary_event_pictures = sunni
+		icon = 88
+		color = { 1.0 0.0 0.0 }
+		
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_VEDAS
+		god_names = {
+			GOD_PARAMESHWARA GOD_BHAGAVAN GOD_BRAHMA GOD_ADI_PARASHAKTI GOD_SARASWATI GOD_LAKSHMI GOD_SHIVA GOD_VISHNU GOD_PRAJAPATI
+			GOD_GAYATRI GOD_SAVITRI GOD_DEVI GOD_DURGA GOD_ASHTA_LAKSHMI GOD_MAHADEVA GOD_ASHTAMURTI GOD_KHANDOBA GOD_INDRA GOD_SOMA
+			GOD_AGNI GOD_KRISHNA GOD_RUKMINI GOD_MOHINI GOD_RAMA GOD_PARASHURAMA GOD_VAMANA GOD_NARASHIMA GOD_VARAHA GOD_KURMA GOD_MATSYA
+			GOD_SHESHA GOD_ADITI GOD_HINDI_DANU GOD_AAKASH GOD_VARUNA GOD_MITRA GOD_ARYAMAN GOD_BHAGA GOD_ANSA GOD_DHATRI GOD_AMMAVARU
+			GOD_ANALA GOD_ANILAIS GOD_ANUMATI GOD_AP GOD_APAM_NAPATIS GOD_ARANYANI GOD_ASHAPURA GOD_ASVAYUJAU GOD_AYYAPPAN GOD_NARAYANA
+			GOD_BAGALA GOD_CHANDRA GOD_CHAMUNDA GOD_BALARAMA GOD_BHAIRAVA GOD_BANKA-MUNDI GOD_BHADRA GOD_KALI GOD_SARASWATI GOD_PARVATI
+			GOD_BHAVANI GOD_GANGADEVI GOD_BHISHMA GOD_SITA GOD_BHUMIDEVI GOD_BHUTAMATA GOD_TARA GOD_TRIPURA_SUNDARI GOD_BHUVANESHVARI
+			GOD_BHAIRAVI GOD_CHHINNAMASTA GOD_DHUMAVATI GOD_MATANGI GOD_KAMALA GOD_SHAKTI GOD_BRAHMANI GOD_NARASIMHI GOD_VARAHI GOD_AINDRI
+			GOD_KAUMARI GOD_MAHESHVARI GOD_VAISHNAVI GOD_BRHASPATI GOD_BUDHA GOD_BUDHI_PALLIEN GOD_CHITRAGUPTA GOD_DAKSHA GOD_YAMA GOD_VAYU
+			GOD_NIRRTI GOD_ISANA GOD_KUBERA GOD_SATI GOD_DATTATREYA GOD_DHARA GOD_DITI GOD_DRAUPADI GOD_GANESHA GOD_GARUDA GOD_HANUMAN
+			GOD_SHACHI GOD_INDRANI GOD_JAGADDHATRI GOD_JAGANNATH GOD_JYOTIBA GOD_JUMADI GOD_KAMADEVA GOD_KANAKA_DURGA GOD_MURUGAN
+			GOD_KASHYAP GOD_KATYAYINI GOD_KAMAKSHI GOD_LAKSHMANA GOD_MARI GOD_MINAKSHI GOD_MANASA GOD_MATANGI GOD_MEENUSH GOD_MHASOBA
+			GOD_MUTHYALAMMA GOD_MUNIANDI GOD_MUTHHAPPAN GOD_MAHALASA GOD_VASUKI GOD_KALIYA GOD_NANDI GOD_NATARAJA GOD_NISHA GOD_PARASHIVA
+			GOD_PARJANYA GOD_PASHUPATI GOD_PERUMAL GOD_PRITHVI GOD_PUSHAN GOD_PURUSHA GOD_RANGANATHA GOD_RATI GOD_RATRI GOD_USHAS
+			GOD_SURYA GOD_RENUKA GOD_SARANYU GOD_REVANTA GOD_RUDRA GOD_SAVITR GOD_SHANTADURGA GOD_SHITALA GOD_SVAHA GOD_TVASTAR
+			GOD_UMA GOD_URVASHI GOD_VIRABHADRA GOD_VISHVAKSENA GOD_VITHOBA GOD_VISHVAKARMAN GOD_VALLI GOD_YAMI GOD_YAMUNA
+		}
+		can_grant_divorce = yes
+		priests_can_inherit = no
+		priests_can_marry = yes
+		allow_looting = yes
+		max_consorts = 3
+		
+		unit_modifier = {
+			land_morale = 0.3
+
+			key = "OFF_RELIGION"
+		}
+		
+		religious_clothing_head = 8
+		religious_clothing_priest = 8
+
+		scripture_name = THE_MAHABHARATA
+		priest_title = PUJARI
+		piety_name = KARMA
+
+		intermarry = jain
+		intermarry = buddhism
+		intermarry = mahayana
+		intermarry = vajrayana
+		intermarry = kamakura_buddhism
+		intermarry = japanese_buddhism
+		intermarry = bon
+		intermarry = bon_reformed
+	}
+
+	jain = {
+		graphical_culture = jaingfx
+		secondary_event_pictures = sunni
+		
+		pacifist = yes # Makes the AI less likely to start wars, plots and factions
+
+		color = { 1.0 1.0 0.4 }
+		
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_AGAMAS
+		god_names = {
+			GOD_THE_TIRTHANKARAS GOD_RISHABHA GOD_MAHAVIRA
+		}
+		has_heir_designation = yes
+		can_grant_divorce = yes
+		priests_can_inherit = no
+		peace_piety_gain = 1.0 # Gains 1 piety each month while at peace
+		max_consorts = 3
+
+		short_reign_opinion_year_mult = 0 # No short reign penalty
+		
+		religious_clothing_head = 9
+		religious_clothing_priest = 9
+
+		scripture_name = THE_MAHABHARATA
+		priest_title = NIRGRANTHA
+		piety_name = PURITY
+		
+
+		intermarry = hindu
+		intermarry = buddhism
+		intermarry = mahayana
+		intermarry = vajrayana
+		intermarry = kamakura_buddhism
+		intermarry = japanese_buddhism
+		intermarry = bon
+		intermarry = bon_reformed
+	}
+}
+
+buddhism_group = {
+	has_coa_on_barony_only = yes
+	graphical_culture = indiangfx
+	playable = yes
+	ai_peaceful = yes
+
+	buddhism = {
+		graphical_culture = buddhistgfx
+		secondary_event_pictures = sunni
+
+		icon = 40
+		heresy_icon = 41
+		
+		color = { 0.8 0.4 0.0 }
+		
+		god_names = {
+			GOD_THE_BUDDHA GOD_THE_ARHAT GOD_THE_PERFECTED_ONES
+		}
+		
+		evil_god_names = {
+			MARA
+		}
+		
+		character_modifier = {
+			learning = 4
+		}
+		
+		has_heir_designation = yes
+		can_grant_divorce = yes
+		priests_can_inherit = no
+		feminist = yes # Nullifies the negative opinion modifier that vassals normally get if ruler is female or has female heir
+		female_temple_holders = yes
+		max_consorts = 3
+
+		short_reign_opinion_year_mult = 0 # No short reign penalty
+		
+		religious_clothing_head = 10
+		religious_clothing_priest = 10
+
+		scripture_name = THE_BUDDHACAVANA
+		priest_title = BHIKKHU
+		piety_name = KARMA
+		
+		intermarry = mahayana
+		intermarry = vajrayana
+		intermarry = kamakura_buddhism
+		intermarry = japanese_buddhism
+		intermarry = hindu
+		intermarry = jain
+		intermarry = shenjiao
+		intermarry = tao
+		intermarry = quanzhen
+		intermarry = shangqing
+		intermarry = confucian
+		intermarry = shingyo
+		intermarry = nihon_shinto
+		intermarry = ryukyu_shinto
+		intermarry = jurchen_pagan_reformed
+		intermarry = jurchen_pagan
+		intermarry = tengri_pagan
+		intermarry = tengri_pagan_reformed
+		intermarry = bon
+		intermarry = bon_reformed
+		intermarry = ainu_pantheism
+		intermarry = ainu_pantheism_reformed
+	}
+
+	mahayana = {
+		graphical_culture = mongolgfx
+		icon = 91
+		color = { 0.4 0.5 0.3 }
+		
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_SUTRAS
+		god_names = {
+			GOD_BUDDHA GOD_BODHISATTVA
+		}
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_call_crusade = yes
+		
+		max_consorts = 10
+
+		intermarry = buddhism
+		intermarry = vajrayana
+		intermarry = kamakura_buddhism
+		intermarry = japanese_buddhism
+		intermarry = hindu
+		intermarry = jain
+		intermarry = shenjiao
+		intermarry = tao
+		intermarry = quanzhen
+		intermarry = shangqing
+		intermarry = confucian
+		intermarry = shingyo
+		intermarry = nihon_shinto
+		intermarry = ryukyu_shinto
+		intermarry = jurchen_pagan_reformed
+		intermarry = jurchen_pagan
+		intermarry = tengri_pagan
+		intermarry = tengri_pagan_reformed
+		intermarry = bon
+		intermarry = bon_reformed
+		intermarry = ainu_pantheism
+		intermarry = ainu_pantheism_reformed
+	}
+	kamakura_buddhism = {
+		graphical_culture = mongolgfx
+		icon = 92
+		color = { 0.6 0.4 0.2 }
+		
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_SUTRAS
+		god_names = {
+			GOD_BUDDHA GOD_HOTOKE GOD_BODHISATTVA
+		}
+		parent = mahayana
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_call_crusade = yes
+		
+		max_consorts = 3
+
+		intermarry = mahayana
+		intermarry = vajrayana
+		intermarry = buddhism
+		intermarry = japanese_buddhism
+		intermarry = hindu
+		intermarry = jain
+		intermarry = shenjiao
+		intermarry = tao
+		intermarry = quanzhen
+		intermarry = shangqing
+		intermarry = confucian
+		intermarry = shingyo
+		intermarry = nihon_shinto
+		intermarry = ryukyu_shinto
+		intermarry = jurchen_pagan_reformed
+		intermarry = jurchen_pagan
+		intermarry = tengri_pagan
+		intermarry = tengri_pagan_reformed
+		intermarry = bon
+		intermarry = bon_reformed
+		intermarry = ainu_pantheism
+		intermarry = ainu_pantheism_reformed
+	}
+
+	vajrayana = {
+		graphical_culture = mongolgfx
+		icon = 93
+		color = { 0.3 0.6 0.4 }
+		
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_TANTRAS
+		god_names = {
+			GOD_BUDDHA GOD_BODHISATTVA
+		}
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_call_crusade = yes
+		priests_can_marry = yes
+		
+		max_consorts = 10
+
+		intermarry = mahayana
+		intermarry = vajrayana
+		intermarry = buddhism
+		intermarry = japanese_buddhism
+		intermarry = hindu
+		intermarry = jain
+		intermarry = shenjiao
+		intermarry = tao
+		intermarry = quanzhen
+		intermarry = shangqing
+		intermarry = confucian
+		intermarry = shingyo
+		intermarry = nihon_shinto
+		intermarry = ryukyu_shinto
+		intermarry = jurchen_pagan_reformed
+		intermarry = jurchen_pagan
+		intermarry = tengri_pagan
+		intermarry = tengri_pagan_reformed
+		intermarry = bon
+		intermarry = bon_reformed
+		intermarry = ainu_pantheism
+		intermarry = ainu_pantheism_reformed
+	}
+	japanese_buddhism = {
+		graphical_culture = mongolgfx
+		icon = 94
+		color = { 0.7 0.5 0.1 }
+		
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_TANTRAS
+		god_names = {
+			GOD_BUDDHA GOD_HOTOKE GOD_BODHISATTVA
+		}
+		parent = vajrayana
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_call_crusade = yes
+		
+		max_consorts = 3
+
+		intermarry = mahayana
+		intermarry = vajrayana
+		intermarry = kamakura_buddhism
+		intermarry = buddhism
+		intermarry = hindu
+		intermarry = jain
+		intermarry = shenjiao
+		intermarry = tao
+		intermarry = quanzhen
+		intermarry = shangqing
+		intermarry = confucian
+		intermarry = shingyo
+		intermarry = nihon_shinto
+		intermarry = ryukyu_shinto
+		intermarry = jurchen_pagan_reformed
+		intermarry = jurchen_pagan
+		intermarry = tengri_pagan
+		intermarry = tengri_pagan_reformed
+		intermarry = bon
+		intermarry = bon_reformed
+		intermarry = ainu_pantheism
+		intermarry = ainu_pantheism_reformed
+	}
+}
+
+chinese_religion = {
+	has_coa_on_barony_only = yes
+	graphical_culture = muslimgfx
+	playable = yes
+	ai_peaceful = yes
+	
+	shenjiao = { #Chinese folk religion
+		graphical_culture = mongolgfx
+		icon = 95
+		color = { 1.0 0.0 0.0 }
+		
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_ZHIGUAI
+		god_names = {
+			GOD_SHANGDI GOD_PANGU GOD_FUXI GOD_NUWA GOD_SHENNONG GOD_HUANGDI GOD_GUAN_YU GOD_CAISHEN GOD_THE_JIUHUANG_DAI
+			GOD_QIYE GOD_BAYE GOD_YU_HUANG GOD_TUDI_GONG GOD_WENCHANGDI GOD_XI_WANGMU GOD_YUEXIA_LAOREN GOD_ZAOSHEN
+			GOD_MAZU GOD_SHOUSHEN GOD_FUSHEN GOD_LUSHEN
+		}
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_call_crusade = yes
+		priests_can_marry = yes
+		female_temple_holders = yes
+		
+		max_consorts = 10
+
+		religious_clothing_head = 6
+		religious_clothing_priest = 4
+
+		intermarry = buddhism
+		intermarry = mahayana
+		intermarry = vajrayana
+		intermarry = kamakura_buddhism
+		intermarry = japanese_buddhism
+		intermarry = tao
+		intermarry = quanzhen
+		intermarry = shangqing
+		intermarry = confucian
+		intermarry = shingyo
+		intermarry = nihon_shinto
+		intermarry = ryukyu_shinto
+		intermarry = jurchen_pagan_reformed
+		intermarry = jurchen_pagan
+		intermarry = tengri_pagan
+		intermarry = tengri_pagan_reformed
+		intermarry = bon
+		intermarry = bon_reformed
+		intermarry = ainu_pantheism
+		intermarry = ainu_pantheism_reformed
+	}
+
+	tao = { #Zheng Yi Dào- Way of Orthodox Unity
+		graphical_culture = mongolgfx
+		icon = 96
+		color = { 0.4 0.1 0.1 }
+		
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_DAOZANG
+		god_names = {
+			GOD_YUQING GOD_SHANGQING GOD_TAIQING GOD_GUAN_YU GOD_THE_BAXIAN GOD_HUYE GOD_HUANGDI GOD_XI_WANGMU GOD_YU_HUANG
+			GOD_CHANG'E GOD_SONGZI_NIANGNIANG GOD_MA_GU
+		}
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_call_crusade = yes
+		priests_can_marry = yes
+		
+		max_consorts = 10
+
+		religious_clothing_head = 6
+		religious_clothing_priest = 4
+
+		intermarry = buddhism
+		intermarry = mahayana
+		intermarry = vajrayana
+		intermarry = kamakura_buddhism
+		intermarry = japanese_buddhism
+		intermarry = shenjiao
+		intermarry = quanzhen
+		intermarry = shangqing
+		intermarry = confucian
+		intermarry = shingyo
+		intermarry = nihon_shinto
+		intermarry = ryukyu_shinto
+		intermarry = jurchen_pagan_reformed
+		intermarry = jurchen_pagan
+		intermarry = tengri_pagan
+		intermarry = tengri_pagan_reformed
+		intermarry = bon
+		intermarry = bon_reformed
+		intermarry = ainu_pantheism
+		intermarry = ainu_pantheism_reformed
+	}
+	quanzhen = { #All True Tao
+		graphical_culture = mongolgfx
+		icon = 97
+		color = { 0.4 0.1 0.2 }
+		parent = tao
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_call_crusade = yes
+		
+		max_consorts = 10
+
+		religious_clothing_head = 6
+		religious_clothing_priest = 4
+
+		intermarry = buddhism
+		intermarry = mahayana
+		intermarry = vajrayana
+		intermarry = kamakura_buddhism
+		intermarry = japanese_buddhism
+		intermarry = shenjiao
+		intermarry = tao
+		intermarry = shangqing
+		intermarry = confucian
+		intermarry = shingyo
+		intermarry = nihon_shinto
+		intermarry = ryukyu_shinto
+		intermarry = jurchen_pagan_reformed
+		intermarry = jurchen_pagan
+		intermarry = tengri_pagan
+		intermarry = tengri_pagan_reformed
+		intermarry = bon
+		intermarry = bon_reformed
+		intermarry = ainu_pantheism
+		intermarry = ainu_pantheism_reformed
+	}
+	shangqing = { #Supreme Clarity Tao
+		graphical_culture = mongolgfx
+		icon = 98
+		color = { 0.4 0.1 0.3 }
+		parent = tao
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_call_crusade = yes
+		priests_can_marry = yes
+		
+		max_consorts = 10
+
+		religious_clothing_head = 6
+		religious_clothing_priest = 4
+
+		intermarry = buddhism
+		intermarry = mahayana
+		intermarry = vajrayana
+		intermarry = kamakura_buddhism
+		intermarry = japanese_buddhism
+		intermarry = shenjiao
+		intermarry = tao
+		intermarry = quanzhen
+		intermarry = confucian
+		intermarry = shingyo
+		intermarry = nihon_shinto
+		intermarry = ryukyu_shinto
+		intermarry = jurchen_pagan_reformed
+		intermarry = jurchen_pagan
+		intermarry = tengri_pagan
+		intermarry = tengri_pagan_reformed
+		intermarry = bon
+		intermarry = bon_reformed
+		intermarry = ainu_pantheism
+		intermarry = ainu_pantheism_reformed
+	}
+
+	confucian = { #Confucian thought, more an ethical philosophy and societal code, being mostly non-theistic (not unlike buddhism), despite the honoring of Confucius and other philosophers in temples in a way similar to ancestor worship
+		graphical_culture = mongolgfx
+		icon = 99
+		color = { 0.9 0.7 0.0 }
+		
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_SHISAN_JING
+		god_names = {
+			GOD_KONG_FUZI GOD_THE_FOUR_CORRELATES GOD_THE_TWELVE_PHILOSOPHERS
+		}
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_call_crusade = yes
+		priests_can_marry = yes
+		
+		max_consorts = 10
+
+		religious_clothing_head = 6
+		religious_clothing_priest = 4
+
+		intermarry = buddhism
+		intermarry = mahayana
+		intermarry = vajrayana
+		intermarry = kamakura_buddhism
+		intermarry = japanese_buddhism
+		intermarry = shenjiao
+		intermarry = tao
+		intermarry = quanzhen
+		intermarry = shangqing
+		intermarry = shingyo
+		intermarry = nihon_shinto
+		intermarry = ryukyu_shinto
+		intermarry = jurchen_pagan_reformed
+		intermarry = jurchen_pagan
+		intermarry = tengri_pagan
+		intermarry = tengri_pagan_reformed
+		intermarry = bon
+		intermarry = bon_reformed
+		intermarry = ainu_pantheism
+		intermarry = ainu_pantheism_reformed
+	}
+
+}
+
+korean_religion = {
+	has_coa_on_barony_only = yes
+	graphical_culture = muslimgfx
+	playable = yes
+	ai_peaceful = yes
+	
+	shingyo = { #Korean folk religion
+		graphical_culture = mongolgfx
+		icon = 100
+		color = { 0.0 0.3 0.4 }
+		
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_SAMGUK_YUSA
+		god_names = {
+			GOD_HANEUL-NIM GOD_DALSOON-NIM GOD_HAESIK-NIM GOD_CHEONHA_DAEJANGGUN GOD_JIHA_YEOJANGGUN GOD_YONGWANG GOD_HWANIN
+			GOD_HWANUNG GOD_UNGNYEO GOD_DANGUN GOD_THE_SEON-NYEO GOD_THE_GWISHIN GOD_YUL-RYEO GOD_MAGO GOD_YEONGDEUNGSIN
+		}
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_call_crusade = yes
+		priests_can_marry = yes
+		female_temple_holders = yes
+		
+		max_consorts = 10
+
+		religious_clothing_head = 6
+		religious_clothing_priest = 4
+
+		intermarry = buddhism
+		intermarry = mahayana
+		intermarry = vajrayana
+		intermarry = kamakura_buddhism
+		intermarry = japanese_buddhism
+		intermarry = shenjiao
+		intermarry = tao
+		intermarry = quanzhen
+		intermarry = shangqing
+		intermarry = confucian
+		intermarry = nihon_shinto
+		intermarry = ryukyu_shinto
+		intermarry = jurchen_pagan_reformed
+		intermarry = jurchen_pagan
+		intermarry = tengri_pagan
+		intermarry = tengri_pagan_reformed
+		intermarry = bon
+		intermarry = bon_reformed
+		intermarry = ainu_pantheism
+		intermarry = ainu_pantheism_reformed
+	}
+	jurchen_pagan_reformed = { # Mongols
+		graphical_culture = mongolgfx
+
+		icon = 118
+		
+		color = { 0.1 0.3 0.85 }
+		god_names = {
+			GOD_ABKA_HEHE GOD_BANAMU_HEHE GOD_ULDEN_HEHE GOD_SONGKORO_HEHE GOD_ABKA_ENDURI
+		}
+		
+		unit_modifier = {
+			levy_size = 0.3
+			
+			light_cavalry_offensive = 0.3
+			light_cavalry_defensive = 0.3
+			
+			key = "tengri_pagan"
+		}
+		
+		can_call_crusade = yes
+		
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_LEGENDS
+		priests_can_marry = yes
+		allow_looting = yes
+		can_call_crusade = yes
+		max_consorts = 10
+		
+		aggression = 2.0 # AI aggression factor
+		
+		religious_clothing_head = 6
+		religious_clothing_priest = 4
+
+		intermarry = buddhism
+		intermarry = mahayana
+		intermarry = vajrayana
+		intermarry = kamakura_buddhism
+		intermarry = japanese_buddhism
+		intermarry = shenjiao
+		intermarry = tao
+		intermarry = quanzhen
+		intermarry = shangqing
+		intermarry = confucian
+		intermarry = shingyo
+		intermarry = nihon_shinto
+		intermarry = ryukyu_shinto
+		intermarry = jurchen_pagan
+		intermarry = tengri_pagan
+		intermarry = tengri_pagan_reformed
+		intermarry = bon
+		intermarry = bon_reformed
+		intermarry = ainu_pantheism
+		intermarry = ainu_pantheism_reformed
+	}	
+	jurchen_pagan = { #Jurchens
+		graphical_culture = mongolgfx
+
+		icon = 118
+		color = { 0.6 0.2 0.8 }
+		god_names = {
+			GOD_ABKA_HEHE GOD_BANAMU_HEHE GOD_ULDEN_HEHE GOD_SONGKORO_HEHE GOD_ABKA_ENDURI
+		}
+
+		unit_modifier = {
+			levy_size = 0.3
+			
+			light_cavalry_offensive = 0.3
+			light_cavalry_defensive = 0.3
+			
+			key = "tengri_pagan"
+		}
+	
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_LEGENDS
+		priests_can_marry = yes
+		allow_looting = yes
+		peace_prestige_loss = yes # Lose Prestige while at peace
+		raised_vassal_opinion_loss = no
+		max_consorts = 10
+		independence_war_score_bonus = 30 # Overrides define CONTESTED_TITLE_OCCUPIED_WARSCORE_BONUS_INDEP
+		reformed = jurchen_pagan_reformed
+		
+		short_reign_opinion_year_mult = 3 # The default is 2
+		
+		aggression = 2.0 # AI aggression factor
+		
+		religious_clothing_head = 6
+		religious_clothing_priest = 4
+
+		intermarry = buddhism
+		intermarry = mahayana
+		intermarry = vajrayana
+		intermarry = kamakura_buddhism
+		intermarry = japanese_buddhism
+		intermarry = shenjiao
+		intermarry = tao
+		intermarry = quanzhen
+		intermarry = shangqing
+		intermarry = confucian
+		intermarry = shingyo
+		intermarry = nihon_shinto
+		intermarry = ryukyu_shinto
+		intermarry = jurchen_pagan_reformed
+		intermarry = tengri_pagan
+		intermarry = tengri_pagan_reformed
+		intermarry = bon
+		intermarry = bon_reformed
+		intermarry = ainu_pantheism
+		intermarry = ainu_pantheism_reformed
+	}
+}
+
+japanese_religion = {
+	has_coa_on_barony_only = yes
+	graphical_culture = muslimgfx
+	playable = yes
+	ai_peaceful = yes
+	
+	nihon_shinto = {
+		graphical_culture = mongolgfx
+		icon = 101
+		color = { 0.8 0.5 0.1 }
+		
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_KOJIKI
+		god_names = {
+			GOD_KAMI GOD_AMATERASU GOD_SARUTAHIKO GOD_IZANAGI GOD_IZANAMI GOD_MICHIKAESHI GOD_SASHIKUNI GOD_AME-NO-UZUME
+			GOD_INARI GOD_SUSANOO GOD_TSUKUYOMI GOD_AME-NO-KOYANE GOD_FUJIN GOD_HACHIMAN GOD_NINIGI GOD_OMOIKANE GOD_RAIJIN
+			GOD_RYUJIN GOD_SUIJIN GOD_SUKUNA-BIKO-NA GOD_TENJIN GOD_OTOHIME GOD_UKE_MOCHI GOD_AMATSU-MIABOSHI GOD_KONOHANASAKUYA-HIME
+			GOD_OHOYAMATSUMI GOD_MITAMA GOD_KAGU-TSUCHI GOD_WATATSUMI GOD_KURAOKAMI 
+		}
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_call_crusade = yes
+		priests_can_marry = yes
+		female_temple_holders = yes
+		
+		max_consorts = 10
+
+		religious_clothing_head = 6
+		religious_clothing_priest = 4
+
+		intermarry = buddhism
+		intermarry = mahayana
+		intermarry = vajrayana
+		intermarry = kamakura_buddhism
+		intermarry = japanese_buddhism
+		intermarry = shenjiao
+		intermarry = tao
+		intermarry = quanzhen
+		intermarry = shangqing
+		intermarry = confucian
+		intermarry = shingyo
+		intermarry = ryukyu_shinto
+		intermarry = jurchen_pagan_reformed
+		intermarry = jurchen_pagan
+		intermarry = tengri_pagan
+		intermarry = tengri_pagan_reformed
+		intermarry = bon
+		intermarry = bon_reformed
+		intermarry = ainu_pantheism
+		intermarry = ainu_pantheism_reformed
+	}
+
+	ainu_pantheism_reformed = {
+		graphical_culture = mongolgfx
+
+		icon = 102
+		
+		color = { 0.75 0.5 0.35 }
+		
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_KAMUY_YUKAR
+		god_names = {
+			GOD_KAMUY GOD_FUCHI GOD_KANNA GOD_HASH-INAU-UK GOD_KANDAKORO GOD_WAKA-USH GOD_MINTAKORO GOD_RUKORO GOD_CHIKAP
+			GOD_MOSHIRIKARA GOD_REPUN GOD_KIM-UN
+		}
+		
+		unit_modifier = {		
+			garrison_size = 0.4
+			
+			key = "DEF_RELIGION"
+		}
+		unit_home_modifier = {
+			land_morale = 0.8
+			light_infantry_defensive = 0.8
+			heavy_infantry_defensive = 0.8
+			pikemen_defensive = 0.8
+			light_cavalry_defensive = 0.8
+			knights_defensive = 0.8
+			archers_defensive = 0.8
+			horse_archers_defensive = 0.8
+			
+			garrison_size = 0.4
+			
+			key = "DEF_RELIGION_HOME_TERRITORY"
+		}
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_call_crusade = yes
+		priests_can_marry = yes
+		female_temple_holders = yes
+		allow_looting = yes
+		max_consorts = 3
+		
+		religious_clothing_head = 6
+		religious_clothing_priest = 4
+
+		intermarry = buddhism
+		intermarry = mahayana
+		intermarry = vajrayana
+		intermarry = kamakura_buddhism
+		intermarry = japanese_buddhism
+		intermarry = shenjiao
+		intermarry = tao
+		intermarry = quanzhen
+		intermarry = shangqing
+		intermarry = confucian
+		intermarry = shingyo
+		intermarry = nihon_shinto
+		intermarry = ryukyu_shinto
+		intermarry = jurchen_pagan_reformed
+		intermarry = jurchen_pagan
+		intermarry = tengri_pagan
+		intermarry = tengri_pagan_reformed
+		intermarry = bon
+		intermarry = bon_reformed
+		intermarry = ainu_pantheism
+	}	
+	ainu_pantheism = {
+		graphical_culture = mongolgfx
+		icon = 102
+		color = { 0.8 0.4 0.1 }
+		
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_KAMUY_YUKAR
+		god_names = {
+			GOD_KAMUY GOD_FUCHI GOD_KANNA GOD_HASH-INAU-UK GOD_KANDAKORO GOD_WAKA-USH GOD_MINTAKORO GOD_RUKORO GOD_CHIKAP
+			GOD_MOSHIRIKARA GOD_REPUN GOD_KIM-UN
+		}
+		unit_modifier = {		
+			garrison_size = 0.4
+			
+			key = "DEF_RELIGION"
+		}
+		unit_home_modifier = {
+			land_morale = 0.8
+			light_infantry_defensive = 0.8
+			heavy_infantry_defensive = 0.8
+			pikemen_defensive = 0.8
+			light_cavalry_defensive = 0.8
+			knights_defensive = 0.8
+			archers_defensive = 0.8
+			horse_archers_defensive = 0.8
+			
+			garrison_size = 0.4
+			
+			key = "DEF_RELIGION_HOME_TERRITORY"
+		}
+		
+		priests_can_marry = yes
+		female_temple_holders = yes
+		defensive_attrition = yes
+		allow_looting = yes
+		max_consorts = 3
+		independence_war_score_bonus = 30 # Overrides define CONTESTED_TITLE_OCCUPIED_WARSCORE_BONUS_INDEP
+		reformed = ainu_pantheism_reformed
+		
+		short_reign_opinion_year_mult = 4 # The default is 2
+		
+		religious_clothing_head = 6
+		religious_clothing_priest = 4
+
+		intermarry = buddhism
+		intermarry = mahayana
+		intermarry = vajrayana
+		intermarry = kamakura_buddhism
+		intermarry = japanese_buddhism
+		intermarry = shenjiao
+		intermarry = tao
+		intermarry = quanzhen
+		intermarry = shangqing
+		intermarry = confucian
+		intermarry = shingyo
+		intermarry = nihon_shinto
+		intermarry = ryukyu_shinto
+		intermarry = jurchen_pagan_reformed
+		intermarry = jurchen_pagan
+		intermarry = tengri_pagan
+		intermarry = tengri_pagan_reformed
+		intermarry = bon
+		intermarry = bon_reformed
+		intermarry = ainu_pantheism_reformed
+	}
+	
+	ryukyu_shinto = {
+		graphical_culture = mongolgfx
+		icon = 103
+		color = { 0.8 0.3 0.1 }
+		
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_IROSETSUDEN
+		god_names = {
+			GOD_KAMI GOD_AMAMIKIYO GOD_FUTUCHI GOD_RYUGU GOD_UTIN GOD_JIICJI GOD_HINUKAN GOD_FUURU_NU_KAMI
+		}
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_call_crusade = yes
+		priests_can_marry = yes
+		female_temple_holders = yes
+		
+		max_consorts = 10
+
+		religious_clothing_head = 6
+		religious_clothing_priest = 4
+
+		intermarry = buddhism
+		intermarry = mahayana
+		intermarry = vajrayana
+		intermarry = kamakura_buddhism
+		intermarry = japanese_buddhism
+		intermarry = shenjiao
+		intermarry = tao
+		intermarry = quanzhen
+		intermarry = shangqing
+		intermarry = confucian
+		intermarry = shingyo
+		intermarry = nihon_shinto
+		intermarry = jurchen_pagan_reformed
+		intermarry = jurchen_pagan
+		intermarry = tengri_pagan
+		intermarry = tengri_pagan_reformed
+		intermarry = bon
+		intermarry = bon_reformed
+		intermarry = ainu_pantheism
+		intermarry = ainu_pantheism_reformed
+		
+	}
+}
+
+indochinese_religion = {
+	has_coa_on_barony_only = yes
+	graphical_culture = muslimgfx
+	playable = yes
+	ai_peaceful = yes
+	
+	bon_reformed = {
+		graphical_culture = mongolgfx
+
+		icon = 104
+		
+		color = { 0.75 0.5 0.35 }
+		
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_MDZOD_PHUG
+		god_names = {
+			GOD_SIPE_GYALMO GOD_YESHE_WALMO GOD_PHO-LHA GOD_PHUK-LHA GOD_SHEN-LHA_OKAR GOD_TONPA_SHENRAB GOD_SATRIG_ERSANG
+			GOD_SANGPO_BUMTRI GOD_XANG_XUNG_MERI GOD_CHEN-LHA GOD_DAMCHEN GOD_DEDOL_JAMMA GOD_DEKCHEN GOD_DRAGTSEN GOD_DZAMBALA
+			GOD_GYUMA_CHENMO GOD_KUNZANG_GYALWA_DUPA GOD_MACHEN_POMRA GOD_MAGPON GOD_MAWEI_SENGE GOD_MENMO GOD_NAM-LHA GOD_NAMPAR_GYALWA
+			GOD_NYIPANGTSEN GOD_PURBA_DRUGSE_CHEMPA GOD_SALGYE_DU_DOLMA GOD_SHERAB_CHAMMA GOD_SHINJE GOD_TAGLA_MEMBAR GOD_TROWOI_NAMJOM
+			GOD_VERNANYINA GOD_WALCHEN_GEKHO GOD_WALSE_NGAMPA
+		}
+		
+		unit_modifier = {		
+			garrison_size = 0.4
+			
+			key = "DEF_RELIGION"
+		}
+		unit_home_modifier = {
+			land_morale = 0.8
+			light_infantry_defensive = 0.8
+			heavy_infantry_defensive = 0.8
+			pikemen_defensive = 0.8
+			light_cavalry_defensive = 0.8
+			knights_defensive = 0.8
+			archers_defensive = 0.8
+			horse_archers_defensive = 0.8
+			
+			garrison_size = 0.4
+			
+			key = "DEF_RELIGION_HOME_TERRITORY"
+		}
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_call_crusade = yes
+		priests_can_marry = yes
+		female_temple_holders = yes
+		allow_looting = yes
+		max_consorts = 10
+		
+		religious_clothing_head = 6
+		religious_clothing_priest = 4
+
+		intermarry = buddhism
+		intermarry = mahayana
+		intermarry = vajrayana
+		intermarry = kamakura_buddhism
+		intermarry = japanese_buddhism
+		intermarry = hindu
+		intermarry = jain
+		intermarry = shenjiao
+		intermarry = tao
+		intermarry = quanzhen
+		intermarry = shangqing
+		intermarry = confucian
+		intermarry = shingyo
+		intermarry = nihon_shinto
+		intermarry = ryukyu_shinto
+		intermarry = jurchen_pagan_reformed
+		intermarry = jurchen_pagan
+		intermarry = tengri_pagan
+		intermarry = tengri_pagan_reformed
+		intermarry = bon
+		intermarry = ainu_pantheism
+		intermarry = ainu_pantheism_reformed
+	}	
+	bon = {
+		graphical_culture = mongolgfx
+		icon = 104
+		color = { 0.6 0.5 0.4 }
+		
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_MDZOD_PHUG
+		god_names = {
+			GOD_SIPE_GYALMO GOD_YESHE_WALMO GOD_PHO-LHA GOD_PHUK-LHA GOD_SHEN-LHA_OKAR GOD_TONPA_SHENRAB GOD_SATRIG_ERSANG
+			GOD_SANGPO_BUMTRI GOD_XANG_XUNG_MERI GOD_CHEN-LHA GOD_DAMCHEN GOD_DEDOL_JAMMA GOD_DEKCHEN GOD_DRAGTSEN GOD_DZAMBALA
+			GOD_GYUMA_CHENMO GOD_KUNZANG_GYALWA_DUPA GOD_MACHEN_POMRA GOD_MAGPON GOD_MAWEI_SENGE GOD_MENMO GOD_NAM-LHA GOD_NAMPAR_GYALWA
+			GOD_NYIPANGTSEN GOD_PURBA_DRUGSE_CHEMPA GOD_SALGYE_DU_DOLMA GOD_SHERAB_CHAMMA GOD_SHINJE GOD_TAGLA_MEMBAR GOD_TROWOI_NAMJOM
+			GOD_VERNANYINA GOD_WALCHEN_GEKHO GOD_WALSE_NGAMPA
+		}
+		unit_modifier = {		
+			garrison_size = 0.4
+			
+			key = "DEF_RELIGION"
+		}
+		unit_home_modifier = {
+			land_morale = 0.8
+			light_infantry_defensive = 0.8
+			heavy_infantry_defensive = 0.8
+			pikemen_defensive = 0.8
+			light_cavalry_defensive = 0.8
+			knights_defensive = 0.8
+			archers_defensive = 0.8
+			horse_archers_defensive = 0.8
+			
+			garrison_size = 0.4
+			
+			key = "DEF_RELIGION_HOME_TERRITORY"
+		}
+		
+		priests_can_marry = yes
+		female_temple_holders = yes
+		defensive_attrition = yes
+		allow_looting = yes
+		max_consorts = 10
+		independence_war_score_bonus = 30 # Overrides define CONTESTED_TITLE_OCCUPIED_WARSCORE_BONUS_INDEP
+		reformed = bon_reformed
+		
+		short_reign_opinion_year_mult = 4 # The default is 2
+		
+		religious_clothing_head = 6
+		religious_clothing_priest = 4
+
+		intermarry = buddhism
+		intermarry = mahayana
+		intermarry = vajrayana
+		intermarry = kamakura_buddhism
+		intermarry = japanese_buddhism
+		intermarry = hindu
+		intermarry = jain
+		intermarry = shenjiao
+		intermarry = tao
+		intermarry = quanzhen
+		intermarry = shangqing
+		intermarry = confucian
+		intermarry = shingyo
+		intermarry = nihon_shinto
+		intermarry = ryukyu_shinto
+		intermarry = jurchen_pagan_reformed
+		intermarry = jurchen_pagan
+		intermarry = tengri_pagan
+		intermarry = tengri_pagan_reformed
+		intermarry = bon_reformed
+		intermarry = ainu_pantheism
+		intermarry = ainu_pantheism_reformed
+	}
+}
+
+austronesian_religion = {
+	has_coa_on_barony_only = yes
+	graphical_culture = muslimgfx
+	playable = yes
+	ai_peaceful = yes
+	
+	melanesian_religion_reformed = {
+		graphical_culture = mongolgfx
+		icon = 105
+		color = { 0.6 0.4 0.3 }
+		
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_LEGENDS
+		god_names = {
+			GOD_THE_SPIRITS GOD_THE_ANCESTORS
+		}
+
+		unit_modifier = {		
+			garrison_size = 0.4
+			
+			key = "DEF_RELIGION"
+		}
+		unit_home_modifier = {
+			land_morale = 0.8
+			light_infantry_defensive = 0.8
+			heavy_infantry_defensive = 0.8
+			pikemen_defensive = 0.8
+			light_cavalry_defensive = 0.8
+			knights_defensive = 0.8
+			archers_defensive = 0.8
+			horse_archers_defensive = 0.8
+			
+			garrison_size = 0.4
+			
+			key = "DEF_RELIGION_HOME_TERRITORY"
+		}
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_call_crusade = yes
+		priests_can_marry = yes
+		female_temple_holders = yes
+		allow_looting = yes
+		max_consorts = 3
+		
+		religious_clothing_head = 6
+		religious_clothing_priest = 4
+	}
+	melanesian_religion = {
+		graphical_culture = mongolgfx
+		icon = 105
+		color = { 0.6 0.4 0.3 }
+		
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_LEGENDS
+		god_names = {
+			GOD_THE_SPIRITS GOD_THE_ANCESTORS
+		}
+
+		unit_modifier = {		
+			garrison_size = 0.4
+			
+			key = "DEF_RELIGION"
+		}
+		unit_home_modifier = {
+			land_morale = 0.8
+			light_infantry_defensive = 0.8
+			heavy_infantry_defensive = 0.8
+			pikemen_defensive = 0.8
+			light_cavalry_defensive = 0.8
+			knights_defensive = 0.8
+			archers_defensive = 0.8
+			horse_archers_defensive = 0.8
+			
+			garrison_size = 0.4
+			
+			key = "DEF_RELIGION_HOME_TERRITORY"
+		}
+		
+		priests_can_marry = yes
+		female_temple_holders = yes
+		defensive_attrition = yes
+		allow_looting = yes
+		max_consorts = 3
+		independence_war_score_bonus = 30 # Overrides define CONTESTED_TITLE_OCCUPIED_WARSCORE_BONUS_INDEP
+		reformed = melanesian_religion_reformed
+		
+		short_reign_opinion_year_mult = 4 # The default is 2
+		
+		religious_clothing_head = 6
+		religious_clothing_priest = 4
+	}
+
+	taiwanese_religion_reformed = {
+		graphical_culture = mongolgfx
+		icon = 106
+		color = { 0.6 0.5 0.2 }
+		
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_LEGENDS
+		god_names = {
+			GOD_THE_SPIRITS GOD_THE_ANCESTORS
+		}
+
+		unit_modifier = {		
+			garrison_size = 0.4
+			
+			key = "DEF_RELIGION"
+		}
+		unit_home_modifier = {
+			land_morale = 0.8
+			light_infantry_defensive = 0.8
+			heavy_infantry_defensive = 0.8
+			pikemen_defensive = 0.8
+			light_cavalry_defensive = 0.8
+			knights_defensive = 0.8
+			archers_defensive = 0.8
+			horse_archers_defensive = 0.8
+			
+			garrison_size = 0.4
+			
+			key = "DEF_RELIGION_HOME_TERRITORY"
+		}
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_call_crusade = yes
+		priests_can_marry = yes
+		female_temple_holders = yes
+		allow_looting = yes
+		max_consorts = 3
+		
+		religious_clothing_head = 6
+		religious_clothing_priest = 4
+	}
+	taiwanese_religion = {
+		graphical_culture = mongolgfx
+		icon = 106
+		color = { 0.6 0.5 0.2 }
+		
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_LEGENDS
+		god_names = {
+			GOD_THE_SPIRITS GOD_THE_ANCESTORS
+		}
+
+		unit_modifier = {		
+			garrison_size = 0.4
+			
+			key = "DEF_RELIGION"
+		}
+		unit_home_modifier = {
+			land_morale = 0.8
+			light_infantry_defensive = 0.8
+			heavy_infantry_defensive = 0.8
+			pikemen_defensive = 0.8
+			light_cavalry_defensive = 0.8
+			knights_defensive = 0.8
+			archers_defensive = 0.8
+			horse_archers_defensive = 0.8
+			
+			garrison_size = 0.4
+			
+			key = "DEF_RELIGION_HOME_TERRITORY"
+		}
+		
+		priests_can_marry = yes
+		female_temple_holders = yes
+		defensive_attrition = yes
+		allow_looting = yes
+		max_consorts = 3
+		independence_war_score_bonus = 30 # Overrides define CONTESTED_TITLE_OCCUPIED_WARSCORE_BONUS_INDEP
+		reformed = taiwanese_religion_reformed
+		
+		short_reign_opinion_year_mult = 4 # The default is 2
+		
+		religious_clothing_head = 6
+		religious_clothing_priest = 4
+	}
+
+	philippine_religion_reformed = {
+		graphical_culture = mongolgfx
+		icon = 107
+		color = { 0.4 0.3 0.3 }
+		
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_LEGENDS
+		god_names = {
+			GOD_THE_SPIRITS GOD_THE_ANCESTORS
+		}
+
+		unit_modifier = {		
+			garrison_size = 0.4
+			
+			key = "DEF_RELIGION"
+		}
+		unit_home_modifier = {
+			land_morale = 0.8
+			light_infantry_defensive = 0.8
+			heavy_infantry_defensive = 0.8
+			pikemen_defensive = 0.8
+			light_cavalry_defensive = 0.8
+			knights_defensive = 0.8
+			archers_defensive = 0.8
+			horse_archers_defensive = 0.8
+			
+			garrison_size = 0.4
+			
+			key = "DEF_RELIGION_HOME_TERRITORY"
+		}
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_call_crusade = yes
+		priests_can_marry = yes
+		female_temple_holders = yes
+		allow_looting = yes
+		max_consorts = 3
+		
+		religious_clothing_head = 6
+		religious_clothing_priest = 4
+	}
+	philippine_religion = {
+		graphical_culture = mongolgfx
+		icon = 107
+		color = { 0.4 0.3 0.3 }
+		
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_LEGENDS
+		god_names = {
+			GOD_THE_SPIRITS GOD_THE_ANCESTORS
+		}
+
+		unit_modifier = {		
+			garrison_size = 0.4
+			
+			key = "DEF_RELIGION"
+		}
+		unit_home_modifier = {
+			land_morale = 0.8
+			light_infantry_defensive = 0.8
+			heavy_infantry_defensive = 0.8
+			pikemen_defensive = 0.8
+			light_cavalry_defensive = 0.8
+			knights_defensive = 0.8
+			archers_defensive = 0.8
+			horse_archers_defensive = 0.8
+			
+			garrison_size = 0.4
+			
+			key = "DEF_RELIGION_HOME_TERRITORY"
+		}
+		
+		priests_can_marry = yes
+		female_temple_holders = yes
+		defensive_attrition = yes
+		allow_looting = yes
+		max_consorts = 3
+		independence_war_score_bonus = 30 # Overrides define CONTESTED_TITLE_OCCUPIED_WARSCORE_BONUS_INDEP
+		reformed = philippine_religion_reformed
+		
+		short_reign_opinion_year_mult = 4 # The default is 2
+		
+		religious_clothing_head = 6
+		religious_clothing_priest = 4
+	}
+
+	bornean_religion_reformed = {
+		graphical_culture = mongolgfx
+		icon = 108
+		color = { 1.0 0.4 0.1 }
+		
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_LEGENDS
+		god_names = {
+			GOD_THE_SPIRITS GOD_THE_ANCESTORS
+		}
+
+		unit_modifier = {		
+			garrison_size = 0.4
+			
+			key = "DEF_RELIGION"
+		}
+		unit_home_modifier = {
+			land_morale = 0.8
+			light_infantry_defensive = 0.8
+			heavy_infantry_defensive = 0.8
+			pikemen_defensive = 0.8
+			light_cavalry_defensive = 0.8
+			knights_defensive = 0.8
+			archers_defensive = 0.8
+			horse_archers_defensive = 0.8
+			
+			garrison_size = 0.4
+			
+			key = "DEF_RELIGION_HOME_TERRITORY"
+		}
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_call_crusade = yes
+		priests_can_marry = yes
+		female_temple_holders = yes
+		allow_looting = yes
+		max_consorts = 3
+		
+		religious_clothing_head = 6
+		religious_clothing_priest = 4
+	}
+	bornean_religion = {
+		graphical_culture = mongolgfx
+		icon = 108
+		color = { 1.0 0.4 0.1 }
+		
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_LEGENDS
+		god_names = {
+			GOD_THE_SPIRITS GOD_THE_ANCESTORS
+		}
+
+		unit_modifier = {		
+			garrison_size = 0.4
+			
+			key = "DEF_RELIGION"
+		}
+		unit_home_modifier = {
+			land_morale = 0.8
+			light_infantry_defensive = 0.8
+			heavy_infantry_defensive = 0.8
+			pikemen_defensive = 0.8
+			light_cavalry_defensive = 0.8
+			knights_defensive = 0.8
+			archers_defensive = 0.8
+			horse_archers_defensive = 0.8
+			
+			garrison_size = 0.4
+			
+			key = "DEF_RELIGION_HOME_TERRITORY"
+		}
+		
+		priests_can_marry = yes
+		female_temple_holders = yes
+		defensive_attrition = yes
+		allow_looting = yes
+		max_consorts = 3
+		independence_war_score_bonus = 30 # Overrides define CONTESTED_TITLE_OCCUPIED_WARSCORE_BONUS_INDEP
+		reformed = bornean_religion_reformed
+		
+		short_reign_opinion_year_mult = 4 # The default is 2
+		
+		religious_clothing_head = 6
+		religious_clothing_priest = 4
+	}
+
+	sulawesi_religion_reformed = {
+		graphical_culture = mongolgfx
+		icon = 109
+		color = { 0.3 0.4 0.1 }
+		
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_LEGENDS
+		god_names = {
+			GOD_THE_SPIRITS GOD_THE_ANCESTORS
+		}
+
+		unit_modifier = {		
+			garrison_size = 0.4
+			
+			key = "DEF_RELIGION"
+		}
+		unit_home_modifier = {
+			land_morale = 0.8
+			light_infantry_defensive = 0.8
+			heavy_infantry_defensive = 0.8
+			pikemen_defensive = 0.8
+			light_cavalry_defensive = 0.8
+			knights_defensive = 0.8
+			archers_defensive = 0.8
+			horse_archers_defensive = 0.8
+			
+			garrison_size = 0.4
+			
+			key = "DEF_RELIGION_HOME_TERRITORY"
+		}
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_call_crusade = yes
+		priests_can_marry = yes
+		female_temple_holders = yes
+		allow_looting = yes
+		max_consorts = 3
+		
+		religious_clothing_head = 6
+		religious_clothing_priest = 4
+	}
+	sulawesi_religion = {
+		graphical_culture = mongolgfx
+		icon = 109
+		color = { 0.3 0.4 0.1 }
+		
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_LEGENDS
+		god_names = {
+			GOD_THE_SPIRITS GOD_THE_ANCESTORS
+		}
+
+		unit_modifier = {		
+			garrison_size = 0.4
+			
+			key = "DEF_RELIGION"
+		}
+		unit_home_modifier = {
+			land_morale = 0.8
+			light_infantry_defensive = 0.8
+			heavy_infantry_defensive = 0.8
+			pikemen_defensive = 0.8
+			light_cavalry_defensive = 0.8
+			knights_defensive = 0.8
+			archers_defensive = 0.8
+			horse_archers_defensive = 0.8
+			
+			garrison_size = 0.4
+			
+			key = "DEF_RELIGION_HOME_TERRITORY"
+		}
+		
+		priests_can_marry = yes
+		female_temple_holders = yes
+		defensive_attrition = yes
+		allow_looting = yes
+		max_consorts = 3
+		independence_war_score_bonus = 30 # Overrides define CONTESTED_TITLE_OCCUPIED_WARSCORE_BONUS_INDEP
+		reformed = sulawesi_religion_reformed
+		
+		short_reign_opinion_year_mult = 4 # The default is 2
+		
+		religious_clothing_head = 6
+		religious_clothing_priest = 4
+	}
+
+	flores_religion_reformed = {
+		graphical_culture = mongolgfx
+		icon = 110
+		color = { 0.9 0.7 0.7 }
+		
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_LEGENDS
+		god_names = {
+			GOD_THE_SPIRITS GOD_THE_ANCESTORS
+		}
+
+		unit_modifier = {		
+			garrison_size = 0.4
+			
+			key = "DEF_RELIGION"
+		}
+		unit_home_modifier = {
+			land_morale = 0.8
+			light_infantry_defensive = 0.8
+			heavy_infantry_defensive = 0.8
+			pikemen_defensive = 0.8
+			light_cavalry_defensive = 0.8
+			knights_defensive = 0.8
+			archers_defensive = 0.8
+			horse_archers_defensive = 0.8
+			
+			garrison_size = 0.4
+			
+			key = "DEF_RELIGION_HOME_TERRITORY"
+		}
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_call_crusade = yes
+		priests_can_marry = yes
+		female_temple_holders = yes
+		allow_looting = yes
+		max_consorts = 3
+		
+		religious_clothing_head = 6
+		religious_clothing_priest = 4
+	}
+	flores_religion = {
+		graphical_culture = mongolgfx
+		icon = 110
+		color = { 0.9 0.7 0.7 }
+		
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_LEGENDS
+		god_names = {
+			GOD_THE_SPIRITS GOD_THE_ANCESTORS
+		}
+
+		unit_modifier = {		
+			garrison_size = 0.4
+			
+			key = "DEF_RELIGION"
+		}
+		unit_home_modifier = {
+			land_morale = 0.8
+			light_infantry_defensive = 0.8
+			heavy_infantry_defensive = 0.8
+			pikemen_defensive = 0.8
+			light_cavalry_defensive = 0.8
+			knights_defensive = 0.8
+			archers_defensive = 0.8
+			horse_archers_defensive = 0.8
+			
+			garrison_size = 0.4
+			
+			key = "DEF_RELIGION_HOME_TERRITORY"
+		}
+		
+		priests_can_marry = yes
+		female_temple_holders = yes
+		defensive_attrition = yes
+		allow_looting = yes
+		max_consorts = 3
+		independence_war_score_bonus = 30 # Overrides define CONTESTED_TITLE_OCCUPIED_WARSCORE_BONUS_INDEP
+		reformed = flores_religion_reformed
+		
+		short_reign_opinion_year_mult = 4 # The default is 2
+		
+		religious_clothing_head = 6
+		religious_clothing_priest = 4
+	}
+
+	java_religion_reformed = {
+		graphical_culture = mongolgfx
+		icon = 111
+		color = { 1.0 0.8 0.1 }
+		
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_LEGENDS
+		god_names = {
+			GOD_THE_SPIRITS GOD_THE_ANCESTORS
+		}
+
+		unit_modifier = {		
+			garrison_size = 0.4
+			
+			key = "DEF_RELIGION"
+		}
+		unit_home_modifier = {
+			land_morale = 0.8
+			light_infantry_defensive = 0.8
+			heavy_infantry_defensive = 0.8
+			pikemen_defensive = 0.8
+			light_cavalry_defensive = 0.8
+			knights_defensive = 0.8
+			archers_defensive = 0.8
+			horse_archers_defensive = 0.8
+			
+			garrison_size = 0.4
+			
+			key = "DEF_RELIGION_HOME_TERRITORY"
+		}
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_call_crusade = yes
+		priests_can_marry = yes
+		female_temple_holders = yes
+		allow_looting = yes
+		max_consorts = 3
+		
+		religious_clothing_head = 6
+		religious_clothing_priest = 4
+	}
+	java_religion = {
+		graphical_culture = mongolgfx
+		icon = 111
+		color = { 1.0 0.8 0.1 }
+		
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_LEGENDS
+		god_names = {
+			GOD_THE_SPIRITS GOD_THE_ANCESTORS
+		}
+
+		unit_modifier = {		
+			garrison_size = 0.4
+			
+			key = "DEF_RELIGION"
+		}
+		unit_home_modifier = {
+			land_morale = 0.8
+			light_infantry_defensive = 0.8
+			heavy_infantry_defensive = 0.8
+			pikemen_defensive = 0.8
+			light_cavalry_defensive = 0.8
+			knights_defensive = 0.8
+			archers_defensive = 0.8
+			horse_archers_defensive = 0.8
+			
+			garrison_size = 0.4
+			
+			key = "DEF_RELIGION_HOME_TERRITORY"
+		}
+		
+		priests_can_marry = yes
+		female_temple_holders = yes
+		defensive_attrition = yes
+		allow_looting = yes
+		max_consorts = 3
+		independence_war_score_bonus = 30 # Overrides define CONTESTED_TITLE_OCCUPIED_WARSCORE_BONUS_INDEP
+		reformed = java_religion_reformed
+		
+		short_reign_opinion_year_mult = 4 # The default is 2
+		
+		religious_clothing_head = 6
+		religious_clothing_priest = 4
+	}
+
+	sumatran_religion_reformed = {
+		graphical_culture = mongolgfx
+		icon = 112
+		color = { 0.6 0.3 0.3 }
+		
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_LEGENDS
+		god_names = {
+			GOD_THE_SPIRITS GOD_THE_ANCESTORS
+		}
+
+		unit_modifier = {		
+			garrison_size = 0.4
+			
+			key = "DEF_RELIGION"
+		}
+		unit_home_modifier = {
+			land_morale = 0.8
+			light_infantry_defensive = 0.8
+			heavy_infantry_defensive = 0.8
+			pikemen_defensive = 0.8
+			light_cavalry_defensive = 0.8
+			knights_defensive = 0.8
+			archers_defensive = 0.8
+			horse_archers_defensive = 0.8
+			
+			garrison_size = 0.4
+			
+			key = "DEF_RELIGION_HOME_TERRITORY"
+		}
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_call_crusade = yes
+		priests_can_marry = yes
+		female_temple_holders = yes
+		allow_looting = yes
+		max_consorts = 3
+		
+		religious_clothing_head = 6
+		religious_clothing_priest = 4
+	}
+	sumatran_religion = {
+		graphical_culture = mongolgfx
+		icon = 112
+		color = { 0.6 0.3 0.3 }
+		
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_LEGENDS
+		god_names = {
+			GOD_THE_SPIRITS GOD_THE_ANCESTORS
+		}
+
+		unit_modifier = {		
+			garrison_size = 0.4
+			
+			key = "DEF_RELIGION"
+		}
+		unit_home_modifier = {
+			land_morale = 0.8
+			light_infantry_defensive = 0.8
+			heavy_infantry_defensive = 0.8
+			pikemen_defensive = 0.8
+			light_cavalry_defensive = 0.8
+			knights_defensive = 0.8
+			archers_defensive = 0.8
+			horse_archers_defensive = 0.8
+			
+			garrison_size = 0.4
+			
+			key = "DEF_RELIGION_HOME_TERRITORY"
+		}
+		
+		priests_can_marry = yes
+		female_temple_holders = yes
+		defensive_attrition = yes
+		allow_looting = yes
+		max_consorts = 3
+		independence_war_score_bonus = 30 # Overrides define CONTESTED_TITLE_OCCUPIED_WARSCORE_BONUS_INDEP
+		reformed = sumatran_religion_reformed
+		
+		short_reign_opinion_year_mult = 4 # The default is 2
+		
+		religious_clothing_head = 6
+		religious_clothing_priest = 4
+	}
+
+	malagasy_religion_reformed = {
+		graphical_culture = mongolgfx
+		icon = 113
+		color = { 0.7 0.7 0.1 }
+		
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_LEGENDS
+		god_names = {
+			GOD_THE_SPIRITS GOD_THE_ANCESTORS
+		}
+
+		unit_modifier = {		
+			garrison_size = 0.4
+			
+			key = "DEF_RELIGION"
+		}
+		unit_home_modifier = {
+			land_morale = 0.8
+			light_infantry_defensive = 0.8
+			heavy_infantry_defensive = 0.8
+			pikemen_defensive = 0.8
+			light_cavalry_defensive = 0.8
+			knights_defensive = 0.8
+			archers_defensive = 0.8
+			horse_archers_defensive = 0.8
+			
+			garrison_size = 0.4
+			
+			key = "DEF_RELIGION_HOME_TERRITORY"
+		}
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_call_crusade = yes
+		priests_can_marry = yes
+		female_temple_holders = yes
+		allow_looting = yes
+		max_consorts = 3
+		
+		religious_clothing_head = 6
+		religious_clothing_priest = 4
+	}
+	malagasy_religion = {
+		graphical_culture = mongolgfx
+		icon = 113
+		color = { 0.7 0.7 0.1 }
+		
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_LEGENDS
+		god_names = {
+			GOD_THE_SPIRITS GOD_THE_ANCESTORS
+		}
+
+		unit_modifier = {		
+			garrison_size = 0.4
+			
+			key = "DEF_RELIGION"
+		}
+		unit_home_modifier = {
+			land_morale = 0.8
+			light_infantry_defensive = 0.8
+			heavy_infantry_defensive = 0.8
+			pikemen_defensive = 0.8
+			light_cavalry_defensive = 0.8
+			knights_defensive = 0.8
+			archers_defensive = 0.8
+			horse_archers_defensive = 0.8
+			
+			garrison_size = 0.4
+			
+			key = "DEF_RELIGION_HOME_TERRITORY"
+		}
+		
+		priests_can_marry = yes
+		female_temple_holders = yes
+		defensive_attrition = yes
+		allow_looting = yes
+		max_consorts = 3
+		independence_war_score_bonus = 30 # Overrides define CONTESTED_TITLE_OCCUPIED_WARSCORE_BONUS_INDEP
+		reformed = malagasy_religion_reformed
+		
+		short_reign_opinion_year_mult = 4 # The default is 2
+		
+		religious_clothing_head = 6
+		religious_clothing_priest = 4
+	}
+
+}

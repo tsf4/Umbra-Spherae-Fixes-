@@ -1,0 +1,46 @@
+#Kulasekhara Dynasty
+800.1.1={
+	holder=1000203066 #Khulaskharavarman
+}
+820.1.1={
+	holder=1000203067 #Rajasekharavarman
+}
+844.1.1={
+	holder=1000203068 #Sthanu-Ravivarman
+}
+885.1.1={
+	holder=1000203069 #Ramavarman
+}
+917.1.1={
+	holder=1000203070 #Kotha-Ravivarman
+}
+944.1.1={
+	holder=1000203071 #Indu-Kothavarman
+}
+962.1.1={
+	holder=1000203072 #Bhaskara-Ravivarman I
+}
+995.1.1={
+	liege="e_dakshinapatha"
+}
+1019.1.1={
+	holder=1000203075 #Bhaskara-Ravivarman II
+}
+1021.1.1={
+	holder=1000203073 #Vira-Kerala
+}
+1028.1.1={
+	holder=1000203074 #Rajasimha
+}
+1043.1.1={
+	holder=1000076174 #Bhaskara-Ravivarman III
+}
+1082.1.1={
+	holder=1000203076 #Ravi-Ramavarman
+}
+1090.1.1={
+	holder=1000203077 #Ramavarman-Kulasekhara
+}
+1102.1.1={
+	holder=0
+}

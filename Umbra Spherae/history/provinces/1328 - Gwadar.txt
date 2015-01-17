@@ -1,0 +1,21 @@
+# 1328 - Gwadar
+
+# County Title
+title = c_gwadar
+
+# Settlements
+max_settlements = 3
+b_meer_gurab = castle
+b_gwadar = city
+b_pasni = temple
+#b_ormara =
+#b_asha_pura =
+#b_door_ghattee =
+#b_akara =
+#b_chatti =
+
+# Misc
+culture = persian
+religion = sunni
+
+# History

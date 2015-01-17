@@ -1,0 +1,851 @@
+#Habbari Dynasty
+
+1000083320 = {
+	name="Umar"
+	dynasty=1000028350 #Habbari
+	religion="sunni"
+	culture="sindhi"
+	821.1.1={
+		birth="821.1.1"
+	}
+	841.1.1={
+		add_spouse=1000083326
+	}
+	884.1.1={
+		death="884.1.1"
+	}
+}
+
+1000083326 = {
+	name="Bhagi"
+	female=yes
+	religion="sunni"
+	culture="sindhi"
+	821.1.1={
+		birth="821.1.1"
+	}
+	884.1.1={
+		death="884.1.1"
+	}
+}
+
+1000083321 = {
+	name="Abdullah"
+	dynasty=1000028350 #Habbari
+	religion="sunni"
+	culture="sindhi"
+	father=1000083320
+	mother=1000083326
+	851.1.1={
+		birth="851.1.1"
+	}
+	871.1.1={
+		add_spouse=1000083327
+	}
+	913.1.1={
+		death="913.1.1"
+	}
+}
+
+1000083327 = {
+	name="Hamide"
+	female=yes
+	religion="sunni"
+	culture="sindhi"
+	851.1.1={
+		birth="851.1.1"
+	}
+	913.1.1={
+		death="913.1.1"
+	}
+}
+
+1000083322 = {
+	name="Umar"
+	dynasty=1000028350 #Habbari
+	religion="sunni"
+	culture="sindhi"
+	father=1000083321
+	mother=1000083327
+	881.1.1={
+		birth="881.1.1"
+	}
+	901.1.1={
+		add_spouse=1000083328
+	}
+	943.1.1={
+		death="943.1.1"
+	}
+}
+
+1000083328 = {
+	name="Himu"
+	female=yes
+	religion="sunni"
+	culture="sindhi"
+	881.1.1={
+		birth="881.1.1"
+	}
+	943.1.1={
+		death="943.1.1"
+	}
+}
+
+1000083323 = {
+	name="Muhammad"
+	dynasty=1000028350 #Habbari
+	religion="sunni"
+	culture="sindhi"
+	father=1000083321
+	mother=1000083327
+	901.1.1={
+		birth="901.1.1"
+	}
+	921.1.1={
+		add_spouse=1000083329
+	}
+	973.1.1={
+		death="973.1.1"
+	}
+}
+
+1000083329 = {
+	name="Sad"
+	female=yes
+	religion="sunni"
+	culture="sindhi"
+	901.1.1={
+		birth="901.1.1"
+	}
+	973.1.1={
+		death="973.1.1"
+	}
+}
+
+1000083324 = {
+	name="Ali"
+	dynasty=1000028350 #Habbari
+	religion="sunni"
+	culture="sindhi"
+	father=1000083322
+	mother=1000083328
+	920.1.1={
+		birth="920.1.1"
+	}
+	940.1.1={
+		add_spouse=1000083330
+	}
+	987.1.1={
+		death="987.1.1"
+	}
+}
+
+1000083330 = {
+	name="Tari"
+	female=yes
+	religion="sunni"
+	culture="sindhi"
+	920.1.1={
+		birth="920.1.1"
+	}
+	987.1.1={
+		death="987.1.1"
+	}
+}
+
+1000083325 = {
+	name="Yahya-Manbi"
+	dynasty=1000028350 #Habbari
+	religion="sunni"
+	culture="sindhi"
+	father=1000083324
+	mother=1000083330
+	950.1.1={
+		birth="950.1.1"
+	}
+	970.1.1={
+		add_spouse=1000083331
+	}
+	1011.1.1={
+		death="1011.1.1"
+	}
+}
+
+1000083331 = {
+	name="Zainab Tari"
+	female=yes
+	religion="sunni"
+	culture="sindhi"
+	950.1.1={
+		birth="950.1.1"
+	}
+	1011.1.1={
+		death="1011.1.1"
+	}
+}
+
+1000076291 = {
+	name="Hafif"
+	dynasty=1000028350 #Habbari
+	religion="sunni"
+	culture="sindhi"
+	father=1000083325
+	mother=1000083331
+	983.1.1={
+		birth="983.1.1"
+	}
+	1003.1.1={
+		add_spouse=1000083332
+	}
+	1026.1.1={
+		death="1026.1.1"
+	}
+}
+
+1000083332 = {
+	name="Bhagi"
+	female=yes
+	religion="sunni"
+	culture="sindhi"
+	983.1.1={
+		birth="983.1.1"
+	}
+	1026.1.1={
+		death="1026.1.1"
+	}
+}
+
+#Sumra Dynasty
+
+1000076179 = {
+	name="Bhungar"
+	dynasty=1000028293 #Sumra
+	religion="sunni"
+	culture="sindhi"
+	father=1000076221
+	mother=1000076252
+	1023.1.1={
+		birth="1023.1.1"
+	}
+	1043.1.1={
+		add_spouse=1000076224
+	}
+	1068.1.1={
+		death="1068.1.1"
+	}
+}
+
+1000076221 = {
+	name="Sumra"
+	dynasty=1000028293 #Sumra
+	religion="sunni"
+	culture="sindhi"
+	1003.1.1={
+		birth="1003.1.1"
+	}
+	1023.1.1={
+		add_spouse=1000076252
+	}
+	1053.1.1={
+		death="1053.1.1"
+	}
+}
+
+1000076252 = {
+	name="Sad"
+	female=yes
+	religion="sunni"
+	culture="sindhi"
+	1003.1.1={
+		birth="1003.1.1"
+	}
+	1063.1.1={
+		death="1063.1.1"
+	}
+}
+
+1000076222 = {
+	name="Doda"
+	dynasty=1000028293 #Sumra
+	religion="sunni"
+	culture="sindhi"
+	father=1000076179
+	mother=1000076224
+	1043.1.1={
+		birth="1043.1.1"
+	}
+	1063.1.1={
+		add_spouse=1000076225
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+1000076223 = {
+	name="Sanghar"
+	dynasty=1000028293 #Sumra
+	religion="sunni"
+	culture="sindhi"
+	father=1000076222
+	mother=1000076225
+	1086.1.1={
+		birth="1086.1.1"
+	}
+	1102.1.1={
+		add_spouse=1000076255
+	}
+	1107.1.1={
+		death="1107.1.1"
+	}
+}
+
+1000076255 = {
+	name="Himu"
+	dynasty=1000028293 #Sumra
+	female=yes
+	religion="sunni"
+	culture="sindhi"
+	father=1000076269
+	mother=1000076270
+	1086.1.1={
+		birth="1086.1.1"
+	}
+	1130.1.1={
+		death="1130.1.1"
+	}
+}
+
+1000076269 = {
+	name="Hamir"
+	dynasty=1000028293 #Sumra
+	religion="sunni"
+	culture="sindhi"
+	father=1000076179
+	mother=1000076224
+	1066.1.1={
+		birth="1066.1.1"
+	}
+	1086.1.1={
+		add_spouse=1000076270
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+1000076270 = {
+	name="Sad"
+	female=yes
+	religion="sunni"
+	culture="sindhi"
+	1066.1.1={
+		birth="1066.1.1"
+	}
+	1100.1.1={
+		death="1100.1.1"
+	}
+}
+
+1000076253 = {
+	name="Zainab Tari"
+	female=yes
+	dynasty=1000028293 #Sumra
+	religion="sunni"
+	culture="sindhi"
+	father=1000076222
+	mother=1000076225
+	1063.1.1={
+		birth="1063.1.1"
+	}
+	1105.1.1={
+		death="1105.1.1"
+	}
+}
+
+1000076224 = {
+	name="Bhagi"
+	female = yes
+	religion="sunni"
+	culture="sindhi"
+	1023.1.1={
+		birth="1023.1.1"
+	}
+	1070.1.1={
+		death="1070.1.1"
+	}
+}
+
+1000076225 = {
+	name="Hamide"
+	female = yes
+	religion="sunni"
+	culture="sindhi"
+	1043.1.1={
+		birth="1043.1.1"
+	}
+	1092.1.1={
+		death="1092.1.1"
+	}
+}
+
+1000076254 = {
+	name="Hafif"
+	dynasty=1000028293 #Sumra
+	religion="sunni"
+	culture="sindhi"
+	father=1000076269
+	mother=1000076270
+	1098.1.1={
+		birth="1098.1.1"
+	}
+	1118.1.1={
+		add_spouse=1000076256
+	}
+	1140.1.1={
+		death="1140.1.1"
+	}
+}
+
+1000076256 = {
+	name="Hamide"
+	female=yes
+	religion="sunni"
+	culture="sindhi"
+	1102.1.1={
+		birth="1102.1.1"
+	}
+	1160.1.1={
+		death="1160.1.1"
+	}
+}
+
+1000076257 = {
+	name="Umar"
+	dynasty=1000028293 #Sumra
+	religion="sunni"
+	culture="sindhi"
+	father=1000076269
+	mother=1000076270
+	1099.1.1={
+		birth="1099.1.1"
+	}
+	1138.1.1={
+		add_spouse=1000076258
+	}
+	1180.1.1={
+		death="1180.1.1"
+	}
+}
+
+1000076258 = {
+	name="Tari"
+	female=yes
+	religion="sunni"
+	culture="sindhi"
+	1118.1.1={
+		birth="1118.1.1"
+	}
+	1180.1.1={
+		death="1180.1.1"
+	}
+}
+
+1000076259 = {
+	name="Doda"
+	dynasty=1000028293 #Sumra
+	religion="sunni"
+	culture="sindhi"
+	father=1000076257
+	mother=1000076258
+	1148.1.1={
+		birth="1148.1.1"
+	}
+	1168.1.1={
+		add_spouse=1000076260
+	}
+	1194.1.1={
+		death="1194.1.1"
+	}
+}
+
+1000076260 = {
+	name="Sad"
+	female=yes
+	religion="sunni"
+	culture="sindhi"
+	1148.1.1={
+		birth="1148.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000076261 = {
+	name="Pahtu"
+	dynasty=1000028293 #Sumra
+	religion="sunni"
+	culture="sindhi"
+	father=1000076257
+	mother=1000076258
+	1149.1.1={
+		birth="1149.1.1"
+	}
+	1198.1.1={
+		add_spouse=1000076262
+	}
+	1227.1.1={
+		death="1227.1.1"
+	}
+}
+
+1000076262 = {
+	name="Hamide"
+	female=yes
+	religion="sunni"
+	culture="sindhi"
+	1178.1.1={
+		birth="1178.1.1"
+	}
+	1230.1.1={
+		death="1230.1.1"
+	}
+}
+
+1000076271 = {
+	name="Hafif"
+	dynasty=1000028293 #Sumra
+	religion="sunni"
+	culture="sindhi"
+	mother=1000076253
+	1104.1.1={
+		birth="1104.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000076272 = {
+	name="Bhungar"
+	dynasty=1000028293 #Sumra
+	religion="sunni"
+	culture="sindhi"
+	father=1000076271
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1170.1.1={
+		add_spouse=1000076273
+	}
+	1222.1.1={
+		death="1222.1.1"
+	}
+}
+
+1000076273 = {
+	name="Hamide"
+	female=yes
+	religion="sunni"
+	culture="sindhi"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1222.1.1={
+		death="1222.1.1"
+	}
+}
+
+1000076263 = {
+	name="Genhra"
+	dynasty=1000028293 #Sumra
+	religion="sunni"
+	culture="sindhi"
+	father=1000076272
+	mother=1000076273
+	1198.1.1={
+		birth="1198.1.1"
+	}
+	1218.1.1={
+		add_spouse=1000076264
+	}
+	1243.1.1={
+		death="1243.1.1"
+	}
+}
+
+1000076264 = {
+	name="Himu"
+	female=yes
+	religion="sunni"
+	culture="sindhi"
+	1198.1.1={
+		birth="1198.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000076274 = {
+	name="Chanesar"
+	dynasty=1000028293 #Sumra
+	religion="sunni"
+	culture="sindhi"
+	father=1000076272
+	mother=1000076273
+	1197.1.1={
+		birth="1197.1.1"
+	}
+	1218.1.1={
+		add_spouse=1000076275
+	}
+	1237.1.1={
+		death="1237.1.1"
+	}
+}
+
+1000076275 = {
+	name="Himu"
+	female=yes
+	religion="sunni"
+	culture="sindhi"
+	1197.1.1={
+		birth="1197.1.1"
+	}
+	1237.1.1={
+		death="1237.1.1"
+	}
+}
+
+1000076265 = {
+	name="Muhammed-Tur"
+	dynasty=1000028293 #Sumra
+	religion="sunni"
+	culture="sindhi"
+	father=1000076263
+	mother=1000076264
+	1218.1.1={
+		birth="1218.1.1"
+	}
+	1238.1.1={
+		add_spouse=1000076266
+	}
+	1256.1.1={
+		death="1256.1.1"
+	}
+}
+
+1000076266 = {
+	name="Tari"
+	female=yes
+	religion="sunni"
+	culture="sindhi"
+	1218.1.1={
+		birth="1218.1.1"
+	}
+	1280.1.1={
+		death="1280.1.1"
+	}
+}
+
+1000076278 = {
+	name="Genhra"
+	dynasty=1000028293 #Sumra
+	religion="sunni"
+	culture="sindhi"
+	father=1000076265
+	mother=1000076266
+	1238.1.1={
+		birth="1238.1.1"
+	}
+	1259.1.1={
+		death="1259.1.1"
+	}
+}
+
+1000076279 = {
+	name="Doda"
+	dynasty=1000028293 #Sumra
+	religion="sunni"
+	culture="sindhi"
+	father=1000076265
+	mother=1000076266
+	1239.1.1={
+		birth="1239.1.1"
+	}
+	1255.1.1={
+		add_spouse=1000076280
+	}
+	1273.1.1={
+		death="1273.1.1"
+	}
+}
+
+1000076280 = {
+	name="Himu"
+	female=yes
+	religion="sunni"
+	culture="sindhi"
+	1239.1.1={
+		birth="1239.1.1"
+	}
+	1273.1.1={
+		death="1273.1.1"
+	}
+}
+
+1000076281 = {
+	name="Tai"
+	dynasty=1000028293 #Sumra
+	religion="sunni"
+	culture="sindhi"
+	father=1000076279
+	mother=1000076280
+	1255.1.1={
+		birth="1255.1.1"
+	}
+	1283.1.1={
+		death="1283.1.1"
+	}
+}
+
+1000076282 = {
+	name="Chanesar"
+	dynasty=1000028293 #Sumra
+	religion="sunni"
+	culture="sindhi"
+	father=1000076279
+	mother=1000076280
+	1256.1.1={
+		birth="1256.1.1"
+	}
+	1276.1.1={
+		add_spouse=1000076283
+	}
+	1300.1.1={
+		death="1300.1.1"
+	}
+}
+
+1000076283 = {
+	name="Tari"
+	female=yes
+	religion="sunni"
+	culture="sindhi"
+	1256.1.1={
+		birth="1256.1.1"
+	}
+	1300.1.1={
+		death="1300.1.1"
+	}
+}
+
+1000076284 = {
+	name="Bhungar"
+	dynasty=1000028293 #Sumra
+	religion="sunni"
+	culture="sindhi"
+	father=1000076282
+	mother=1000076283
+	1276.1.1={
+		birth="1276.1.1"
+	}
+	1296.1.1={
+		add_spouse=1000076285
+	}
+	1315.1.1={
+		death="1315.1.1"
+	}
+}
+
+1000076285 = {
+	name="Hamide"
+	female=yes
+	religion="sunni"
+	culture="sindhi"
+	1276.1.1={
+		birth="1276.1.1"
+	}
+	1315.1.1={
+		death="1315.1.1"
+	}
+}
+
+1000076286 = {
+	name="Hafif"
+	dynasty=1000028293 #Sumra
+	religion="sunni"
+	culture="sindhi"
+	father=1000076284
+	mother=1000076285
+	1296.1.1={
+		birth="1296.1.1"
+	}
+	1316.1.1={
+		add_spouse=1000076287
+	}
+	1333.1.1={
+		death="1333.1.1"
+	}
+}
+
+1000076287 = {
+	name="Sad"
+	female=yes
+	religion="sunni"
+	culture="sindhi"
+	1296.1.1={
+		birth="1296.1.1"
+	}
+	1333.1.1={
+		death="1333.1.1"
+	}
+}
+
+1000076288 = {
+	name="Doda"
+	dynasty=1000028293 #Sumra
+	religion="sunni"
+	culture="sindhi"
+	father=1000076286
+	mother=1000076287
+	1316.1.1={
+		birth="1316.1.1"
+	}
+	1336.1.1={
+		add_spouse=1000076289
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000076289 = {
+	name="Tari"
+	female=yes
+	religion="sunni"
+	culture="sindhi"
+	1316.1.1={
+		birth="1316.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+
+1000076290 = {
+	name="Bhungar"
+	dynasty=1000028293 #Sumra
+	religion="sunni"
+	culture="sindhi"
+	father=1000076288
+	mother=1000076289
+	1336.1.1={
+		birth="1336.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}

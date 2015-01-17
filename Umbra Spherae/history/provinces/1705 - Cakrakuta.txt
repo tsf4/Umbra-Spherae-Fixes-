@@ -1,0 +1,21 @@
+# 1705 - Cakrakuta
+
+# County Title
+title = c_cakrakuta
+
+# Settlements
+max_settlements = 5
+b_cakrakuta = city
+b_sindhiguda = castle
+b_challanguda = temple
+#b_dhandra =
+#b_digisalapa =
+#b_kamata =
+#b_bhatigan =
+#b_pappadahandi =
+
+# Misc
+culture = oriya
+religion = hindu
+
+# History

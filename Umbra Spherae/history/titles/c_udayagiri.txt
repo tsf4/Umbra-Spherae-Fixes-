@@ -1,0 +1,136 @@
+#East Chalukya Dynasty
+615.1.1={
+	liege="k_andhra"
+}
+615.1.1={
+	holder=1000203078 #Vishnuvardhana I
+}
+641.1.1={
+	holder=1000203079 #Jayasimha I
+}
+673.1.1={
+	holder=1000203080 #Indrabhattaraka
+}
+673.6.1={
+	holder=1000203081 #Vishnuvardhana II
+}
+682.1.1={
+	holder=1000203082 #Mangi-Yuvaraja
+}
+706.1.1={
+	holder=1000203083 #Jayasimha II
+}
+718.1.1={
+	holder=1000203084 #Kokkili-Vikramaditya
+}
+719.1.1={
+	holder=1000203085 #Vishnuvardhana III
+}
+755.1.1={
+	holder=1000203086 #Vijayaditya I
+}
+772.1.1={
+	holder=1000203087 #Vishnuvardhana IV
+}
+808.1.1={
+	holder=1000203088 #Vijayaditya II
+}
+843.1.1={
+	holder=1000203089 #Vishnuvardhana V
+}
+890.1.1={
+	holder=1000203090 #Vijayaditya III
+}
+892.1.1={
+	holder=1000203092 #Chalukyabhima I
+}
+921.1.1={
+	holder=1000203093 #Vijayaditya IV
+}
+921.6.1={
+	holder=1000203094 #Ammaraja
+}
+927.1.1={
+	holder=1000203095 #Vijayaditya V
+}
+927.4.1={
+	holder=1000203097 #Tala I
+}
+927.9.1={
+	holder=1000203098 #Vikramaditya
+}
+928.1.1={
+	holder=1000203099 #Rajabhima
+}
+928.6.1={
+	holder=1000203100 #Yuddhamalla
+}
+935.1.1={
+	holder=1000203101 #Chalukyabhima II
+}
+947.1.1={
+	holder=1000203102 #Vijayaditya VI
+}
+970.1.1={
+	holder=1000203103 #Danarnava
+}
+971.1.1={
+	holder=1000203104 #Jatacodabhima
+}
+973.1.1={
+	holder=1000203105 #Tala II
+}
+
+#Kakatiya Dynasty
+976.1.1={
+	liege="k_orugallu"
+}
+976.1.1={
+	holder=1000202762 #Gunda
+}
+996.1.1={
+	holder=1000202763 #Beta I
+}
+1051.1.1={
+	holder=1000076172 #Prola I
+}
+1076.1.1={
+	holder=1000202764 #Beta II
+}
+1108.1.1={
+	holder=1000202765 #Durgaraja
+}
+1116.1.1={
+	holder=1000202766 #Prola II
+}
+1157.1.1={
+	holder=1000202767 #Prataparudra I
+}
+1195.1.1={
+	holder=1000202768 #Mahadeva
+}
+1199.1.1={
+	holder=1000202769 #Ganapati
+}
+1262.1.1={
+	holder=1000202770 #Rudramba
+}
+1296.1.1={
+	holder=1000202772 #Prataparudra II
+}
+
+#Reddy Dynasty
+1323.1.1={
+	liege="k_andhra"
+}
+1323.1.1={
+	holder=1000202774 #Pulayyavema
+}
+
+#Sangama Dynasty
+1336.1.1={
+	liege="e_madhyadesa"
+}
+1336.1.1={
+	holder=1000202870 #Harihara I
+}

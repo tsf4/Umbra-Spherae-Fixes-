@@ -1,0 +1,1623 @@
+#Pandya Dynasty
+
+1000203025 = {
+	name="Kadungon"
+	dynasty=1000028289 #Pandya
+	religion="hindu"
+	culture="tamil"
+	580.1.1={
+		birth="580.1.1"
+	}
+	620.1.1={
+		death="620.1.1"
+	}
+}
+
+1000203026 = {
+	name="Maravarman-Avanisulamani"
+	dynasty=1000028289 #Pandya
+	religion="hindu"
+	culture="tamil"
+	father=1000203025
+	600.1.1={
+		birth="600.1.1"
+	}
+	645.1.1={
+		death="645.1.1"
+	}
+}
+
+1000203027 = {
+	name="Sendan"
+	dynasty=1000028289 #Pandya
+	religion="hindu"
+	culture="tamil"
+	father=1000203026
+	620.1.1={
+		birth="620.1.1"
+	}
+	670.1.1={
+		death="670.1.1"
+	}
+}
+
+1000203028 = {
+	name="Arikesari-Maravarman"
+	dynasty=1000028289 #Pandya
+	religion="hindu"
+	culture="tamil"
+	father=1000203027
+	640.1.1={
+		birth="640.1.1"
+	}
+	700.1.1={
+		death="700.1.1"
+	}
+}
+
+1000203029 = {
+	name="Koccadaiya-Ranadhira"
+	dynasty=1000028289 #Pandya
+	religion="hindu"
+	culture="tamil"
+	father=1000203028
+	670.1.1={
+		birth="670.1.1"
+	}
+	730.1.1={
+		death="730.1.1"
+	}
+}
+
+1000203030 = {
+	name="Maravarman-Rajasimha"
+	dynasty=1000028289 #Pandya
+	religion="hindu"
+	culture="tamil"
+	father=1000203029
+	700.1.1={
+		birth="700.1.1"
+	}
+	765.1.1={
+		death="765.1.1"
+	}
+}
+
+1000203031 = {
+	name="Varagunavarman"
+	dynasty=1000028289 #Pandya
+	religion="hindu"
+	culture="tamil"
+	father=1000203030
+	740.1.1={
+		birth="740.1.1"
+	}
+	815.1.1={
+		death="815.1.1"
+	}
+}
+
+1000203032 = {
+	name="Srimara-Srivallabha"
+	dynasty=1000028289 #Pandya
+	religion="hindu"
+	culture="tamil"
+	father=1000203031
+	780.1.1={
+		birth="780.1.1"
+	}
+	862.1.1={
+		death="862.1.1"
+	}
+}
+
+1000203033 = {
+	name="Varagunavarman"
+	dynasty=1000028289 #Pandya
+	religion="hindu"
+	culture="tamil"
+	father=1000203032
+	820.1.1={
+		birth="820.1.1"
+	}
+	880.1.1={
+		death="880.1.1"
+	}
+}
+
+1000203034 = {
+	name="Parantaka-Viranarayana"
+	dynasty=1000028289 #Pandya
+	religion="hindu"
+	culture="tamil"
+	father=1000203032
+	830.1.1={
+		birth="830.1.1"
+	}
+	900.1.1={
+		death="900.1.1"
+	}
+}
+
+1000203035 = {
+	name="Maravarman-Rajasimha"
+	dynasty=1000028289 #Pandya
+	religion="hindu"
+	culture="tamil"
+	father=1000203034
+	860.1.1={
+		birth="860.1.1"
+	}
+	920.1.1={
+		death="920.1.1"
+	}
+}
+
+1000203036 = {
+	name="Sundara"
+	dynasty=1000028289 #Pandya
+	religion="hindu"
+	culture="tamil"
+	father=1000203035
+	880.1.1={
+		birth="880.1.1"
+	}
+	930.1.1={
+		death="930.1.1"
+	}
+}
+
+1000203037 = {
+	name="Vira"
+	dynasty=1000028289 #Pandya
+	religion="hindu"
+	culture="tamil"
+	father=1000203036
+	900.1.1={
+		birth="900.1.1"
+	}
+	950.1.1={
+		death="950.1.1"
+	}
+}
+
+1000203038 = {
+	name="Vira"
+	dynasty=1000028289 #Pandya
+	religion="hindu"
+	culture="tamil"
+	father=1000203037
+	920.1.1={
+		birth="920.1.1"
+	}
+	970.1.1={
+		death="970.1.1"
+	}
+}
+
+1000203039 = {
+	name="Amarabhujanga-Tivrakopa"
+	dynasty=1000028289 #Pandya
+	religion="hindu"
+	culture="tamil"
+	father=1000203038
+	940.1.1={
+		birth="940.1.1"
+	}
+	990.1.1={
+		death="990.1.1"
+	}
+}
+
+1000203040 = {
+	name="Jatavarman-Sundara"
+	dynasty=1000028289 #Pandya
+	religion="hindu"
+	culture="tamil"
+	father=1000203039
+	960.1.1={
+		birth="960.1.1"
+	}
+	1020.1.1={
+		death="1020.1.1"
+	}
+}
+
+1000076175 = {
+	name="Maravarman-Vikrama"
+	dynasty=1000028289 #Pandya
+	religion="hindu"
+	culture="tamil"
+	father=1000203040
+	980.1.1={
+		birth="980.1.1"
+	}
+	1040.1.1={
+		death="1040.1.1"
+	}
+}
+
+1000203041 = {
+	name="Maravarman-Parakrama"
+	dynasty=1000028289 #Pandya
+	religion="hindu"
+	culture="tamil"
+	father=1000076175
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1070.1.1={
+		death="1070.1.1"
+	}
+}
+
+1000203042 = {
+	name="Jatavarman"
+	dynasty=1000028289 #Pandya
+	religion="hindu"
+	culture="tamil"
+	father=1000203041
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1101.1.1={
+		death="1101.1.1"
+	}
+}
+
+1000203043 = {
+	name="Srivallabha-Manakulachala"
+	dynasty=1000028289 #Pandya
+	religion="hindu"
+	culture="tamil"
+	father=1000203042
+	1066.1.1={
+		birth="1066.1.1"
+	}
+	1132.1.1={
+		death="1132.1.1"
+	}
+}
+
+1000203044 = {
+	name="Maravarman-Srivallabha"
+	dynasty=1000028289 #Pandya
+	religion="hindu"
+	culture="tamil"
+	father=1000203043
+	1090.1.1={
+		birth="1090.1.1"
+	}
+	1161.1.1={
+		death="1161.1.1"
+	}
+}
+
+1000203045 = {
+	name="Parakrama"
+	dynasty=1000028289 #Pandya
+	religion="hindu"
+	culture="tamil"
+	father=1000203044
+	1110.1.1={
+		birth="1110.1.1"
+	}
+	1162.1.1={
+		death="1162.1.1"
+	}
+}
+
+1000203046 = {
+	name="Kulasekhara"
+	dynasty=1000028289 #Pandya
+	religion="hindu"
+	culture="tamil"
+	father=1000203044
+	1130.1.1={
+		birth="1130.1.1"
+	}
+	1170.1.1={
+		death="1170.1.1"
+	}
+}
+
+1000203047 = {
+	name="Vira"
+	dynasty=1000028289 #Pandya
+	religion="hindu"
+	culture="tamil"
+	father=1000203045
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1175.1.1={
+		death="1175.1.1"
+	}
+}
+
+1000203354 = {
+	name="Parakrama"
+	dynasty=1000028289 #Pandya
+	religion="hindu"
+	culture="tamil"
+	father=1000203047
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1215.1.1={
+		death="1215.1.1"
+	}
+}
+
+1000203048 = {
+	name="Jatavarman-Srivallabha"
+	dynasty=1000028289 #Pandya
+	religion="hindu"
+	culture="tamil"
+	father=1000203046
+	1151.1.1={
+		birth="1151.1.1"
+	}
+	1190.1.1={
+		death="1190.1.1"
+	}
+}
+
+1000203049 = {
+	name="Jatavarman-Kulasekhara"
+	dynasty=1000028289 #Pandya
+	religion="hindu"
+	culture="tamil"
+	father=1000203048
+	1167.1.1={
+		birth="1167.1.1"
+	}
+	1216.1.1={
+		death="1216.1.1"
+	}
+}
+
+1000203050 = {
+	name="Maravarman-Sundara"
+	dynasty=1000028289 #Pandya
+	religion="hindu"
+	culture="tamil"
+	father=1000203048
+	1168.1.1={
+		birth="1168.1.1"
+	}
+	1238.1.1={
+		death="1238.1.1"
+	}
+}
+
+1000203051 = {
+	name="Jatavarman-Kulasekhara"
+	dynasty=1000028289 #Pandya
+	religion="hindu"
+	culture="tamil"
+	father=1000203049
+	1187.1.1={
+		birth="1187.1.1"
+	}
+	1238.6.1={
+		death="1238.6.1"
+	}
+}
+
+1000203052 = {
+	name="Maravarman-Sundara"
+	dynasty=1000028289 #Pandya
+	religion="hindu"
+	culture="tamil"
+	father=1000203050
+	1188.1.1={
+		birth="1188.1.1"
+	}
+	1251.1.1={
+		death="1251.1.1"
+	}
+}
+
+1000203053 = {
+	name="Jatavarman-Sundara"
+	dynasty=1000028289 #Pandya
+	religion="hindu"
+	culture="tamil"
+	father=1000203052
+	1210.1.1={
+		birth="1210.1.1"
+	}
+	1268.1.1={
+		death="1268.1.1"
+	}
+}
+
+1000203054 = {
+	name="Jatavarman-Vira"
+	dynasty=1000028289 #Pandya
+	religion="hindu"
+	culture="tamil"
+	father=1000203052
+	1220.1.1={
+		birth="1220.1.1"
+	}
+	1275.1.1={
+		death="1275.1.1"
+	}
+}
+
+1000203055 = {
+	name="Jatavarman-Vikrama"
+	dynasty=1000028289 #Pandya
+	religion="hindu"
+	culture="tamil"
+	father=1000203052
+	1221.1.1={
+		birth="1221.1.1"
+	}
+	1276.1.1={
+		death="1276.1.1"
+	}
+}
+
+1000203056 = {
+	name="Maravarman-Kulasekhara"
+	dynasty=1000028289 #Pandya
+	religion="hindu"
+	culture="tamil"
+	father=1000203053
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1309.1.1={
+		death="1309.1.1"
+	}
+}
+
+1000203057 = {
+	name="Jatavarman-Sundara"
+	dynasty=1000028289 #Pandya
+	religion="hindu"
+	culture="tamil"
+	father=1000203053
+	1231.1.1={
+		birth="1231.1.1"
+	}
+	1293.1.1={
+		death="1293.1.1"
+	}
+}
+
+1000203058 = {
+	name="Maravarman-Vikrama"
+	dynasty=1000028289 #Pandya
+	religion="hindu"
+	culture="tamil"
+	father=1000203053
+	1240.1.1={
+		birth="1240.1.1"
+	}
+	1311.1.1={
+		death="1311.1.1"
+	}
+}
+
+1000203059 = {
+	name="Jatavarman-Vira"
+	dynasty=1000028289 #Pandya
+	religion="hindu"
+	culture="tamil"
+	father=1000203056
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1341.1.1={
+		death="1341.1.1"
+	}
+}
+
+1000203060 = {
+	name="Jatavarman-Sundara"
+	dynasty=1000028289 #Pandya
+	religion="hindu"
+	culture="tamil"
+	father=1000203056
+	1261.1.1={
+		birth="1261.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000203061 = {
+	name="Maravarman-Kulasekhara"
+	dynasty=1000028289 #Pandya
+	religion="hindu"
+	culture="tamil"
+	father=1000203056
+	1270.1.1={
+		birth="1270.1.1"
+	}
+	1346.1.1={
+		death="1346.1.1"
+	}
+}
+
+1000203062 = {
+	name="Jatavarman-Parakrama"
+	dynasty=1000028289 #Pandya
+	religion="hindu"
+	culture="tamil"
+	father=1000203056
+	1280.1.1={
+		birth="1280.1.1"
+	}
+	1347.1.1={
+		death="1347.1.1"
+	}
+}
+
+1000203063 = {
+	name="Maravarman-Vira"
+	dynasty=1000028289 #Pandya
+	religion="hindu"
+	culture="tamil"
+	father=1000203059
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+1000203064 = {
+	name="Maravarman-Parakrama"
+	dynasty=1000028289 #Pandya
+	religion="hindu"
+	culture="tamil"
+	father=1000203061
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1352.1.1={
+		death="1352.1.1"
+	}
+}
+
+1000203065 = {
+	name="Jatavarman-Parakrama"
+	dynasty=1000028289 #Pandya
+	religion="hindu"
+	culture="tamil"
+	father=1000203063
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+
+#Chola Dynasty
+
+1000202972 = {
+	name="Vijayalaya"
+	dynasty=1000028290 #Chola
+	religion="hindu"
+	culture="tamil"
+	820.1.1={
+		birth="820.1.1"
+	}
+	871.1.1={
+		death="871.1.1"
+	}
+}
+
+1000202973 = {
+	name="Aditya"
+	dynasty=1000028290 #Chola
+	religion="hindu"
+	culture="tamil"
+	father=1000202972
+	850.1.1={
+		birth="850.1.1"
+	}
+	907.1.1={
+		death="907.1.1"
+	}
+}
+
+1000202974 = {
+	name="Parantaka"
+	dynasty=1000028290 #Chola
+	religion="hindu"
+	culture="tamil"
+	father=1000202973
+	880.1.1={
+		birth="880.1.1"
+	}
+	954.1.1={
+		death="954.1.1"
+	}
+}
+
+1000202975 = {
+	name="Gandaraditya"
+	dynasty=1000028290 #Chola
+	religion="hindu"
+	culture="tamil"
+	father=1000202974
+	910.1.1={
+		birth="910.1.1"
+	}
+	956.1.1={
+		death="956.1.1"
+	}
+}
+
+1000202976 = {
+	name="Arinjaya"
+	dynasty=1000028290 #Chola
+	religion="hindu"
+	culture="tamil"
+	father=1000202974
+	920.1.1={
+		birth="920.1.1"
+	}
+	957.1.1={
+		death="957.1.1"
+	}
+}
+
+1000202977 = {
+	name="Parantaka"
+	dynasty=1000028290 #Chola
+	religion="hindu"
+	culture="tamil"
+	father=1000202976
+	940.1.1={
+		birth="940.1.1"
+	}
+	973.1.1={
+		death="973.1.1"
+	}
+}
+
+1000202978 = {
+	name="Uttamachola"
+	dynasty=1000028290 #Chola
+	religion="hindu"
+	culture="tamil"
+	father=1000202975
+	930.1.1={
+		birth="930.1.1"
+	}
+	985.1.1={
+		death="985.1.1"
+	}
+}
+
+1000202979 = {
+	name="Rajaraja"
+	dynasty=1000028290 #Chola
+	religion="hindu"
+	culture="tamil"
+	father=1000202977
+	960.1.1={
+		birth="960.1.1"
+	}
+	1014.1.1={
+		death="1014.1.1"
+	}
+}
+
+1000202980 = {
+	name="Rajendra"
+	dynasty=1000028290 #Chola
+	religion="hindu"
+	culture="tamil"
+	father=1000202979
+	980.1.1={
+		birth="980.1.1"
+	}
+	1044.1.1={
+		death="1044.1.1"
+	}
+}
+
+1000202981 = {
+	name="Rajadhiraja"
+	dynasty=1000028290 #Chola
+	religion="hindu"
+	culture="tamil"
+	father=1000202980
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1052.1.1={
+		death="1052.1.1"
+	}
+}
+
+1000202982 = {
+	name="Rajendra"
+	dynasty=1000028290 #Chola
+	religion="hindu"
+	culture="tamil"
+	father=1000202980
+	1001.1.1={
+		birth="1001.1.1"
+	}
+	1064.1.1={
+		death="1064.1.1"
+	}
+}
+
+1000202983 = {
+	name="Rajamahendra"
+	dynasty=1000028290 #Chola
+	religion="hindu"
+	culture="tamil"
+	father=1000202982
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1064.6.1={
+		death="1064.6.1"
+	}
+}
+
+1000076176 = {
+	name="Virarajendra"
+	dynasty=1000028290 #Chola
+	religion="hindu"
+	culture="tamil"
+	father=1000202980
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1070.1.1={
+		death="1070.1.1"
+	}
+}
+
+1000202984 = {
+	name="Adhirajendra"
+	dynasty=1000028290 #Chola
+	religion="hindu"
+	culture="tamil"
+	father=1000076176
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1070.6.1={
+		death="1070.6.1"
+	}
+}
+
+1000202985 = {
+	name="Ammangadevi"
+	female=yes
+	dynasty=1000028290 #Chola
+	religion="hindu"
+	culture="tamil"
+	father=1000202980
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1076.1.1={
+		death="1076.1.1"
+	}
+}
+
+1000202986 = {
+	name="Kulottunga"
+	dynasty=1000028290 #Chola
+	religion="hindu"
+	culture="tamil"
+	father=1000076171
+	mother=1000202985
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1127.1.1={
+		death="1127.1.1"
+	}
+}
+
+1000202987 = {
+	name="Vikramachola"
+	dynasty=1000028290 #Chola
+	religion="hindu"
+	culture="tamil"
+	father=1000202986
+	1066.1.1={
+		birth="1066.1.1"
+	}
+	1135.1.1={
+		death="1135.1.1"
+	}
+}
+
+1000202988 = {
+	name="Kulottunga"
+	dynasty=1000028290 #Chola
+	religion="hindu"
+	culture="tamil"
+	father=1000202987
+	1090.1.1={
+		birth="1090.1.1"
+	}
+	1150.1.1={
+		death="1150.1.1"
+	}
+}
+
+1000202989 = {
+	name="Rajaraja"
+	dynasty=1000028290 #Chola
+	religion="hindu"
+	culture="tamil"
+	father=1000202988
+	1120.1.1={
+		birth="1120.1.1"
+	}
+	1173.1.1={
+		death="1173.1.1"
+	}
+}
+
+1000202990 = {
+	name="Mahadevi"
+	female=yes
+	dynasty=1000028290 #Chola
+	religion="hindu"
+	culture="tamil"
+	father=1000202987
+	1100.1.1={
+		birth="1100.1.1"
+	}
+	1150.1.1={
+		death="1150.1.1"
+	}
+}
+
+1000202991 = {
+	name="Rajadhiraja"
+	dynasty=1000028290 #Chola
+	religion="hindu"
+	culture="tamil"
+	mother=1000202990
+	1130.1.1={
+		birth="1130.1.1"
+	}
+	1178.1.1={
+		death="1178.1.1"
+	}
+}
+
+1000202992 = {
+	name="Kulottunga"
+	dynasty=1000028290 #Chola
+	religion="hindu"
+	culture="tamil"
+	father=1000202989
+	1160.1.1={
+		birth="1160.1.1"
+	}
+	1217.1.1={
+		death="1217.1.1"
+	}
+}
+
+1000202993 = {
+	name="Rajaraja"
+	dynasty=1000028290 #Chola
+	religion="hindu"
+	culture="tamil"
+	father=1000202992
+	1190.1.1={
+		birth="1190.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+
+1000202994 = {
+	name="Rajendra"
+	dynasty=1000028290 #Chola
+	religion="hindu"
+	culture="tamil"
+	father=1000202993
+	1220.1.1={
+		birth="1220.1.1"
+	}
+	1279.1.1={
+		death="1279.1.1"
+	}
+}
+
+#Pallava Dynasty
+
+1000202995 = {
+	name="Simhavarman"
+	dynasty=1000078011 #Pallava
+	religion="hindu"
+	culture="tamil"
+	290.1.1={
+		birth="290.1.1"
+	}
+	335.1.1={
+		death="335.1.1"
+	}
+}
+
+1000202996 = {
+	name="Skandavarman"
+	dynasty=1000078011 #Pallava
+	religion="hindu"
+	culture="tamil"
+	father=1000202995
+	310.1.1={
+		birth="310.1.1"
+	}
+	355.1.1={
+		death="355.1.1"
+	}
+}
+
+1000202997 = {
+	name="Vishnugopa"
+	dynasty=1000078011 #Pallava
+	religion="hindu"
+	culture="tamil"
+	father=1000202996
+	330.1.1={
+		birth="330.1.1"
+	}
+	355.6.1={
+		death="355.6.1"
+	}
+}
+
+1000202998 = {
+	name="Kumaravishnu"
+	dynasty=1000078011 #Pallava
+	religion="hindu"
+	culture="tamil"
+	father=1000202996
+	331.1.1={
+		birth="331.1.1"
+	}
+	370.1.1={
+		death="370.1.1"
+	}
+}
+
+1000202999 = {
+	name="Buddhavarman"
+	dynasty=1000078011 #Pallava
+	religion="hindu"
+	culture="tamil"
+	father=1000202998
+	350.1.1={
+		birth="350.1.1"
+	}
+	390.1.1={
+		death="390.1.1"
+	}
+}
+
+1000203000 = {
+	name="Kumaravishnu"
+	dynasty=1000078011 #Pallava
+	religion="hindu"
+	culture="tamil"
+	father=1000202999
+	370.1.1={
+		birth="370.1.1"
+	}
+	415.1.1={
+		death="415.1.1"
+	}
+}
+
+1000203001 = {
+	name="Skandavarman"
+	dynasty=1000078011 #Pallava
+	religion="hindu"
+	culture="tamil"
+	father=1000203000
+	390.1.1={
+		birth="390.1.1"
+	}
+	436.1.1={
+		death="436.1.1"
+	}
+}
+
+1000203002 = {
+	name="Simhavarman"
+	dynasty=1000078011 #Pallava
+	religion="hindu"
+	culture="tamil"
+	father=1000203001
+	410.1.1={
+		birth="410.1.1"
+	}
+	458.1.1={
+		death="458.1.1"
+	}
+}
+
+1000203003 = {
+	name="Skandavarman"
+	dynasty=1000078011 #Pallava
+	religion="hindu"
+	culture="tamil"
+	father=1000203002
+	430.1.1={
+		birth="430.1.1"
+	}
+	490.1.1={
+		death="490.1.1"
+	}
+}
+
+1000203004 = {
+	name="Nandivarman"
+	dynasty=1000078011 #Pallava
+	religion="hindu"
+	culture="tamil"
+	father=1000203003
+	460.1.1={
+		birth="460.1.1"
+	}
+	520.1.1={
+		death="520.1.1"
+	}
+}
+
+1000203005 = {
+	name="Santivarman"
+	dynasty=1000078011 #Pallava
+	religion="hindu"
+	culture="tamil"
+	father=1000203004
+	490.1.1={
+		birth="490.1.1"
+	}
+	550.1.1={
+		death="550.1.1"
+	}
+}
+
+1000203006 = {
+	name="Simhavarman"
+	dynasty=1000078011 #Pallava
+	religion="hindu"
+	culture="tamil"
+	father=1000203005
+	510.1.1={
+		birth="510.1.1"
+	}
+	575.1.1={
+		death="575.1.1"
+	}
+}
+
+1000203007 = {
+	name="Simhavishnu"
+	dynasty=1000078011 #Pallava
+	religion="hindu"
+	culture="tamil"
+	father=1000203006
+	540.1.1={
+		birth="540.1.1"
+	}
+	600.1.1={
+		death="600.1.1"
+	}
+}
+
+1000203008 = {
+	name="Mahendravarman"
+	dynasty=1000078011 #Pallava
+	religion="hindu"
+	culture="tamil"
+	father=1000203007
+	570.1.1={
+		birth="570.1.1"
+	}
+	630.1.1={
+		death="630.1.1"
+	}
+}
+
+1000203009 = {
+	name="Narasimhavarman"
+	dynasty=1000078011 #Pallava
+	religion="hindu"
+	culture="tamil"
+	father=1000203008
+	600.1.1={
+		birth="600.1.1"
+	}
+	668.1.1={
+		death="668.1.1"
+	}
+}
+
+1000203010 = {
+	name="Mahendravarman"
+	dynasty=1000078011 #Pallava
+	religion="hindu"
+	culture="tamil"
+	father=1000203009
+	630.1.1={
+		birth="630.1.1"
+	}
+	670.1.1={
+		death="670.1.1"
+	}
+}
+
+1000203011 = {
+	name="Paramesvaravarman"
+	dynasty=1000078011 #Pallava
+	religion="hindu"
+	culture="tamil"
+	father=1000203010
+	650.1.1={
+		birth="650.1.1"
+	}
+	700.1.1={
+		death="700.1.1"
+	}
+}
+
+1000203012 = {
+	name="Narasimhavarman"
+	dynasty=1000078011 #Pallava
+	religion="hindu"
+	culture="tamil"
+	father=1000203011
+	670.1.1={
+		birth="670.1.1"
+	}
+	728.1.1={
+		death="728.1.1"
+	}
+}
+
+1000203013 = {
+	name="Paramesvaravarman"
+	dynasty=1000078011 #Pallava
+	religion="hindu"
+	culture="tamil"
+	father=1000203012
+	690.1.1={
+		birth="690.1.1"
+	}
+	731.1.1={
+		death="731.1.1"
+	}
+}
+
+1000203014 = {
+	name="Bhimavarman"
+	dynasty=1000078011 #Pallava
+	religion="hindu"
+	culture="tamil"
+	father=1000203006
+	541.1.1={
+		birth="541.1.1"
+	}
+	600.1.1={
+		death="600.1.1"
+	}
+}
+
+1000203015 = {
+	name="Buddhavarman"
+	dynasty=1000078011 #Pallava
+	religion="hindu"
+	culture="tamil"
+	father=1000203014
+	580.1.1={
+		birth="580.1.1"
+	}
+	630.1.1={
+		death="630.1.1"
+	}
+}
+
+1000203016 = {
+	name="Adityavarman"
+	dynasty=1000078011 #Pallava
+	religion="hindu"
+	culture="tamil"
+	father=1000203015
+	620.1.1={
+		birth="620.1.1"
+	}
+	670.1.1={
+		death="670.1.1"
+	}
+}
+
+1000203017 = {
+	name="Govindavarman"
+	dynasty=1000078011 #Pallava
+	religion="hindu"
+	culture="tamil"
+	father=1000203016
+	660.1.1={
+		birth="660.1.1"
+	}
+	700.1.1={
+		death="700.1.1"
+	}
+}
+
+1000203018 = {
+	name="Hiranyavarman"
+	dynasty=1000078011 #Pallava
+	religion="hindu"
+	culture="tamil"
+	father=1000203017
+	690.1.1={
+		birth="690.1.1"
+	}
+	730.1.1={
+		death="730.1.1"
+	}
+}
+
+1000203019 = {
+	name="Nandivarman"
+	dynasty=1000078011 #Pallava
+	religion="hindu"
+	culture="tamil"
+	father=1000203018
+	720.1.1={
+		birth="720.1.1"
+	}
+	796.1.1={
+		death="796.1.1"
+	}
+}
+
+1000203020 = {
+	name="Dantivarman"
+	dynasty=1000078011 #Pallava
+	religion="hindu"
+	culture="tamil"
+	father=1000203019
+	760.1.1={
+		birth="760.1.1"
+	}
+	845.1.1={
+		death="845.1.1"
+	}
+}
+
+1000203021 = {
+	name="Nandivarman"
+	dynasty=1000078011 #Pallava
+	religion="hindu"
+	culture="tamil"
+	father=1000203020
+	800.1.1={
+		birth="800.1.1"
+	}
+	866.1.1={
+		death="866.1.1"
+	}
+}
+
+1000203022 = {
+	name="Nripatungavarman"
+	dynasty=1000078011 #Pallava
+	religion="hindu"
+	culture="tamil"
+	father=1000203021
+	840.1.1={
+		birth="840.1.1"
+	}
+	896.1.1={
+		death="896.1.1"
+	}
+}
+
+1000203023 = {
+	name="Aparajita"
+	dynasty=1000078011 #Pallava
+	religion="hindu"
+	culture="tamil"
+	father=1000203021
+	850.1.1={
+		birth="850.1.1"
+	}
+	897.1.1={
+		death="897.1.1"
+	}
+}
+
+1000203024 = {
+	name="Kampavarman"
+	dynasty=1000078011 #Pallava
+	religion="hindu"
+	culture="tamil"
+	father=1000203021
+	860.1.1={
+		birth="860.1.1"
+	}
+	912.1.1={
+		death="912.1.1"
+	}
+}
+
+#Kadava Dynasty
+
+1000203451 = {
+	name="Virasekhara"
+	dynasty=1000078030 #Kadava
+	religion="hindu"
+	culture="tamil"
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1200.1.1={
+		death="1200.1.1"
+	}
+}
+
+1000203452 = {
+	name="Manavalapperumal"
+	dynasty=1000078030 #Kadava
+	religion="hindu"
+	culture="tamil"
+	father=1000203451
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1216.1.1={
+		death="1216.1.1"
+	}
+}
+
+1000203246 = {
+	name="Kopperunchinga"
+	dynasty=1000078030 #Kadava
+	religion="hindu"
+	culture="tamil"
+	father=1000203452
+	1190.1.1={
+		birth="1190.1.1"
+	}
+	1242.1.1={
+		death="1242.1.1"
+	}
+}
+
+1000203247 = {
+	name="Kopperunchinga"
+	dynasty=1000078030 #Kadava
+	religion="hindu"
+	culture="tamil"
+	father=1000203246
+	1220.1.1={
+		birth="1220.1.1"
+	}
+	1279.1.1={
+		death="1279.1.1"
+	}
+}
+
+#Lokissara Dynasty
+
+1000203353 = {
+	name="Lokissara"
+	dynasty=1000078042 #Lokissara
+	religion="hindu"
+	culture="tamil"
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1211.1.1={
+		death="1211.1.1"
+	}
+}
+
+#Kalinga Magha Dynasty
+
+1000203367 = {
+	name="Kalinga-Magha"
+	dynasty=1000078043 #Kalinga Magha
+	religion="hindu"
+	culture="tamil"
+	1190.1.1={
+		birth="1190.1.1"
+	}
+	1255.1.1={
+		death="1255.1.1"
+	}
+}
+
+#Aryacakravarti Dynasty
+
+1000203368 = {
+	name="Kulasekhara"
+	dynasty=1000078044 #Aryacakravarti
+	religion="hindu"
+	culture="tamil"
+	1230.1.1={
+		birth="1230.1.1"
+	}
+	1284.1.1={
+		death="1284.1.1"
+	}
+}
+
+1000203369 = {
+	name="Kulottunga"
+	dynasty=1000078044 #Aryacakravarti
+	religion="hindu"
+	culture="tamil"
+	father=1000203368
+	1250.1.1={
+		birth="1250.1.1"
+	}
+	1292.1.1={
+		death="1292.1.1"
+	}
+}
+
+1000203370 = {
+	name="Vikrama"
+	dynasty=1000078044 #Aryacakravarti
+	religion="hindu"
+	culture="tamil"
+	father=1000203369
+	1266.1.1={
+		birth="1266.1.1"
+	}
+	1302.1.1={
+		death="1302.1.1"
+	}
+}
+
+1000203371 = {
+	name="Varodaya"
+	dynasty=1000078044 #Aryacakravarti
+	religion="hindu"
+	culture="tamil"
+	father=1000203370
+	1286.1.1={
+		birth="1286.1.1"
+	}
+	1325.1.1={
+		death="1325.1.1"
+	}
+}
+
+1000203372 = {
+	name="Martanda"
+	dynasty=1000078044 #Aryacakravarti
+	religion="hindu"
+	culture="tamil"
+	father=1000203371
+	1306.1.1={
+		birth="1306.1.1"
+	}
+	1347.1.1={
+		death="1347.1.1"
+	}
+}
+
+1000203373 = {
+	name="Gunabhooshana"
+	dynasty=1000078044 #Aryacakravarti
+	religion="hindu"
+	culture="tamil"
+	father=1000203372
+	1326.1.1={
+		birth="1326.1.1"
+	}
+	1360.1.1={
+		death="1360.1.1"
+	}
+}
+
+#Pandu Dynasty
+
+1000203435 = {
+	name="Pandu"
+	dynasty=1000078061 #Pandu
+	religion="hindu"
+	culture="tamil"
+	400.1.1={
+		birth="400.1.1"
+	}
+	441.1.1={
+		death="441.1.1"
+	}
+}
+
+1000203436 = {
+	name="Parindu"
+	dynasty=1000078061 #Pandu
+	religion="hindu"
+	culture="tamil"
+	father=1000203435
+	420.1.1={
+		birth="420.1.1"
+	}
+	441.6.1={
+		death="441.6.1"
+	}
+}
+
+1000203437 = {
+	name="Khudda-Parinda"
+	dynasty=1000078061 #Pandu
+	religion="hindu"
+	culture="tamil"
+	father=1000203435
+	421.1.1={
+		birth="421.1.1"
+	}
+	447.1.1={
+		death="447.1.1"
+	}
+}
+
+#Tiritara Dynasty
+
+1000203438 = {
+	name="Tiritara"
+	dynasty=1000078062 #Tiritara
+	religion="hindu"
+	culture="tamil"
+	400.1.1={
+		birth="400.1.1"
+	}
+	447.6.1={
+		death="447.6.1"
+	}
+}
+
+#Dathiya Dynasty
+
+1000203439 = {
+	name="Dathiya"
+	dynasty=1000078063 #Dathiya
+	religion="hindu"
+	culture="tamil"
+	400.1.1={
+		birth="400.1.1"
+	}
+	450.1.1={
+		death="450.1.1"
+	}
+}
+
+#Pithiya Dynasty
+
+1000203440 = {
+	name="Pithiya"
+	dynasty=1000078064 #Pithiya
+	religion="hindu"
+	culture="tamil"
+	410.1.1={
+		birth="410.1.1"
+	}
+	463.1.1={
+		death="463.1.1"
+	}
+}

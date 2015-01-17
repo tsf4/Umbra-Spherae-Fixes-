@@ -1,0 +1,111 @@
+#Chahamana Dynasty
+551.1.1={
+	holder=1000076689 # Vasudeva
+}
+595.1.1={
+	holder=1000076690 # Samanta
+}
+668.1.1={
+	holder=1000076691 # Naradeva
+}
+693.1.1={
+	holder=1000076692 # Jayaraja
+}
+718.1.1={
+	holder=1000076693 # Vigrharaja I
+}
+743.1.1={
+	holder=1000076694 # Chandraraja I
+}
+750.1.1={
+	liege="e_uttarapatha"
+}
+768.1.1={
+	holder=1000076695 # Gopendraraja
+}
+788.1.1={
+	holder=1000076696 # Durlabharaja I
+}
+809.1.1={
+	holder=1000076697 # Guvaka I
+}
+836.1.1={
+	holder=1000076698 # Chandraraja II
+}
+880.1.1={
+	holder=1000076699 # Guvaka II
+}
+890.1.1={
+	holder=1000076700 # Chandanaraja
+}
+913.1.1={
+	liege=0
+}
+917.1.1={
+	holder=1000076701 # Vakpatiraja I
+}
+944.1.1={
+	holder=1000076702 # Singhraja
+}
+973.1.1={
+	holder=1000076703 # Vigraharaja II
+}
+999.1.1={
+	holder=1000076704 # Durlabharaja II
+}
+1012.1.1={
+	holder=1000076705 # Govindaraja III
+}
+1020.1.1={
+	holder=1000076706 # Vakapati II
+}
+1030.1.1={
+	holder=1000076707 # Viryarama
+}
+1040.1.1={
+	holder=1000076161 # Chamundaraja
+}
+1065.1.1={
+	holder=1000076709 # Durlabharaja III
+}
+1070.1.1={
+	holder=1000076710 # Vigraharaja III
+}
+1090.1.1={
+	holder=1000076711 # Prithviraja I
+}
+1110.1.1={
+	holder=1000076712 # Ajairaja II
+}
+1125.1.1={
+	holder=1000076713 # Arnoraja
+}
+1151.1.1={
+	holder=1000076714 # Jagadeva
+}
+1152.1.1={
+	holder=1000076715 # Vigraharaja IV
+}
+1163.1.1={
+	holder=1000076716 # Amarangeya
+}
+1165.1.1={
+	holder=1000076717 # Prithviraja II
+}
+1169.1.1={
+	holder=1000076718 # Someshwara
+}
+1177.1.1={
+	holder=1000076719 # Prithviraja III
+}
+
+#to Ghurids
+1192.1.1={
+	holder=0
+}
+
+
+#Sisodia Dynasty
+1326.1.1={
+	holder=1000083231 #Hammir-Singh
+}

@@ -1,0 +1,807 @@
+#East Chalukya Dynasty
+
+1000203078 = {
+	name="Vishnuvardhana"
+	dynasty=1000028285 #East Chalukya
+	religion="hindu"
+	culture="telugu"
+	father=1000202780
+	581.1.1={
+		birth="581.1.1"
+	}
+	641.1.1={
+		death="641.1.1"
+	}
+}
+
+1000203079 = {
+	name="Jayasimha"
+	dynasty=1000028285 #East Chalukya
+	religion="hindu"
+	culture="telugu"
+	father=1000203078
+	610.1.1={
+		birth="610.1.1"
+	}
+	673.1.1={
+		death="673.1.1"
+	}
+}
+
+1000203080 = {
+	name="Indrabhattaraka"
+	dynasty=1000028285 #East Chalukya
+	religion="hindu"
+	culture="telugu"
+	father=1000203078
+	620.1.1={
+		birth="620.1.1"
+	}
+	673.6.1={
+		death="673.6.1"
+	}
+}
+
+1000203081 = {
+	name="Vishnuvardhana"
+	dynasty=1000028285 #East Chalukya
+	religion="hindu"
+	culture="telugu"
+	father=1000203080
+	640.1.1={
+		birth="640.1.1"
+	}
+	682.1.1={
+		death="682.1.1"
+	}
+}
+
+1000203082 = {
+	name="Mangi-Yuvaraja"
+	dynasty=1000028285 #East Chalukya
+	religion="hindu"
+	culture="telugu"
+	father=1000203081
+	660.1.1={
+		birth="660.1.1"
+	}
+	706.1.1={
+		death="706.1.1"
+	}
+}
+
+1000203083 = {
+	name="Jayasimha"
+	dynasty=1000028285 #East Chalukya
+	religion="hindu"
+	culture="telugu"
+	father=1000203082
+	680.1.1={
+		birth="680.1.1"
+	}
+	718.1.1={
+		death="718.1.1"
+	}
+}
+
+1000203084 = {
+	name="Kokkili-Vikramaditya"
+	dynasty=1000028285 #East Chalukya
+	religion="hindu"
+	culture="telugu"
+	father=1000203082
+	681.1.1={
+		birth="681.1.1"
+	}
+	719.1.1={
+		death="719.1.1"
+	}
+}
+
+1000203085 = {
+	name="Vishnuvardhana"
+	dynasty=1000028285 #East Chalukya
+	religion="hindu"
+	culture="telugu"
+	father=1000203082
+	690.1.1={
+		birth="690.1.1"
+	}
+	755.1.1={
+		death="755.1.1"
+	}
+}
+
+1000203086 = {
+	name="Vijayaditya"
+	dynasty=1000028285 #East Chalukya
+	religion="hindu"
+	culture="telugu"
+	father=1000203085
+	720.1.1={
+		birth="720.1.1"
+	}
+	772.1.1={
+		death="772.1.1"
+	}
+}
+
+1000203087 = {
+	name="Vishnuvardhana"
+	dynasty=1000028285 #East Chalukya
+	religion="hindu"
+	culture="telugu"
+	father=1000203086
+	750.1.1={
+		birth="750.1.1"
+	}
+	808.1.1={
+		death="808.1.1"
+	}
+}
+
+1000203088 = {
+	name="Vijayaditya"
+	dynasty=1000028285 #East Chalukya
+	religion="hindu"
+	culture="telugu"
+	father=1000203087
+	780.1.1={
+		birth="780.1.1"
+	}
+	843.1.1={
+		death="843.1.1"
+	}
+}
+
+1000203089 = {
+	name="Vishnuvardhana"
+	dynasty=1000028285 #East Chalukya
+	religion="hindu"
+	culture="telugu"
+	father=1000203088
+	820.1.1={
+		birth="820.1.1"
+	}
+	890.1.1={
+		death="890.1.1"
+	}
+}
+
+1000203090 = {
+	name="Vijayaditya"
+	dynasty=1000028285 #East Chalukya
+	religion="hindu"
+	culture="telugu"
+	father=1000203089
+	840.1.1={
+		birth="840.1.1"
+	}
+	892.1.1={
+		death="892.1.1"
+	}
+}
+
+1000203091 = {
+	name="Vikramaditya-Yuvaraja"
+	dynasty=1000028285 #East Chalukya
+	religion="hindu"
+	culture="telugu"
+	father=1000203089
+	841.1.1={
+		birth="841.1.1"
+	}
+	892.1.1={
+		death="892.1.1"
+	}
+}
+
+1000203092 = {
+	name="Chalukyabhima"
+	dynasty=1000028285 #East Chalukya
+	religion="hindu"
+	culture="telugu"
+	father=1000203091
+	860.1.1={
+		birth="860.1.1"
+	}
+	921.1.1={
+		death="921.1.1"
+	}
+}
+
+1000203093 = {
+	name="Vijayaditya"
+	dynasty=1000028285 #East Chalukya
+	religion="hindu"
+	culture="telugu"
+	father=1000203092
+	880.1.1={
+		birth="880.1.1"
+	}
+	921.6.1={
+		death="921.6.1"
+	}
+}
+
+1000203094 = {
+	name="Ammaraja"
+	dynasty=1000028285 #East Chalukya
+	religion="hindu"
+	culture="telugu"
+	father=1000203093
+	900.1.1={
+		birth="900.1.1"
+	}
+	927.1.1={
+		death="927.1.1"
+	}
+}
+
+1000203095 = {
+	name="Vijayaditya"
+	dynasty=1000028285 #East Chalukya
+	religion="hindu"
+	culture="telugu"
+	father=1000203094
+	920.1.1={
+		birth="920.1.1"
+	}
+	927.4.1={
+		death="927.4.1"
+	}
+}
+
+1000203096 = {
+	name="Yuddhamalla"
+	dynasty=1000028285 #East Chalukya
+	religion="hindu"
+	culture="telugu"
+	father=1000203089
+	842.1.1={
+		birth="842.1.1"
+	}
+	910.1.1={
+		death="910.1.1"
+	}
+}
+
+1000203097 = {
+	name="Tala"
+	dynasty=1000028285 #East Chalukya
+	religion="hindu"
+	culture="telugu"
+	father=1000203096
+	880.1.1={
+		birth="880.1.1"
+	}
+	927.9.1={
+		death="927.9.1"
+	}
+}
+
+1000203098 = {
+	name="Vikramaditya"
+	dynasty=1000028285 #East Chalukya
+	religion="hindu"
+	culture="telugu"
+	father=1000203092
+	881.1.1={
+		birth="881.1.1"
+	}
+	928.1.1={
+		death="928.1.1"
+	}
+}
+
+1000203099 = {
+	name="Rajabhima"
+	dynasty=1000028285 #East Chalukya
+	religion="hindu"
+	culture="telugu"
+	father=1000203094
+	921.1.1={
+		birth="921.1.1"
+	}
+	928.6.1={
+		death="928.6.1"
+	}
+}
+
+1000203100 = {
+	name="Yuddhamalla"
+	dynasty=1000028285 #East Chalukya
+	religion="hindu"
+	culture="telugu"
+	father=1000203097
+	900.1.1={
+		birth="900.1.1"
+	}
+	935.1.1={
+		death="935.1.1"
+	}
+}
+
+1000203101 = {
+	name="Chalukyabhima"
+	dynasty=1000028285 #East Chalukya
+	religion="hindu"
+	culture="telugu"
+	father=1000203093
+	901.1.1={
+		birth="901.1.1"
+	}
+	947.1.1={
+		death="947.1.1"
+	}
+}
+
+1000203102 = {
+	name="Vijayaditya"
+	dynasty=1000028285 #East Chalukya
+	religion="hindu"
+	culture="telugu"
+	father=1000203101
+	920.1.1={
+		birth="920.1.1"
+	}
+	970.1.1={
+		death="970.1.1"
+	}
+}
+
+1000203103 = {
+	name="Danarnava"
+	dynasty=1000028285 #East Chalukya
+	religion="hindu"
+	culture="telugu"
+	father=1000203101
+	921.1.1={
+		birth="921.1.1"
+	}
+	971.1.1={
+		death="971.1.1"
+	}
+}
+
+1000203104 = {
+	name="Jatacodabhima"
+	dynasty=1000028285 #East Chalukya
+	religion="hindu"
+	culture="telugu"
+	father=1000203103
+	940.1.1={
+		birth="940.1.1"
+	}
+	973.1.1={
+		death="973.1.1"
+	}
+}
+
+1000203105 = {
+	name="Tala"
+	dynasty=1000028285 #East Chalukya
+	religion="hindu"
+	culture="telugu"
+	father=1000203100
+	930.1.1={
+		birth="930.1.1"
+	}
+	985.1.1={
+		death="985.1.1"
+	}
+}
+
+1000203106 = {
+	name="Badapa"
+	dynasty=1000028285 #East Chalukya
+	religion="hindu"
+	culture="telugu"
+	father=1000203100
+	931.1.1={
+		birth="931.1.1"
+	}
+	1001.1.1={
+		death="1001.1.1"
+	}
+}
+
+1000203107 = {
+	name="Saktivarman"
+	dynasty=1000028285 #East Chalukya
+	religion="hindu"
+	culture="telugu"
+	father=1000203103
+	950.1.1={
+		birth="950.1.1"
+	}
+	1011.1.1={
+		death="1011.1.1"
+	}
+}
+
+1000203108 = {
+	name="Vimaladitya"
+	dynasty=1000028285 #East Chalukya
+	religion="hindu"
+	culture="telugu"
+	father=1000203103
+	960.1.1={
+		birth="960.1.1"
+	}
+	1018.1.1={
+		death="1018.1.1"
+	}
+}
+
+1000203109 = {
+	name="Rajaraja"
+	dynasty=1000028285 #East Chalukya
+	religion="hindu"
+	culture="telugu"
+	father=1000203108
+	990.1.1={
+		birth="990.1.1"
+	}
+	1061.1.1={
+		death="1061.1.1"
+	}
+}
+
+1000076171 = {
+	name="Vijayaditya"
+	dynasty=1000028285 #East Chalukya
+	religion="hindu"
+	culture="telugu"
+	father=1000203108
+	1000.1.1={
+		birth="1000.1.1"
+	}
+	1026.1.1={
+		add_spouse=1000202985
+	}
+	1076.1.1={
+		death="1076.1.1"
+	}
+}
+
+1000203110 = {
+	name="Saktivarman"
+	dynasty=1000028285 #East Chalukya
+	religion="hindu"
+	culture="telugu"
+	father=1000076171
+	1020.1.1={
+		birth="1020.1.1"
+	}
+	1062.1.1={
+		death="1062.1.1"
+	}
+}
+
+#Kakatiya Dynasty
+
+1000202762 = {
+	name="Gunda"
+	dynasty=1000028286 #Kakatiya
+	religion="hindu"
+	culture="telugu"
+	956.1.1={
+		birth="956.1.1"
+	}
+	1000.1.1={
+		death="1000.1.1"
+	}
+}
+
+1000202763 = {
+	name="Beta"
+	dynasty=1000028286 #Kakatiya
+	religion="hindu"
+	culture="telugu"
+	father=1000202762
+	976.1.1={
+		birth="976.1.1"
+	}
+	1051.1.1={
+		death="1051.1.1"
+	}
+}
+
+1000076172 = {
+	name="Prola"
+	dynasty=1000028286 #Kakatiya
+	religion="hindu"
+	culture="telugu"
+	father=1000202763
+	1010.1.1={
+		birth="1010.1.1"
+	}
+	1076.1.1={
+		death="1076.1.1"
+	}
+}
+
+1000202764 = {
+	name="Beta"
+	dynasty=1000028286 #Kakatiya
+	religion="hindu"
+	culture="telugu"
+	father=1000076172
+	1040.1.1={
+		birth="1040.1.1"
+	}
+	1108.1.1={
+		death="1108.1.1"
+	}
+}
+
+1000202765 = {
+	name="Durgaraja"
+	dynasty=1000028286 #Kakatiya
+	religion="hindu"
+	culture="telugu"
+	father=1000202764
+	1066.1.1={
+		birth="1066.1.1"
+	}
+	1116.1.1={
+		death="1116.1.1"
+	}
+}
+
+1000202766 = {
+	name="Prola"
+	dynasty=1000028286 #Kakatiya
+	religion="hindu"
+	culture="telugu"
+	father=1000202764
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1157.1.1={
+		death="1157.1.1"
+	}
+}
+
+1000202767 = {
+	name="Prataparudra"
+	dynasty=1000028286 #Kakatiya
+	religion="hindu"
+	culture="telugu"
+	father=1000202766
+	1120.1.1={
+		birth="1120.1.1"
+	}
+	1195.1.1={
+		death="1195.1.1"
+	}
+}
+
+1000202768 = {
+	name="Mahadeva"
+	dynasty=1000028286 #Kakatiya
+	religion="hindu"
+	culture="telugu"
+	father=1000202766
+	1125.1.1={
+		birth="1125.1.1"
+	}
+	1199.1.1={
+		death="1199.1.1"
+	}
+}
+
+1000202769 = {
+	name="Ganapati"
+	dynasty=1000028286 #Kakatiya
+	religion="hindu"
+	culture="telugu"
+	father=1000202768
+	1175.1.1={
+		birth="1175.1.1"
+	}
+	1262.1.1={
+		death="1262.1.1"
+	}
+}
+
+1000202770 = {
+	name="Rudramba"
+	female=yes
+	dynasty=1000028286 #Kakatiya
+	religion="hindu"
+	culture="telugu"
+	father=1000202769
+	1225.1.1={
+		birth="1225.1.1"
+	}
+	1296.1.1={
+		death="1296.1.1"
+	}
+}
+
+1000202771 = {
+	name="Mummadamba"
+	female=yes
+	dynasty=1000028286 #Kakatiya
+	religion="hindu"
+	culture="telugu"
+	mother=1000202770
+	1245.1.1={
+		birth="1245.1.1"
+	}
+	1296.1.1={
+		death="1296.1.1"
+	}
+}
+
+1000202772 = {
+	name="Prataparudra"
+	dynasty=1000028286 #Kakatiya
+	religion="hindu"
+	culture="telugu"
+	mother=1000202771
+	1275.1.1={
+		birth="1275.1.1"
+	}
+	1326.1.1={
+		death="1326.1.1"
+	}
+}
+
+#Reddy Dynasty
+
+1000202773 = {
+	name="Prola"
+	dynasty=1000078005 #Reddy
+	religion="hindu"
+	culture="telugu"
+	1280.1.1={
+		birth="1280.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+
+1000202774 = {
+	name="Pulayyavema"
+	dynasty=1000078005 #Reddy
+	religion="hindu"
+	culture="telugu"
+	father=1000202773
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1349.1.1={
+		death="1349.1.1"
+	}
+}
+
+1000202775 = {
+	name="Anapota"
+	dynasty=1000078005 #Reddy
+	religion="hindu"
+	culture="telugu"
+	father=1000202774
+	1320.1.1={
+		birth="1320.1.1"
+	}
+	1361.1.1={
+		death="1361.1.1"
+	}
+}
+
+1000202776 = {
+	name="Anavema"
+	dynasty=1000078005 #Reddy
+	religion="hindu"
+	culture="telugu"
+	father=1000202774
+	1325.1.1={
+		birth="1325.1.1"
+	}
+	1377.1.1={
+		death="1377.1.1"
+	}
+}
+
+#Velanati Chola Dynasty
+
+1000203471 = {
+	name="Gonka"
+	dynasty=1000078068 #Velanati Chola
+	religion="hindu"
+	culture="telugu"
+	1050.1.1={
+		birth="1050.1.1"
+	}
+	1108.1.1={
+		death="1108.1.1"
+	}
+}
+
+1000203472 = {
+	name="Rajendra"
+	dynasty=1000078068 #Velanati Chola
+	religion="hindu"
+	culture="telugu"
+	father=1000203471
+	1080.1.1={
+		birth="1080.1.1"
+	}
+	1132.1.1={
+		death="1132.1.1"
+	}
+}
+
+1000203473 = {
+	name="Gonka"
+	dynasty=1000078068 #Velanati Chola
+	religion="hindu"
+	culture="telugu"
+	father=1000203472
+	1100.1.1={
+		birth="1100.1.1"
+	}
+	1161.1.1={
+		death="1161.1.1"
+	}
+}
+
+1000203474 = {
+	name="Rajendra"
+	dynasty=1000078068 #Velanati Chola
+	religion="hindu"
+	culture="telugu"
+	father=1000203473
+	1130.1.1={
+		birth="1130.1.1"
+	}
+	1181.1.1={
+		death="1181.1.1"
+	}
+}
+
+1000203475 = {
+	name="Gonka"
+	dynasty=1000078068 #Velanati Chola
+	religion="hindu"
+	culture="telugu"
+	father=1000203474
+	1150.1.1={
+		birth="1150.1.1"
+	}
+	1186.1.1={
+		death="1186.1.1"
+	}
+}
+
+1000203476 = {
+	name="Prithviswara"
+	dynasty=1000078068 #Velanati Chola
+	religion="hindu"
+	culture="telugu"
+	father=1000203475
+	1170.1.1={
+		birth="1170.1.1"
+	}
+	1207.1.1={
+		death="1207.1.1"
+	}
+}
+
+1000203477 = {
+	name="Rajendra"
+	dynasty=1000078068 #Velanati Chola
+	religion="hindu"
+	culture="telugu"
+	father=1000203476
+	1190.1.1={
+		birth="1190.1.1"
+	}
+	1216.1.1={
+		death="1216.1.1"
+	}
+}

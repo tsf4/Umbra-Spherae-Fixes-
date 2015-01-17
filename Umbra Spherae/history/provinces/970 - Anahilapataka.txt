@@ -1,0 +1,21 @@
+# 970 - Anahilapataka
+
+# County Title
+title = c_anahilapataka
+
+# Settlements
+max_settlements = 7
+b_candravati = castle
+b_anahilapataka = city
+b_satyapura = temple
+b_bhillamala = city
+b_kimbuva = castle
+#b_sanodarada =
+#b_badhli =
+#b_vadu =
+
+# Misc
+culture = gujarati
+religion = hindu
+
+# History

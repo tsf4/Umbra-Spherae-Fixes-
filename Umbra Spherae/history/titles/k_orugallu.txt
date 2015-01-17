@@ -1,0 +1,43 @@
+#Kakatiya Dynasty
+976.1.1={
+	liege="e_madhyadesa" #West Chalukya
+}
+976.1.1={
+	holder=1000202762 #Gunda
+}
+996.1.1={
+	holder=1000202763 #Beta I
+}
+1051.1.1={
+	holder=1000076172 #Prola I
+}
+1076.1.1={
+	holder=1000202764 #Beta II
+}
+1108.1.1={
+	holder=1000202765 #Durgaraja
+}
+1116.1.1={
+	holder=1000202766 #Prola II
+}
+1149.1.1={
+	liege=0
+}
+1157.1.1={
+	holder=1000202767 #Prataparudra I
+}
+1195.1.1={
+	holder=1000202768 #Mahadeva
+}
+1199.1.1={
+	holder=1000202769 #Ganapati
+}
+1262.1.1={
+	holder=1000202770 #Rudramba
+}
+1296.1.1={
+	holder=1000202772 #Prataparudra II
+}
+1323.1.1={
+	holder=0 #Delhi, then Reddy
+}

@@ -1,0 +1,21 @@
+# 1009 - Udayapura
+
+# County Title
+title = c_udayapura
+
+# Settlements
+max_settlements = 5
+b_bhaillasvamin = castle
+b_udayapura = city
+b_rajasayana = temple
+#b_udaigiri =
+#b_gulgaon =
+#b_salamatpur =
+#b_gulabhganj =
+#b_raisen =
+
+# Misc
+culture = hindavi
+religion = hindu
+
+# History

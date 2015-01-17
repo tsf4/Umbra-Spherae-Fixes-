@@ -1,0 +1,89 @@
+#West Ganga Dynasty
+350.1.1={
+	liege="e_dakshinapatha"
+}
+350.1.1={
+	holder=1000203114 #Madhava I
+}
+370.1.1={
+	holder=1000203115 #Madhava II
+}
+390.1.1={
+	holder=1000203116 #Harivarman
+}
+410.1.1={
+	holder=1000203117 #Vishnugopa
+}
+430.1.1={
+	holder=1000203118 #Madhava III
+}
+466.1.1={
+	holder=1000203119 #Avinita
+}
+495.1.1={
+	holder=1000203120 #Durvinita
+}
+535.1.1={
+	holder=1000203121 #Mushkara
+}
+585.1.1={
+	holder=1000203122 #Srivikrama
+}
+635.1.1={
+	holder=1000202833 #Bhuvikrama
+}
+655.1.1={
+	liege="e_madhyadesa"
+}
+679.1.1={
+	holder=1000202834 #Sivamara I
+}
+726.1.1={
+	holder=1000202835 #Sripurusa
+}
+755.1.1={
+	liege=0
+}
+788.1.1={
+	holder=1000202836 #Sivamara II
+}
+812.1.1={
+	holder=1000202838 #Rajamalla I
+}
+850.1.1={
+	liege="e_madhyadesa"
+}
+853.1.1={
+	holder=1000202839 #Nitimarga I
+}
+870.1.1={
+	holder=1000202840 #Rajamalla II
+}
+907.1.1={
+	holder=1000202842 #Nitimarga II
+}
+935.1.1={
+	holder=1000202843 #Narasimha
+}
+935.6.1={
+	holder=1000202844 #Rajamalla III
+}
+937.1.1={
+	holder=1000202845 #Butuga
+}
+960.1.1={
+	holder=1000202846 #Maruladeva
+}
+960.6.1={
+	holder=1000202847 #Marasimha
+}
+974.1.1={
+	holder=1000202848 #Rajamalla IV
+}
+985.1.1={
+	holder=1000202849 #Rakkasa
+}
+1024.1.1={
+	liege=0
+	holder=0
+}

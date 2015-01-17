@@ -1,0 +1,119 @@
+d_order_st_anthony = {
+
+	color={ 5 19 58 }
+	color2={ 255 255 255 }
+	
+	capital = 875 # Aksum
+
+	title = "KABRARABBAN"
+	foa = "KABRARABBAN_FOA"
+
+	# Always exists
+	landless = yes
+	
+	holy_order = yes
+	
+	# Parent Religion 
+	religion = miaphysite
+	
+	# Cannot be held as a secondary title
+	primary = yes
+
+	modifier = d_order_st_anthony_modifier
+}
+
+d_order_holy_sepulchre = {
+
+	color={ 118 96 45 }
+	color2={ 255 255 255 }
+	
+	capital = 496 # Byzantion
+
+	title = "MEGALOUMAGISTROU"
+	foa = "MEGALOUMAGISTROU_FOA"
+
+	# Always exists
+	landless = yes
+	
+	holy_order = yes
+	
+	# Parent Religion 
+	religion = orthodox
+	
+	# Cannot be held as a secondary title
+	primary = yes
+
+	modifier = d_order_holy_sepulchre_modifier
+}
+
+d_order_st_catherine_sinai = {
+
+	color={ 153 0 153 }
+	color2={ 255 255 255 }
+	
+	capital = 482 # Atheniai
+
+	title = "MEGALOUMAGISTROU"
+	foa = "MEGALOUMAGISTROU_FOA"
+
+	# Always exists
+	landless = yes
+	
+	holy_order = yes
+	
+	# Parent Religion 
+	religion = orthodox
+	
+	# Cannot be held as a secondary title
+	primary = yes
+
+	modifier = d_order_st_catherine_sinai_modifier
+}
+
+d_order_st_eugene_trebizond = {
+
+	color={ 102 149 45 }
+	color2={ 255 255 255 }
+	
+	capital = 678 # Trapezous
+
+	title = "MEGALOUMAGISTROU"
+	foa = "MEGALOUMAGISTROU_FOA"
+
+	# Always exists
+	landless = yes
+	
+	holy_order = yes
+	
+	# Parent Religion 
+	religion = orthodox
+	
+	# Cannot be held as a secondary title
+	primary = yes
+
+	modifier = d_order_st_eugene_trebizond_modifier
+}
+
+d_knights_st_vardan = {
+
+	color={ 145 50 164 }
+	color2={ 255 255 255 }
+	
+	capital = 681 #	Ani
+
+	title = "VEHGLXAVOR"
+	foa = "VEHGLXAVOR_FOA"
+
+	# Always exists
+	landless = yes
+	
+	holy_order = yes
+	
+	# Parent Religion 
+	religion = miaphysite
+	
+	# Cannot be held as a secondary title
+	primary = yes
+
+	modifier = d_knights_st_vardan_modifier
+}

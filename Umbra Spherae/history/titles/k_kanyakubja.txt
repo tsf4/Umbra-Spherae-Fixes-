@@ -1,0 +1,92 @@
+#Gurjara-Pratihara Dynasty
+730.1.1={
+	liege="e_uttarapatha"
+}
+730.1.1={
+	holder=1000083805 #Nagabhata I
+}
+750.1.1={
+	holder=1000083807 #Kakkuka
+}
+760.1.1={
+	holder=1000083809 #Devaraja
+}
+778.1.1={
+	holder=1000083811 #Vatsaraja
+}
+795.1.1={
+	holder=1000083813 #Nagabhata II
+}
+833.1.1={
+	holder=1000083815 #Ramabhandra
+}
+836.1.1={
+	holder=1000083817 #Bhoja I
+}
+882.1.1={
+	holder=1000083819 #Mahendrapala I
+}
+907.1.1={
+	holder=1000083822 #Bhoja II
+}
+914.1.1={
+	holder=1000083824 #Vinayakapala I
+}
+942.1.1={
+	holder=1000083826 #Mahendrapala II
+}
+948.1.1={
+	holder=1000083828 #Devapala
+}
+953.1.1={
+	holder=1000083830 #Vinayakapala II
+}
+955.1.1={
+	holder=1000083832 #Vijayapala
+}
+960.1.1={
+	holder=1000083834 #Rajyapala
+}
+
+#Rashtrakuta Dynasty (branch of Kanyakubja)
+1019.1.1={
+	liege=0
+}
+1019.1.1={
+	holder=1000080438 #Candra
+}
+1030.1.1={
+	holder=1000080439 #Vigrahapala
+}
+1060.1.1={
+	holder=1000080440 #Bhuvanapala
+}
+1080.1.1={
+	holder=1000080441 #Gopala
+}
+
+#Gahadvala Dynasty
+1085.1.1={
+	holder=1000080451 #Candradeva
+}
+1104.1.1={
+	holder=1000080452 #Madanacandra
+}
+1114.1.1={
+	holder=1000080453 #Govindacandra
+}
+1168.1.1={
+	holder=1000080454 #Vijayacandra
+}
+1170.1.1={
+	holder=1000080455 #Jayacandra
+}
+1193.1.1={
+	holder=1000080456 #Hariscandra
+}
+1197.1.1={
+	holder=1000080457 #Adakkamalla
+}
+1226.1.1={
+	holder=0
+}

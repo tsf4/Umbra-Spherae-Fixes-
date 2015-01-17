@@ -1,0 +1,18 @@
+# 1886 - Erkhuu
+
+# County Title
+title = c_erkhuu
+
+# Settlements
+max_settlements = 4
+b_nugan = castle
+b_kyren = castle
+#b_shimki =
+#b_turan =
+#b_kharbyaty =
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History
